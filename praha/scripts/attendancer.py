@@ -26,7 +26,7 @@ pt = pt.merge(pt2, on='voter_id', how='left')
 pt = pt.merge(voters.loc[:, ['id', 'name']], left_on='voter_id', right_on='id', how='left')
 
 # save
-df = pt.loc[:, ['voter_id', 'attended', 'possible', 'attendance', 'group_id', 'party_id']]
+df = pt.loc[:, ['voter_id', 'name', 'attended', 'possible', 'attendance', 'group_id', 'party_id']]
 df['účast'] = (df['attendance'] * 100).round(0).astype(int)
 del df['attendance']
 # df.sort_values(by=['group_id'], inplace=True) # sort not working for czech characters
