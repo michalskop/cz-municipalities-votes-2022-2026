@@ -29,4 +29,6 @@ pt = pt.merge(pt2, on='voter_id', how='left')
 df = pt.loc[:, ['voter_id', 'attended', 'possible', 'attendance', 'group_id']]
 df['účast'] = (df['attendance'] * 100).round(0).astype(int)
 del df['attendance']
+# df.sort_values(by=['group_id'], inplace=True) # sort not working for czech characters
+df = df.iloc[df['group_id'].str.normalize('NFKD').argsort()] # https://stackoverflow.com/a/50217892/1666623
 df.to_csv(localpath + "data/attendance.v1.csv", index=False)
