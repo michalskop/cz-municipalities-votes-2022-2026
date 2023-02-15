@@ -35,6 +35,17 @@ def option_to_option(option):
   else:
     return "unknown"
 
+# rename groups
+def group_to_group(group):
+  if group == 'ANO 2011':
+    return 'ANO'
+  elif group == 'ČSSD VAŠI STAROSTOVÉ':
+    return 'ČSSD'
+  elif group == 'Lidovci a Starostové':
+    return 'KDU-ČSL a STAN'
+  else:
+    return group
+  
 # transform data
 vote_events = []
 votes = []
@@ -62,7 +73,7 @@ for row in source_data['data']:
         vote = {
           'vote_event_id': vote_event_id,
           'voter_id': voter['voter'],
-          'group_id': group['name'],
+          'group_id': group_to_group(group['name']),
           'option': option_to_option(voter['text'])
         }
         votes.append(vote)

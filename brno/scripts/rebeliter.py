@@ -5,8 +5,9 @@ import pandas as pd
 
 localpath = "brno/"
 
-government_groups = ['ANO 2011', 'ODS a TOP 09', 'Lidovci a Starostové', 'Piráti', 'ČSSD VAŠI STAROSTOVÉ']
+government_groups = ['ANO', 'ODS a TOP 09', 'KDU-ČSL a STAN', 'Piráti', 'ČSSD']
 
+# @TODO: add last_government into govity
 last_government = {
   'since': '2022-10-01',
   'until': np.inf,
