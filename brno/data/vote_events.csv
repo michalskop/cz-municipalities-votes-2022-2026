@@ -67,8 +67,6 @@ id,date,motion:title,motion:result,code,number,counts:yes,counts:no,counts:absta
 2023-01-24-003,2023-01-24T08:18:25+00:00,"1. Technický bod (zapisovatelé, právní asistence, ověřovatelé zápisu, schválení programu zasedání ZMB) - program - hlasování o zařazení bodu č. 84, 85",pass,Z9/04,3,50,0,0
 2023-01-24-002,2023-01-24T08:17:53+00:00,"1. Technický bod (zapisovatelé, právní asistence, ověřovatelé zápisu, schválení programu zasedání ZMB) - program - hlasování o návrhu p. Skřičky na zařazení bodu - Návrh pověření Kontrolního výboru ZMB provedením kontroly",pass,Z9/04,2,40,0,7
 2023-01-24-001,2023-01-24T08:11:08+00:00,"1. Technický bod (zapisovatelé, právní asistence, ověřovatelé zápisu, schválení programu zasedání ZMB) - ověřovatelé zápisu",pass,Z9/04,1,48,0,0
-2023-01-24-001,2023-01-24T06:37:55+00:00,,fail,,1,2,2,2
-2023-01-24-001,2023-01-24T06:36:05+00:00,,fail,,1,0,0,0
 2022-12-13-116,2022-12-13T12:57:32+00:00,"106. Návrh předchozího souhlasu se zřízením zástavního práva městskou částí Brno-Královo Pole k bytové jednotce č. 2521/1 vymezené dle zákona č. 89/2012 Sb., občanský zákoník, v pozemku p. č. 1853 v k.ú. Královo Pole v souvislosti s prodejem jednotky",pass,Z9/03,116,43,0,4
 2022-12-13-115,2022-12-13T12:56:51+00:00,"105. Návrh na zřízení zástavního práva – bytové domy Ibsenova 9, 10, 11, Brno",pass,Z9/03,115,43,0,0
 2022-12-13-114,2022-12-13T12:37:20+00:00,"104. Volba dlouhodobě uvolněné členky/uvolněného člena Zastupitelstva města Brna - pro oblast strategického rozvoje, metropolitní spolupráce a integrovaných územních investic (ITI) - JUDr. PhDr. Martin Příborský, EMLE",pass,Z9/03,114,40,1,9
@@ -185,7 +183,6 @@ id,date,motion:title,motion:result,code,number,counts:yes,counts:no,counts:absta
 2022-12-13-003,2022-12-13T08:14:23+00:00,"1. Technický bod (zapisovatelé, právní asistence, ověřovatelé zápisu, schválení programu zasedání ZMB) - program - hlasování o zařazení bodu č. 100, 101, 102, 103, 104, 105, 106",pass,Z9/03,3,46,0,0
 2022-12-13-002,2022-12-13T08:14:01+00:00,"1. Technický bod (zapisovatelé, právní asistence, ověřovatelé zápisu, schválení programu zasedání ZMB) - program - hlasování o stažení bodu č. 16, 32, 52, 53",pass,Z9/03,2,48,0,0
 2022-12-13-001,2022-12-13T08:09:29+00:00,"1. Technický bod (zapisovatelé, právní asistence, ověřovatelé zápisu, schválení programu zasedání ZMB) - ověřovatelé zápisu",pass,Z9/03,1,45,0,0
-2022-12-13-004,2022-12-13T07:19:54+00:00,,fail,,4,1,1,1
 2022-11-15-096,2022-11-15T11:04:20+00:00,"12. Návrh Dodatku č. 29 Smlouvy o závazku veřejné služby a kompenzaci z veřejné přepravy cestujících, uzavřené mezi statutárním městem Brnem a Dopravním podnikem města Brna, a. s.",pass,Z9/02,96,44,0,7
 2022-11-15-095,2022-11-15T10:32:43+00:00,"95. Návrh Dodatku č.1 ke Smlouvě o spolupráci při výstavbě veřejné infrastruktury ""Městský blok Belle Rock“",pass,Z9/02,95,46,0,5
 2022-11-15-094,2022-11-15T10:32:06+00:00,pokračování jednání,pass,Z9/02,94,49,1,3

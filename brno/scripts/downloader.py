@@ -40,7 +40,7 @@ vote_events = []
 votes = []
 
 for row in source_data['data']:
-  if row['datetime'] > start_date:
+  if (row['datetime'] > start_date) and (row['details']['present'] > 10):  # skip empty/error votes
     vote_event_id = row['datetime'][0:10] + "-" + str(row['number']).zfill(3)
     # vote events
     vote_event = {
