@@ -59,7 +59,7 @@ gt = pd.pivot_table(votes[votes['vote_event_id'].isin(last_government_vote_event
 gt['govity'] = 1 - gt['against_gov'] / gt['possibly_against_gov']
 
 # add last group
-pt2 = pd.pivot_table(votes, values='group_id', index=['voter_id'], aggfunc='last').reset_index()
+pt2 = pd.pivot_table(votes, values=['group_id', 'party_id'], index=['voter_id'], aggfunc='last').reset_index()
 pt2['voter_id'] = pt2['voter_id'].astype(str)
 
 # change column types for merge
