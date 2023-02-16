@@ -1,8 +1,8 @@
 # CZ municipalities votes 2022-2026
 
 ## Municipalities
-- Praha
-- Brno
+- [Praha](/praha)
+- [Brno](/brno)
 
 
 ## Data standards
