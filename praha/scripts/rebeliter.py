@@ -72,15 +72,15 @@ pt = voters.rename(columns={'id': 'voter_id'}).loc[:, ['voter_id', 'name']].merg
 
 # output v1
 pt['rebel'] = round(10000 * pt['rebelity']) / 100
-pt['gover'] = round(1000 * gt['govity']) / 10
+pt['gover'] = round(1000 * pt['govity']) / 10
 pt.rename(columns={'possibly_against_gov': 'possible'}, inplace=True)
 pt['with_gov'] = pt['possible'] - pt['against_gov']
 
 # df.sort_values(by=['group_id'], inplace=True) # sort not working for czech characters
 pt = pt.iloc[pt['group_id'].str.normalize('NFKD').argsort()] # https://stackoverflow.com/a/50217892/1666623
 
-dfr = pt.loc[:, ['voter_id', 'name', 'group_way_abs', 'rebeling', 'rebel', 'group_id']]
+dfr = pt.loc[:, ['voter_id', 'name', 'group_way_abs', 'rebeling', 'rebel', 'group_id', 'party_id']]
 dfr.to_csv(localpath + "data/rebelity.v1.csv", index=False)
 
-dfg = pt.loc[:, ['voter_id', 'name', 'with_gov', 'possible', 'gover', 'group_id']]
+dfg = pt.loc[:, ['voter_id', 'name', 'with_gov', 'possible', 'gover', 'group_id', 'party_id']]
 dfg.to_csv(localpath + "data/govity.v1.csv", index=False)
