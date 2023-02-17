@@ -12,4 +12,7 @@ http://www.popoloproject.com/
 - https://github.com/michalskop/cz-psp-votes-2021-202x 
 - https://www.seznamzpravy.cz/clanek/fakta-poslanecka-snemovna-hlasovani-dochazka-poslancu-219329
 
+## Previous article:
+Praha + Brno + Ostrava: 
+https://www.seznamzpravy.cz/clanek/fakta-tri-nejvetsi-mesta-koalice-drzely-pri-sobe-opozice-mely-horsi-dochazku-214977
 

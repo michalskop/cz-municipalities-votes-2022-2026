@@ -5,7 +5,7 @@ import pandas as pd
 
 localpath = "praha/"
 
-government_groups = ['TOP 09', 'STAN', 'Piráti', 'PRAHA SOBĚ', 'BEZPP']
+government_groups = ['BEZPP']
 government_type = 'party_id'
 
 # last_government for govity
