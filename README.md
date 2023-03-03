@@ -4,6 +4,8 @@
 - [Praha](/praha)
 - [Brno](/brno)
 
+## Articles
+- https://www.seznamzpravy.cz/clanek/domaci-hlasovani-zastupitelu-v-praze-a-brne-ano-a-spolu-k-sobe-maji-velmi-blizko-225824
 
 ## Data standards
 http://www.popoloproject.com/
