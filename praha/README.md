@@ -8,4 +8,4 @@ https://github.com/michalskop/praha.eu-scraper
 ## Analysis flow
 - `downloader.py` - downloads data
 - `attendancer.py` - calculates attendance
-- `rebelizer.py` - calculates rebel votes
+- `rebeliter.py` - calculates rebel votes
