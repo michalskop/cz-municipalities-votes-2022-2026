@@ -152,6 +152,7 @@ for page in range(0,npages):
 
 # update vote events
 vote_events = pd.DataFrame(vote_events)
+vote_events.drop_duplicates(subset=['id'], inplace=True)
 vote_events.to_csv(localpath + "data/vote_events.csv", index=False)
 
 
@@ -177,7 +178,7 @@ votes = pd.read_csv(localpath + "data/votes.csv")
 old_votes_ids = votes['vote_event_id'].unique()
 
 # extract votes
-for i,ve in vote_events.iterrows():
+for i, ve in vote_events.iterrows():
   if int(ve['id']) not in old_votes_ids:
     # get vote event
     url = ve['sources:link:url']
@@ -200,6 +201,9 @@ for i,ve in vote_events.iterrows():
         votes = pd.concat([votes, pd.DataFrame([vote])], ignore_index=True)
     else:
       raise(Exception)
+
+# remove duplicates
+votes = votes.drop_duplicates(subset=['vote_event_id', 'voter_id'])
 
 # update votes
 votes.to_csv(localpath + "data/votes.csv", index=False)

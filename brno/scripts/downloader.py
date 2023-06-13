@@ -2,7 +2,7 @@
 
 import csv
 import requests
-# import pandas as pd
+import pandas as pd
 
 start_date = "2022-10-01"
 localpath = "brno/"
@@ -78,13 +78,12 @@ for row in source_data['data']:
         }
         votes.append(vote)
 
-# save data
-with open(localpath + 'data/vote_events.csv', 'w') as f:
-  writer = csv.DictWriter(f, fieldnames=vote_events[0].keys())
-  writer.writeheader()
-  writer.writerows(vote_events)
+# remove duplicates
+vote_events_df = pd.DataFrame(vote_events)
+votes_df = pd.DataFrame(votes)
+vote_events_df.drop_duplicates(subset=['id'], inplace=True)
+votes_df.drop_duplicates(subset=['vote_event_id', 'voter_id'], inplace=True)
 
-with open(localpath + 'data/votes.csv', 'w') as f:
-  writer = csv.DictWriter(f, fieldnames=votes[0].keys())
-  writer.writeheader()
-  writer.writerows(votes)
+# save data
+vote_events_df.to_csv(localpath + "data/vote_events.csv", index=False)
+votes_df.to_csv(localpath + "data/votes.csv", index=False)
