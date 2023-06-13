@@ -84,6 +84,12 @@ votes_df = pd.DataFrame(votes)
 vote_events_df.drop_duplicates(subset=['id'], inplace=True)
 votes_df.drop_duplicates(subset=['vote_event_id', 'voter_id'], inplace=True)
 
+# creeate voters
+voters_df = votes_df.loc[:, ['voter_id', 'group_id']].drop_duplicates().drop_duplicates(subset=['voter_id'])
+voters_df['name'] = voters_df['voter_id']
+voters_df.rename(columns={'voter_id': 'id', 'group_id': 'party'}, inplace=True)
+
 # save data
 vote_events_df.to_csv(localpath + "data/vote_events.csv", index=False)
 votes_df.to_csv(localpath + "data/votes.csv", index=False)
+voters_df.to_csv(localpath + "data/voters.csv", index=False)

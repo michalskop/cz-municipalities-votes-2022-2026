@@ -11,3 +11,6 @@ https://github.com/michalskop/praha.eu-scraper
 - `downloader.py` - downloads data
 - `attendancer.py` - calculates attendance
 - `rebeliter.py` - calculates rebel votes
+
+- `wpca.py` - calculates WPCA
+- `wpca-charter.py` - prepares data for the WPCA chart
