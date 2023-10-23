@@ -14,7 +14,7 @@ https://data.brno.cz/apps/hlasov%C3%A1n%C3%AD-brn%C4%9Bnsk%C3%A9ho-zastupitelstv
 ## Analysis flow
 - `downloader.py` - downloads data
 - `attendancer.py` - calculates attendance
-- `rebelizer.py` - calculates rebel votes
+- `rebeliter.py` - calculates rebel votes
 
 - `wpca.py` - calculates WPCA
 - `wpca-charter.py` - prepares data for the WPCA chart
