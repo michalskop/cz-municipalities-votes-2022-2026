@@ -1,5 +1,9 @@
 # Praha
 ## Charts
+- govity: https://public.flourish.studio/visualisation/12766953/
+- attandance: https://public.flourish.studio/visualisation/12766366/
+- WPCA: https://public.flourish.studio/visualisation/14119299/
+- rebeliter: https://public.flourish.studio/visualisation/12766926/
 
 ## Source
 https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/index.html
