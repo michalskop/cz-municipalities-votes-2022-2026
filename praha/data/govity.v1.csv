@@ -1,66 +1,66 @@
 voter_id,name,with_gov,possible,gover,group_id,party_id
-4915,Radomír Nepil,202,416,48.6,ANO,ANO
-5606,Jan Kolář,401,560,71.6,ANO,ANO
-6651,Jan Hušbauer,330,530,62.3,ANO,ANO
-5099,Martin Hrubčík,328,480,68.3,ANO,ANO
-4913,Patrik Nacher,282,489,57.7,ANO,ANO
-6254,Stanislav Nekolný,302,580,52.1,ANO,ANO
-5810,Marta Gellová,389,577,67.4,ANO,ANO
-4923,Marcela Plesníková,363,500,72.6,ANO,ANO
-5147,Radmila Kleslová,225,468,48.1,ANO,ANO
-6713,Barbora Rázga,361,502,71.9,ANO,ANO
-6715,Lenka Vedralová,379,531,71.4,ANO,ANO
-5812,Václav Bílek,422,579,72.9,ANO,ANO
-6320,Martin Benkovič,330,514,64.2,ANO,ANO
-5357,Ondřej Prokop,348,563,61.8,ANO,ANO
-5764,Hana Kordová Marvanová,301,482,62.4,BEZPP,BEZPP
-5796,Jiří Knitl,438,534,82.0,PRAHA SOBĚ,PRAHA SOBĚ
-5788,Adam Scheinherr,486,586,82.9,PRAHA SOBĚ,PRAHA SOBĚ
-5782,Hana Třeštíková,508,613,82.9,PRAHA SOBĚ,PRAHA SOBĚ
-5802,Pavel Zelenka,448,610,73.4,PRAHA SOBĚ,PRAHA SOBĚ
-5792,Pavel Vyhnánek,414,612,67.6,PRAHA SOBĚ,PRAHA SOBĚ
-5794,Kamila Matějková,488,611,79.9,PRAHA SOBĚ,PRAHA SOBĚ
-5784,Petr Zeman,403,515,78.3,PRAHA SOBĚ,PRAHA SOBĚ
-4873,Jan Čižinský,507,588,86.2,PRAHA SOBĚ,PRAHA SOBĚ
-5786,Mariana Čapková,399,520,76.7,PRAHA SOBĚ,PRAHA SOBĚ
-6492,Vladan Brož,515,612,84.2,PRAHA SOBĚ,PRAHA SOBĚ
-5908,Kristýna Drápalová,421,534,78.8,PRAHA SOBĚ,PRAHA SOBĚ
-6717,Bara Soukup,578,613,94.3,Piráti,Piráti
-5858,Eva Tylová,523,608,86.0,Piráti,Piráti
-5826,Zuzana Freitas Lopesová,576,595,96.8,Piráti,Piráti
-6719,Jiří Brůžek,463,486,95.3,Piráti,Piráti
-5746,Daniel Mazur,572,612,93.5,Piráti,Piráti
-6723,David Bodeček,518,547,94.7,Piráti,Piráti
-6022,Magdalena Valdmanová,581,610,95.2,Piráti,Piráti
-5656,Viktor Mahrik,585,612,95.6,Piráti,Piráti
-6721,Gabriela Lněničková,583,613,95.1,Piráti,Piráti
-5760,Jaromír Beránek,537,549,97.8,Piráti,Piráti
-4943,Adam Zábranský,487,538,90.5,Piráti,Piráti
-5744,Zdeněk Hřib,507,529,95.8,Piráti,Piráti
-6336,Jana Komrsková,565,613,92.2,Piráti,Piráti
-3169,Milan Urban,353,538,65.6,SPD,SPD
-6733,Josef Nerušil,419,612,68.5,SPD,SPD
-6735,Zdeněk Seidl,418,613,68.2,SPD,SPD
-4350,Alexandra Udženija,403,588,68.5,SPOLU,ODS
+4923,Marcela Plesníková,389,558,69.7,ANO,ANO
+5606,Jan Kolář,430,618,69.6,ANO,ANO
+6651,Jan Hušbauer,347,572,60.7,ANO,ANO
+5099,Martin Hrubčík,353,538,65.6,ANO,ANO
+4913,Patrik Nacher,304,527,57.7,ANO,ANO
+6254,Stanislav Nekolný,323,638,50.6,ANO,ANO
+4915,Radomír Nepil,219,459,47.7,ANO,ANO
+5810,Marta Gellová,417,635,65.7,ANO,ANO
+5357,Ondřej Prokop,378,621,60.9,ANO,ANO
+5147,Radmila Kleslová,235,526,44.7,ANO,ANO
+6715,Lenka Vedralová,407,589,69.1,ANO,ANO
+5812,Václav Bílek,448,637,70.3,ANO,ANO
+6320,Martin Benkovič,346,572,60.5,ANO,ANO
+6713,Barbora Rázga,387,560,69.1,ANO,ANO
+6723,David Bodeček,568,605,93.9,BEZPP,BEZPP
+5764,Hana Kordová Marvanová,334,540,61.9,BEZPP,BEZPP
+5796,Jiří Knitl,480,592,81.1,PRAHA SOBĚ,PRAHA SOBĚ
+5788,Adam Scheinherr,531,644,82.5,PRAHA SOBĚ,PRAHA SOBĚ
+5782,Hana Třeštíková,551,671,82.1,PRAHA SOBĚ,PRAHA SOBĚ
+5802,Pavel Zelenka,479,658,72.8,PRAHA SOBĚ,PRAHA SOBĚ
+5792,Pavel Vyhnánek,447,670,66.7,PRAHA SOBĚ,PRAHA SOBĚ
+5794,Kamila Matějková,533,669,79.7,PRAHA SOBĚ,PRAHA SOBĚ
+5784,Petr Zeman,442,573,77.1,PRAHA SOBĚ,PRAHA SOBĚ
+5908,Kristýna Drápalová,464,592,78.4,PRAHA SOBĚ,PRAHA SOBĚ
+4873,Jan Čižinský,553,646,85.6,PRAHA SOBĚ,PRAHA SOBĚ
+5786,Mariana Čapková,419,578,72.5,PRAHA SOBĚ,PRAHA SOBĚ
+6492,Vladan Brož,558,669,83.4,PRAHA SOBĚ,PRAHA SOBĚ
+6717,Bara Soukup,632,671,94.2,Piráti,Piráti
+6719,Jiří Brůžek,516,544,94.9,Piráti,Piráti
+5858,Eva Tylová,568,666,85.3,Piráti,Piráti
+5826,Zuzana Freitas Lopesová,626,652,96.0,Piráti,Piráti
+5746,Daniel Mazur,613,668,91.8,Piráti,Piráti
+6022,Magdalena Valdmanová,634,668,94.9,Piráti,Piráti
+5656,Viktor Mahrik,637,670,95.1,Piráti,Piráti
+6721,Gabriela Lněničková,637,671,94.9,Piráti,Piráti
+5760,Jaromír Beránek,592,607,97.5,Piráti,Piráti
+4943,Adam Zábranský,540,596,90.6,Piráti,Piráti
+6336,Jana Komrsková,616,671,91.8,Piráti,Piráti
+5744,Zdeněk Hřib,565,587,96.3,Piráti,Piráti
+3169,Milan Urban,382,596,64.1,SPD,SPD
+6733,Josef Nerušil,445,670,66.4,SPD,SPD
+6735,Zdeněk Seidl,448,671,66.8,SPD,SPD
+3925,David Vodrážka,446,629,70.9,SPOLU,ODS
+4350,Alexandra Udženija,452,640,70.6,SPOLU,ODS
 4941,Jan Wolf,510,602,84.7,SPOLU,KDU-ČSL
-4316,Bohuslav Svoboda,459,580,79.1,SPOLU,ODS
-6711,Tomáš Slabihoudek,486,610,79.7,SPOLU,TOP 09
-5730,Zdeněk Zajíček,417,549,76.0,SPOLU,ODS
-3925,David Vodrážka,405,572,70.8,SPOLU,ODS
-5740,Tomáš Kaštovský,397,505,78.6,SPOLU,ODS
-6705,Jiří Ptáček,519,604,85.9,SPOLU,TOP 09
-5766,Jiří Pospíšil,428,548,78.1,SPOLU,TOP 09
-5728,Tomáš Portlík,422,613,68.8,SPOLU,ODS
-6709,Tomáš Pek,463,599,77.3,SPOLU,TOP 09
-6703,Michal Hroza,483,582,83.0,SPOLU,TOP 09
-6707,Pavel Mareš,485,613,79.1,SPOLU,KDU-ČSL
-6044,Jakub Lepš,491,613,80.1,SPOLU,TOP 09
-6516,Lucie Kubesa,513,590,86.9,SPOLU,ODS
-2923,Zdeněk Kovářík,493,607,81.2,SPOLU,ODS
-5776,Jan Chabr,474,612,77.5,SPOLU,TOP 09
-5738,Martin Sedeke,424,613,69.2,SPOLU,ODS
-6727,Antonín Klecanda,463,538,86.1,STAN,STAN
-6729,David Procházka,438,505,86.7,STAN,STAN
-6731,Zuzana Hamanová,505,556,90.8,STAN,STAN
-5768,Petr Hlaváček,500,572,87.4,STAN,STAN
+4316,Bohuslav Svoboda,505,636,79.4,SPOLU,ODS
+5730,Zdeněk Zajíček,463,607,76.3,SPOLU,ODS
+6711,Tomáš Slabihoudek,538,668,80.5,SPOLU,TOP 09
+5740,Tomáš Kaštovský,448,563,79.6,SPOLU,ODS
+6705,Jiří Ptáček,571,662,86.3,SPOLU,TOP 09
+5766,Jiří Pospíšil,475,606,78.4,SPOLU,TOP 09
+5728,Tomáš Portlík,471,671,70.2,SPOLU,ODS
+6709,Tomáš Pek,516,657,78.5,SPOLU,TOP 09
+6703,Michal Hroza,535,640,83.6,SPOLU,TOP 09
+6707,Pavel Mareš,538,671,80.2,SPOLU,KDU-ČSL
+6044,Jakub Lepš,536,671,79.9,SPOLU,TOP 09
+6516,Lucie Kubesa,568,648,87.7,SPOLU,ODS
+2923,Zdeněk Kovářík,542,665,81.5,SPOLU,ODS
+5776,Jan Chabr,528,670,78.8,SPOLU,TOP 09
+5738,Martin Sedeke,461,671,68.7,SPOLU,ODS
+6727,Antonín Klecanda,515,596,86.4,STAN,STAN
+6729,David Procházka,491,563,87.2,STAN,STAN
+6731,Zuzana Hamanová,558,614,90.9,STAN,STAN
+5768,Petr Hlaváček,549,630,87.1,STAN,STAN
 6725,Kateřina Arnotová,548,599,91.5,STAN,STAN
