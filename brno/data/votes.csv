@@ -1,4 +1,4239 @@
 vote_event_id,voter_id,group_id,option
+2023-11-14-077,Petr Bauer,ANO,yes
+2023-11-14-077,Petr Bořecký,ANO,yes
+2023-11-14-077,René Černý,ANO,yes
+2023-11-14-077,Alena Gruberová,ANO,yes
+2023-11-14-077,Kateřina Jarošová,ANO,yes
+2023-11-14-077,Karel Kalivoda,ANO,yes
+2023-11-14-077,Karin Podivinská,ANO,yes
+2023-11-14-077,Pavel Kříž,ANO,yes
+2023-11-14-077,Miroslav Kubásek,ANO,yes
+2023-11-14-077,René Novotný,ANO,yes
+2023-11-14-077,Pavel Outrata,ANO,yes
+2023-11-14-077,Vít Prýgl,ANO,absent
+2023-11-14-077,Daniel Struž,ANO,yes
+2023-11-14-077,Jiří Oliva,SOCDEM,absent
+2023-11-14-077,Břetislav Štefan,SOCDEM,no
+2023-11-14-077,Marek Viskot,SOCDEM,yes
+2023-11-14-077,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-077,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-077,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-077,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-077,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-077,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-077,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-077,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-077,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-077,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-077,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-077,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-077,David Grund,ODS a TOP 09,yes
+2023-11-14-077,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-077,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-077,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-077,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-077,Petr Kratochvíl,ODS a TOP 09,not voting
+2023-11-14-077,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-077,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-077,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-077,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-077,David Trllo,ODS a TOP 09,yes
+2023-11-14-077,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-077,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-077,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-077,Tomáš Koláčný,Piráti,yes
+2023-11-14-077,Marek Lahoda,Piráti,yes
+2023-11-14-077,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-077,Adam Zemek,Piráti,yes
+2023-11-14-077,Tomáš Anderle,SPD+Trikolora,abstain
+2023-11-14-077,Blanka Borovská,SPD+Trikolora,not voting
+2023-11-14-077,Jiří Kment,SPD+Trikolora,abstain
+2023-11-14-077,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-077,Leoš Prokeš,SPD+Trikolora,abstain
+2023-11-14-077,Tomáš Skřička,SPD+Trikolora,abstain
+2023-11-14-077,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-077,Jasna Flamiková,Zelení a Žít Brno,abstain
+2023-11-14-077,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-076,Petr Bauer,ANO,yes
+2023-11-14-076,Petr Bořecký,ANO,yes
+2023-11-14-076,René Černý,ANO,yes
+2023-11-14-076,Alena Gruberová,ANO,yes
+2023-11-14-076,Kateřina Jarošová,ANO,yes
+2023-11-14-076,Karel Kalivoda,ANO,not voting
+2023-11-14-076,Karin Podivinská,ANO,yes
+2023-11-14-076,Pavel Kříž,ANO,yes
+2023-11-14-076,Miroslav Kubásek,ANO,yes
+2023-11-14-076,René Novotný,ANO,yes
+2023-11-14-076,Pavel Outrata,ANO,yes
+2023-11-14-076,Vít Prýgl,ANO,absent
+2023-11-14-076,Daniel Struž,ANO,yes
+2023-11-14-076,Jiří Oliva,SOCDEM,absent
+2023-11-14-076,Břetislav Štefan,SOCDEM,not voting
+2023-11-14-076,Marek Viskot,SOCDEM,yes
+2023-11-14-076,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-076,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-076,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-076,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-076,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-076,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-076,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-076,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-076,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-076,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-076,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-076,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-076,David Grund,ODS a TOP 09,yes
+2023-11-14-076,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-076,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-076,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-076,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-076,Petr Kratochvíl,ODS a TOP 09,not voting
+2023-11-14-076,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-076,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-076,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-076,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-076,David Trllo,ODS a TOP 09,yes
+2023-11-14-076,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-076,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-076,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-076,Tomáš Koláčný,Piráti,yes
+2023-11-14-076,Marek Lahoda,Piráti,yes
+2023-11-14-076,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-076,Adam Zemek,Piráti,yes
+2023-11-14-076,Tomáš Anderle,SPD+Trikolora,abstain
+2023-11-14-076,Blanka Borovská,SPD+Trikolora,abstain
+2023-11-14-076,Jiří Kment,SPD+Trikolora,abstain
+2023-11-14-076,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-076,Leoš Prokeš,SPD+Trikolora,abstain
+2023-11-14-076,Tomáš Skřička,SPD+Trikolora,abstain
+2023-11-14-076,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-076,Jasna Flamiková,Zelení a Žít Brno,yes
+2023-11-14-076,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-075,Petr Bauer,ANO,yes
+2023-11-14-075,Petr Bořecký,ANO,yes
+2023-11-14-075,René Černý,ANO,yes
+2023-11-14-075,Alena Gruberová,ANO,yes
+2023-11-14-075,Kateřina Jarošová,ANO,yes
+2023-11-14-075,Karel Kalivoda,ANO,yes
+2023-11-14-075,Karin Podivinská,ANO,yes
+2023-11-14-075,Pavel Kříž,ANO,yes
+2023-11-14-075,Miroslav Kubásek,ANO,yes
+2023-11-14-075,René Novotný,ANO,yes
+2023-11-14-075,Pavel Outrata,ANO,yes
+2023-11-14-075,Vít Prýgl,ANO,absent
+2023-11-14-075,Daniel Struž,ANO,yes
+2023-11-14-075,Jiří Oliva,SOCDEM,absent
+2023-11-14-075,Břetislav Štefan,SOCDEM,yes
+2023-11-14-075,Marek Viskot,SOCDEM,yes
+2023-11-14-075,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-075,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-075,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-075,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-075,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-075,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-075,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-075,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-075,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-075,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-075,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-075,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-075,David Grund,ODS a TOP 09,yes
+2023-11-14-075,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-075,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-075,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-075,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-075,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-075,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-075,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-075,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-075,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-075,David Trllo,ODS a TOP 09,yes
+2023-11-14-075,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-075,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-075,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-075,Tomáš Koláčný,Piráti,abstain
+2023-11-14-075,Marek Lahoda,Piráti,abstain
+2023-11-14-075,Monika Lukášová Spilková,Piráti,abstain
+2023-11-14-075,Adam Zemek,Piráti,abstain
+2023-11-14-075,Tomáš Anderle,SPD+Trikolora,abstain
+2023-11-14-075,Blanka Borovská,SPD+Trikolora,not voting
+2023-11-14-075,Jiří Kment,SPD+Trikolora,abstain
+2023-11-14-075,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-075,Leoš Prokeš,SPD+Trikolora,abstain
+2023-11-14-075,Tomáš Skřička,SPD+Trikolora,abstain
+2023-11-14-075,Jana Drápalová,Zelení a Žít Brno,abstain
+2023-11-14-075,Jasna Flamiková,Zelení a Žít Brno,no
+2023-11-14-075,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-074,Petr Bauer,ANO,yes
+2023-11-14-074,Petr Bořecký,ANO,yes
+2023-11-14-074,René Černý,ANO,yes
+2023-11-14-074,Alena Gruberová,ANO,yes
+2023-11-14-074,Kateřina Jarošová,ANO,yes
+2023-11-14-074,Karel Kalivoda,ANO,yes
+2023-11-14-074,Karin Podivinská,ANO,yes
+2023-11-14-074,Pavel Kříž,ANO,yes
+2023-11-14-074,Miroslav Kubásek,ANO,yes
+2023-11-14-074,René Novotný,ANO,yes
+2023-11-14-074,Pavel Outrata,ANO,yes
+2023-11-14-074,Vít Prýgl,ANO,absent
+2023-11-14-074,Daniel Struž,ANO,yes
+2023-11-14-074,Jiří Oliva,SOCDEM,absent
+2023-11-14-074,Břetislav Štefan,SOCDEM,yes
+2023-11-14-074,Marek Viskot,SOCDEM,yes
+2023-11-14-074,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-074,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-074,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-074,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-074,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-074,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-074,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-074,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-074,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-074,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-074,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-074,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-074,David Grund,ODS a TOP 09,yes
+2023-11-14-074,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-074,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-074,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-074,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-074,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-074,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-074,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-074,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-074,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-074,David Trllo,ODS a TOP 09,yes
+2023-11-14-074,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-074,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-074,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-074,Tomáš Koláčný,Piráti,yes
+2023-11-14-074,Marek Lahoda,Piráti,yes
+2023-11-14-074,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-074,Adam Zemek,Piráti,yes
+2023-11-14-074,Tomáš Anderle,SPD+Trikolora,not voting
+2023-11-14-074,Blanka Borovská,SPD+Trikolora,yes
+2023-11-14-074,Jiří Kment,SPD+Trikolora,yes
+2023-11-14-074,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-074,Leoš Prokeš,SPD+Trikolora,yes
+2023-11-14-074,Tomáš Skřička,SPD+Trikolora,yes
+2023-11-14-074,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-074,Jasna Flamiková,Zelení a Žít Brno,yes
+2023-11-14-074,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-073,Petr Bauer,ANO,yes
+2023-11-14-073,Petr Bořecký,ANO,yes
+2023-11-14-073,René Černý,ANO,yes
+2023-11-14-073,Alena Gruberová,ANO,yes
+2023-11-14-073,Kateřina Jarošová,ANO,yes
+2023-11-14-073,Karel Kalivoda,ANO,yes
+2023-11-14-073,Karin Podivinská,ANO,yes
+2023-11-14-073,Pavel Kříž,ANO,yes
+2023-11-14-073,Miroslav Kubásek,ANO,yes
+2023-11-14-073,René Novotný,ANO,yes
+2023-11-14-073,Pavel Outrata,ANO,yes
+2023-11-14-073,Vít Prýgl,ANO,absent
+2023-11-14-073,Daniel Struž,ANO,yes
+2023-11-14-073,Jiří Oliva,SOCDEM,absent
+2023-11-14-073,Břetislav Štefan,SOCDEM,yes
+2023-11-14-073,Marek Viskot,SOCDEM,yes
+2023-11-14-073,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-073,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-073,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-073,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-073,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-073,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-073,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-073,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-073,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-073,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-073,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-073,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-073,David Grund,ODS a TOP 09,yes
+2023-11-14-073,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-073,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-073,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-073,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-073,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-073,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-073,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-073,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-073,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-073,David Trllo,ODS a TOP 09,yes
+2023-11-14-073,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-073,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-073,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-073,Tomáš Koláčný,Piráti,yes
+2023-11-14-073,Marek Lahoda,Piráti,yes
+2023-11-14-073,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-073,Adam Zemek,Piráti,yes
+2023-11-14-073,Tomáš Anderle,SPD+Trikolora,yes
+2023-11-14-073,Blanka Borovská,SPD+Trikolora,yes
+2023-11-14-073,Jiří Kment,SPD+Trikolora,yes
+2023-11-14-073,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-073,Leoš Prokeš,SPD+Trikolora,yes
+2023-11-14-073,Tomáš Skřička,SPD+Trikolora,yes
+2023-11-14-073,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-073,Jasna Flamiková,Zelení a Žít Brno,yes
+2023-11-14-073,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-072,Petr Bauer,ANO,yes
+2023-11-14-072,Petr Bořecký,ANO,yes
+2023-11-14-072,René Černý,ANO,yes
+2023-11-14-072,Alena Gruberová,ANO,yes
+2023-11-14-072,Kateřina Jarošová,ANO,yes
+2023-11-14-072,Karel Kalivoda,ANO,yes
+2023-11-14-072,Karin Podivinská,ANO,yes
+2023-11-14-072,Pavel Kříž,ANO,yes
+2023-11-14-072,Miroslav Kubásek,ANO,yes
+2023-11-14-072,René Novotný,ANO,yes
+2023-11-14-072,Pavel Outrata,ANO,yes
+2023-11-14-072,Vít Prýgl,ANO,absent
+2023-11-14-072,Daniel Struž,ANO,yes
+2023-11-14-072,Jiří Oliva,SOCDEM,absent
+2023-11-14-072,Břetislav Štefan,SOCDEM,yes
+2023-11-14-072,Marek Viskot,SOCDEM,yes
+2023-11-14-072,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-072,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-072,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-072,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-072,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-072,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-072,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-072,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-072,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-072,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-072,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-072,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-072,David Grund,ODS a TOP 09,yes
+2023-11-14-072,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-072,Michal Chládek,ODS a TOP 09,not voting
+2023-11-14-072,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-072,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-072,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-072,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-072,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-072,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-072,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-072,David Trllo,ODS a TOP 09,yes
+2023-11-14-072,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-072,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-072,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-072,Tomáš Koláčný,Piráti,yes
+2023-11-14-072,Marek Lahoda,Piráti,yes
+2023-11-14-072,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-072,Adam Zemek,Piráti,yes
+2023-11-14-072,Tomáš Anderle,SPD+Trikolora,yes
+2023-11-14-072,Blanka Borovská,SPD+Trikolora,yes
+2023-11-14-072,Jiří Kment,SPD+Trikolora,yes
+2023-11-14-072,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-072,Leoš Prokeš,SPD+Trikolora,yes
+2023-11-14-072,Tomáš Skřička,SPD+Trikolora,yes
+2023-11-14-072,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-072,Jasna Flamiková,Zelení a Žít Brno,yes
+2023-11-14-072,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-071,Petr Bauer,ANO,yes
+2023-11-14-071,Petr Bořecký,ANO,yes
+2023-11-14-071,René Černý,ANO,yes
+2023-11-14-071,Alena Gruberová,ANO,yes
+2023-11-14-071,Kateřina Jarošová,ANO,yes
+2023-11-14-071,Karel Kalivoda,ANO,yes
+2023-11-14-071,Karin Podivinská,ANO,yes
+2023-11-14-071,Pavel Kříž,ANO,not voting
+2023-11-14-071,Miroslav Kubásek,ANO,yes
+2023-11-14-071,René Novotný,ANO,yes
+2023-11-14-071,Pavel Outrata,ANO,yes
+2023-11-14-071,Vít Prýgl,ANO,absent
+2023-11-14-071,Daniel Struž,ANO,yes
+2023-11-14-071,Jiří Oliva,SOCDEM,absent
+2023-11-14-071,Břetislav Štefan,SOCDEM,yes
+2023-11-14-071,Marek Viskot,SOCDEM,yes
+2023-11-14-071,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-071,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-071,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-071,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-071,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-071,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-071,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-071,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-071,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-071,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-071,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-071,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-071,David Grund,ODS a TOP 09,yes
+2023-11-14-071,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-071,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-071,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-071,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-071,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-071,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-071,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-071,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-071,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-071,David Trllo,ODS a TOP 09,yes
+2023-11-14-071,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-071,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-071,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-071,Tomáš Koláčný,Piráti,yes
+2023-11-14-071,Marek Lahoda,Piráti,yes
+2023-11-14-071,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-071,Adam Zemek,Piráti,yes
+2023-11-14-071,Tomáš Anderle,SPD+Trikolora,yes
+2023-11-14-071,Blanka Borovská,SPD+Trikolora,yes
+2023-11-14-071,Jiří Kment,SPD+Trikolora,yes
+2023-11-14-071,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-071,Leoš Prokeš,SPD+Trikolora,yes
+2023-11-14-071,Tomáš Skřička,SPD+Trikolora,yes
+2023-11-14-071,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-071,Jasna Flamiková,Zelení a Žít Brno,not voting
+2023-11-14-071,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-070,Petr Bauer,ANO,yes
+2023-11-14-070,Petr Bořecký,ANO,yes
+2023-11-14-070,René Černý,ANO,yes
+2023-11-14-070,Alena Gruberová,ANO,yes
+2023-11-14-070,Kateřina Jarošová,ANO,yes
+2023-11-14-070,Karel Kalivoda,ANO,yes
+2023-11-14-070,Karin Podivinská,ANO,yes
+2023-11-14-070,Pavel Kříž,ANO,yes
+2023-11-14-070,Miroslav Kubásek,ANO,yes
+2023-11-14-070,René Novotný,ANO,yes
+2023-11-14-070,Pavel Outrata,ANO,yes
+2023-11-14-070,Vít Prýgl,ANO,absent
+2023-11-14-070,Daniel Struž,ANO,yes
+2023-11-14-070,Jiří Oliva,SOCDEM,absent
+2023-11-14-070,Břetislav Štefan,SOCDEM,yes
+2023-11-14-070,Marek Viskot,SOCDEM,yes
+2023-11-14-070,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-070,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-070,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-070,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-070,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-070,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-070,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-070,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-070,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-070,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-070,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-070,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-070,David Grund,ODS a TOP 09,yes
+2023-11-14-070,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-070,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-070,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-070,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-070,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-070,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-070,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-070,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-070,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-070,David Trllo,ODS a TOP 09,yes
+2023-11-14-070,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-070,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-070,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-070,Tomáš Koláčný,Piráti,yes
+2023-11-14-070,Marek Lahoda,Piráti,yes
+2023-11-14-070,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-070,Adam Zemek,Piráti,yes
+2023-11-14-070,Tomáš Anderle,SPD+Trikolora,yes
+2023-11-14-070,Blanka Borovská,SPD+Trikolora,yes
+2023-11-14-070,Jiří Kment,SPD+Trikolora,yes
+2023-11-14-070,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-070,Leoš Prokeš,SPD+Trikolora,yes
+2023-11-14-070,Tomáš Skřička,SPD+Trikolora,yes
+2023-11-14-070,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-070,Jasna Flamiková,Zelení a Žít Brno,yes
+2023-11-14-070,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-069,Petr Bauer,ANO,yes
+2023-11-14-069,Petr Bořecký,ANO,yes
+2023-11-14-069,René Černý,ANO,yes
+2023-11-14-069,Alena Gruberová,ANO,yes
+2023-11-14-069,Kateřina Jarošová,ANO,yes
+2023-11-14-069,Karel Kalivoda,ANO,yes
+2023-11-14-069,Karin Podivinská,ANO,yes
+2023-11-14-069,Pavel Kříž,ANO,yes
+2023-11-14-069,Miroslav Kubásek,ANO,yes
+2023-11-14-069,René Novotný,ANO,yes
+2023-11-14-069,Pavel Outrata,ANO,yes
+2023-11-14-069,Vít Prýgl,ANO,absent
+2023-11-14-069,Daniel Struž,ANO,yes
+2023-11-14-069,Jiří Oliva,SOCDEM,absent
+2023-11-14-069,Břetislav Štefan,SOCDEM,yes
+2023-11-14-069,Marek Viskot,SOCDEM,yes
+2023-11-14-069,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-069,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-069,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-069,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-069,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-069,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-069,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-069,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-069,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-069,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-069,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-069,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-069,David Grund,ODS a TOP 09,yes
+2023-11-14-069,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-069,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-069,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-069,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-069,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-069,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-069,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-069,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-069,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-069,David Trllo,ODS a TOP 09,yes
+2023-11-14-069,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-069,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-069,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-069,Tomáš Koláčný,Piráti,yes
+2023-11-14-069,Marek Lahoda,Piráti,yes
+2023-11-14-069,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-069,Adam Zemek,Piráti,yes
+2023-11-14-069,Tomáš Anderle,SPD+Trikolora,yes
+2023-11-14-069,Blanka Borovská,SPD+Trikolora,yes
+2023-11-14-069,Jiří Kment,SPD+Trikolora,yes
+2023-11-14-069,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-069,Leoš Prokeš,SPD+Trikolora,yes
+2023-11-14-069,Tomáš Skřička,SPD+Trikolora,yes
+2023-11-14-069,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-069,Jasna Flamiková,Zelení a Žít Brno,yes
+2023-11-14-069,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-068,Petr Bauer,ANO,yes
+2023-11-14-068,Petr Bořecký,ANO,yes
+2023-11-14-068,René Černý,ANO,yes
+2023-11-14-068,Alena Gruberová,ANO,yes
+2023-11-14-068,Kateřina Jarošová,ANO,yes
+2023-11-14-068,Karel Kalivoda,ANO,yes
+2023-11-14-068,Karin Podivinská,ANO,yes
+2023-11-14-068,Pavel Kříž,ANO,yes
+2023-11-14-068,Miroslav Kubásek,ANO,yes
+2023-11-14-068,René Novotný,ANO,yes
+2023-11-14-068,Pavel Outrata,ANO,yes
+2023-11-14-068,Vít Prýgl,ANO,absent
+2023-11-14-068,Daniel Struž,ANO,yes
+2023-11-14-068,Jiří Oliva,SOCDEM,absent
+2023-11-14-068,Břetislav Štefan,SOCDEM,yes
+2023-11-14-068,Marek Viskot,SOCDEM,yes
+2023-11-14-068,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-068,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-068,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-068,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-068,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-068,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-068,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-068,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-068,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-068,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-068,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-068,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-068,David Grund,ODS a TOP 09,yes
+2023-11-14-068,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-068,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-068,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-068,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-068,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-068,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-068,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-068,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-068,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-068,David Trllo,ODS a TOP 09,not voting
+2023-11-14-068,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-068,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-068,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-068,Tomáš Koláčný,Piráti,yes
+2023-11-14-068,Marek Lahoda,Piráti,yes
+2023-11-14-068,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-068,Adam Zemek,Piráti,yes
+2023-11-14-068,Tomáš Anderle,SPD+Trikolora,yes
+2023-11-14-068,Blanka Borovská,SPD+Trikolora,yes
+2023-11-14-068,Jiří Kment,SPD+Trikolora,yes
+2023-11-14-068,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-068,Leoš Prokeš,SPD+Trikolora,yes
+2023-11-14-068,Tomáš Skřička,SPD+Trikolora,yes
+2023-11-14-068,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-068,Jasna Flamiková,Zelení a Žít Brno,yes
+2023-11-14-068,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-067,Petr Bauer,ANO,yes
+2023-11-14-067,Petr Bořecký,ANO,yes
+2023-11-14-067,René Černý,ANO,not voting
+2023-11-14-067,Alena Gruberová,ANO,yes
+2023-11-14-067,Kateřina Jarošová,ANO,yes
+2023-11-14-067,Karel Kalivoda,ANO,yes
+2023-11-14-067,Karin Podivinská,ANO,yes
+2023-11-14-067,Pavel Kříž,ANO,yes
+2023-11-14-067,Miroslav Kubásek,ANO,yes
+2023-11-14-067,René Novotný,ANO,yes
+2023-11-14-067,Pavel Outrata,ANO,yes
+2023-11-14-067,Vít Prýgl,ANO,absent
+2023-11-14-067,Daniel Struž,ANO,yes
+2023-11-14-067,Jiří Oliva,SOCDEM,absent
+2023-11-14-067,Břetislav Štefan,SOCDEM,yes
+2023-11-14-067,Marek Viskot,SOCDEM,yes
+2023-11-14-067,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-067,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-067,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-067,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-067,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-067,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-067,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-067,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-067,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-067,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-067,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-067,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-067,David Grund,ODS a TOP 09,yes
+2023-11-14-067,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-067,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-067,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-067,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-067,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-067,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-067,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-067,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-067,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-067,David Trllo,ODS a TOP 09,yes
+2023-11-14-067,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-067,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-067,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-067,Tomáš Koláčný,Piráti,yes
+2023-11-14-067,Marek Lahoda,Piráti,yes
+2023-11-14-067,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-067,Adam Zemek,Piráti,yes
+2023-11-14-067,Tomáš Anderle,SPD+Trikolora,yes
+2023-11-14-067,Blanka Borovská,SPD+Trikolora,yes
+2023-11-14-067,Jiří Kment,SPD+Trikolora,yes
+2023-11-14-067,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-067,Leoš Prokeš,SPD+Trikolora,yes
+2023-11-14-067,Tomáš Skřička,SPD+Trikolora,yes
+2023-11-14-067,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-067,Jasna Flamiková,Zelení a Žít Brno,yes
+2023-11-14-067,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-066,Petr Bauer,ANO,yes
+2023-11-14-066,Petr Bořecký,ANO,yes
+2023-11-14-066,René Černý,ANO,yes
+2023-11-14-066,Alena Gruberová,ANO,yes
+2023-11-14-066,Kateřina Jarošová,ANO,yes
+2023-11-14-066,Karel Kalivoda,ANO,yes
+2023-11-14-066,Karin Podivinská,ANO,yes
+2023-11-14-066,Pavel Kříž,ANO,yes
+2023-11-14-066,Miroslav Kubásek,ANO,yes
+2023-11-14-066,René Novotný,ANO,yes
+2023-11-14-066,Pavel Outrata,ANO,yes
+2023-11-14-066,Vít Prýgl,ANO,absent
+2023-11-14-066,Daniel Struž,ANO,yes
+2023-11-14-066,Jiří Oliva,SOCDEM,absent
+2023-11-14-066,Břetislav Štefan,SOCDEM,yes
+2023-11-14-066,Marek Viskot,SOCDEM,yes
+2023-11-14-066,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-066,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-066,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-066,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-066,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-066,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-066,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-066,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-066,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-066,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-066,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-066,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-066,David Grund,ODS a TOP 09,yes
+2023-11-14-066,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-066,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-066,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-066,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-066,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-066,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-066,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-066,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-066,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-066,David Trllo,ODS a TOP 09,yes
+2023-11-14-066,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-066,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-066,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-066,Tomáš Koláčný,Piráti,yes
+2023-11-14-066,Marek Lahoda,Piráti,yes
+2023-11-14-066,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-066,Adam Zemek,Piráti,yes
+2023-11-14-066,Tomáš Anderle,SPD+Trikolora,yes
+2023-11-14-066,Blanka Borovská,SPD+Trikolora,yes
+2023-11-14-066,Jiří Kment,SPD+Trikolora,yes
+2023-11-14-066,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-066,Leoš Prokeš,SPD+Trikolora,yes
+2023-11-14-066,Tomáš Skřička,SPD+Trikolora,yes
+2023-11-14-066,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-066,Jasna Flamiková,Zelení a Žít Brno,yes
+2023-11-14-066,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-065,Petr Bauer,ANO,yes
+2023-11-14-065,Petr Bořecký,ANO,yes
+2023-11-14-065,René Černý,ANO,yes
+2023-11-14-065,Alena Gruberová,ANO,yes
+2023-11-14-065,Kateřina Jarošová,ANO,yes
+2023-11-14-065,Karel Kalivoda,ANO,yes
+2023-11-14-065,Karin Podivinská,ANO,yes
+2023-11-14-065,Pavel Kříž,ANO,yes
+2023-11-14-065,Miroslav Kubásek,ANO,yes
+2023-11-14-065,René Novotný,ANO,yes
+2023-11-14-065,Pavel Outrata,ANO,yes
+2023-11-14-065,Vít Prýgl,ANO,absent
+2023-11-14-065,Daniel Struž,ANO,yes
+2023-11-14-065,Jiří Oliva,SOCDEM,absent
+2023-11-14-065,Břetislav Štefan,SOCDEM,not voting
+2023-11-14-065,Marek Viskot,SOCDEM,not voting
+2023-11-14-065,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-065,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-065,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-065,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-065,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-065,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-065,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-065,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-065,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-065,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-065,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-065,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-065,David Grund,ODS a TOP 09,yes
+2023-11-14-065,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-065,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-065,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-065,Vladan Krásný,ODS a TOP 09,not voting
+2023-11-14-065,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-065,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-065,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-065,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-065,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-065,David Trllo,ODS a TOP 09,yes
+2023-11-14-065,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-065,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-065,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-065,Tomáš Koláčný,Piráti,abstain
+2023-11-14-065,Marek Lahoda,Piráti,abstain
+2023-11-14-065,Monika Lukášová Spilková,Piráti,abstain
+2023-11-14-065,Adam Zemek,Piráti,abstain
+2023-11-14-065,Tomáš Anderle,SPD+Trikolora,yes
+2023-11-14-065,Blanka Borovská,SPD+Trikolora,yes
+2023-11-14-065,Jiří Kment,SPD+Trikolora,yes
+2023-11-14-065,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-065,Leoš Prokeš,SPD+Trikolora,yes
+2023-11-14-065,Tomáš Skřička,SPD+Trikolora,yes
+2023-11-14-065,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-065,Jasna Flamiková,Zelení a Žít Brno,yes
+2023-11-14-065,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-064,Petr Bauer,ANO,yes
+2023-11-14-064,Petr Bořecký,ANO,yes
+2023-11-14-064,René Černý,ANO,yes
+2023-11-14-064,Alena Gruberová,ANO,yes
+2023-11-14-064,Kateřina Jarošová,ANO,yes
+2023-11-14-064,Karel Kalivoda,ANO,yes
+2023-11-14-064,Karin Podivinská,ANO,yes
+2023-11-14-064,Pavel Kříž,ANO,yes
+2023-11-14-064,Miroslav Kubásek,ANO,yes
+2023-11-14-064,René Novotný,ANO,yes
+2023-11-14-064,Pavel Outrata,ANO,yes
+2023-11-14-064,Vít Prýgl,ANO,absent
+2023-11-14-064,Daniel Struž,ANO,yes
+2023-11-14-064,Jiří Oliva,SOCDEM,absent
+2023-11-14-064,Břetislav Štefan,SOCDEM,not voting
+2023-11-14-064,Marek Viskot,SOCDEM,not voting
+2023-11-14-064,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-064,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-064,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-064,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-064,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-064,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-064,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-064,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-064,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-064,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-064,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-064,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-064,David Grund,ODS a TOP 09,not voting
+2023-11-14-064,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-064,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-064,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-064,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-064,Petr Kratochvíl,ODS a TOP 09,not voting
+2023-11-14-064,Andrea Pazderová,ODS a TOP 09,not voting
+2023-11-14-064,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-064,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-064,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-064,David Trllo,ODS a TOP 09,not voting
+2023-11-14-064,Pavel Urubek,ODS a TOP 09,not voting
+2023-11-14-064,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-064,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-064,Tomáš Koláčný,Piráti,yes
+2023-11-14-064,Marek Lahoda,Piráti,yes
+2023-11-14-064,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-064,Adam Zemek,Piráti,yes
+2023-11-14-064,Tomáš Anderle,SPD+Trikolora,yes
+2023-11-14-064,Blanka Borovská,SPD+Trikolora,yes
+2023-11-14-064,Jiří Kment,SPD+Trikolora,yes
+2023-11-14-064,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-064,Leoš Prokeš,SPD+Trikolora,yes
+2023-11-14-064,Tomáš Skřička,SPD+Trikolora,yes
+2023-11-14-064,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-064,Jasna Flamiková,Zelení a Žít Brno,abstain
+2023-11-14-064,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-063,Petr Bauer,ANO,yes
+2023-11-14-063,Petr Bořecký,ANO,yes
+2023-11-14-063,René Černý,ANO,yes
+2023-11-14-063,Alena Gruberová,ANO,yes
+2023-11-14-063,Kateřina Jarošová,ANO,yes
+2023-11-14-063,Karel Kalivoda,ANO,yes
+2023-11-14-063,Karin Podivinská,ANO,yes
+2023-11-14-063,Pavel Kříž,ANO,yes
+2023-11-14-063,Miroslav Kubásek,ANO,yes
+2023-11-14-063,René Novotný,ANO,yes
+2023-11-14-063,Pavel Outrata,ANO,yes
+2023-11-14-063,Vít Prýgl,ANO,absent
+2023-11-14-063,Daniel Struž,ANO,yes
+2023-11-14-063,Jiří Oliva,SOCDEM,absent
+2023-11-14-063,Břetislav Štefan,SOCDEM,yes
+2023-11-14-063,Marek Viskot,SOCDEM,not voting
+2023-11-14-063,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-063,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-063,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-063,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-063,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-063,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-063,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-063,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-063,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-063,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-063,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-063,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-063,David Grund,ODS a TOP 09,yes
+2023-11-14-063,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-063,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-063,Robert Kerndl,ODS a TOP 09,not voting
+2023-11-14-063,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-063,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-063,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-063,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-063,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-063,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-063,David Trllo,ODS a TOP 09,yes
+2023-11-14-063,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-063,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-063,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-063,Tomáš Koláčný,Piráti,yes
+2023-11-14-063,Marek Lahoda,Piráti,yes
+2023-11-14-063,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-063,Adam Zemek,Piráti,yes
+2023-11-14-063,Tomáš Anderle,SPD+Trikolora,abstain
+2023-11-14-063,Blanka Borovská,SPD+Trikolora,abstain
+2023-11-14-063,Jiří Kment,SPD+Trikolora,abstain
+2023-11-14-063,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-063,Leoš Prokeš,SPD+Trikolora,abstain
+2023-11-14-063,Tomáš Skřička,SPD+Trikolora,abstain
+2023-11-14-063,Jana Drápalová,Zelení a Žít Brno,not voting
+2023-11-14-063,Jasna Flamiková,Zelení a Žít Brno,abstain
+2023-11-14-063,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-062,Petr Bauer,ANO,yes
+2023-11-14-062,Petr Bořecký,ANO,yes
+2023-11-14-062,René Černý,ANO,yes
+2023-11-14-062,Alena Gruberová,ANO,yes
+2023-11-14-062,Kateřina Jarošová,ANO,yes
+2023-11-14-062,Karel Kalivoda,ANO,yes
+2023-11-14-062,Karin Podivinská,ANO,yes
+2023-11-14-062,Pavel Kříž,ANO,yes
+2023-11-14-062,Miroslav Kubásek,ANO,yes
+2023-11-14-062,René Novotný,ANO,yes
+2023-11-14-062,Pavel Outrata,ANO,yes
+2023-11-14-062,Vít Prýgl,ANO,absent
+2023-11-14-062,Daniel Struž,ANO,yes
+2023-11-14-062,Jiří Oliva,SOCDEM,absent
+2023-11-14-062,Břetislav Štefan,SOCDEM,yes
+2023-11-14-062,Marek Viskot,SOCDEM,not voting
+2023-11-14-062,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-062,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-062,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-062,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-062,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-062,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-062,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-062,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-062,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-062,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-062,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-062,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-062,David Grund,ODS a TOP 09,yes
+2023-11-14-062,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-062,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-062,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-062,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-062,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-062,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-062,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-062,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-062,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-062,David Trllo,ODS a TOP 09,yes
+2023-11-14-062,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-062,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-062,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-062,Tomáš Koláčný,Piráti,yes
+2023-11-14-062,Marek Lahoda,Piráti,yes
+2023-11-14-062,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-062,Adam Zemek,Piráti,yes
+2023-11-14-062,Tomáš Anderle,SPD+Trikolora,yes
+2023-11-14-062,Blanka Borovská,SPD+Trikolora,yes
+2023-11-14-062,Jiří Kment,SPD+Trikolora,yes
+2023-11-14-062,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-062,Leoš Prokeš,SPD+Trikolora,yes
+2023-11-14-062,Tomáš Skřička,SPD+Trikolora,yes
+2023-11-14-062,Jana Drápalová,Zelení a Žít Brno,not voting
+2023-11-14-062,Jasna Flamiková,Zelení a Žít Brno,abstain
+2023-11-14-062,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-061,Petr Bauer,ANO,yes
+2023-11-14-061,Petr Bořecký,ANO,yes
+2023-11-14-061,René Černý,ANO,yes
+2023-11-14-061,Alena Gruberová,ANO,yes
+2023-11-14-061,Kateřina Jarošová,ANO,yes
+2023-11-14-061,Karel Kalivoda,ANO,yes
+2023-11-14-061,Karin Podivinská,ANO,yes
+2023-11-14-061,Pavel Kříž,ANO,yes
+2023-11-14-061,Miroslav Kubásek,ANO,yes
+2023-11-14-061,René Novotný,ANO,yes
+2023-11-14-061,Pavel Outrata,ANO,yes
+2023-11-14-061,Vít Prýgl,ANO,absent
+2023-11-14-061,Daniel Struž,ANO,yes
+2023-11-14-061,Jiří Oliva,SOCDEM,absent
+2023-11-14-061,Břetislav Štefan,SOCDEM,yes
+2023-11-14-061,Marek Viskot,SOCDEM,not voting
+2023-11-14-061,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-061,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-061,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-061,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-061,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-061,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-061,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-061,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-061,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-061,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-061,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-061,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-061,David Grund,ODS a TOP 09,yes
+2023-11-14-061,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-061,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-061,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-061,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-061,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-061,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-061,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-061,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-061,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-061,David Trllo,ODS a TOP 09,yes
+2023-11-14-061,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-061,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-061,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-061,Tomáš Koláčný,Piráti,yes
+2023-11-14-061,Marek Lahoda,Piráti,yes
+2023-11-14-061,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-061,Adam Zemek,Piráti,yes
+2023-11-14-061,Tomáš Anderle,SPD+Trikolora,yes
+2023-11-14-061,Blanka Borovská,SPD+Trikolora,yes
+2023-11-14-061,Jiří Kment,SPD+Trikolora,yes
+2023-11-14-061,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-061,Leoš Prokeš,SPD+Trikolora,yes
+2023-11-14-061,Tomáš Skřička,SPD+Trikolora,yes
+2023-11-14-061,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-061,Jasna Flamiková,Zelení a Žít Brno,yes
+2023-11-14-061,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-060,Petr Bauer,ANO,yes
+2023-11-14-060,Petr Bořecký,ANO,yes
+2023-11-14-060,René Černý,ANO,yes
+2023-11-14-060,Alena Gruberová,ANO,yes
+2023-11-14-060,Kateřina Jarošová,ANO,yes
+2023-11-14-060,Karel Kalivoda,ANO,yes
+2023-11-14-060,Karin Podivinská,ANO,yes
+2023-11-14-060,Pavel Kříž,ANO,yes
+2023-11-14-060,Miroslav Kubásek,ANO,yes
+2023-11-14-060,René Novotný,ANO,yes
+2023-11-14-060,Pavel Outrata,ANO,yes
+2023-11-14-060,Vít Prýgl,ANO,absent
+2023-11-14-060,Daniel Struž,ANO,yes
+2023-11-14-060,Jiří Oliva,SOCDEM,absent
+2023-11-14-060,Břetislav Štefan,SOCDEM,not voting
+2023-11-14-060,Marek Viskot,SOCDEM,not voting
+2023-11-14-060,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-060,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-060,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-060,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-060,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-060,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-060,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-060,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-060,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-060,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-060,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-060,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-060,David Grund,ODS a TOP 09,yes
+2023-11-14-060,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-060,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-060,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-060,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-060,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-060,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-060,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-060,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-060,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-060,David Trllo,ODS a TOP 09,yes
+2023-11-14-060,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-060,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-060,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-060,Tomáš Koláčný,Piráti,yes
+2023-11-14-060,Marek Lahoda,Piráti,yes
+2023-11-14-060,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-060,Adam Zemek,Piráti,yes
+2023-11-14-060,Tomáš Anderle,SPD+Trikolora,yes
+2023-11-14-060,Blanka Borovská,SPD+Trikolora,yes
+2023-11-14-060,Jiří Kment,SPD+Trikolora,yes
+2023-11-14-060,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-060,Leoš Prokeš,SPD+Trikolora,yes
+2023-11-14-060,Tomáš Skřička,SPD+Trikolora,yes
+2023-11-14-060,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-060,Jasna Flamiková,Zelení a Žít Brno,yes
+2023-11-14-060,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-059,Petr Bauer,ANO,yes
+2023-11-14-059,Petr Bořecký,ANO,yes
+2023-11-14-059,René Černý,ANO,yes
+2023-11-14-059,Alena Gruberová,ANO,yes
+2023-11-14-059,Kateřina Jarošová,ANO,yes
+2023-11-14-059,Karel Kalivoda,ANO,yes
+2023-11-14-059,Karin Podivinská,ANO,yes
+2023-11-14-059,Pavel Kříž,ANO,yes
+2023-11-14-059,Miroslav Kubásek,ANO,yes
+2023-11-14-059,René Novotný,ANO,not voting
+2023-11-14-059,Pavel Outrata,ANO,yes
+2023-11-14-059,Vít Prýgl,ANO,absent
+2023-11-14-059,Daniel Struž,ANO,yes
+2023-11-14-059,Jiří Oliva,SOCDEM,absent
+2023-11-14-059,Břetislav Štefan,SOCDEM,yes
+2023-11-14-059,Marek Viskot,SOCDEM,not voting
+2023-11-14-059,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-059,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-059,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-059,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-059,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-059,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-059,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-059,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-059,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-059,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-059,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-059,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-059,David Grund,ODS a TOP 09,yes
+2023-11-14-059,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-059,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-059,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-059,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-059,Petr Kratochvíl,ODS a TOP 09,not voting
+2023-11-14-059,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-059,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-059,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-059,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-059,David Trllo,ODS a TOP 09,yes
+2023-11-14-059,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-059,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-059,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-059,Tomáš Koláčný,Piráti,yes
+2023-11-14-059,Marek Lahoda,Piráti,yes
+2023-11-14-059,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-059,Adam Zemek,Piráti,yes
+2023-11-14-059,Tomáš Anderle,SPD+Trikolora,abstain
+2023-11-14-059,Blanka Borovská,SPD+Trikolora,abstain
+2023-11-14-059,Jiří Kment,SPD+Trikolora,abstain
+2023-11-14-059,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-059,Leoš Prokeš,SPD+Trikolora,abstain
+2023-11-14-059,Tomáš Skřička,SPD+Trikolora,abstain
+2023-11-14-059,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-059,Jasna Flamiková,Zelení a Žít Brno,abstain
+2023-11-14-059,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-058,Petr Bauer,ANO,yes
+2023-11-14-058,Petr Bořecký,ANO,yes
+2023-11-14-058,René Černý,ANO,yes
+2023-11-14-058,Alena Gruberová,ANO,yes
+2023-11-14-058,Kateřina Jarošová,ANO,yes
+2023-11-14-058,Karel Kalivoda,ANO,yes
+2023-11-14-058,Karin Podivinská,ANO,yes
+2023-11-14-058,Pavel Kříž,ANO,yes
+2023-11-14-058,Miroslav Kubásek,ANO,yes
+2023-11-14-058,René Novotný,ANO,yes
+2023-11-14-058,Pavel Outrata,ANO,yes
+2023-11-14-058,Vít Prýgl,ANO,absent
+2023-11-14-058,Daniel Struž,ANO,yes
+2023-11-14-058,Jiří Oliva,SOCDEM,absent
+2023-11-14-058,Břetislav Štefan,SOCDEM,yes
+2023-11-14-058,Marek Viskot,SOCDEM,not voting
+2023-11-14-058,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-058,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-058,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-058,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-058,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-058,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-058,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-058,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-058,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-058,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-058,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-058,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-058,David Grund,ODS a TOP 09,yes
+2023-11-14-058,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-058,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-058,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-058,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-058,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-058,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-058,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-058,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-058,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-058,David Trllo,ODS a TOP 09,yes
+2023-11-14-058,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-058,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-058,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-058,Tomáš Koláčný,Piráti,abstain
+2023-11-14-058,Marek Lahoda,Piráti,abstain
+2023-11-14-058,Monika Lukášová Spilková,Piráti,abstain
+2023-11-14-058,Adam Zemek,Piráti,abstain
+2023-11-14-058,Tomáš Anderle,SPD+Trikolora,abstain
+2023-11-14-058,Blanka Borovská,SPD+Trikolora,abstain
+2023-11-14-058,Jiří Kment,SPD+Trikolora,abstain
+2023-11-14-058,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-058,Leoš Prokeš,SPD+Trikolora,abstain
+2023-11-14-058,Tomáš Skřička,SPD+Trikolora,abstain
+2023-11-14-058,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-058,Jasna Flamiková,Zelení a Žít Brno,abstain
+2023-11-14-058,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-057,Petr Bauer,ANO,yes
+2023-11-14-057,Petr Bořecký,ANO,yes
+2023-11-14-057,René Černý,ANO,yes
+2023-11-14-057,Alena Gruberová,ANO,yes
+2023-11-14-057,Kateřina Jarošová,ANO,yes
+2023-11-14-057,Karel Kalivoda,ANO,yes
+2023-11-14-057,Karin Podivinská,ANO,yes
+2023-11-14-057,Pavel Kříž,ANO,yes
+2023-11-14-057,Miroslav Kubásek,ANO,yes
+2023-11-14-057,René Novotný,ANO,yes
+2023-11-14-057,Pavel Outrata,ANO,yes
+2023-11-14-057,Vít Prýgl,ANO,absent
+2023-11-14-057,Daniel Struž,ANO,yes
+2023-11-14-057,Jiří Oliva,SOCDEM,absent
+2023-11-14-057,Břetislav Štefan,SOCDEM,yes
+2023-11-14-057,Marek Viskot,SOCDEM,not voting
+2023-11-14-057,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-057,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-057,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-057,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-057,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-057,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-057,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-057,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-057,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-057,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-057,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-057,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-057,David Grund,ODS a TOP 09,yes
+2023-11-14-057,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-057,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-057,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-057,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-057,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-057,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-057,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-057,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-057,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-057,David Trllo,ODS a TOP 09,yes
+2023-11-14-057,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-057,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-057,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-057,Tomáš Koláčný,Piráti,abstain
+2023-11-14-057,Marek Lahoda,Piráti,abstain
+2023-11-14-057,Monika Lukášová Spilková,Piráti,abstain
+2023-11-14-057,Adam Zemek,Piráti,abstain
+2023-11-14-057,Tomáš Anderle,SPD+Trikolora,abstain
+2023-11-14-057,Blanka Borovská,SPD+Trikolora,abstain
+2023-11-14-057,Jiří Kment,SPD+Trikolora,abstain
+2023-11-14-057,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-057,Leoš Prokeš,SPD+Trikolora,abstain
+2023-11-14-057,Tomáš Skřička,SPD+Trikolora,abstain
+2023-11-14-057,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-057,Jasna Flamiková,Zelení a Žít Brno,abstain
+2023-11-14-057,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-056,Petr Bauer,ANO,yes
+2023-11-14-056,Petr Bořecký,ANO,yes
+2023-11-14-056,René Černý,ANO,yes
+2023-11-14-056,Alena Gruberová,ANO,yes
+2023-11-14-056,Kateřina Jarošová,ANO,yes
+2023-11-14-056,Karel Kalivoda,ANO,yes
+2023-11-14-056,Karin Podivinská,ANO,not voting
+2023-11-14-056,Pavel Kříž,ANO,yes
+2023-11-14-056,Miroslav Kubásek,ANO,yes
+2023-11-14-056,René Novotný,ANO,yes
+2023-11-14-056,Pavel Outrata,ANO,yes
+2023-11-14-056,Vít Prýgl,ANO,absent
+2023-11-14-056,Daniel Struž,ANO,yes
+2023-11-14-056,Jiří Oliva,SOCDEM,absent
+2023-11-14-056,Břetislav Štefan,SOCDEM,not voting
+2023-11-14-056,Marek Viskot,SOCDEM,not voting
+2023-11-14-056,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-056,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-056,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-056,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-056,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-056,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-056,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-056,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-056,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-056,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-056,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-056,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-056,David Grund,ODS a TOP 09,yes
+2023-11-14-056,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-056,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-056,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-056,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-056,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-056,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-056,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-056,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-056,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-056,David Trllo,ODS a TOP 09,yes
+2023-11-14-056,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-056,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-056,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-056,Tomáš Koláčný,Piráti,abstain
+2023-11-14-056,Marek Lahoda,Piráti,abstain
+2023-11-14-056,Monika Lukášová Spilková,Piráti,abstain
+2023-11-14-056,Adam Zemek,Piráti,abstain
+2023-11-14-056,Tomáš Anderle,SPD+Trikolora,yes
+2023-11-14-056,Blanka Borovská,SPD+Trikolora,yes
+2023-11-14-056,Jiří Kment,SPD+Trikolora,yes
+2023-11-14-056,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-056,Leoš Prokeš,SPD+Trikolora,yes
+2023-11-14-056,Tomáš Skřička,SPD+Trikolora,yes
+2023-11-14-056,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-056,Jasna Flamiková,Zelení a Žít Brno,abstain
+2023-11-14-056,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-055,Petr Bauer,ANO,yes
+2023-11-14-055,Petr Bořecký,ANO,yes
+2023-11-14-055,René Černý,ANO,yes
+2023-11-14-055,Alena Gruberová,ANO,yes
+2023-11-14-055,Kateřina Jarošová,ANO,yes
+2023-11-14-055,Karel Kalivoda,ANO,yes
+2023-11-14-055,Karin Podivinská,ANO,yes
+2023-11-14-055,Pavel Kříž,ANO,yes
+2023-11-14-055,Miroslav Kubásek,ANO,yes
+2023-11-14-055,René Novotný,ANO,yes
+2023-11-14-055,Pavel Outrata,ANO,yes
+2023-11-14-055,Vít Prýgl,ANO,absent
+2023-11-14-055,Daniel Struž,ANO,yes
+2023-11-14-055,Jiří Oliva,SOCDEM,absent
+2023-11-14-055,Břetislav Štefan,SOCDEM,not voting
+2023-11-14-055,Marek Viskot,SOCDEM,not voting
+2023-11-14-055,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-055,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-055,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-055,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-055,Filip Leder,KDU-ČSL a STAN,not voting
+2023-11-14-055,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-055,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-055,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-055,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-055,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-055,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-055,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-055,David Grund,ODS a TOP 09,yes
+2023-11-14-055,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-055,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-055,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-055,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-055,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-055,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-055,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-055,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-055,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-055,David Trllo,ODS a TOP 09,yes
+2023-11-14-055,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-055,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-055,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-055,Tomáš Koláčný,Piráti,abstain
+2023-11-14-055,Marek Lahoda,Piráti,abstain
+2023-11-14-055,Monika Lukášová Spilková,Piráti,abstain
+2023-11-14-055,Adam Zemek,Piráti,abstain
+2023-11-14-055,Tomáš Anderle,SPD+Trikolora,yes
+2023-11-14-055,Blanka Borovská,SPD+Trikolora,yes
+2023-11-14-055,Jiří Kment,SPD+Trikolora,yes
+2023-11-14-055,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-055,Leoš Prokeš,SPD+Trikolora,yes
+2023-11-14-055,Tomáš Skřička,SPD+Trikolora,yes
+2023-11-14-055,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-055,Jasna Flamiková,Zelení a Žít Brno,abstain
+2023-11-14-055,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-054,Petr Bauer,ANO,yes
+2023-11-14-054,Petr Bořecký,ANO,yes
+2023-11-14-054,René Černý,ANO,yes
+2023-11-14-054,Alena Gruberová,ANO,yes
+2023-11-14-054,Kateřina Jarošová,ANO,yes
+2023-11-14-054,Karel Kalivoda,ANO,yes
+2023-11-14-054,Karin Podivinská,ANO,yes
+2023-11-14-054,Pavel Kříž,ANO,yes
+2023-11-14-054,Miroslav Kubásek,ANO,yes
+2023-11-14-054,René Novotný,ANO,yes
+2023-11-14-054,Pavel Outrata,ANO,yes
+2023-11-14-054,Vít Prýgl,ANO,absent
+2023-11-14-054,Daniel Struž,ANO,yes
+2023-11-14-054,Jiří Oliva,SOCDEM,absent
+2023-11-14-054,Břetislav Štefan,SOCDEM,yes
+2023-11-14-054,Marek Viskot,SOCDEM,not voting
+2023-11-14-054,Petr Hladík,KDU-ČSL a STAN,not voting
+2023-11-14-054,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-054,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-054,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-054,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-054,Martin Maleček,KDU-ČSL a STAN,not voting
+2023-11-14-054,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-054,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-054,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-054,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-054,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-054,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-054,David Grund,ODS a TOP 09,yes
+2023-11-14-054,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-054,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-054,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-054,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-054,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-054,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-054,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-054,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-054,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-054,David Trllo,ODS a TOP 09,yes
+2023-11-14-054,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-054,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-054,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-054,Tomáš Koláčný,Piráti,abstain
+2023-11-14-054,Marek Lahoda,Piráti,abstain
+2023-11-14-054,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-054,Adam Zemek,Piráti,abstain
+2023-11-14-054,Tomáš Anderle,SPD+Trikolora,yes
+2023-11-14-054,Blanka Borovská,SPD+Trikolora,yes
+2023-11-14-054,Jiří Kment,SPD+Trikolora,yes
+2023-11-14-054,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-054,Leoš Prokeš,SPD+Trikolora,yes
+2023-11-14-054,Tomáš Skřička,SPD+Trikolora,yes
+2023-11-14-054,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-054,Jasna Flamiková,Zelení a Žít Brno,not voting
+2023-11-14-054,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-053,Petr Bauer,ANO,yes
+2023-11-14-053,Petr Bořecký,ANO,yes
+2023-11-14-053,René Černý,ANO,yes
+2023-11-14-053,Alena Gruberová,ANO,yes
+2023-11-14-053,Kateřina Jarošová,ANO,yes
+2023-11-14-053,Karel Kalivoda,ANO,yes
+2023-11-14-053,Karin Podivinská,ANO,yes
+2023-11-14-053,Pavel Kříž,ANO,yes
+2023-11-14-053,Miroslav Kubásek,ANO,yes
+2023-11-14-053,René Novotný,ANO,yes
+2023-11-14-053,Pavel Outrata,ANO,yes
+2023-11-14-053,Vít Prýgl,ANO,absent
+2023-11-14-053,Daniel Struž,ANO,yes
+2023-11-14-053,Jiří Oliva,SOCDEM,absent
+2023-11-14-053,Břetislav Štefan,SOCDEM,yes
+2023-11-14-053,Marek Viskot,SOCDEM,not voting
+2023-11-14-053,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-053,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-053,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-053,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-053,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-053,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-053,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-053,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-053,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-053,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-053,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-053,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-053,David Grund,ODS a TOP 09,yes
+2023-11-14-053,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-053,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-053,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-053,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-053,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-053,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-053,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-053,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-053,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-053,David Trllo,ODS a TOP 09,yes
+2023-11-14-053,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-053,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-053,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-053,Tomáš Koláčný,Piráti,yes
+2023-11-14-053,Marek Lahoda,Piráti,yes
+2023-11-14-053,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-053,Adam Zemek,Piráti,yes
+2023-11-14-053,Tomáš Anderle,SPD+Trikolora,yes
+2023-11-14-053,Blanka Borovská,SPD+Trikolora,yes
+2023-11-14-053,Jiří Kment,SPD+Trikolora,yes
+2023-11-14-053,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-053,Leoš Prokeš,SPD+Trikolora,yes
+2023-11-14-053,Tomáš Skřička,SPD+Trikolora,yes
+2023-11-14-053,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-053,Jasna Flamiková,Zelení a Žít Brno,yes
+2023-11-14-053,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-052,Petr Bauer,ANO,yes
+2023-11-14-052,Petr Bořecký,ANO,yes
+2023-11-14-052,René Černý,ANO,yes
+2023-11-14-052,Alena Gruberová,ANO,yes
+2023-11-14-052,Kateřina Jarošová,ANO,yes
+2023-11-14-052,Karel Kalivoda,ANO,yes
+2023-11-14-052,Karin Podivinská,ANO,yes
+2023-11-14-052,Pavel Kříž,ANO,yes
+2023-11-14-052,Miroslav Kubásek,ANO,yes
+2023-11-14-052,René Novotný,ANO,yes
+2023-11-14-052,Pavel Outrata,ANO,yes
+2023-11-14-052,Vít Prýgl,ANO,absent
+2023-11-14-052,Daniel Struž,ANO,yes
+2023-11-14-052,Jiří Oliva,SOCDEM,absent
+2023-11-14-052,Břetislav Štefan,SOCDEM,yes
+2023-11-14-052,Marek Viskot,SOCDEM,not voting
+2023-11-14-052,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-052,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-052,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-052,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-052,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-052,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-052,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-052,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-052,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-052,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-052,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-052,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-052,David Grund,ODS a TOP 09,yes
+2023-11-14-052,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-052,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-052,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-052,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-052,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-052,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-052,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-052,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-052,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-052,David Trllo,ODS a TOP 09,yes
+2023-11-14-052,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-052,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-052,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-052,Tomáš Koláčný,Piráti,yes
+2023-11-14-052,Marek Lahoda,Piráti,yes
+2023-11-14-052,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-052,Adam Zemek,Piráti,yes
+2023-11-14-052,Tomáš Anderle,SPD+Trikolora,yes
+2023-11-14-052,Blanka Borovská,SPD+Trikolora,yes
+2023-11-14-052,Jiří Kment,SPD+Trikolora,abstain
+2023-11-14-052,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-052,Leoš Prokeš,SPD+Trikolora,yes
+2023-11-14-052,Tomáš Skřička,SPD+Trikolora,abstain
+2023-11-14-052,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-052,Jasna Flamiková,Zelení a Žít Brno,yes
+2023-11-14-052,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-051,Petr Bauer,ANO,yes
+2023-11-14-051,Petr Bořecký,ANO,yes
+2023-11-14-051,René Černý,ANO,yes
+2023-11-14-051,Alena Gruberová,ANO,yes
+2023-11-14-051,Kateřina Jarošová,ANO,yes
+2023-11-14-051,Karel Kalivoda,ANO,yes
+2023-11-14-051,Karin Podivinská,ANO,yes
+2023-11-14-051,Pavel Kříž,ANO,yes
+2023-11-14-051,Miroslav Kubásek,ANO,yes
+2023-11-14-051,René Novotný,ANO,yes
+2023-11-14-051,Pavel Outrata,ANO,yes
+2023-11-14-051,Vít Prýgl,ANO,absent
+2023-11-14-051,Daniel Struž,ANO,yes
+2023-11-14-051,Jiří Oliva,SOCDEM,absent
+2023-11-14-051,Břetislav Štefan,SOCDEM,yes
+2023-11-14-051,Marek Viskot,SOCDEM,not voting
+2023-11-14-051,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-051,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-051,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-051,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-051,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-051,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-051,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-051,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-051,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-051,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-051,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-051,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-051,David Grund,ODS a TOP 09,yes
+2023-11-14-051,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-051,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-051,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-051,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-051,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-051,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-051,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-051,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-051,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-051,David Trllo,ODS a TOP 09,yes
+2023-11-14-051,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-051,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-051,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-051,Tomáš Koláčný,Piráti,yes
+2023-11-14-051,Marek Lahoda,Piráti,yes
+2023-11-14-051,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-051,Adam Zemek,Piráti,yes
+2023-11-14-051,Tomáš Anderle,SPD+Trikolora,abstain
+2023-11-14-051,Blanka Borovská,SPD+Trikolora,abstain
+2023-11-14-051,Jiří Kment,SPD+Trikolora,yes
+2023-11-14-051,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-051,Leoš Prokeš,SPD+Trikolora,yes
+2023-11-14-051,Tomáš Skřička,SPD+Trikolora,yes
+2023-11-14-051,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-051,Jasna Flamiková,Zelení a Žít Brno,yes
+2023-11-14-051,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-050,Petr Bauer,ANO,yes
+2023-11-14-050,Petr Bořecký,ANO,yes
+2023-11-14-050,René Černý,ANO,yes
+2023-11-14-050,Alena Gruberová,ANO,yes
+2023-11-14-050,Kateřina Jarošová,ANO,yes
+2023-11-14-050,Karel Kalivoda,ANO,yes
+2023-11-14-050,Karin Podivinská,ANO,yes
+2023-11-14-050,Pavel Kříž,ANO,yes
+2023-11-14-050,Miroslav Kubásek,ANO,yes
+2023-11-14-050,René Novotný,ANO,yes
+2023-11-14-050,Pavel Outrata,ANO,yes
+2023-11-14-050,Vít Prýgl,ANO,absent
+2023-11-14-050,Daniel Struž,ANO,yes
+2023-11-14-050,Jiří Oliva,SOCDEM,absent
+2023-11-14-050,Břetislav Štefan,SOCDEM,yes
+2023-11-14-050,Marek Viskot,SOCDEM,yes
+2023-11-14-050,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-050,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-050,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-050,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-050,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-050,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-050,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-050,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-050,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-050,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-050,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-050,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-050,David Grund,ODS a TOP 09,yes
+2023-11-14-050,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-050,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-050,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-050,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-050,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-050,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-050,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-050,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-050,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-050,David Trllo,ODS a TOP 09,yes
+2023-11-14-050,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-050,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-050,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-050,Tomáš Koláčný,Piráti,yes
+2023-11-14-050,Marek Lahoda,Piráti,yes
+2023-11-14-050,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-050,Adam Zemek,Piráti,yes
+2023-11-14-050,Tomáš Anderle,SPD+Trikolora,yes
+2023-11-14-050,Blanka Borovská,SPD+Trikolora,yes
+2023-11-14-050,Jiří Kment,SPD+Trikolora,yes
+2023-11-14-050,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-050,Leoš Prokeš,SPD+Trikolora,yes
+2023-11-14-050,Tomáš Skřička,SPD+Trikolora,yes
+2023-11-14-050,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-050,Jasna Flamiková,Zelení a Žít Brno,yes
+2023-11-14-050,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-049,Petr Bauer,ANO,yes
+2023-11-14-049,Petr Bořecký,ANO,yes
+2023-11-14-049,René Černý,ANO,yes
+2023-11-14-049,Alena Gruberová,ANO,yes
+2023-11-14-049,Kateřina Jarošová,ANO,yes
+2023-11-14-049,Karel Kalivoda,ANO,yes
+2023-11-14-049,Karin Podivinská,ANO,yes
+2023-11-14-049,Pavel Kříž,ANO,yes
+2023-11-14-049,Miroslav Kubásek,ANO,yes
+2023-11-14-049,René Novotný,ANO,yes
+2023-11-14-049,Pavel Outrata,ANO,yes
+2023-11-14-049,Vít Prýgl,ANO,absent
+2023-11-14-049,Daniel Struž,ANO,yes
+2023-11-14-049,Jiří Oliva,SOCDEM,absent
+2023-11-14-049,Břetislav Štefan,SOCDEM,yes
+2023-11-14-049,Marek Viskot,SOCDEM,yes
+2023-11-14-049,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-049,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-049,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-049,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-049,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-049,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-049,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-049,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-049,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-049,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-049,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-049,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-049,David Grund,ODS a TOP 09,yes
+2023-11-14-049,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-049,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-049,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-049,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-049,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-049,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-049,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-049,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-049,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-049,David Trllo,ODS a TOP 09,yes
+2023-11-14-049,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-049,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-049,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-049,Tomáš Koláčný,Piráti,yes
+2023-11-14-049,Marek Lahoda,Piráti,yes
+2023-11-14-049,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-049,Adam Zemek,Piráti,yes
+2023-11-14-049,Tomáš Anderle,SPD+Trikolora,yes
+2023-11-14-049,Blanka Borovská,SPD+Trikolora,yes
+2023-11-14-049,Jiří Kment,SPD+Trikolora,yes
+2023-11-14-049,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-049,Leoš Prokeš,SPD+Trikolora,yes
+2023-11-14-049,Tomáš Skřička,SPD+Trikolora,yes
+2023-11-14-049,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-049,Jasna Flamiková,Zelení a Žít Brno,yes
+2023-11-14-049,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-048,Petr Bauer,ANO,yes
+2023-11-14-048,Petr Bořecký,ANO,yes
+2023-11-14-048,René Černý,ANO,yes
+2023-11-14-048,Alena Gruberová,ANO,yes
+2023-11-14-048,Kateřina Jarošová,ANO,yes
+2023-11-14-048,Karel Kalivoda,ANO,yes
+2023-11-14-048,Karin Podivinská,ANO,yes
+2023-11-14-048,Pavel Kříž,ANO,yes
+2023-11-14-048,Miroslav Kubásek,ANO,yes
+2023-11-14-048,René Novotný,ANO,yes
+2023-11-14-048,Pavel Outrata,ANO,yes
+2023-11-14-048,Vít Prýgl,ANO,absent
+2023-11-14-048,Daniel Struž,ANO,yes
+2023-11-14-048,Jiří Oliva,SOCDEM,absent
+2023-11-14-048,Břetislav Štefan,SOCDEM,yes
+2023-11-14-048,Marek Viskot,SOCDEM,yes
+2023-11-14-048,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-048,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-048,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-048,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-048,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-048,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-048,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-048,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-048,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-048,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-048,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-048,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-048,David Grund,ODS a TOP 09,yes
+2023-11-14-048,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-048,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-048,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-048,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-048,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-048,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-048,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-048,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-048,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-048,David Trllo,ODS a TOP 09,yes
+2023-11-14-048,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-048,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-048,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-048,Tomáš Koláčný,Piráti,yes
+2023-11-14-048,Marek Lahoda,Piráti,yes
+2023-11-14-048,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-048,Adam Zemek,Piráti,yes
+2023-11-14-048,Tomáš Anderle,SPD+Trikolora,not voting
+2023-11-14-048,Blanka Borovská,SPD+Trikolora,yes
+2023-11-14-048,Jiří Kment,SPD+Trikolora,yes
+2023-11-14-048,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-048,Leoš Prokeš,SPD+Trikolora,yes
+2023-11-14-048,Tomáš Skřička,SPD+Trikolora,yes
+2023-11-14-048,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-048,Jasna Flamiková,Zelení a Žít Brno,not voting
+2023-11-14-048,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-047,Petr Bauer,ANO,yes
+2023-11-14-047,Petr Bořecký,ANO,yes
+2023-11-14-047,René Černý,ANO,yes
+2023-11-14-047,Alena Gruberová,ANO,yes
+2023-11-14-047,Kateřina Jarošová,ANO,yes
+2023-11-14-047,Karel Kalivoda,ANO,yes
+2023-11-14-047,Karin Podivinská,ANO,yes
+2023-11-14-047,Pavel Kříž,ANO,yes
+2023-11-14-047,Miroslav Kubásek,ANO,yes
+2023-11-14-047,René Novotný,ANO,yes
+2023-11-14-047,Pavel Outrata,ANO,yes
+2023-11-14-047,Vít Prýgl,ANO,absent
+2023-11-14-047,Daniel Struž,ANO,yes
+2023-11-14-047,Jiří Oliva,SOCDEM,absent
+2023-11-14-047,Břetislav Štefan,SOCDEM,yes
+2023-11-14-047,Marek Viskot,SOCDEM,yes
+2023-11-14-047,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-047,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-047,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-047,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-047,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-047,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-047,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-047,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-047,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-047,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-047,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-047,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-047,David Grund,ODS a TOP 09,yes
+2023-11-14-047,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-047,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-047,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-047,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-047,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-047,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-047,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-047,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-047,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-047,David Trllo,ODS a TOP 09,not voting
+2023-11-14-047,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-047,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-047,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-047,Tomáš Koláčný,Piráti,yes
+2023-11-14-047,Marek Lahoda,Piráti,yes
+2023-11-14-047,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-047,Adam Zemek,Piráti,yes
+2023-11-14-047,Tomáš Anderle,SPD+Trikolora,abstain
+2023-11-14-047,Blanka Borovská,SPD+Trikolora,abstain
+2023-11-14-047,Jiří Kment,SPD+Trikolora,abstain
+2023-11-14-047,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-047,Leoš Prokeš,SPD+Trikolora,abstain
+2023-11-14-047,Tomáš Skřička,SPD+Trikolora,abstain
+2023-11-14-047,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-047,Jasna Flamiková,Zelení a Žít Brno,not voting
+2023-11-14-047,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-046,Petr Bauer,ANO,yes
+2023-11-14-046,Petr Bořecký,ANO,yes
+2023-11-14-046,René Černý,ANO,yes
+2023-11-14-046,Alena Gruberová,ANO,yes
+2023-11-14-046,Kateřina Jarošová,ANO,yes
+2023-11-14-046,Karel Kalivoda,ANO,yes
+2023-11-14-046,Karin Podivinská,ANO,yes
+2023-11-14-046,Pavel Kříž,ANO,yes
+2023-11-14-046,Miroslav Kubásek,ANO,yes
+2023-11-14-046,René Novotný,ANO,yes
+2023-11-14-046,Pavel Outrata,ANO,yes
+2023-11-14-046,Vít Prýgl,ANO,absent
+2023-11-14-046,Daniel Struž,ANO,yes
+2023-11-14-046,Jiří Oliva,SOCDEM,absent
+2023-11-14-046,Břetislav Štefan,SOCDEM,yes
+2023-11-14-046,Marek Viskot,SOCDEM,yes
+2023-11-14-046,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-046,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-046,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-046,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-046,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-046,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-046,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-046,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-046,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-046,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-046,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-046,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-046,David Grund,ODS a TOP 09,yes
+2023-11-14-046,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-046,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-046,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-046,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-046,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-046,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-046,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-046,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-046,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-046,David Trllo,ODS a TOP 09,not voting
+2023-11-14-046,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-046,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-046,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-046,Tomáš Koláčný,Piráti,yes
+2023-11-14-046,Marek Lahoda,Piráti,yes
+2023-11-14-046,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-046,Adam Zemek,Piráti,yes
+2023-11-14-046,Tomáš Anderle,SPD+Trikolora,yes
+2023-11-14-046,Blanka Borovská,SPD+Trikolora,yes
+2023-11-14-046,Jiří Kment,SPD+Trikolora,yes
+2023-11-14-046,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-046,Leoš Prokeš,SPD+Trikolora,yes
+2023-11-14-046,Tomáš Skřička,SPD+Trikolora,yes
+2023-11-14-046,Jana Drápalová,Zelení a Žít Brno,not voting
+2023-11-14-046,Jasna Flamiková,Zelení a Žít Brno,not voting
+2023-11-14-046,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-045,Petr Bauer,ANO,yes
+2023-11-14-045,Petr Bořecký,ANO,yes
+2023-11-14-045,René Černý,ANO,yes
+2023-11-14-045,Alena Gruberová,ANO,yes
+2023-11-14-045,Kateřina Jarošová,ANO,yes
+2023-11-14-045,Karel Kalivoda,ANO,yes
+2023-11-14-045,Karin Podivinská,ANO,yes
+2023-11-14-045,Pavel Kříž,ANO,yes
+2023-11-14-045,Miroslav Kubásek,ANO,yes
+2023-11-14-045,René Novotný,ANO,yes
+2023-11-14-045,Pavel Outrata,ANO,yes
+2023-11-14-045,Vít Prýgl,ANO,absent
+2023-11-14-045,Daniel Struž,ANO,yes
+2023-11-14-045,Jiří Oliva,SOCDEM,absent
+2023-11-14-045,Břetislav Štefan,SOCDEM,yes
+2023-11-14-045,Marek Viskot,SOCDEM,yes
+2023-11-14-045,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-045,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-045,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-045,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-045,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-045,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-045,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-045,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-045,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-045,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-045,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-045,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-045,David Grund,ODS a TOP 09,yes
+2023-11-14-045,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-045,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-045,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-045,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-045,Petr Kratochvíl,ODS a TOP 09,not voting
+2023-11-14-045,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-045,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-045,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-045,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-045,David Trllo,ODS a TOP 09,yes
+2023-11-14-045,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-045,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-045,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-045,Tomáš Koláčný,Piráti,yes
+2023-11-14-045,Marek Lahoda,Piráti,yes
+2023-11-14-045,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-045,Adam Zemek,Piráti,yes
+2023-11-14-045,Tomáš Anderle,SPD+Trikolora,yes
+2023-11-14-045,Blanka Borovská,SPD+Trikolora,yes
+2023-11-14-045,Jiří Kment,SPD+Trikolora,yes
+2023-11-14-045,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-045,Leoš Prokeš,SPD+Trikolora,yes
+2023-11-14-045,Tomáš Skřička,SPD+Trikolora,yes
+2023-11-14-045,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-045,Jasna Flamiková,Zelení a Žít Brno,not voting
+2023-11-14-045,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-044,Petr Bauer,ANO,yes
+2023-11-14-044,Petr Bořecký,ANO,yes
+2023-11-14-044,René Černý,ANO,yes
+2023-11-14-044,Alena Gruberová,ANO,yes
+2023-11-14-044,Kateřina Jarošová,ANO,yes
+2023-11-14-044,Karel Kalivoda,ANO,yes
+2023-11-14-044,Karin Podivinská,ANO,yes
+2023-11-14-044,Pavel Kříž,ANO,yes
+2023-11-14-044,Miroslav Kubásek,ANO,yes
+2023-11-14-044,René Novotný,ANO,yes
+2023-11-14-044,Pavel Outrata,ANO,yes
+2023-11-14-044,Vít Prýgl,ANO,absent
+2023-11-14-044,Daniel Struž,ANO,yes
+2023-11-14-044,Jiří Oliva,SOCDEM,absent
+2023-11-14-044,Břetislav Štefan,SOCDEM,yes
+2023-11-14-044,Marek Viskot,SOCDEM,yes
+2023-11-14-044,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-044,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-044,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-044,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-044,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-044,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-044,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-044,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-044,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-044,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-044,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-044,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-044,David Grund,ODS a TOP 09,yes
+2023-11-14-044,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-044,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-044,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-044,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-044,Petr Kratochvíl,ODS a TOP 09,not voting
+2023-11-14-044,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-044,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-044,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-044,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-044,David Trllo,ODS a TOP 09,yes
+2023-11-14-044,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-044,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-044,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-044,Tomáš Koláčný,Piráti,yes
+2023-11-14-044,Marek Lahoda,Piráti,yes
+2023-11-14-044,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-044,Adam Zemek,Piráti,yes
+2023-11-14-044,Tomáš Anderle,SPD+Trikolora,yes
+2023-11-14-044,Blanka Borovská,SPD+Trikolora,yes
+2023-11-14-044,Jiří Kment,SPD+Trikolora,yes
+2023-11-14-044,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-044,Leoš Prokeš,SPD+Trikolora,yes
+2023-11-14-044,Tomáš Skřička,SPD+Trikolora,yes
+2023-11-14-044,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-044,Jasna Flamiková,Zelení a Žít Brno,yes
+2023-11-14-044,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-043,Petr Bauer,ANO,yes
+2023-11-14-043,Petr Bořecký,ANO,yes
+2023-11-14-043,René Černý,ANO,yes
+2023-11-14-043,Alena Gruberová,ANO,yes
+2023-11-14-043,Kateřina Jarošová,ANO,yes
+2023-11-14-043,Karel Kalivoda,ANO,yes
+2023-11-14-043,Karin Podivinská,ANO,yes
+2023-11-14-043,Pavel Kříž,ANO,yes
+2023-11-14-043,Miroslav Kubásek,ANO,yes
+2023-11-14-043,René Novotný,ANO,yes
+2023-11-14-043,Pavel Outrata,ANO,yes
+2023-11-14-043,Vít Prýgl,ANO,absent
+2023-11-14-043,Daniel Struž,ANO,yes
+2023-11-14-043,Jiří Oliva,SOCDEM,absent
+2023-11-14-043,Břetislav Štefan,SOCDEM,yes
+2023-11-14-043,Marek Viskot,SOCDEM,yes
+2023-11-14-043,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-043,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-043,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-043,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-043,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-043,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-043,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-043,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-043,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-043,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-043,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-043,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-043,David Grund,ODS a TOP 09,yes
+2023-11-14-043,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-043,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-043,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-043,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-043,Petr Kratochvíl,ODS a TOP 09,not voting
+2023-11-14-043,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-043,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-043,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-043,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-043,David Trllo,ODS a TOP 09,yes
+2023-11-14-043,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-043,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-043,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-043,Tomáš Koláčný,Piráti,yes
+2023-11-14-043,Marek Lahoda,Piráti,yes
+2023-11-14-043,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-043,Adam Zemek,Piráti,yes
+2023-11-14-043,Tomáš Anderle,SPD+Trikolora,abstain
+2023-11-14-043,Blanka Borovská,SPD+Trikolora,abstain
+2023-11-14-043,Jiří Kment,SPD+Trikolora,abstain
+2023-11-14-043,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-043,Leoš Prokeš,SPD+Trikolora,abstain
+2023-11-14-043,Tomáš Skřička,SPD+Trikolora,abstain
+2023-11-14-043,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-043,Jasna Flamiková,Zelení a Žít Brno,abstain
+2023-11-14-043,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-042,Petr Bauer,ANO,yes
+2023-11-14-042,Petr Bořecký,ANO,yes
+2023-11-14-042,René Černý,ANO,yes
+2023-11-14-042,Alena Gruberová,ANO,abstain
+2023-11-14-042,Kateřina Jarošová,ANO,yes
+2023-11-14-042,Karel Kalivoda,ANO,yes
+2023-11-14-042,Karin Podivinská,ANO,yes
+2023-11-14-042,Pavel Kříž,ANO,yes
+2023-11-14-042,Miroslav Kubásek,ANO,yes
+2023-11-14-042,René Novotný,ANO,yes
+2023-11-14-042,Pavel Outrata,ANO,yes
+2023-11-14-042,Vít Prýgl,ANO,absent
+2023-11-14-042,Daniel Struž,ANO,yes
+2023-11-14-042,Jiří Oliva,SOCDEM,absent
+2023-11-14-042,Břetislav Štefan,SOCDEM,yes
+2023-11-14-042,Marek Viskot,SOCDEM,yes
+2023-11-14-042,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-042,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-042,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-042,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-042,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-042,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-042,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-042,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-042,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-042,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-042,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-042,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-042,David Grund,ODS a TOP 09,yes
+2023-11-14-042,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-042,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-042,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-042,Vladan Krásný,ODS a TOP 09,not voting
+2023-11-14-042,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-042,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-042,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-042,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-042,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-042,David Trllo,ODS a TOP 09,yes
+2023-11-14-042,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-042,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-042,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-042,Tomáš Koláčný,Piráti,yes
+2023-11-14-042,Marek Lahoda,Piráti,not voting
+2023-11-14-042,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-042,Adam Zemek,Piráti,yes
+2023-11-14-042,Tomáš Anderle,SPD+Trikolora,no
+2023-11-14-042,Blanka Borovská,SPD+Trikolora,no
+2023-11-14-042,Jiří Kment,SPD+Trikolora,no
+2023-11-14-042,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-042,Leoš Prokeš,SPD+Trikolora,no
+2023-11-14-042,Tomáš Skřička,SPD+Trikolora,no
+2023-11-14-042,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-042,Jasna Flamiková,Zelení a Žít Brno,yes
+2023-11-14-042,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-041,Petr Bauer,ANO,yes
+2023-11-14-041,Petr Bořecký,ANO,not voting
+2023-11-14-041,René Černý,ANO,yes
+2023-11-14-041,Alena Gruberová,ANO,yes
+2023-11-14-041,Kateřina Jarošová,ANO,yes
+2023-11-14-041,Karel Kalivoda,ANO,yes
+2023-11-14-041,Karin Podivinská,ANO,yes
+2023-11-14-041,Pavel Kříž,ANO,yes
+2023-11-14-041,Miroslav Kubásek,ANO,yes
+2023-11-14-041,René Novotný,ANO,yes
+2023-11-14-041,Pavel Outrata,ANO,yes
+2023-11-14-041,Vít Prýgl,ANO,absent
+2023-11-14-041,Daniel Struž,ANO,yes
+2023-11-14-041,Jiří Oliva,SOCDEM,absent
+2023-11-14-041,Břetislav Štefan,SOCDEM,yes
+2023-11-14-041,Marek Viskot,SOCDEM,yes
+2023-11-14-041,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-041,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-041,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-041,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-041,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-041,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-041,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-041,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-041,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-041,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-041,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-041,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-041,David Grund,ODS a TOP 09,yes
+2023-11-14-041,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-041,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-041,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-041,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-041,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-041,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-041,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-041,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-041,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-041,David Trllo,ODS a TOP 09,yes
+2023-11-14-041,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-041,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-041,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-041,Tomáš Koláčný,Piráti,yes
+2023-11-14-041,Marek Lahoda,Piráti,yes
+2023-11-14-041,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-041,Adam Zemek,Piráti,yes
+2023-11-14-041,Tomáš Anderle,SPD+Trikolora,no
+2023-11-14-041,Blanka Borovská,SPD+Trikolora,no
+2023-11-14-041,Jiří Kment,SPD+Trikolora,no
+2023-11-14-041,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-041,Leoš Prokeš,SPD+Trikolora,no
+2023-11-14-041,Tomáš Skřička,SPD+Trikolora,abstain
+2023-11-14-041,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-041,Jasna Flamiková,Zelení a Žít Brno,yes
+2023-11-14-041,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-040,Petr Bauer,ANO,yes
+2023-11-14-040,Petr Bořecký,ANO,yes
+2023-11-14-040,René Černý,ANO,yes
+2023-11-14-040,Alena Gruberová,ANO,yes
+2023-11-14-040,Kateřina Jarošová,ANO,yes
+2023-11-14-040,Karel Kalivoda,ANO,yes
+2023-11-14-040,Karin Podivinská,ANO,yes
+2023-11-14-040,Pavel Kříž,ANO,not voting
+2023-11-14-040,Miroslav Kubásek,ANO,yes
+2023-11-14-040,René Novotný,ANO,yes
+2023-11-14-040,Pavel Outrata,ANO,yes
+2023-11-14-040,Vít Prýgl,ANO,absent
+2023-11-14-040,Daniel Struž,ANO,yes
+2023-11-14-040,Jiří Oliva,SOCDEM,absent
+2023-11-14-040,Břetislav Štefan,SOCDEM,yes
+2023-11-14-040,Marek Viskot,SOCDEM,yes
+2023-11-14-040,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-040,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-040,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-040,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-040,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-040,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-040,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-040,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-040,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-040,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-040,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-040,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-040,David Grund,ODS a TOP 09,yes
+2023-11-14-040,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-040,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-040,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-040,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-040,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-040,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-040,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-040,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-040,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-040,David Trllo,ODS a TOP 09,yes
+2023-11-14-040,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-040,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-040,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-040,Tomáš Koláčný,Piráti,yes
+2023-11-14-040,Marek Lahoda,Piráti,yes
+2023-11-14-040,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-040,Adam Zemek,Piráti,yes
+2023-11-14-040,Tomáš Anderle,SPD+Trikolora,no
+2023-11-14-040,Blanka Borovská,SPD+Trikolora,no
+2023-11-14-040,Jiří Kment,SPD+Trikolora,yes
+2023-11-14-040,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-040,Leoš Prokeš,SPD+Trikolora,not voting
+2023-11-14-040,Tomáš Skřička,SPD+Trikolora,yes
+2023-11-14-040,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-040,Jasna Flamiková,Zelení a Žít Brno,yes
+2023-11-14-040,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-039,Petr Bauer,ANO,yes
+2023-11-14-039,Petr Bořecký,ANO,yes
+2023-11-14-039,René Černý,ANO,yes
+2023-11-14-039,Alena Gruberová,ANO,yes
+2023-11-14-039,Kateřina Jarošová,ANO,yes
+2023-11-14-039,Karel Kalivoda,ANO,yes
+2023-11-14-039,Karin Podivinská,ANO,yes
+2023-11-14-039,Pavel Kříž,ANO,yes
+2023-11-14-039,Miroslav Kubásek,ANO,yes
+2023-11-14-039,René Novotný,ANO,yes
+2023-11-14-039,Pavel Outrata,ANO,yes
+2023-11-14-039,Vít Prýgl,ANO,absent
+2023-11-14-039,Daniel Struž,ANO,yes
+2023-11-14-039,Jiří Oliva,SOCDEM,absent
+2023-11-14-039,Břetislav Štefan,SOCDEM,yes
+2023-11-14-039,Marek Viskot,SOCDEM,yes
+2023-11-14-039,Petr Hladík,KDU-ČSL a STAN,not voting
+2023-11-14-039,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-039,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-039,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-039,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-039,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-039,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-039,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-039,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-039,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-039,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-039,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-039,David Grund,ODS a TOP 09,yes
+2023-11-14-039,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-039,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-039,Robert Kerndl,ODS a TOP 09,not voting
+2023-11-14-039,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-039,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-039,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-039,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-039,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-039,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-039,David Trllo,ODS a TOP 09,yes
+2023-11-14-039,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-039,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-039,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-039,Tomáš Koláčný,Piráti,yes
+2023-11-14-039,Marek Lahoda,Piráti,not voting
+2023-11-14-039,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-039,Adam Zemek,Piráti,yes
+2023-11-14-039,Tomáš Anderle,SPD+Trikolora,yes
+2023-11-14-039,Blanka Borovská,SPD+Trikolora,yes
+2023-11-14-039,Jiří Kment,SPD+Trikolora,yes
+2023-11-14-039,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-039,Leoš Prokeš,SPD+Trikolora,yes
+2023-11-14-039,Tomáš Skřička,SPD+Trikolora,yes
+2023-11-14-039,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-039,Jasna Flamiková,Zelení a Žít Brno,yes
+2023-11-14-039,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-038,Petr Bauer,ANO,yes
+2023-11-14-038,Petr Bořecký,ANO,yes
+2023-11-14-038,René Černý,ANO,yes
+2023-11-14-038,Alena Gruberová,ANO,yes
+2023-11-14-038,Kateřina Jarošová,ANO,yes
+2023-11-14-038,Karel Kalivoda,ANO,yes
+2023-11-14-038,Karin Podivinská,ANO,yes
+2023-11-14-038,Pavel Kříž,ANO,yes
+2023-11-14-038,Miroslav Kubásek,ANO,yes
+2023-11-14-038,René Novotný,ANO,yes
+2023-11-14-038,Pavel Outrata,ANO,yes
+2023-11-14-038,Vít Prýgl,ANO,absent
+2023-11-14-038,Daniel Struž,ANO,yes
+2023-11-14-038,Jiří Oliva,SOCDEM,absent
+2023-11-14-038,Břetislav Štefan,SOCDEM,yes
+2023-11-14-038,Marek Viskot,SOCDEM,yes
+2023-11-14-038,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-038,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-038,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-038,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-038,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-038,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-038,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-038,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-038,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-038,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-038,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-038,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-038,David Grund,ODS a TOP 09,yes
+2023-11-14-038,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-038,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-038,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-038,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-038,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-038,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-038,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-038,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-038,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-038,David Trllo,ODS a TOP 09,yes
+2023-11-14-038,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-038,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-038,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-038,Tomáš Koláčný,Piráti,yes
+2023-11-14-038,Marek Lahoda,Piráti,yes
+2023-11-14-038,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-038,Adam Zemek,Piráti,yes
+2023-11-14-038,Tomáš Anderle,SPD+Trikolora,yes
+2023-11-14-038,Blanka Borovská,SPD+Trikolora,yes
+2023-11-14-038,Jiří Kment,SPD+Trikolora,yes
+2023-11-14-038,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-038,Leoš Prokeš,SPD+Trikolora,yes
+2023-11-14-038,Tomáš Skřička,SPD+Trikolora,yes
+2023-11-14-038,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-038,Jasna Flamiková,Zelení a Žít Brno,yes
+2023-11-14-038,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-037,Petr Bauer,ANO,yes
+2023-11-14-037,Petr Bořecký,ANO,yes
+2023-11-14-037,René Černý,ANO,yes
+2023-11-14-037,Alena Gruberová,ANO,yes
+2023-11-14-037,Kateřina Jarošová,ANO,yes
+2023-11-14-037,Karel Kalivoda,ANO,not voting
+2023-11-14-037,Karin Podivinská,ANO,yes
+2023-11-14-037,Pavel Kříž,ANO,yes
+2023-11-14-037,Miroslav Kubásek,ANO,yes
+2023-11-14-037,René Novotný,ANO,yes
+2023-11-14-037,Pavel Outrata,ANO,yes
+2023-11-14-037,Vít Prýgl,ANO,absent
+2023-11-14-037,Daniel Struž,ANO,yes
+2023-11-14-037,Jiří Oliva,SOCDEM,absent
+2023-11-14-037,Břetislav Štefan,SOCDEM,yes
+2023-11-14-037,Marek Viskot,SOCDEM,yes
+2023-11-14-037,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-037,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-037,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-037,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-037,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-037,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-037,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-037,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-037,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-037,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-037,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-037,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-037,David Grund,ODS a TOP 09,not voting
+2023-11-14-037,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-037,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-037,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-037,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-037,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-037,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-037,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-037,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-037,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-037,David Trllo,ODS a TOP 09,yes
+2023-11-14-037,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-037,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-037,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-037,Tomáš Koláčný,Piráti,not voting
+2023-11-14-037,Marek Lahoda,Piráti,not voting
+2023-11-14-037,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-037,Adam Zemek,Piráti,yes
+2023-11-14-037,Tomáš Anderle,SPD+Trikolora,yes
+2023-11-14-037,Blanka Borovská,SPD+Trikolora,yes
+2023-11-14-037,Jiří Kment,SPD+Trikolora,yes
+2023-11-14-037,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-037,Leoš Prokeš,SPD+Trikolora,yes
+2023-11-14-037,Tomáš Skřička,SPD+Trikolora,yes
+2023-11-14-037,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-037,Jasna Flamiková,Zelení a Žít Brno,yes
+2023-11-14-037,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-036,Petr Bauer,ANO,yes
+2023-11-14-036,Petr Bořecký,ANO,yes
+2023-11-14-036,René Černý,ANO,yes
+2023-11-14-036,Alena Gruberová,ANO,yes
+2023-11-14-036,Kateřina Jarošová,ANO,yes
+2023-11-14-036,Karel Kalivoda,ANO,yes
+2023-11-14-036,Karin Podivinská,ANO,yes
+2023-11-14-036,Pavel Kříž,ANO,yes
+2023-11-14-036,Miroslav Kubásek,ANO,yes
+2023-11-14-036,René Novotný,ANO,yes
+2023-11-14-036,Pavel Outrata,ANO,yes
+2023-11-14-036,Vít Prýgl,ANO,absent
+2023-11-14-036,Daniel Struž,ANO,yes
+2023-11-14-036,Jiří Oliva,SOCDEM,absent
+2023-11-14-036,Břetislav Štefan,SOCDEM,yes
+2023-11-14-036,Marek Viskot,SOCDEM,yes
+2023-11-14-036,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-036,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-036,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-036,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-036,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-036,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-036,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-036,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-036,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-036,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-036,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-036,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-036,David Grund,ODS a TOP 09,not voting
+2023-11-14-036,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-036,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-036,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-036,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-036,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-036,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-036,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-036,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-036,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-036,David Trllo,ODS a TOP 09,yes
+2023-11-14-036,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-036,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-036,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-036,Tomáš Koláčný,Piráti,yes
+2023-11-14-036,Marek Lahoda,Piráti,yes
+2023-11-14-036,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-036,Adam Zemek,Piráti,yes
+2023-11-14-036,Tomáš Anderle,SPD+Trikolora,yes
+2023-11-14-036,Blanka Borovská,SPD+Trikolora,yes
+2023-11-14-036,Jiří Kment,SPD+Trikolora,yes
+2023-11-14-036,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-036,Leoš Prokeš,SPD+Trikolora,not voting
+2023-11-14-036,Tomáš Skřička,SPD+Trikolora,yes
+2023-11-14-036,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-036,Jasna Flamiková,Zelení a Žít Brno,yes
+2023-11-14-036,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-035,Petr Bauer,ANO,yes
+2023-11-14-035,Petr Bořecký,ANO,yes
+2023-11-14-035,René Černý,ANO,yes
+2023-11-14-035,Alena Gruberová,ANO,yes
+2023-11-14-035,Kateřina Jarošová,ANO,yes
+2023-11-14-035,Karel Kalivoda,ANO,yes
+2023-11-14-035,Karin Podivinská,ANO,yes
+2023-11-14-035,Pavel Kříž,ANO,yes
+2023-11-14-035,Miroslav Kubásek,ANO,yes
+2023-11-14-035,René Novotný,ANO,yes
+2023-11-14-035,Pavel Outrata,ANO,yes
+2023-11-14-035,Vít Prýgl,ANO,absent
+2023-11-14-035,Daniel Struž,ANO,yes
+2023-11-14-035,Jiří Oliva,SOCDEM,absent
+2023-11-14-035,Břetislav Štefan,SOCDEM,yes
+2023-11-14-035,Marek Viskot,SOCDEM,yes
+2023-11-14-035,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-035,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-035,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-035,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-035,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-035,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-035,Michal Marek,KDU-ČSL a STAN,not voting
+2023-11-14-035,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-035,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-035,Radomír Vondra,KDU-ČSL a STAN,not voting
+2023-11-14-035,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-035,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-035,David Grund,ODS a TOP 09,not voting
+2023-11-14-035,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-035,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-035,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-035,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-035,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-035,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-035,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-035,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-035,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-035,David Trllo,ODS a TOP 09,yes
+2023-11-14-035,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-035,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-035,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-035,Tomáš Koláčný,Piráti,not voting
+2023-11-14-035,Marek Lahoda,Piráti,yes
+2023-11-14-035,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-035,Adam Zemek,Piráti,yes
+2023-11-14-035,Tomáš Anderle,SPD+Trikolora,yes
+2023-11-14-035,Blanka Borovská,SPD+Trikolora,yes
+2023-11-14-035,Jiří Kment,SPD+Trikolora,yes
+2023-11-14-035,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-035,Leoš Prokeš,SPD+Trikolora,yes
+2023-11-14-035,Tomáš Skřička,SPD+Trikolora,yes
+2023-11-14-035,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-035,Jasna Flamiková,Zelení a Žít Brno,yes
+2023-11-14-035,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-034,Petr Bauer,ANO,yes
+2023-11-14-034,Petr Bořecký,ANO,yes
+2023-11-14-034,René Černý,ANO,yes
+2023-11-14-034,Alena Gruberová,ANO,yes
+2023-11-14-034,Kateřina Jarošová,ANO,yes
+2023-11-14-034,Karel Kalivoda,ANO,yes
+2023-11-14-034,Karin Podivinská,ANO,yes
+2023-11-14-034,Pavel Kříž,ANO,yes
+2023-11-14-034,Miroslav Kubásek,ANO,yes
+2023-11-14-034,René Novotný,ANO,yes
+2023-11-14-034,Pavel Outrata,ANO,yes
+2023-11-14-034,Vít Prýgl,ANO,absent
+2023-11-14-034,Daniel Struž,ANO,yes
+2023-11-14-034,Jiří Oliva,SOCDEM,absent
+2023-11-14-034,Břetislav Štefan,SOCDEM,yes
+2023-11-14-034,Marek Viskot,SOCDEM,yes
+2023-11-14-034,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-034,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-034,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-034,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-034,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-034,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-034,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-034,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-034,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-034,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-034,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-034,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-034,David Grund,ODS a TOP 09,not voting
+2023-11-14-034,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-034,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-034,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-034,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-034,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-034,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-034,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-034,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-034,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-034,David Trllo,ODS a TOP 09,yes
+2023-11-14-034,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-034,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-034,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-034,Tomáš Koláčný,Piráti,yes
+2023-11-14-034,Marek Lahoda,Piráti,yes
+2023-11-14-034,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-034,Adam Zemek,Piráti,yes
+2023-11-14-034,Tomáš Anderle,SPD+Trikolora,yes
+2023-11-14-034,Blanka Borovská,SPD+Trikolora,yes
+2023-11-14-034,Jiří Kment,SPD+Trikolora,yes
+2023-11-14-034,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-034,Leoš Prokeš,SPD+Trikolora,yes
+2023-11-14-034,Tomáš Skřička,SPD+Trikolora,yes
+2023-11-14-034,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-034,Jasna Flamiková,Zelení a Žít Brno,yes
+2023-11-14-034,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-033,Petr Bauer,ANO,yes
+2023-11-14-033,Petr Bořecký,ANO,yes
+2023-11-14-033,René Černý,ANO,yes
+2023-11-14-033,Alena Gruberová,ANO,yes
+2023-11-14-033,Kateřina Jarošová,ANO,yes
+2023-11-14-033,Karel Kalivoda,ANO,yes
+2023-11-14-033,Karin Podivinská,ANO,yes
+2023-11-14-033,Pavel Kříž,ANO,yes
+2023-11-14-033,Miroslav Kubásek,ANO,yes
+2023-11-14-033,René Novotný,ANO,yes
+2023-11-14-033,Pavel Outrata,ANO,yes
+2023-11-14-033,Vít Prýgl,ANO,absent
+2023-11-14-033,Daniel Struž,ANO,yes
+2023-11-14-033,Jiří Oliva,SOCDEM,absent
+2023-11-14-033,Břetislav Štefan,SOCDEM,yes
+2023-11-14-033,Marek Viskot,SOCDEM,yes
+2023-11-14-033,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-033,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-033,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-033,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-033,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-033,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-033,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-033,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-033,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-033,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-033,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-033,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-033,David Grund,ODS a TOP 09,not voting
+2023-11-14-033,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-033,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-033,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-033,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-033,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-033,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-033,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-033,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-033,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-033,David Trllo,ODS a TOP 09,yes
+2023-11-14-033,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-033,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-033,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-033,Tomáš Koláčný,Piráti,yes
+2023-11-14-033,Marek Lahoda,Piráti,yes
+2023-11-14-033,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-033,Adam Zemek,Piráti,yes
+2023-11-14-033,Tomáš Anderle,SPD+Trikolora,abstain
+2023-11-14-033,Blanka Borovská,SPD+Trikolora,yes
+2023-11-14-033,Jiří Kment,SPD+Trikolora,abstain
+2023-11-14-033,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-033,Leoš Prokeš,SPD+Trikolora,abstain
+2023-11-14-033,Tomáš Skřička,SPD+Trikolora,abstain
+2023-11-14-033,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-033,Jasna Flamiková,Zelení a Žít Brno,yes
+2023-11-14-033,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-032,Petr Bauer,ANO,yes
+2023-11-14-032,Petr Bořecký,ANO,yes
+2023-11-14-032,René Černý,ANO,yes
+2023-11-14-032,Alena Gruberová,ANO,yes
+2023-11-14-032,Kateřina Jarošová,ANO,yes
+2023-11-14-032,Karel Kalivoda,ANO,yes
+2023-11-14-032,Karin Podivinská,ANO,yes
+2023-11-14-032,Pavel Kříž,ANO,yes
+2023-11-14-032,Miroslav Kubásek,ANO,yes
+2023-11-14-032,René Novotný,ANO,not voting
+2023-11-14-032,Pavel Outrata,ANO,yes
+2023-11-14-032,Vít Prýgl,ANO,absent
+2023-11-14-032,Daniel Struž,ANO,yes
+2023-11-14-032,Jiří Oliva,SOCDEM,absent
+2023-11-14-032,Břetislav Štefan,SOCDEM,not voting
+2023-11-14-032,Marek Viskot,SOCDEM,yes
+2023-11-14-032,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-032,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-032,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-032,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-032,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-032,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-032,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-032,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-032,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-032,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-032,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-032,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-032,David Grund,ODS a TOP 09,yes
+2023-11-14-032,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-032,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-032,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-032,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-032,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-032,Andrea Pazderová,ODS a TOP 09,not voting
+2023-11-14-032,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-032,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-032,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-032,David Trllo,ODS a TOP 09,yes
+2023-11-14-032,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-032,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-032,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-032,Tomáš Koláčný,Piráti,yes
+2023-11-14-032,Marek Lahoda,Piráti,abstain
+2023-11-14-032,Monika Lukášová Spilková,Piráti,abstain
+2023-11-14-032,Adam Zemek,Piráti,abstain
+2023-11-14-032,Tomáš Anderle,SPD+Trikolora,no
+2023-11-14-032,Blanka Borovská,SPD+Trikolora,yes
+2023-11-14-032,Jiří Kment,SPD+Trikolora,abstain
+2023-11-14-032,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-032,Leoš Prokeš,SPD+Trikolora,abstain
+2023-11-14-032,Tomáš Skřička,SPD+Trikolora,abstain
+2023-11-14-032,Jana Drápalová,Zelení a Žít Brno,abstain
+2023-11-14-032,Jasna Flamiková,Zelení a Žít Brno,abstain
+2023-11-14-032,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-031,Petr Bauer,ANO,abstain
+2023-11-14-031,Petr Bořecký,ANO,abstain
+2023-11-14-031,René Černý,ANO,yes
+2023-11-14-031,Alena Gruberová,ANO,abstain
+2023-11-14-031,Kateřina Jarošová,ANO,not voting
+2023-11-14-031,Karel Kalivoda,ANO,not voting
+2023-11-14-031,Karin Podivinská,ANO,not voting
+2023-11-14-031,Pavel Kříž,ANO,abstain
+2023-11-14-031,Miroslav Kubásek,ANO,not voting
+2023-11-14-031,René Novotný,ANO,not voting
+2023-11-14-031,Pavel Outrata,ANO,abstain
+2023-11-14-031,Vít Prýgl,ANO,absent
+2023-11-14-031,Daniel Struž,ANO,abstain
+2023-11-14-031,Jiří Oliva,SOCDEM,absent
+2023-11-14-031,Břetislav Štefan,SOCDEM,yes
+2023-11-14-031,Marek Viskot,SOCDEM,yes
+2023-11-14-031,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-031,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-031,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-031,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-031,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-031,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-031,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-031,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-031,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-031,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-031,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-031,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-031,David Grund,ODS a TOP 09,yes
+2023-11-14-031,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-031,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-031,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-031,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-031,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-031,Andrea Pazderová,ODS a TOP 09,not voting
+2023-11-14-031,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-031,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-031,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-031,David Trllo,ODS a TOP 09,yes
+2023-11-14-031,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-031,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-031,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-031,Tomáš Koláčný,Piráti,yes
+2023-11-14-031,Marek Lahoda,Piráti,yes
+2023-11-14-031,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-031,Adam Zemek,Piráti,yes
+2023-11-14-031,Tomáš Anderle,SPD+Trikolora,abstain
+2023-11-14-031,Blanka Borovská,SPD+Trikolora,abstain
+2023-11-14-031,Jiří Kment,SPD+Trikolora,abstain
+2023-11-14-031,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-031,Leoš Prokeš,SPD+Trikolora,abstain
+2023-11-14-031,Tomáš Skřička,SPD+Trikolora,abstain
+2023-11-14-031,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-031,Jasna Flamiková,Zelení a Žít Brno,yes
+2023-11-14-031,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-030,Petr Bauer,ANO,yes
+2023-11-14-030,Petr Bořecký,ANO,yes
+2023-11-14-030,René Černý,ANO,yes
+2023-11-14-030,Alena Gruberová,ANO,yes
+2023-11-14-030,Kateřina Jarošová,ANO,yes
+2023-11-14-030,Karel Kalivoda,ANO,yes
+2023-11-14-030,Karin Podivinská,ANO,yes
+2023-11-14-030,Pavel Kříž,ANO,yes
+2023-11-14-030,Miroslav Kubásek,ANO,yes
+2023-11-14-030,René Novotný,ANO,not voting
+2023-11-14-030,Pavel Outrata,ANO,yes
+2023-11-14-030,Vít Prýgl,ANO,absent
+2023-11-14-030,Daniel Struž,ANO,yes
+2023-11-14-030,Jiří Oliva,SOCDEM,absent
+2023-11-14-030,Břetislav Štefan,SOCDEM,yes
+2023-11-14-030,Marek Viskot,SOCDEM,yes
+2023-11-14-030,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-030,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-030,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-030,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-030,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-030,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-030,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-030,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-030,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-030,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-030,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-030,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-030,David Grund,ODS a TOP 09,yes
+2023-11-14-030,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-030,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-030,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-030,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-030,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-030,Andrea Pazderová,ODS a TOP 09,not voting
+2023-11-14-030,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-030,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-030,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-030,David Trllo,ODS a TOP 09,yes
+2023-11-14-030,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-030,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-030,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-030,Tomáš Koláčný,Piráti,yes
+2023-11-14-030,Marek Lahoda,Piráti,yes
+2023-11-14-030,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-030,Adam Zemek,Piráti,yes
+2023-11-14-030,Tomáš Anderle,SPD+Trikolora,no
+2023-11-14-030,Blanka Borovská,SPD+Trikolora,no
+2023-11-14-030,Jiří Kment,SPD+Trikolora,no
+2023-11-14-030,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-030,Leoš Prokeš,SPD+Trikolora,no
+2023-11-14-030,Tomáš Skřička,SPD+Trikolora,no
+2023-11-14-030,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-030,Jasna Flamiková,Zelení a Žít Brno,yes
+2023-11-14-030,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-029,Petr Bauer,ANO,yes
+2023-11-14-029,Petr Bořecký,ANO,yes
+2023-11-14-029,René Černý,ANO,yes
+2023-11-14-029,Alena Gruberová,ANO,yes
+2023-11-14-029,Kateřina Jarošová,ANO,yes
+2023-11-14-029,Karel Kalivoda,ANO,yes
+2023-11-14-029,Karin Podivinská,ANO,yes
+2023-11-14-029,Pavel Kříž,ANO,yes
+2023-11-14-029,Miroslav Kubásek,ANO,yes
+2023-11-14-029,René Novotný,ANO,yes
+2023-11-14-029,Pavel Outrata,ANO,yes
+2023-11-14-029,Vít Prýgl,ANO,absent
+2023-11-14-029,Daniel Struž,ANO,yes
+2023-11-14-029,Jiří Oliva,SOCDEM,absent
+2023-11-14-029,Břetislav Štefan,SOCDEM,yes
+2023-11-14-029,Marek Viskot,SOCDEM,yes
+2023-11-14-029,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-029,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-029,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-029,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-029,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-029,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-029,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-029,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-029,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-029,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-029,Tomáš Aberl,ODS a TOP 09,not voting
+2023-11-14-029,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-029,David Grund,ODS a TOP 09,yes
+2023-11-14-029,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-029,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-029,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-029,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-029,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-029,Andrea Pazderová,ODS a TOP 09,not voting
+2023-11-14-029,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-029,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-029,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-029,David Trllo,ODS a TOP 09,yes
+2023-11-14-029,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-029,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-029,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-029,Tomáš Koláčný,Piráti,yes
+2023-11-14-029,Marek Lahoda,Piráti,yes
+2023-11-14-029,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-029,Adam Zemek,Piráti,yes
+2023-11-14-029,Tomáš Anderle,SPD+Trikolora,abstain
+2023-11-14-029,Blanka Borovská,SPD+Trikolora,abstain
+2023-11-14-029,Jiří Kment,SPD+Trikolora,abstain
+2023-11-14-029,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-029,Leoš Prokeš,SPD+Trikolora,abstain
+2023-11-14-029,Tomáš Skřička,SPD+Trikolora,yes
+2023-11-14-029,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-029,Jasna Flamiková,Zelení a Žít Brno,yes
+2023-11-14-029,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-028,Petr Bauer,ANO,yes
+2023-11-14-028,Petr Bořecký,ANO,not voting
+2023-11-14-028,René Černý,ANO,yes
+2023-11-14-028,Alena Gruberová,ANO,yes
+2023-11-14-028,Kateřina Jarošová,ANO,yes
+2023-11-14-028,Karel Kalivoda,ANO,yes
+2023-11-14-028,Karin Podivinská,ANO,yes
+2023-11-14-028,Pavel Kříž,ANO,yes
+2023-11-14-028,Miroslav Kubásek,ANO,yes
+2023-11-14-028,René Novotný,ANO,yes
+2023-11-14-028,Pavel Outrata,ANO,yes
+2023-11-14-028,Vít Prýgl,ANO,absent
+2023-11-14-028,Daniel Struž,ANO,yes
+2023-11-14-028,Jiří Oliva,SOCDEM,absent
+2023-11-14-028,Břetislav Štefan,SOCDEM,yes
+2023-11-14-028,Marek Viskot,SOCDEM,yes
+2023-11-14-028,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-028,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-028,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-028,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-028,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-028,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-028,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-028,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-028,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-028,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-028,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-028,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-028,David Grund,ODS a TOP 09,yes
+2023-11-14-028,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-028,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-028,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-028,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-028,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-028,Andrea Pazderová,ODS a TOP 09,not voting
+2023-11-14-028,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-028,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-028,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-028,David Trllo,ODS a TOP 09,yes
+2023-11-14-028,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-028,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-028,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-028,Tomáš Koláčný,Piráti,yes
+2023-11-14-028,Marek Lahoda,Piráti,yes
+2023-11-14-028,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-028,Adam Zemek,Piráti,yes
+2023-11-14-028,Tomáš Anderle,SPD+Trikolora,yes
+2023-11-14-028,Blanka Borovská,SPD+Trikolora,yes
+2023-11-14-028,Jiří Kment,SPD+Trikolora,yes
+2023-11-14-028,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-028,Leoš Prokeš,SPD+Trikolora,yes
+2023-11-14-028,Tomáš Skřička,SPD+Trikolora,yes
+2023-11-14-028,Jana Drápalová,Zelení a Žít Brno,abstain
+2023-11-14-028,Jasna Flamiková,Zelení a Žít Brno,abstain
+2023-11-14-028,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-027,Petr Bauer,ANO,yes
+2023-11-14-027,Petr Bořecký,ANO,yes
+2023-11-14-027,René Černý,ANO,yes
+2023-11-14-027,Alena Gruberová,ANO,yes
+2023-11-14-027,Kateřina Jarošová,ANO,yes
+2023-11-14-027,Karel Kalivoda,ANO,yes
+2023-11-14-027,Karin Podivinská,ANO,yes
+2023-11-14-027,Pavel Kříž,ANO,yes
+2023-11-14-027,Miroslav Kubásek,ANO,yes
+2023-11-14-027,René Novotný,ANO,yes
+2023-11-14-027,Pavel Outrata,ANO,yes
+2023-11-14-027,Vít Prýgl,ANO,absent
+2023-11-14-027,Daniel Struž,ANO,yes
+2023-11-14-027,Jiří Oliva,SOCDEM,absent
+2023-11-14-027,Břetislav Štefan,SOCDEM,yes
+2023-11-14-027,Marek Viskot,SOCDEM,yes
+2023-11-14-027,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-027,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-027,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-027,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-027,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-027,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-027,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-027,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-027,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-027,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-027,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-027,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-027,David Grund,ODS a TOP 09,yes
+2023-11-14-027,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-027,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-027,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-027,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-027,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-027,Andrea Pazderová,ODS a TOP 09,not voting
+2023-11-14-027,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-027,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-027,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-027,David Trllo,ODS a TOP 09,yes
+2023-11-14-027,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-027,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-027,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-027,Tomáš Koláčný,Piráti,yes
+2023-11-14-027,Marek Lahoda,Piráti,yes
+2023-11-14-027,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-027,Adam Zemek,Piráti,yes
+2023-11-14-027,Tomáš Anderle,SPD+Trikolora,yes
+2023-11-14-027,Blanka Borovská,SPD+Trikolora,abstain
+2023-11-14-027,Jiří Kment,SPD+Trikolora,yes
+2023-11-14-027,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-027,Leoš Prokeš,SPD+Trikolora,yes
+2023-11-14-027,Tomáš Skřička,SPD+Trikolora,yes
+2023-11-14-027,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-027,Jasna Flamiková,Zelení a Žít Brno,yes
+2023-11-14-027,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-026,Petr Bauer,ANO,yes
+2023-11-14-026,Petr Bořecký,ANO,yes
+2023-11-14-026,René Černý,ANO,yes
+2023-11-14-026,Alena Gruberová,ANO,yes
+2023-11-14-026,Kateřina Jarošová,ANO,yes
+2023-11-14-026,Karel Kalivoda,ANO,yes
+2023-11-14-026,Karin Podivinská,ANO,yes
+2023-11-14-026,Pavel Kříž,ANO,yes
+2023-11-14-026,Miroslav Kubásek,ANO,yes
+2023-11-14-026,René Novotný,ANO,yes
+2023-11-14-026,Pavel Outrata,ANO,yes
+2023-11-14-026,Vít Prýgl,ANO,absent
+2023-11-14-026,Daniel Struž,ANO,yes
+2023-11-14-026,Jiří Oliva,SOCDEM,absent
+2023-11-14-026,Břetislav Štefan,SOCDEM,yes
+2023-11-14-026,Marek Viskot,SOCDEM,yes
+2023-11-14-026,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-026,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-026,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-026,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-026,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-026,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-026,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-026,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-026,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-026,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-026,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-026,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-026,David Grund,ODS a TOP 09,yes
+2023-11-14-026,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-026,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-026,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-026,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-026,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-026,Andrea Pazderová,ODS a TOP 09,not voting
+2023-11-14-026,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-026,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-026,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-026,David Trllo,ODS a TOP 09,yes
+2023-11-14-026,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-026,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-026,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-026,Tomáš Koláčný,Piráti,yes
+2023-11-14-026,Marek Lahoda,Piráti,yes
+2023-11-14-026,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-026,Adam Zemek,Piráti,yes
+2023-11-14-026,Tomáš Anderle,SPD+Trikolora,yes
+2023-11-14-026,Blanka Borovská,SPD+Trikolora,yes
+2023-11-14-026,Jiří Kment,SPD+Trikolora,yes
+2023-11-14-026,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-026,Leoš Prokeš,SPD+Trikolora,yes
+2023-11-14-026,Tomáš Skřička,SPD+Trikolora,yes
+2023-11-14-026,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-026,Jasna Flamiková,Zelení a Žít Brno,yes
+2023-11-14-026,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-025,Petr Bauer,ANO,yes
+2023-11-14-025,Petr Bořecký,ANO,yes
+2023-11-14-025,René Černý,ANO,yes
+2023-11-14-025,Alena Gruberová,ANO,yes
+2023-11-14-025,Kateřina Jarošová,ANO,yes
+2023-11-14-025,Karel Kalivoda,ANO,yes
+2023-11-14-025,Karin Podivinská,ANO,yes
+2023-11-14-025,Pavel Kříž,ANO,yes
+2023-11-14-025,Miroslav Kubásek,ANO,yes
+2023-11-14-025,René Novotný,ANO,yes
+2023-11-14-025,Pavel Outrata,ANO,yes
+2023-11-14-025,Vít Prýgl,ANO,absent
+2023-11-14-025,Daniel Struž,ANO,yes
+2023-11-14-025,Jiří Oliva,SOCDEM,absent
+2023-11-14-025,Břetislav Štefan,SOCDEM,yes
+2023-11-14-025,Marek Viskot,SOCDEM,yes
+2023-11-14-025,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-025,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-025,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-025,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-025,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-025,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-025,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-025,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-025,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-025,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-025,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-025,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-025,David Grund,ODS a TOP 09,yes
+2023-11-14-025,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-025,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-025,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-025,Vladan Krásný,ODS a TOP 09,not voting
+2023-11-14-025,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-025,Andrea Pazderová,ODS a TOP 09,not voting
+2023-11-14-025,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-025,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-025,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-025,David Trllo,ODS a TOP 09,yes
+2023-11-14-025,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-025,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-025,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-025,Tomáš Koláčný,Piráti,yes
+2023-11-14-025,Marek Lahoda,Piráti,yes
+2023-11-14-025,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-025,Adam Zemek,Piráti,yes
+2023-11-14-025,Tomáš Anderle,SPD+Trikolora,no
+2023-11-14-025,Blanka Borovská,SPD+Trikolora,no
+2023-11-14-025,Jiří Kment,SPD+Trikolora,no
+2023-11-14-025,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-025,Leoš Prokeš,SPD+Trikolora,no
+2023-11-14-025,Tomáš Skřička,SPD+Trikolora,abstain
+2023-11-14-025,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-025,Jasna Flamiková,Zelení a Žít Brno,yes
+2023-11-14-025,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-024,Petr Bauer,ANO,yes
+2023-11-14-024,Petr Bořecký,ANO,yes
+2023-11-14-024,René Černý,ANO,yes
+2023-11-14-024,Alena Gruberová,ANO,yes
+2023-11-14-024,Kateřina Jarošová,ANO,yes
+2023-11-14-024,Karel Kalivoda,ANO,yes
+2023-11-14-024,Karin Podivinská,ANO,yes
+2023-11-14-024,Pavel Kříž,ANO,yes
+2023-11-14-024,Miroslav Kubásek,ANO,yes
+2023-11-14-024,René Novotný,ANO,yes
+2023-11-14-024,Pavel Outrata,ANO,yes
+2023-11-14-024,Vít Prýgl,ANO,absent
+2023-11-14-024,Daniel Struž,ANO,yes
+2023-11-14-024,Jiří Oliva,SOCDEM,absent
+2023-11-14-024,Břetislav Štefan,SOCDEM,yes
+2023-11-14-024,Marek Viskot,SOCDEM,not voting
+2023-11-14-024,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-024,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-024,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-024,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-024,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-024,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-024,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-024,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-024,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-024,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-024,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-024,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-024,David Grund,ODS a TOP 09,yes
+2023-11-14-024,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-024,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-024,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-024,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-024,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-024,Andrea Pazderová,ODS a TOP 09,not voting
+2023-11-14-024,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-024,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-024,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-024,David Trllo,ODS a TOP 09,yes
+2023-11-14-024,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-024,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-024,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-024,Tomáš Koláčný,Piráti,yes
+2023-11-14-024,Marek Lahoda,Piráti,yes
+2023-11-14-024,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-024,Adam Zemek,Piráti,yes
+2023-11-14-024,Tomáš Anderle,SPD+Trikolora,yes
+2023-11-14-024,Blanka Borovská,SPD+Trikolora,yes
+2023-11-14-024,Jiří Kment,SPD+Trikolora,yes
+2023-11-14-024,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-024,Leoš Prokeš,SPD+Trikolora,yes
+2023-11-14-024,Tomáš Skřička,SPD+Trikolora,yes
+2023-11-14-024,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-024,Jasna Flamiková,Zelení a Žít Brno,yes
+2023-11-14-024,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-023,Petr Bauer,ANO,yes
+2023-11-14-023,Petr Bořecký,ANO,yes
+2023-11-14-023,René Černý,ANO,yes
+2023-11-14-023,Alena Gruberová,ANO,yes
+2023-11-14-023,Kateřina Jarošová,ANO,yes
+2023-11-14-023,Karel Kalivoda,ANO,yes
+2023-11-14-023,Karin Podivinská,ANO,yes
+2023-11-14-023,Pavel Kříž,ANO,yes
+2023-11-14-023,Miroslav Kubásek,ANO,yes
+2023-11-14-023,René Novotný,ANO,yes
+2023-11-14-023,Pavel Outrata,ANO,yes
+2023-11-14-023,Vít Prýgl,ANO,absent
+2023-11-14-023,Daniel Struž,ANO,yes
+2023-11-14-023,Jiří Oliva,SOCDEM,absent
+2023-11-14-023,Břetislav Štefan,SOCDEM,yes
+2023-11-14-023,Marek Viskot,SOCDEM,not voting
+2023-11-14-023,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-023,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-023,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-023,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-023,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-023,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-023,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-023,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-023,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-023,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-023,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-023,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-023,David Grund,ODS a TOP 09,yes
+2023-11-14-023,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-023,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-023,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-023,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-023,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-023,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-023,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-023,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-023,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-023,David Trllo,ODS a TOP 09,yes
+2023-11-14-023,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-023,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-023,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-023,Tomáš Koláčný,Piráti,yes
+2023-11-14-023,Marek Lahoda,Piráti,yes
+2023-11-14-023,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-023,Adam Zemek,Piráti,yes
+2023-11-14-023,Tomáš Anderle,SPD+Trikolora,abstain
+2023-11-14-023,Blanka Borovská,SPD+Trikolora,abstain
+2023-11-14-023,Jiří Kment,SPD+Trikolora,abstain
+2023-11-14-023,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-023,Leoš Prokeš,SPD+Trikolora,abstain
+2023-11-14-023,Tomáš Skřička,SPD+Trikolora,abstain
+2023-11-14-023,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-023,Jasna Flamiková,Zelení a Žít Brno,yes
+2023-11-14-023,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-022,Petr Bauer,ANO,yes
+2023-11-14-022,Petr Bořecký,ANO,yes
+2023-11-14-022,René Černý,ANO,yes
+2023-11-14-022,Alena Gruberová,ANO,yes
+2023-11-14-022,Kateřina Jarošová,ANO,yes
+2023-11-14-022,Karel Kalivoda,ANO,yes
+2023-11-14-022,Karin Podivinská,ANO,yes
+2023-11-14-022,Pavel Kříž,ANO,yes
+2023-11-14-022,Miroslav Kubásek,ANO,yes
+2023-11-14-022,René Novotný,ANO,yes
+2023-11-14-022,Pavel Outrata,ANO,yes
+2023-11-14-022,Vít Prýgl,ANO,absent
+2023-11-14-022,Daniel Struž,ANO,yes
+2023-11-14-022,Jiří Oliva,SOCDEM,absent
+2023-11-14-022,Břetislav Štefan,SOCDEM,yes
+2023-11-14-022,Marek Viskot,SOCDEM,not voting
+2023-11-14-022,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-022,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-022,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-022,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-022,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-022,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-022,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-022,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-022,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-022,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-022,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-022,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-022,David Grund,ODS a TOP 09,yes
+2023-11-14-022,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-022,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-022,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-022,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-022,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-022,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-022,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-022,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-022,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-022,David Trllo,ODS a TOP 09,not voting
+2023-11-14-022,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-022,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-022,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-022,Tomáš Koláčný,Piráti,yes
+2023-11-14-022,Marek Lahoda,Piráti,yes
+2023-11-14-022,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-022,Adam Zemek,Piráti,yes
+2023-11-14-022,Tomáš Anderle,SPD+Trikolora,abstain
+2023-11-14-022,Blanka Borovská,SPD+Trikolora,abstain
+2023-11-14-022,Jiří Kment,SPD+Trikolora,abstain
+2023-11-14-022,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-022,Leoš Prokeš,SPD+Trikolora,abstain
+2023-11-14-022,Tomáš Skřička,SPD+Trikolora,abstain
+2023-11-14-022,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-022,Jasna Flamiková,Zelení a Žít Brno,yes
+2023-11-14-022,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-021,Petr Bauer,ANO,yes
+2023-11-14-021,Petr Bořecký,ANO,yes
+2023-11-14-021,René Černý,ANO,yes
+2023-11-14-021,Alena Gruberová,ANO,yes
+2023-11-14-021,Kateřina Jarošová,ANO,yes
+2023-11-14-021,Karel Kalivoda,ANO,yes
+2023-11-14-021,Karin Podivinská,ANO,yes
+2023-11-14-021,Pavel Kříž,ANO,yes
+2023-11-14-021,Miroslav Kubásek,ANO,yes
+2023-11-14-021,René Novotný,ANO,yes
+2023-11-14-021,Pavel Outrata,ANO,yes
+2023-11-14-021,Vít Prýgl,ANO,absent
+2023-11-14-021,Daniel Struž,ANO,yes
+2023-11-14-021,Jiří Oliva,SOCDEM,absent
+2023-11-14-021,Břetislav Štefan,SOCDEM,yes
+2023-11-14-021,Marek Viskot,SOCDEM,yes
+2023-11-14-021,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-021,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-021,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-021,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-021,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-021,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-021,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-021,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-021,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-021,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-021,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-021,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-021,David Grund,ODS a TOP 09,yes
+2023-11-14-021,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-021,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-021,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-021,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-021,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-021,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-021,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-021,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-021,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-021,David Trllo,ODS a TOP 09,yes
+2023-11-14-021,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-021,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-021,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-021,Tomáš Koláčný,Piráti,yes
+2023-11-14-021,Marek Lahoda,Piráti,yes
+2023-11-14-021,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-021,Adam Zemek,Piráti,yes
+2023-11-14-021,Tomáš Anderle,SPD+Trikolora,yes
+2023-11-14-021,Blanka Borovská,SPD+Trikolora,yes
+2023-11-14-021,Jiří Kment,SPD+Trikolora,yes
+2023-11-14-021,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-021,Leoš Prokeš,SPD+Trikolora,yes
+2023-11-14-021,Tomáš Skřička,SPD+Trikolora,yes
+2023-11-14-021,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-021,Jasna Flamiková,Zelení a Žít Brno,yes
+2023-11-14-021,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-020,Petr Bauer,ANO,yes
+2023-11-14-020,Petr Bořecký,ANO,yes
+2023-11-14-020,René Černý,ANO,yes
+2023-11-14-020,Alena Gruberová,ANO,yes
+2023-11-14-020,Kateřina Jarošová,ANO,yes
+2023-11-14-020,Karel Kalivoda,ANO,yes
+2023-11-14-020,Karin Podivinská,ANO,yes
+2023-11-14-020,Pavel Kříž,ANO,yes
+2023-11-14-020,Miroslav Kubásek,ANO,yes
+2023-11-14-020,René Novotný,ANO,yes
+2023-11-14-020,Pavel Outrata,ANO,yes
+2023-11-14-020,Vít Prýgl,ANO,absent
+2023-11-14-020,Daniel Struž,ANO,yes
+2023-11-14-020,Jiří Oliva,SOCDEM,absent
+2023-11-14-020,Břetislav Štefan,SOCDEM,yes
+2023-11-14-020,Marek Viskot,SOCDEM,yes
+2023-11-14-020,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-020,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-020,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-020,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-020,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-020,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-020,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-020,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-020,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-020,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-020,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-020,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-020,David Grund,ODS a TOP 09,yes
+2023-11-14-020,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-020,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-020,Robert Kerndl,ODS a TOP 09,not voting
+2023-11-14-020,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-020,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-020,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-020,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-020,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-020,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-020,David Trllo,ODS a TOP 09,yes
+2023-11-14-020,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-020,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-020,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-020,Tomáš Koláčný,Piráti,yes
+2023-11-14-020,Marek Lahoda,Piráti,yes
+2023-11-14-020,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-020,Adam Zemek,Piráti,yes
+2023-11-14-020,Tomáš Anderle,SPD+Trikolora,no
+2023-11-14-020,Blanka Borovská,SPD+Trikolora,abstain
+2023-11-14-020,Jiří Kment,SPD+Trikolora,no
+2023-11-14-020,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-020,Leoš Prokeš,SPD+Trikolora,no
+2023-11-14-020,Tomáš Skřička,SPD+Trikolora,abstain
+2023-11-14-020,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-020,Jasna Flamiková,Zelení a Žít Brno,yes
+2023-11-14-020,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-019,Petr Bauer,ANO,yes
+2023-11-14-019,Petr Bořecký,ANO,yes
+2023-11-14-019,René Černý,ANO,yes
+2023-11-14-019,Alena Gruberová,ANO,yes
+2023-11-14-019,Kateřina Jarošová,ANO,yes
+2023-11-14-019,Karel Kalivoda,ANO,yes
+2023-11-14-019,Karin Podivinská,ANO,yes
+2023-11-14-019,Pavel Kříž,ANO,yes
+2023-11-14-019,Miroslav Kubásek,ANO,yes
+2023-11-14-019,René Novotný,ANO,yes
+2023-11-14-019,Pavel Outrata,ANO,yes
+2023-11-14-019,Vít Prýgl,ANO,absent
+2023-11-14-019,Daniel Struž,ANO,yes
+2023-11-14-019,Jiří Oliva,SOCDEM,absent
+2023-11-14-019,Břetislav Štefan,SOCDEM,not voting
+2023-11-14-019,Marek Viskot,SOCDEM,yes
+2023-11-14-019,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-019,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-019,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-019,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-019,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-019,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-019,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-019,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-019,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-019,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-019,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-019,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-019,David Grund,ODS a TOP 09,yes
+2023-11-14-019,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-019,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-019,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-019,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-019,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-019,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-019,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-019,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-019,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-019,David Trllo,ODS a TOP 09,yes
+2023-11-14-019,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-019,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-019,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-019,Tomáš Koláčný,Piráti,yes
+2023-11-14-019,Marek Lahoda,Piráti,yes
+2023-11-14-019,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-019,Adam Zemek,Piráti,yes
+2023-11-14-019,Tomáš Anderle,SPD+Trikolora,abstain
+2023-11-14-019,Blanka Borovská,SPD+Trikolora,abstain
+2023-11-14-019,Jiří Kment,SPD+Trikolora,abstain
+2023-11-14-019,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-019,Leoš Prokeš,SPD+Trikolora,abstain
+2023-11-14-019,Tomáš Skřička,SPD+Trikolora,abstain
+2023-11-14-019,Jana Drápalová,Zelení a Žít Brno,abstain
+2023-11-14-019,Jasna Flamiková,Zelení a Žít Brno,yes
+2023-11-14-019,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-018,Petr Bauer,ANO,yes
+2023-11-14-018,Petr Bořecký,ANO,yes
+2023-11-14-018,René Černý,ANO,yes
+2023-11-14-018,Alena Gruberová,ANO,yes
+2023-11-14-018,Kateřina Jarošová,ANO,yes
+2023-11-14-018,Karel Kalivoda,ANO,yes
+2023-11-14-018,Karin Podivinská,ANO,yes
+2023-11-14-018,Pavel Kříž,ANO,yes
+2023-11-14-018,Miroslav Kubásek,ANO,yes
+2023-11-14-018,René Novotný,ANO,yes
+2023-11-14-018,Pavel Outrata,ANO,yes
+2023-11-14-018,Vít Prýgl,ANO,absent
+2023-11-14-018,Daniel Struž,ANO,yes
+2023-11-14-018,Jiří Oliva,SOCDEM,absent
+2023-11-14-018,Břetislav Štefan,SOCDEM,yes
+2023-11-14-018,Marek Viskot,SOCDEM,yes
+2023-11-14-018,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-018,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-018,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-018,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-018,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-018,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-018,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-018,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-018,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-018,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-018,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-018,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-018,David Grund,ODS a TOP 09,yes
+2023-11-14-018,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-018,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-018,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-018,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-018,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-018,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-018,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-018,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-018,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-018,David Trllo,ODS a TOP 09,yes
+2023-11-14-018,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-018,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-018,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-018,Tomáš Koláčný,Piráti,yes
+2023-11-14-018,Marek Lahoda,Piráti,yes
+2023-11-14-018,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-018,Adam Zemek,Piráti,yes
+2023-11-14-018,Tomáš Anderle,SPD+Trikolora,abstain
+2023-11-14-018,Blanka Borovská,SPD+Trikolora,abstain
+2023-11-14-018,Jiří Kment,SPD+Trikolora,abstain
+2023-11-14-018,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-018,Leoš Prokeš,SPD+Trikolora,abstain
+2023-11-14-018,Tomáš Skřička,SPD+Trikolora,abstain
+2023-11-14-018,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-018,Jasna Flamiková,Zelení a Žít Brno,yes
+2023-11-14-018,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-017,Petr Bauer,ANO,yes
+2023-11-14-017,Petr Bořecký,ANO,not voting
+2023-11-14-017,René Černý,ANO,not voting
+2023-11-14-017,Alena Gruberová,ANO,yes
+2023-11-14-017,Kateřina Jarošová,ANO,yes
+2023-11-14-017,Karel Kalivoda,ANO,yes
+2023-11-14-017,Karin Podivinská,ANO,yes
+2023-11-14-017,Pavel Kříž,ANO,yes
+2023-11-14-017,Miroslav Kubásek,ANO,yes
+2023-11-14-017,René Novotný,ANO,yes
+2023-11-14-017,Pavel Outrata,ANO,yes
+2023-11-14-017,Vít Prýgl,ANO,absent
+2023-11-14-017,Daniel Struž,ANO,yes
+2023-11-14-017,Jiří Oliva,SOCDEM,absent
+2023-11-14-017,Břetislav Štefan,SOCDEM,yes
+2023-11-14-017,Marek Viskot,SOCDEM,yes
+2023-11-14-017,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-017,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-017,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-017,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-017,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-017,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-017,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-017,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-017,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-017,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-017,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-017,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-017,David Grund,ODS a TOP 09,yes
+2023-11-14-017,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-017,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-017,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-017,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-017,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-017,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-017,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-017,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-017,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-017,David Trllo,ODS a TOP 09,yes
+2023-11-14-017,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-017,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-017,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-017,Tomáš Koláčný,Piráti,yes
+2023-11-14-017,Marek Lahoda,Piráti,yes
+2023-11-14-017,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-017,Adam Zemek,Piráti,yes
+2023-11-14-017,Tomáš Anderle,SPD+Trikolora,abstain
+2023-11-14-017,Blanka Borovská,SPD+Trikolora,abstain
+2023-11-14-017,Jiří Kment,SPD+Trikolora,abstain
+2023-11-14-017,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-017,Leoš Prokeš,SPD+Trikolora,abstain
+2023-11-14-017,Tomáš Skřička,SPD+Trikolora,abstain
+2023-11-14-017,Jana Drápalová,Zelení a Žít Brno,abstain
+2023-11-14-017,Jasna Flamiková,Zelení a Žít Brno,abstain
+2023-11-14-017,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-016,Petr Bauer,ANO,yes
+2023-11-14-016,Petr Bořecký,ANO,yes
+2023-11-14-016,René Černý,ANO,yes
+2023-11-14-016,Alena Gruberová,ANO,yes
+2023-11-14-016,Kateřina Jarošová,ANO,yes
+2023-11-14-016,Karel Kalivoda,ANO,yes
+2023-11-14-016,Karin Podivinská,ANO,not voting
+2023-11-14-016,Pavel Kříž,ANO,yes
+2023-11-14-016,Miroslav Kubásek,ANO,yes
+2023-11-14-016,René Novotný,ANO,yes
+2023-11-14-016,Pavel Outrata,ANO,yes
+2023-11-14-016,Vít Prýgl,ANO,absent
+2023-11-14-016,Daniel Struž,ANO,yes
+2023-11-14-016,Jiří Oliva,SOCDEM,absent
+2023-11-14-016,Břetislav Štefan,SOCDEM,yes
+2023-11-14-016,Marek Viskot,SOCDEM,yes
+2023-11-14-016,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-016,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-016,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-016,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-016,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-016,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-016,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-016,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-016,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-016,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-016,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-016,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-016,David Grund,ODS a TOP 09,yes
+2023-11-14-016,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-016,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-016,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-016,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-016,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-016,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-016,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-016,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-016,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-016,David Trllo,ODS a TOP 09,yes
+2023-11-14-016,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-016,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-016,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-016,Tomáš Koláčný,Piráti,yes
+2023-11-14-016,Marek Lahoda,Piráti,yes
+2023-11-14-016,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-016,Adam Zemek,Piráti,yes
+2023-11-14-016,Tomáš Anderle,SPD+Trikolora,no
+2023-11-14-016,Blanka Borovská,SPD+Trikolora,no
+2023-11-14-016,Jiří Kment,SPD+Trikolora,no
+2023-11-14-016,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-016,Leoš Prokeš,SPD+Trikolora,no
+2023-11-14-016,Tomáš Skřička,SPD+Trikolora,no
+2023-11-14-016,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-016,Jasna Flamiková,Zelení a Žít Brno,abstain
+2023-11-14-016,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-015,Petr Bauer,ANO,yes
+2023-11-14-015,Petr Bořecký,ANO,yes
+2023-11-14-015,René Černý,ANO,yes
+2023-11-14-015,Alena Gruberová,ANO,yes
+2023-11-14-015,Kateřina Jarošová,ANO,yes
+2023-11-14-015,Karel Kalivoda,ANO,not voting
+2023-11-14-015,Karin Podivinská,ANO,yes
+2023-11-14-015,Pavel Kříž,ANO,not voting
+2023-11-14-015,Miroslav Kubásek,ANO,yes
+2023-11-14-015,René Novotný,ANO,yes
+2023-11-14-015,Pavel Outrata,ANO,yes
+2023-11-14-015,Vít Prýgl,ANO,absent
+2023-11-14-015,Daniel Struž,ANO,yes
+2023-11-14-015,Jiří Oliva,SOCDEM,absent
+2023-11-14-015,Břetislav Štefan,SOCDEM,yes
+2023-11-14-015,Marek Viskot,SOCDEM,yes
+2023-11-14-015,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-015,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-015,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-015,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-015,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-015,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-015,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-015,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-015,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-015,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-015,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-015,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-015,David Grund,ODS a TOP 09,yes
+2023-11-14-015,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-015,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-015,Robert Kerndl,ODS a TOP 09,not voting
+2023-11-14-015,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-015,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-015,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-015,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-015,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-015,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-015,David Trllo,ODS a TOP 09,yes
+2023-11-14-015,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-015,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-015,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-015,Tomáš Koláčný,Piráti,yes
+2023-11-14-015,Marek Lahoda,Piráti,yes
+2023-11-14-015,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-015,Adam Zemek,Piráti,yes
+2023-11-14-015,Tomáš Anderle,SPD+Trikolora,abstain
+2023-11-14-015,Blanka Borovská,SPD+Trikolora,abstain
+2023-11-14-015,Jiří Kment,SPD+Trikolora,abstain
+2023-11-14-015,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-015,Leoš Prokeš,SPD+Trikolora,abstain
+2023-11-14-015,Tomáš Skřička,SPD+Trikolora,abstain
+2023-11-14-015,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-015,Jasna Flamiková,Zelení a Žít Brno,yes
+2023-11-14-015,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-014,Petr Bauer,ANO,yes
+2023-11-14-014,Petr Bořecký,ANO,yes
+2023-11-14-014,René Černý,ANO,yes
+2023-11-14-014,Alena Gruberová,ANO,yes
+2023-11-14-014,Kateřina Jarošová,ANO,yes
+2023-11-14-014,Karel Kalivoda,ANO,yes
+2023-11-14-014,Karin Podivinská,ANO,yes
+2023-11-14-014,Pavel Kříž,ANO,yes
+2023-11-14-014,Miroslav Kubásek,ANO,yes
+2023-11-14-014,René Novotný,ANO,yes
+2023-11-14-014,Pavel Outrata,ANO,yes
+2023-11-14-014,Vít Prýgl,ANO,absent
+2023-11-14-014,Daniel Struž,ANO,yes
+2023-11-14-014,Jiří Oliva,SOCDEM,absent
+2023-11-14-014,Břetislav Štefan,SOCDEM,yes
+2023-11-14-014,Marek Viskot,SOCDEM,yes
+2023-11-14-014,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-014,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-014,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-014,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-014,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-014,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-014,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-014,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-014,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-014,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-014,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-014,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-014,David Grund,ODS a TOP 09,yes
+2023-11-14-014,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-014,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-014,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-014,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-014,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-014,Andrea Pazderová,ODS a TOP 09,not voting
+2023-11-14-014,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-014,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-014,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-014,David Trllo,ODS a TOP 09,yes
+2023-11-14-014,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-014,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-014,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-014,Tomáš Koláčný,Piráti,yes
+2023-11-14-014,Marek Lahoda,Piráti,yes
+2023-11-14-014,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-014,Adam Zemek,Piráti,yes
+2023-11-14-014,Tomáš Anderle,SPD+Trikolora,abstain
+2023-11-14-014,Blanka Borovská,SPD+Trikolora,abstain
+2023-11-14-014,Jiří Kment,SPD+Trikolora,abstain
+2023-11-14-014,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-014,Leoš Prokeš,SPD+Trikolora,abstain
+2023-11-14-014,Tomáš Skřička,SPD+Trikolora,abstain
+2023-11-14-014,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-014,Jasna Flamiková,Zelení a Žít Brno,yes
+2023-11-14-014,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-013,Petr Bauer,ANO,yes
+2023-11-14-013,Petr Bořecký,ANO,yes
+2023-11-14-013,René Černý,ANO,yes
+2023-11-14-013,Alena Gruberová,ANO,yes
+2023-11-14-013,Kateřina Jarošová,ANO,yes
+2023-11-14-013,Karel Kalivoda,ANO,yes
+2023-11-14-013,Karin Podivinská,ANO,yes
+2023-11-14-013,Pavel Kříž,ANO,yes
+2023-11-14-013,Miroslav Kubásek,ANO,yes
+2023-11-14-013,René Novotný,ANO,yes
+2023-11-14-013,Pavel Outrata,ANO,yes
+2023-11-14-013,Vít Prýgl,ANO,absent
+2023-11-14-013,Daniel Struž,ANO,yes
+2023-11-14-013,Jiří Oliva,SOCDEM,absent
+2023-11-14-013,Břetislav Štefan,SOCDEM,yes
+2023-11-14-013,Marek Viskot,SOCDEM,yes
+2023-11-14-013,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-013,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-013,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-013,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-013,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-013,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-013,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-013,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-013,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-013,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-013,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-013,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-013,David Grund,ODS a TOP 09,yes
+2023-11-14-013,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-013,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-013,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-013,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-013,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-013,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-013,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-013,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-013,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-013,David Trllo,ODS a TOP 09,yes
+2023-11-14-013,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-013,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-013,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-013,Tomáš Koláčný,Piráti,yes
+2023-11-14-013,Marek Lahoda,Piráti,yes
+2023-11-14-013,Monika Lukášová Spilková,Piráti,not voting
+2023-11-14-013,Adam Zemek,Piráti,yes
+2023-11-14-013,Tomáš Anderle,SPD+Trikolora,yes
+2023-11-14-013,Blanka Borovská,SPD+Trikolora,yes
+2023-11-14-013,Jiří Kment,SPD+Trikolora,yes
+2023-11-14-013,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-013,Leoš Prokeš,SPD+Trikolora,not voting
+2023-11-14-013,Tomáš Skřička,SPD+Trikolora,yes
+2023-11-14-013,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-013,Jasna Flamiková,Zelení a Žít Brno,abstain
+2023-11-14-013,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-012,Petr Bauer,ANO,yes
+2023-11-14-012,Petr Bořecký,ANO,yes
+2023-11-14-012,René Černý,ANO,yes
+2023-11-14-012,Alena Gruberová,ANO,yes
+2023-11-14-012,Kateřina Jarošová,ANO,yes
+2023-11-14-012,Karel Kalivoda,ANO,yes
+2023-11-14-012,Karin Podivinská,ANO,yes
+2023-11-14-012,Pavel Kříž,ANO,yes
+2023-11-14-012,Miroslav Kubásek,ANO,yes
+2023-11-14-012,René Novotný,ANO,yes
+2023-11-14-012,Pavel Outrata,ANO,yes
+2023-11-14-012,Vít Prýgl,ANO,absent
+2023-11-14-012,Daniel Struž,ANO,yes
+2023-11-14-012,Jiří Oliva,SOCDEM,absent
+2023-11-14-012,Břetislav Štefan,SOCDEM,yes
+2023-11-14-012,Marek Viskot,SOCDEM,yes
+2023-11-14-012,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-012,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-012,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-012,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-012,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-012,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-012,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-012,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-012,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-012,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-012,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-012,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-012,David Grund,ODS a TOP 09,yes
+2023-11-14-012,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-012,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-012,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-012,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-012,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-012,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-012,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-012,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-012,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-012,David Trllo,ODS a TOP 09,yes
+2023-11-14-012,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-012,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-012,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-012,Tomáš Koláčný,Piráti,yes
+2023-11-14-012,Marek Lahoda,Piráti,yes
+2023-11-14-012,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-012,Adam Zemek,Piráti,yes
+2023-11-14-012,Tomáš Anderle,SPD+Trikolora,yes
+2023-11-14-012,Blanka Borovská,SPD+Trikolora,yes
+2023-11-14-012,Jiří Kment,SPD+Trikolora,yes
+2023-11-14-012,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-012,Leoš Prokeš,SPD+Trikolora,yes
+2023-11-14-012,Tomáš Skřička,SPD+Trikolora,yes
+2023-11-14-012,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-012,Jasna Flamiková,Zelení a Žít Brno,yes
+2023-11-14-012,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-011,Petr Bauer,ANO,yes
+2023-11-14-011,Petr Bořecký,ANO,yes
+2023-11-14-011,René Černý,ANO,yes
+2023-11-14-011,Alena Gruberová,ANO,yes
+2023-11-14-011,Kateřina Jarošová,ANO,yes
+2023-11-14-011,Karel Kalivoda,ANO,yes
+2023-11-14-011,Karin Podivinská,ANO,yes
+2023-11-14-011,Pavel Kříž,ANO,yes
+2023-11-14-011,Miroslav Kubásek,ANO,yes
+2023-11-14-011,René Novotný,ANO,yes
+2023-11-14-011,Pavel Outrata,ANO,yes
+2023-11-14-011,Vít Prýgl,ANO,absent
+2023-11-14-011,Daniel Struž,ANO,yes
+2023-11-14-011,Jiří Oliva,SOCDEM,absent
+2023-11-14-011,Břetislav Štefan,SOCDEM,yes
+2023-11-14-011,Marek Viskot,SOCDEM,yes
+2023-11-14-011,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-011,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-011,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-011,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-011,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-011,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-011,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-011,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-011,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-011,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-011,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-011,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-011,David Grund,ODS a TOP 09,yes
+2023-11-14-011,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-011,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-011,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-011,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-011,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-011,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-011,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-011,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-011,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-011,David Trllo,ODS a TOP 09,yes
+2023-11-14-011,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-011,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-011,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-011,Tomáš Koláčný,Piráti,yes
+2023-11-14-011,Marek Lahoda,Piráti,yes
+2023-11-14-011,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-011,Adam Zemek,Piráti,yes
+2023-11-14-011,Tomáš Anderle,SPD+Trikolora,abstain
+2023-11-14-011,Blanka Borovská,SPD+Trikolora,abstain
+2023-11-14-011,Jiří Kment,SPD+Trikolora,abstain
+2023-11-14-011,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-011,Leoš Prokeš,SPD+Trikolora,abstain
+2023-11-14-011,Tomáš Skřička,SPD+Trikolora,abstain
+2023-11-14-011,Jana Drápalová,Zelení a Žít Brno,abstain
+2023-11-14-011,Jasna Flamiková,Zelení a Žít Brno,abstain
+2023-11-14-011,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-010,Petr Bauer,ANO,yes
+2023-11-14-010,Petr Bořecký,ANO,yes
+2023-11-14-010,René Černý,ANO,yes
+2023-11-14-010,Alena Gruberová,ANO,yes
+2023-11-14-010,Kateřina Jarošová,ANO,yes
+2023-11-14-010,Karel Kalivoda,ANO,yes
+2023-11-14-010,Karin Podivinská,ANO,yes
+2023-11-14-010,Pavel Kříž,ANO,yes
+2023-11-14-010,Miroslav Kubásek,ANO,yes
+2023-11-14-010,René Novotný,ANO,not voting
+2023-11-14-010,Pavel Outrata,ANO,yes
+2023-11-14-010,Vít Prýgl,ANO,absent
+2023-11-14-010,Daniel Struž,ANO,yes
+2023-11-14-010,Jiří Oliva,SOCDEM,absent
+2023-11-14-010,Břetislav Štefan,SOCDEM,yes
+2023-11-14-010,Marek Viskot,SOCDEM,yes
+2023-11-14-010,Petr Hladík,KDU-ČSL a STAN,no
+2023-11-14-010,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-010,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-010,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-010,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-010,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-010,Michal Marek,KDU-ČSL a STAN,not voting
+2023-11-14-010,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-010,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-010,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-010,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-010,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-010,David Grund,ODS a TOP 09,yes
+2023-11-14-010,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-010,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-010,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-010,Vladan Krásný,ODS a TOP 09,yes
+2023-11-14-010,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-010,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-010,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-010,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-010,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-010,David Trllo,ODS a TOP 09,yes
+2023-11-14-010,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-010,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-010,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-010,Tomáš Koláčný,Piráti,yes
+2023-11-14-010,Marek Lahoda,Piráti,yes
+2023-11-14-010,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-010,Adam Zemek,Piráti,yes
+2023-11-14-010,Tomáš Anderle,SPD+Trikolora,no
+2023-11-14-010,Blanka Borovská,SPD+Trikolora,no
+2023-11-14-010,Jiří Kment,SPD+Trikolora,no
+2023-11-14-010,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-010,Leoš Prokeš,SPD+Trikolora,no
+2023-11-14-010,Tomáš Skřička,SPD+Trikolora,no
+2023-11-14-010,Jana Drápalová,Zelení a Žít Brno,abstain
+2023-11-14-010,Jasna Flamiková,Zelení a Žít Brno,abstain
+2023-11-14-010,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-009,Petr Bauer,ANO,yes
+2023-11-14-009,Petr Bořecký,ANO,yes
+2023-11-14-009,René Černý,ANO,yes
+2023-11-14-009,Alena Gruberová,ANO,yes
+2023-11-14-009,Kateřina Jarošová,ANO,yes
+2023-11-14-009,Karel Kalivoda,ANO,yes
+2023-11-14-009,Karin Podivinská,ANO,yes
+2023-11-14-009,Pavel Kříž,ANO,yes
+2023-11-14-009,Miroslav Kubásek,ANO,yes
+2023-11-14-009,René Novotný,ANO,yes
+2023-11-14-009,Pavel Outrata,ANO,yes
+2023-11-14-009,Vít Prýgl,ANO,absent
+2023-11-14-009,Daniel Struž,ANO,yes
+2023-11-14-009,Jiří Oliva,SOCDEM,absent
+2023-11-14-009,Břetislav Štefan,SOCDEM,yes
+2023-11-14-009,Marek Viskot,SOCDEM,yes
+2023-11-14-009,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-009,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-009,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-009,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-009,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-009,Martin Maleček,KDU-ČSL a STAN,not voting
+2023-11-14-009,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-009,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-009,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-009,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-009,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-009,Kristýna Černá,ODS a TOP 09,not voting
+2023-11-14-009,David Grund,ODS a TOP 09,yes
+2023-11-14-009,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-009,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-009,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-009,Vladan Krásný,ODS a TOP 09,absent
+2023-11-14-009,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-009,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-009,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-009,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-009,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-009,David Trllo,ODS a TOP 09,yes
+2023-11-14-009,Pavel Urubek,ODS a TOP 09,not voting
+2023-11-14-009,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-009,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-009,Tomáš Koláčný,Piráti,yes
+2023-11-14-009,Marek Lahoda,Piráti,yes
+2023-11-14-009,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-009,Adam Zemek,Piráti,yes
+2023-11-14-009,Tomáš Anderle,SPD+Trikolora,yes
+2023-11-14-009,Blanka Borovská,SPD+Trikolora,yes
+2023-11-14-009,Jiří Kment,SPD+Trikolora,yes
+2023-11-14-009,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-009,Leoš Prokeš,SPD+Trikolora,yes
+2023-11-14-009,Tomáš Skřička,SPD+Trikolora,yes
+2023-11-14-009,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-009,Jasna Flamiková,Zelení a Žít Brno,abstain
+2023-11-14-009,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-008,Petr Bauer,ANO,yes
+2023-11-14-008,Petr Bořecký,ANO,yes
+2023-11-14-008,René Černý,ANO,yes
+2023-11-14-008,Alena Gruberová,ANO,yes
+2023-11-14-008,Kateřina Jarošová,ANO,yes
+2023-11-14-008,Karel Kalivoda,ANO,yes
+2023-11-14-008,Karin Podivinská,ANO,yes
+2023-11-14-008,Pavel Kříž,ANO,yes
+2023-11-14-008,Miroslav Kubásek,ANO,yes
+2023-11-14-008,René Novotný,ANO,yes
+2023-11-14-008,Pavel Outrata,ANO,yes
+2023-11-14-008,Vít Prýgl,ANO,absent
+2023-11-14-008,Daniel Struž,ANO,yes
+2023-11-14-008,Jiří Oliva,SOCDEM,absent
+2023-11-14-008,Břetislav Štefan,SOCDEM,yes
+2023-11-14-008,Marek Viskot,SOCDEM,yes
+2023-11-14-008,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-008,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-008,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-008,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-008,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-008,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-008,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-008,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-008,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-008,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-008,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-008,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-008,David Grund,ODS a TOP 09,yes
+2023-11-14-008,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-008,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-008,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-008,Vladan Krásný,ODS a TOP 09,absent
+2023-11-14-008,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-008,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-008,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-008,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-008,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-008,David Trllo,ODS a TOP 09,yes
+2023-11-14-008,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-008,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-008,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-008,Tomáš Koláčný,Piráti,yes
+2023-11-14-008,Marek Lahoda,Piráti,yes
+2023-11-14-008,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-008,Adam Zemek,Piráti,yes
+2023-11-14-008,Tomáš Anderle,SPD+Trikolora,abstain
+2023-11-14-008,Blanka Borovská,SPD+Trikolora,abstain
+2023-11-14-008,Jiří Kment,SPD+Trikolora,abstain
+2023-11-14-008,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-008,Leoš Prokeš,SPD+Trikolora,abstain
+2023-11-14-008,Tomáš Skřička,SPD+Trikolora,abstain
+2023-11-14-008,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-008,Jasna Flamiková,Zelení a Žít Brno,yes
+2023-11-14-008,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-007,Petr Bauer,ANO,yes
+2023-11-14-007,Petr Bořecký,ANO,yes
+2023-11-14-007,René Černý,ANO,yes
+2023-11-14-007,Alena Gruberová,ANO,yes
+2023-11-14-007,Kateřina Jarošová,ANO,yes
+2023-11-14-007,Karel Kalivoda,ANO,yes
+2023-11-14-007,Karin Podivinská,ANO,yes
+2023-11-14-007,Pavel Kříž,ANO,yes
+2023-11-14-007,Miroslav Kubásek,ANO,yes
+2023-11-14-007,René Novotný,ANO,yes
+2023-11-14-007,Pavel Outrata,ANO,yes
+2023-11-14-007,Vít Prýgl,ANO,absent
+2023-11-14-007,Daniel Struž,ANO,yes
+2023-11-14-007,Jiří Oliva,SOCDEM,absent
+2023-11-14-007,Břetislav Štefan,SOCDEM,yes
+2023-11-14-007,Marek Viskot,SOCDEM,yes
+2023-11-14-007,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-007,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-007,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-007,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-007,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-007,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-007,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-007,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-007,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-007,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-007,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-007,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-007,David Grund,ODS a TOP 09,yes
+2023-11-14-007,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-007,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-007,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-007,Vladan Krásný,ODS a TOP 09,absent
+2023-11-14-007,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-007,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-007,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-007,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-007,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-007,David Trllo,ODS a TOP 09,yes
+2023-11-14-007,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-007,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-007,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-007,Tomáš Koláčný,Piráti,yes
+2023-11-14-007,Marek Lahoda,Piráti,yes
+2023-11-14-007,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-007,Adam Zemek,Piráti,yes
+2023-11-14-007,Tomáš Anderle,SPD+Trikolora,abstain
+2023-11-14-007,Blanka Borovská,SPD+Trikolora,abstain
+2023-11-14-007,Jiří Kment,SPD+Trikolora,abstain
+2023-11-14-007,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-007,Leoš Prokeš,SPD+Trikolora,abstain
+2023-11-14-007,Tomáš Skřička,SPD+Trikolora,abstain
+2023-11-14-007,Jana Drápalová,Zelení a Žít Brno,abstain
+2023-11-14-007,Jasna Flamiková,Zelení a Žít Brno,abstain
+2023-11-14-007,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-006,Petr Bauer,ANO,yes
+2023-11-14-006,Petr Bořecký,ANO,yes
+2023-11-14-006,René Černý,ANO,yes
+2023-11-14-006,Alena Gruberová,ANO,yes
+2023-11-14-006,Kateřina Jarošová,ANO,yes
+2023-11-14-006,Karel Kalivoda,ANO,yes
+2023-11-14-006,Karin Podivinská,ANO,yes
+2023-11-14-006,Pavel Kříž,ANO,yes
+2023-11-14-006,Miroslav Kubásek,ANO,yes
+2023-11-14-006,René Novotný,ANO,yes
+2023-11-14-006,Pavel Outrata,ANO,yes
+2023-11-14-006,Vít Prýgl,ANO,absent
+2023-11-14-006,Daniel Struž,ANO,yes
+2023-11-14-006,Jiří Oliva,SOCDEM,absent
+2023-11-14-006,Břetislav Štefan,SOCDEM,yes
+2023-11-14-006,Marek Viskot,SOCDEM,yes
+2023-11-14-006,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-006,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-006,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-006,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-006,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-006,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-006,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-006,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-006,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-006,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-006,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-006,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-006,David Grund,ODS a TOP 09,yes
+2023-11-14-006,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-006,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-006,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-006,Vladan Krásný,ODS a TOP 09,absent
+2023-11-14-006,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-006,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-006,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-006,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-006,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-006,David Trllo,ODS a TOP 09,yes
+2023-11-14-006,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-006,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-006,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-006,Tomáš Koláčný,Piráti,yes
+2023-11-14-006,Marek Lahoda,Piráti,yes
+2023-11-14-006,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-006,Adam Zemek,Piráti,yes
+2023-11-14-006,Tomáš Anderle,SPD+Trikolora,yes
+2023-11-14-006,Blanka Borovská,SPD+Trikolora,yes
+2023-11-14-006,Jiří Kment,SPD+Trikolora,yes
+2023-11-14-006,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-006,Leoš Prokeš,SPD+Trikolora,yes
+2023-11-14-006,Tomáš Skřička,SPD+Trikolora,yes
+2023-11-14-006,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-006,Jasna Flamiková,Zelení a Žít Brno,yes
+2023-11-14-006,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-005,Petr Bauer,ANO,yes
+2023-11-14-005,Petr Bořecký,ANO,yes
+2023-11-14-005,René Černý,ANO,yes
+2023-11-14-005,Alena Gruberová,ANO,yes
+2023-11-14-005,Kateřina Jarošová,ANO,yes
+2023-11-14-005,Karel Kalivoda,ANO,yes
+2023-11-14-005,Karin Podivinská,ANO,yes
+2023-11-14-005,Pavel Kříž,ANO,yes
+2023-11-14-005,Miroslav Kubásek,ANO,yes
+2023-11-14-005,René Novotný,ANO,yes
+2023-11-14-005,Pavel Outrata,ANO,yes
+2023-11-14-005,Vít Prýgl,ANO,absent
+2023-11-14-005,Daniel Struž,ANO,yes
+2023-11-14-005,Jiří Oliva,SOCDEM,absent
+2023-11-14-005,Břetislav Štefan,SOCDEM,yes
+2023-11-14-005,Marek Viskot,SOCDEM,yes
+2023-11-14-005,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-005,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-005,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-005,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-005,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-005,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-005,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-005,Irena Matonohová,KDU-ČSL a STAN,not voting
+2023-11-14-005,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-005,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-005,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-005,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-005,David Grund,ODS a TOP 09,yes
+2023-11-14-005,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-005,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-005,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-005,Vladan Krásný,ODS a TOP 09,absent
+2023-11-14-005,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-005,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-005,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-005,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-005,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-005,David Trllo,ODS a TOP 09,yes
+2023-11-14-005,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-005,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-005,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-005,Tomáš Koláčný,Piráti,yes
+2023-11-14-005,Marek Lahoda,Piráti,yes
+2023-11-14-005,Monika Lukášová Spilková,Piráti,not voting
+2023-11-14-005,Adam Zemek,Piráti,yes
+2023-11-14-005,Tomáš Anderle,SPD+Trikolora,yes
+2023-11-14-005,Blanka Borovská,SPD+Trikolora,yes
+2023-11-14-005,Jiří Kment,SPD+Trikolora,yes
+2023-11-14-005,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-005,Leoš Prokeš,SPD+Trikolora,yes
+2023-11-14-005,Tomáš Skřička,SPD+Trikolora,yes
+2023-11-14-005,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-005,Jasna Flamiková,Zelení a Žít Brno,yes
+2023-11-14-005,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-004,Petr Bauer,ANO,yes
+2023-11-14-004,Petr Bořecký,ANO,yes
+2023-11-14-004,René Černý,ANO,yes
+2023-11-14-004,Alena Gruberová,ANO,yes
+2023-11-14-004,Kateřina Jarošová,ANO,yes
+2023-11-14-004,Karel Kalivoda,ANO,yes
+2023-11-14-004,Karin Podivinská,ANO,yes
+2023-11-14-004,Pavel Kříž,ANO,yes
+2023-11-14-004,Miroslav Kubásek,ANO,yes
+2023-11-14-004,René Novotný,ANO,yes
+2023-11-14-004,Pavel Outrata,ANO,yes
+2023-11-14-004,Vít Prýgl,ANO,absent
+2023-11-14-004,Daniel Struž,ANO,yes
+2023-11-14-004,Jiří Oliva,SOCDEM,absent
+2023-11-14-004,Břetislav Štefan,SOCDEM,yes
+2023-11-14-004,Marek Viskot,SOCDEM,yes
+2023-11-14-004,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-004,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-004,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-004,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-004,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-004,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-004,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-004,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-004,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-004,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-004,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-004,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-004,David Grund,ODS a TOP 09,yes
+2023-11-14-004,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-004,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-004,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-004,Vladan Krásný,ODS a TOP 09,absent
+2023-11-14-004,Petr Kratochvíl,ODS a TOP 09,not voting
+2023-11-14-004,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-004,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-004,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-004,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-004,David Trllo,ODS a TOP 09,yes
+2023-11-14-004,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-004,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-004,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-004,Tomáš Koláčný,Piráti,yes
+2023-11-14-004,Marek Lahoda,Piráti,yes
+2023-11-14-004,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-004,Adam Zemek,Piráti,yes
+2023-11-14-004,Tomáš Anderle,SPD+Trikolora,yes
+2023-11-14-004,Blanka Borovská,SPD+Trikolora,yes
+2023-11-14-004,Jiří Kment,SPD+Trikolora,yes
+2023-11-14-004,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-004,Leoš Prokeš,SPD+Trikolora,yes
+2023-11-14-004,Tomáš Skřička,SPD+Trikolora,yes
+2023-11-14-004,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-004,Jasna Flamiková,Zelení a Žít Brno,yes
+2023-11-14-004,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-003,Petr Bauer,ANO,yes
+2023-11-14-003,Petr Bořecký,ANO,yes
+2023-11-14-003,René Černý,ANO,yes
+2023-11-14-003,Alena Gruberová,ANO,yes
+2023-11-14-003,Kateřina Jarošová,ANO,yes
+2023-11-14-003,Karel Kalivoda,ANO,yes
+2023-11-14-003,Karin Podivinská,ANO,yes
+2023-11-14-003,Pavel Kříž,ANO,yes
+2023-11-14-003,Miroslav Kubásek,ANO,yes
+2023-11-14-003,René Novotný,ANO,yes
+2023-11-14-003,Pavel Outrata,ANO,yes
+2023-11-14-003,Vít Prýgl,ANO,absent
+2023-11-14-003,Daniel Struž,ANO,yes
+2023-11-14-003,Jiří Oliva,SOCDEM,absent
+2023-11-14-003,Břetislav Štefan,SOCDEM,yes
+2023-11-14-003,Marek Viskot,SOCDEM,yes
+2023-11-14-003,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-003,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-003,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-003,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-003,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-003,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-003,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-003,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-003,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-003,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-003,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-003,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-003,David Grund,ODS a TOP 09,yes
+2023-11-14-003,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-003,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-003,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-003,Vladan Krásný,ODS a TOP 09,absent
+2023-11-14-003,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-003,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-003,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-003,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-003,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-003,David Trllo,ODS a TOP 09,yes
+2023-11-14-003,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-003,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-003,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-003,Tomáš Koláčný,Piráti,yes
+2023-11-14-003,Marek Lahoda,Piráti,yes
+2023-11-14-003,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-003,Adam Zemek,Piráti,yes
+2023-11-14-003,Tomáš Anderle,SPD+Trikolora,yes
+2023-11-14-003,Blanka Borovská,SPD+Trikolora,yes
+2023-11-14-003,Jiří Kment,SPD+Trikolora,yes
+2023-11-14-003,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-003,Leoš Prokeš,SPD+Trikolora,yes
+2023-11-14-003,Tomáš Skřička,SPD+Trikolora,yes
+2023-11-14-003,Jana Drápalová,Zelení a Žít Brno,not voting
+2023-11-14-003,Jasna Flamiková,Zelení a Žít Brno,yes
+2023-11-14-003,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-002,Petr Bauer,ANO,yes
+2023-11-14-002,Petr Bořecký,ANO,yes
+2023-11-14-002,René Černý,ANO,yes
+2023-11-14-002,Alena Gruberová,ANO,yes
+2023-11-14-002,Kateřina Jarošová,ANO,yes
+2023-11-14-002,Karel Kalivoda,ANO,yes
+2023-11-14-002,Karin Podivinská,ANO,yes
+2023-11-14-002,Pavel Kříž,ANO,yes
+2023-11-14-002,Miroslav Kubásek,ANO,yes
+2023-11-14-002,René Novotný,ANO,yes
+2023-11-14-002,Pavel Outrata,ANO,yes
+2023-11-14-002,Vít Prýgl,ANO,absent
+2023-11-14-002,Daniel Struž,ANO,yes
+2023-11-14-002,Jiří Oliva,SOCDEM,absent
+2023-11-14-002,Břetislav Štefan,SOCDEM,yes
+2023-11-14-002,Marek Viskot,SOCDEM,yes
+2023-11-14-002,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-002,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-002,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-002,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-002,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-002,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-002,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-002,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-002,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-002,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-002,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-002,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-002,David Grund,ODS a TOP 09,yes
+2023-11-14-002,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-002,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-002,Robert Kerndl,ODS a TOP 09,not voting
+2023-11-14-002,Vladan Krásný,ODS a TOP 09,absent
+2023-11-14-002,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-002,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-002,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-002,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-002,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-002,David Trllo,ODS a TOP 09,yes
+2023-11-14-002,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-002,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-002,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-002,Tomáš Koláčný,Piráti,yes
+2023-11-14-002,Marek Lahoda,Piráti,yes
+2023-11-14-002,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-002,Adam Zemek,Piráti,yes
+2023-11-14-002,Tomáš Anderle,SPD+Trikolora,yes
+2023-11-14-002,Blanka Borovská,SPD+Trikolora,yes
+2023-11-14-002,Jiří Kment,SPD+Trikolora,yes
+2023-11-14-002,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-002,Leoš Prokeš,SPD+Trikolora,yes
+2023-11-14-002,Tomáš Skřička,SPD+Trikolora,yes
+2023-11-14-002,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-002,Jasna Flamiková,Zelení a Žít Brno,yes
+2023-11-14-002,Matěj Hollan,Zelení a Žít Brno,absent
+2023-11-14-001,Petr Bauer,ANO,yes
+2023-11-14-001,Petr Bořecký,ANO,yes
+2023-11-14-001,René Černý,ANO,yes
+2023-11-14-001,Alena Gruberová,ANO,yes
+2023-11-14-001,Kateřina Jarošová,ANO,yes
+2023-11-14-001,Karel Kalivoda,ANO,yes
+2023-11-14-001,Karin Podivinská,ANO,yes
+2023-11-14-001,Pavel Kříž,ANO,yes
+2023-11-14-001,Miroslav Kubásek,ANO,yes
+2023-11-14-001,René Novotný,ANO,yes
+2023-11-14-001,Pavel Outrata,ANO,yes
+2023-11-14-001,Vít Prýgl,ANO,absent
+2023-11-14-001,Daniel Struž,ANO,yes
+2023-11-14-001,Jiří Oliva,SOCDEM,absent
+2023-11-14-001,Břetislav Štefan,SOCDEM,yes
+2023-11-14-001,Marek Viskot,SOCDEM,yes
+2023-11-14-001,Petr Hladík,KDU-ČSL a STAN,yes
+2023-11-14-001,Jakub Hruška,KDU-ČSL a STAN,yes
+2023-11-14-001,Filip Chvátal,KDU-ČSL a STAN,yes
+2023-11-14-001,Jitka Ivičičová,KDU-ČSL a STAN,yes
+2023-11-14-001,Filip Leder,KDU-ČSL a STAN,yes
+2023-11-14-001,Martin Maleček,KDU-ČSL a STAN,yes
+2023-11-14-001,Michal Marek,KDU-ČSL a STAN,yes
+2023-11-14-001,Irena Matonohová,KDU-ČSL a STAN,yes
+2023-11-14-001,Jaroslav Suchý,KDU-ČSL a STAN,yes
+2023-11-14-001,Radomír Vondra,KDU-ČSL a STAN,yes
+2023-11-14-001,Tomáš Aberl,ODS a TOP 09,yes
+2023-11-14-001,Kristýna Černá,ODS a TOP 09,yes
+2023-11-14-001,David Grund,ODS a TOP 09,yes
+2023-11-14-001,Jiří Herman,ODS a TOP 09,yes
+2023-11-14-001,Michal Chládek,ODS a TOP 09,yes
+2023-11-14-001,Robert Kerndl,ODS a TOP 09,yes
+2023-11-14-001,Vladan Krásný,ODS a TOP 09,absent
+2023-11-14-001,Petr Kratochvíl,ODS a TOP 09,yes
+2023-11-14-001,Andrea Pazderová,ODS a TOP 09,yes
+2023-11-14-001,Martin Příborský,ODS a TOP 09,yes
+2023-11-14-001,Anna Putnová,ODS a TOP 09,yes
+2023-11-14-001,Dagmar Seidlová,ODS a TOP 09,yes
+2023-11-14-001,David Trllo,ODS a TOP 09,yes
+2023-11-14-001,Pavel Urubek,ODS a TOP 09,yes
+2023-11-14-001,Markéta Vaňková,ODS a TOP 09,yes
+2023-11-14-001,Libor Zábranský,ODS a TOP 09,yes
+2023-11-14-001,Tomáš Koláčný,Piráti,yes
+2023-11-14-001,Marek Lahoda,Piráti,yes
+2023-11-14-001,Monika Lukášová Spilková,Piráti,yes
+2023-11-14-001,Adam Zemek,Piráti,yes
+2023-11-14-001,Tomáš Anderle,SPD+Trikolora,yes
+2023-11-14-001,Blanka Borovská,SPD+Trikolora,yes
+2023-11-14-001,Jiří Kment,SPD+Trikolora,yes
+2023-11-14-001,Petr Levíček,SPD+Trikolora,absent
+2023-11-14-001,Leoš Prokeš,SPD+Trikolora,yes
+2023-11-14-001,Tomáš Skřička,SPD+Trikolora,yes
+2023-11-14-001,Jana Drápalová,Zelení a Žít Brno,yes
+2023-11-14-001,Jasna Flamiková,Zelení a Žít Brno,yes
+2023-11-14-001,Matěj Hollan,Zelení a Žít Brno,absent
 2023-10-18-010,Petr Bauer,ANO,yes
 2023-10-18-010,Petr Bořecký,ANO,yes
 2023-10-18-010,René Černý,ANO,yes

@@ -5,6 +5,7 @@
 - [Brno](/brno)
 
 ## Articles
+- https://www.seznamzpravy.cz/clanek/fakta-v-brne-k-sobe-maji-stale-nejblize-ods-s-top-09-a-ano-ukazuje-analyza-239593
 - https://www.seznamzpravy.cz/clanek/domaci-hlasovani-zastupitelu-v-praze-a-brne-ano-a-spolu-k-sobe-maji-velmi-blizko-225824
 
 ## Data standards
