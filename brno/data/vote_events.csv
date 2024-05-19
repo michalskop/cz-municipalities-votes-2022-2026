@@ -1,4 +1,475 @@
 id,date,motion:title,motion:result,code,number,counts:yes,counts:no,counts:abstain
+2024-05-14-088,2024-05-14T10:36:07+00:00,hlasování o pokračování jednání do vyčerpání programu,pass,Z9/17,88,43,1,1
+2024-05-14-087,2024-05-14T10:34:47+00:00,"106. Zapojení Fondu rezerv a rozvoje v souvislosti s navýšením účelového neinvestičního příspěvku Národnímu divadlu Brno, příspěvkové organizaci v roce 2024 – návrh rozpočtového opatření",pass,Z9/17,87,42,0,0
+2024-05-14-086,2024-05-14T10:34:22+00:00,"106. Zapojení Fondu rezerv a rozvoje v souvislosti s navýšením účelového neinvestičního příspěvku Národnímu divadlu Brno, příspěvkové organizaci v roce 2024 – návrh rozpočtového opatření - hlasování o návrhu pí Flamikové",fail,Z9/17,86,9,1,19
+2024-05-14-085,2024-05-14T10:25:39+00:00,105. Návrh Dodatku č. 1 ke Smlouvě o spolupráci při výstavbě veřejné infrastruktury „Bytový dům Sokolova“,pass,Z9/17,85,35,5,4
+2024-05-14-084,2024-05-14T10:25:13+00:00,"104. Návrh dodatku č. 1 ke Smlouvě o spolupráci v rámci projektu ""Prodloužení tramvajové trati Bystrc –Kamechy"" se společností Dopravní podnik města Brna, a. s.",pass,Z9/17,84,44,0,0
+2024-05-14-083,2024-05-14T10:24:43+00:00,103. Návrh Dodatku č. 1 ke Smlouvě o spolupráci při výstavbě veřejné infrastruktury „Nová Zvonařka s. r. o. - Polyfunkční městský projekt I. ETAPA – BLOK A“,pass,Z9/17,83,36,5,4
+2024-05-14-082,2024-05-14T10:23:58+00:00,102. Návrh Smlouvy o spolupráci při výstavbě veřejné infrastruktury „DOPRAVNÍ A TECHNICKÁ INFRASTRUKTURA OS BOSONOHY MLATY“,pass,Z9/17,82,44,0,0
+2024-05-14-081,2024-05-14T10:23:27+00:00,"101. Návrh odnětí svěřeného majetku města městské části Brno-jih, pozemku p. č. 223/5 k. ú. Přízřenice",pass,Z9/17,81,45,0,0
+2024-05-14-080,2024-05-14T10:22:59+00:00,"100. Návrh svěření majetku města Brna městské části Brno – Řečkovice a Mokrá Hora, pozemku p. č. 65 k. ú. Mokrá Hora včetně stavby zvonice nezapsané v katastru nemovitostí",pass,Z9/17,80,44,0,0
+2024-05-14-079,2024-05-14T10:22:32+00:00,"99. Návrh svěření majetku města Brna městské části Brno – Řečkovice a Mokrá Hora, pozemku p. č. 3225/1 k. ú. Řečkovice",pass,Z9/17,79,42,0,0
+2024-05-14-078,2024-05-14T10:22:05+00:00,98. Návrh Smlouvy o budoucí smlouvě směnné pro stavbu „RK – Nové chodníky Hviezdoslavova“,pass,Z9/17,78,45,0,0
+2024-05-14-077,2024-05-14T10:21:40+00:00,"97. Návrh směny pozemků a částí pozemků v k. ú. Štýřice, Bohunice, Trnitá se společností Shell Czech Republic a. s.",pass,Z9/17,77,38,0,5
+2024-05-14-076,2024-05-14T10:21:10+00:00,"96. Návrh směny pozemků v k. ú. Komín, Bystrc, Horní Heršpice a částí pozemku v k. ú. Banín s Českou republikou – Povodím Moravy, s. p.",pass,Z9/17,76,45,0,0
+2024-05-14-075,2024-05-14T10:20:43+00:00,95. Návrh směny částí pozemků v k. ú. Kohoutovice při ul. návrší Svobody,pass,Z9/17,75,41,0,5
+2024-05-14-074,2024-05-14T10:20:16+00:00,Body č. 89-94,pass,Z9/17,74,44,0,0
+2024-05-14-073,2024-05-14T10:19:32+00:00,Body č. 81-88,pass,Z9/17,73,46,0,0
+2024-05-14-072,2024-05-14T10:18:53+00:00,80. Návrh na uznání vlastnického práva k části pozemku p. č. 1142/20 a části pozemku p. č. 1142/7 v k. ú. Bystrc,pass,Z9/17,72,45,0,0
+2024-05-14-071,2024-05-14T10:18:25+00:00,"79. Nabídky odkupu zapsaných i nezapsaných staveb k rodinné rekreaci postavených v rozvojové lokalitě Moravanské lány na části pozemku p. č. 494 a p. č. 496/1 a na pozemku p. č. 493/2 a p. č. 497/2, k. ú. Dolní Heršpice",pass,Z9/17,71,45,0,0
+2024-05-14-070,2024-05-14T10:17:53+00:00,"78. Návrh nabytí movitých věcí a nemovitých věcí v k. ú. Město Brno z vlastnictví České republiky – České pošty, s. p., návrh na zřízení služebnosti, návrh na zřízení zákazu zcizení a zatížení, návrh rozpočtového opatření",pass,Z9/17,70,42,1,0
+2024-05-14-069,2024-05-14T10:12:22+00:00,Body č. 64-77,pass,Z9/17,69,45,0,0
+2024-05-14-068,2024-05-14T10:11:51+00:00,63. Návrh nabytí spoluvlastnických podílů na pozemcích v k. ú. Lesná a k. ú. Obřany,pass,Z9/17,68,40,0,6
+2024-05-14-067,2024-05-14T10:11:21+00:00,Body č. 60-62,pass,Z9/17,67,45,0,0
+2024-05-14-066,2024-05-14T10:10:20+00:00,"59. Návrh prodeje částí pozemků p. č. 1137/1 a p. č. 1137/4, oba v k. ú. Zábrdovice",pass,Z9/17,66,45,0,0
+2024-05-14-065,2024-05-14T10:09:52+00:00,"58. Žádost o vzdání se práva na část nájemného představující zvýšení nájemného o inflaci za rok 2023 za užívání nebytových prostor v budově Nádražní 10, k. ú. Město Brno",pass,Z9/17,65,45,0,0
+2024-05-14-064,2024-05-14T10:09:22+00:00,57. Žádost o prominutí příslušenství dluhu za nájem bytu č. 12 v domě Zderadova 474/3 v Brně,pass,Z9/17,64,38,0,3
+2024-05-14-063,2024-05-14T10:08:56+00:00,"56. Návrh na uzavření dohody o splátkách dluhu z nájmu bytu č. 11 v domě Francouzská 64, Brno",pass,Z9/17,63,40,0,4
+2024-05-14-062,2024-05-14T10:07:19+00:00,"55. Návrh na úhradu náhrad nájemného za sociální byty a náhrady za mimořádnou opravu sociálního bytu městským částem, návrh rozpočtového opatření",pass,Z9/17,62,45,0,0
+2024-05-14-061,2024-05-14T10:06:48+00:00,"54. Návrh na udělení výjimky ze Statutu bytu pro osamělé rodiče s dětmi, který je přílohou č. 3 Pravidel pronájmu bytů v domech v majetku statutárního města Brna, nájemkyni bytu pro osamělé rodiče s dětmi č. 15 v domě Vlhká 179/22, Brno",pass,Z9/17,61,44,0,0
+2024-05-14-060,2024-05-14T10:05:23+00:00,53. Návrh změny Pravidel pronájmu bytů v domech v majetku statutárního města Brna a jejich Přílohy č. 1 Statut sociálního bytu a Přílohy č. 2 Statut startovacího bytu,pass,Z9/17,60,43,0,0
+2024-05-14-059,2024-05-14T10:01:45+00:00,"52. Návrh vzorové dohody o narovnání s bezúplatným převodem spoluvlastnických podílů města na 39 bytových jednotkách v bytovém domě č.p. 957 v k. ú. Staré Brno, ul. Bezručova 19 v Brně, členům Bytového družstva Bezručova 19",pass,Z9/17,59,47,0,0
+2024-05-14-058,2024-05-14T10:01:08+00:00,"50. Záměr prodeje volné vymezené bytové jednotky č. 593/18 v domě Osová 6, Brno",pass,Z9/17,58,40,0,5
+2024-05-14-057,2024-05-14T10:00:40+00:00,"49. Projekt ""Výstavba MŠ Šámalova"" – změna parametrů posouzení projektu",pass,Z9/17,57,45,0,0
+2024-05-14-056,2024-05-14T10:00:10+00:00,"48. Projekt ""Elektrovozy pro MČ Brno-Medlánky"" – návrh smlouvy o poskytnutí podpory",pass,Z9/17,56,39,0,5
+2024-05-14-055,2024-05-14T09:58:27+00:00,"47. Projekt ""Sanace skalního řícení v ulici Práčata, městská část Brno-Bosonohy"" – rozhodnutí o poskytnutí dotace",pass,Z9/17,55,47,0,0
+2024-05-14-054,2024-05-14T09:58:01+00:00,"46. Projekt ""IT vybavení pro stavební úřad"" – rozhodnutí o poskytnutí dotace",pass,Z9/17,54,45,0,0
+2024-05-14-053,2024-05-14T09:57:34+00:00,"45. Projekt ""Integrace cizinců ve městě Brně V."" – rozhodnutí o poskytnutí dotace",pass,Z9/17,53,41,5,0
+2024-05-14-052,2024-05-14T09:57:06+00:00,"44. Projekt ""Modernizace kuchyně a jídelny ZŠ Pastviny"" – rozhodnutí o poskytnutí dotace",pass,Z9/17,52,47,0,0
+2024-05-14-051,2024-05-14T09:56:40+00:00,43. Finanční prostředky Fondu kofinancování projektů – květen 2024 – návrh rozpočtového opatření,pass,Z9/17,51,46,0,0
+2024-05-14-050,2024-05-14T09:56:11+00:00,42. Projekty financované z Fondu kofinancování projektů – květen 2024 – návrh rozpočtového opatření - ostatní odr.,pass,Z9/17,50,45,0,0
+2024-05-14-049,2024-05-14T09:55:34+00:00,42. Projekty financované z Fondu kofinancování projektů – květen 2024 – návrh rozpočtového opatření - 1. odr.,pass,Z9/17,49,41,5,0
+2024-05-14-048,2024-05-14T09:54:40+00:00,42. Projekty financované z Fondu kofinancování projektů – květen 2024 – návrh rozpočtového opatření - 1. odr.,pass,Z9/17,48,40,4,1
+2024-05-14-047,2024-05-14T09:53:50+00:00,41. Výuka hry na hudební nástroje na základních školách – projekt OnStage Brno – návrh na prodloužení termínu vyúčtování,pass,Z9/17,47,39,0,5
+2024-05-14-046,2024-05-14T09:53:23+00:00,40. Návrh dodatku č. 2 ke Smlouvě o poskytnutí neinvestiční dotace č. 7223090651 – návrh rozpočtového opatření,pass,Z9/17,46,44,0,0
+2024-05-14-045,2024-05-14T09:52:55+00:00,39. Návrh Dodatku č. 1 ke Smlouvě o poskytnutí investičního příspěvku „Komplex Centropolis“ - stažení bodu,pass,Z9/17,45,41,0,2
+2024-05-14-044,2024-05-14T09:49:00+00:00,38. Návrh Dodatku č. 1 ke Smlouvě o poskytnutí investičního příspěvku „Bytový dům Palackého 94/96/98“,pass,Z9/17,44,37,5,2
+2024-05-14-043,2024-05-14T09:48:34+00:00,37. Návrh Dodatku č. 1 ke Smlouvě o poskytnutí investičního příspěvku „Campus Living“,pass,Z9/17,43,38,5,2
+2024-05-14-042,2024-05-14T09:46:47+00:00,36. Návrh Dotačního programu pro poskytování dotací v oblasti podpory kreativních odvětví na rok 2024 – “Pro Kreativní Brno” – 6. etapa – návrh rozpočtového opatření,pass,Z9/17,42,41,0,4
+2024-05-14-041,2024-05-14T09:46:16+00:00,"35. Žádost JAZZFESTBRNO AHEAD, s. r. o., o změnu příjemce dotace na projekt JAZZFESTBRNO dětem 2024 - návrh rozpočtového opatření",pass,Z9/17,41,46,0,0
+2024-05-14-040,2024-05-14T09:45:42+00:00,"34. Návrh na poskytnutí finančního daru spolku Městský sportovní klub Brno, z. s., na podporu brněnských olympioniků – sportovců seniorů pro rok 2024 – návrh rozpočtového opatření",pass,Z9/17,40,46,0,0
+2024-05-14-039,2024-05-14T09:45:13+00:00,33. Návrh na poskytnutí individuální neinvestiční dotace společnosti PLAYzone s. r. o. na uspořádání Mistrovství České republiky v počítačových a mobilních hrách 2024 ve městě Brně – návrh rozpočtového opatření,pass,Z9/17,39,40,5,0
+2024-05-14-038,2024-05-14T09:39:13+00:00,32. Návrh na poskytnutí individuální neinvestiční dotace Vysokému učení technickému v Brně na zabezpečení provozu atletického stadionu Pod Palackého vrchem v rámci projektu Centrum brněnské atletiky pro rok 2024 – návrh rozpočtového opatření,pass,Z9/17,38,47,0,0
+2024-05-14-037,2024-05-14T09:38:42+00:00,31. Návrh na poskytnutí neinvestičních dotací na podporu významných sportovních akcí konaných ve městě Brně v roce 2024 – návrh rozpočtového opatření,pass,Z9/17,37,41,0,2
+2024-05-14-036,2024-05-14T09:38:05+00:00,30. Návrh na poskytnutí neinvestičních dotací na podporu handicapovaných sportovců pro rok 2024 – návrh rozpočtového opatření,pass,Z9/17,36,46,0,0
+2024-05-14-035,2024-05-14T09:37:37+00:00,29. Návrh na poskytnutí neinvestičních dotací na podporu mládežnického sportu pro rok 2024,pass,Z9/17,35,46,0,0
+2024-05-14-034,2024-05-14T09:36:52+00:00,28. Návrh na poskytnutí neinvestičních příspěvků mateřským školám na zajištění vzdělávacího projektu Technické mateřské školy – návrh rozpočtového opatření,pass,Z9/17,34,44,0,0
+2024-05-14-033,2024-05-14T09:36:24+00:00,27. Návrh na přidělení státní dotace od Ministerstva kultury z Programu regenerace městských památkových rezervací a městských památkových zón v roce 2024 a návrh na úhradu povinného podílu města ke státní dotaci – návrh rozpočtového opatření,pass,Z9/17,33,45,0,0
+2024-05-14-032,2024-05-14T09:35:50+00:00,26. Návrh na poskytnutí neinvestičních dotací na zachování a obnovu kulturních památek v roce 2024 – návrh rozpočtového opatření,pass,Z9/17,32,38,0,5
+2024-05-14-031,2024-05-14T09:35:22+00:00,"25. Návrh na poskytnutí individuální neinvestiční dotace ZO ČSOP Pozemkovému spolku Hády na environmentální vzdělávání, výchovu a osvětu na Hádech, návrh rozpočtového opatření",pass,Z9/17,31,42,0,5
+2024-05-14-030,2024-05-14T09:34:39+00:00,"24. Návrh na poskytnutí individuální neinvestiční dotace Nadaci Partnerství, na provoz Otevřené zahrady v roce 2024, návrh smlouvy o poskytnutí dotace",pass,Z9/17,30,41,0,5
+2024-05-14-029,2024-05-14T09:34:09+00:00,23. Návrh na poskytnutí investičních dotací v rámci dotačního programu Podpora vytváření zelených střech,pass,Z9/17,29,40,0,5
+2024-05-14-028,2024-05-14T09:33:41+00:00,"22. Návrh na poskytnutí účelového investičního příspěvku Veřejné zeleni města Brna, příspěvkové organizaci na projektovou dokumentaci akce ORG 1878 Otevřený les – návrh rozpočtového opatření",pass,Z9/17,28,40,0,5
+2024-05-14-027,2024-05-14T09:33:03+00:00,"21. Zapojení Fondu rezerv a rozvoje v souvislosti s poskytnutím bezúročné zápůjčky městské části Brno-sever, návrh rozpočtového opatření",pass,Z9/17,27,40,0,5
+2024-05-14-026,2024-05-14T09:32:35+00:00,"21. Zapojení Fondu rezerv a rozvoje v souvislosti s poskytnutím bezúročné zápůjčky městské části Brno-sever, návrh rozpočtového opatření - hlasování o návrhu p. Koláčného",fail,Z9/17,26,8,0,14
+2024-05-14-025,2024-05-14T09:31:39+00:00,"21. Zapojení Fondu rezerv a rozvoje v souvislosti s poskytnutím bezúročné zápůjčky městské části Brno-sever, návrh rozpočtového opatření - hlasování o návrhu p. Koláčného",fail,Z9/17,25,14,2,10
+2024-05-14-024,2024-05-14T09:29:10+00:00,20. Zapojení Fondu rezerv a rozvoje v souvislosti s návrhem poskytnutí individuální dotace z rozpočtu města Brna v roce 2024 pro spolek Divadlo 3+kk z. s. na projekt „Realizace česko-ukrajinského divadelního projektu Slepci“ – návrh rozpočtového opatření,pass,Z9/17,24,38,5,1
+2024-05-14-023,2024-05-14T09:28:33+00:00,19. Zapojení Fondu rezerv a rozvoje v souvislosti s poskytnutím individuální investiční dotace spolku Brněnský lužánecký tenisový klub – zapsaný spolek na rekonstrukci a modernizaci tenisového areálu BLTC – návrh rozpočtového opatření,pass,Z9/17,23,44,0,2
+2024-05-14-022,2024-05-14T09:28:00+00:00,18. Zapojení Fondu rezerv a rozvoje v souvislosti s poskytnutím účelového investičního transferu městské části Brno-Řečkovice a Mokrá Hora na realizaci Parku pod hřbitovem – návrh rozpočtového opatření,pass,Z9/17,22,46,0,0
+2024-05-14-021,2024-05-14T09:27:29+00:00,17. Rekonstrukce sociálních zařízení v prostorách pavilonu B a vestibulu Waldorfské školy Brno – návrh rozpočtového opatření,pass,Z9/17,21,40,1,4
+2024-05-14-020,2024-05-14T09:22:23+00:00,"16. Aktualizace rozpočtu akcí zajišťovaných společností Brněnské vodárny a kanalizace, a. s.– květen 2024 – návrh rozpočtového opatření",pass,Z9/17,20,40,0,7
+2024-05-14-019,2024-05-14T09:21:53+00:00,"15. Změna zatřídění účelového transferu z rozpočtu města Brna poskytnutého městské části Brno-Tuřany na akci ""ZŠ Měšťanská – výměna oken"" z neinvestičního na investiční, návrh rozpočtového opatření",pass,Z9/17,19,45,0,0
+2024-05-14-018,2024-05-14T09:21:22+00:00,14. Žádost městské části Brno-Žabovřesky o předchozí souhlas s použitím části kladného výsledku hospodaření z vedlejší hospodářské činnosti-bytové hospodářství k jiným účelům,pass,Z9/17,18,38,5,1
+2024-05-14-017,2024-05-14T09:20:48+00:00,"13. Členský příspěvek města Brna ve spolku Brněnsko, z. s., pro rok 2024, návrh rozpočtového opatření",pass,Z9/17,17,41,0,5
+2024-05-14-016,2024-05-14T09:20:20+00:00,12. Finanční hospodaření dobrovolného svazku obcí Cyklistická stezka Brno – Vídeň za rok 2023,pass,Z9/17,16,39,0,3
+2024-05-14-015,2024-05-14T09:19:49+00:00,"11. Návrh změn rozpočtů účelových fondů a veřejných sbírek města Brna, návrh rozpočtových opatření v souvislosti s finančním vypořádáním rozpočtu města Brna za rok 2023",pass,Z9/17,15,40,0,4
+2024-05-14-014,2024-05-14T09:19:13+00:00,"10. Návrh závěrečného účtu statutárního města Brna za rok 2023, návrh účetní závěrky statutárního města Brna za rok 2023",pass,Z9/17,14,41,0,4
+2024-05-14-013,2024-05-14T08:30:21+00:00,"9. Návrh Dodatku č. 1 ke zřizovací listině Veřejné zeleně města Brna, příspěvkové organizace",pass,Z9/17,13,47,0,0
+2024-05-14-012,2024-05-14T08:29:52+00:00,"8. Projekt realizace fotovoltaických systémů (SAKO Brno, a. s.), vyslovení předchozího souhlasu s udělením koncernového pokynu",pass,Z9/17,12,42,5,0
+2024-05-14-011,2024-05-14T08:29:24+00:00,"7. Návrh změny stanov obchodní společnosti CD CENTRUM COMS, a. s.",pass,Z9/17,11,41,0,7
+2024-05-14-010,2024-05-14T08:28:54+00:00,"6. Návrh Dodatku č. 5 k Deklaraci Koncernu statutárního města Brna, návrh předchozího souhlasu s rozšířením koncernových pokynů č. 1/2023 a č. 3/2023 na nové členy Koncernu statutárního města Brna - 2. a 3. odr.",pass,Z9/17,10,40,0,7
+2024-05-14-009,2024-05-14T08:27:51+00:00,"6. Návrh Dodatku č. 5 k Deklaraci Koncernu statutárního města Brna, návrh předchozího souhlasu s rozšířením koncernových pokynů č. 1/2023 a č. 3/2023 na nové členy Koncernu statutárního města Brna - 2. odr. a 3. odr.",pass,Z9/17,9,39,0,7
+2024-05-14-008,2024-05-14T08:27:09+00:00,"6. Návrh Dodatku č. 5 k Deklaraci Koncernu statutárního města Brna, návrh předchozího souhlasu s rozšířením koncernových pokynů č. 1/2023 a č. 3/2023 na nové členy Koncernu statutárního města Brna - 1. odr.",pass,Z9/17,8,37,0,10
+2024-05-14-007,2024-05-14T08:18:40+00:00,5. Poskytování příspěvků členům Zastupitelstva města Brna,pass,Z9/17,7,41,0,6
+2024-05-14-006,2024-05-14T08:18:10+00:00,4. Přehled účastí na schůzích výborů ZMB,pass,Z9/17,6,47,0,1
+2024-05-14-005,2024-05-14T08:17:41+00:00,"1. Technický bod (zapisovatelé, právní asistence, ověřovatelé zápisu, schválení programu zasedání ZMB) - program",pass,Z9/17,5,48,0,0
+2024-05-14-004,2024-05-14T08:17:10+00:00,"1. Technický bod (zapisovatelé, právní asistence, ověřovatelé zápisu, schválení programu zasedání ZMB) - program - hlasování o stažení bodu č. 107",pass,Z9/17,4,46,0,2
+2024-05-14-003,2024-05-14T08:13:05+00:00,"1. Technický bod (zapisovatelé, právní asistence, ověřovatelé zápisu, schválení programu zasedání ZMB) - program - hlasování o stažení bodu č. 51",pass,Z9/17,3,45,0,0
+2024-05-14-002,2024-05-14T08:12:43+00:00,"1. Technický bod (zapisovatelé, právní asistence, ověřovatelé zápisu, schválení programu zasedání ZMB) - program - hlasování o zařazení bodu č. 106, 107",pass,Z9/17,2,44,0,1
+2024-05-14-001,2024-05-14T08:09:23+00:00,"1. Technický bod (zapisovatelé, právní asistence, ověřovatelé zápisu, schválení programu zasedání ZMB) - ověřovatelé zápisu",pass,Z9/17,1,43,0,0
+2024-04-09-083,2024-04-09T10:13:19+00:00,"130. Zapojení statutárního města Brna do projektu Agentury pro sociální začleňování s názvem ""Desegregace vzdělávání dětí a žáků se sociálním znevýhodněním"" – návrh na změnu části usnesení Z9/15. zasedání ZMB, konaného dne 5. 3. 2024, bod č. 124",pass,Z9/16,83,41,5,1
+2024-04-09-082,2024-04-09T10:12:33+00:00,129. Změna Územního plánu města Brna – B343_POR_1_22 – návrh na vydání formou opatření obecné povahy,pass,Z9/16,82,45,0,2
+2024-04-09-081,2024-04-09T10:11:57+00:00,"127. Změna Územního plánu města Brna B50/07-II – MČ Brno-jih, k. ú. Přízřenice, ul. Moravanská – návrh na vydání formou opatření obecné povahy",pass,Z9/16,81,38,0,10
+2024-04-09-080,2024-04-09T10:11:25+00:00,126. Změna Územního plánu města Brna – B1/22 – návrh na vydání formou opatření obecné povahy,pass,Z9/16,80,49,0,0
+2024-04-09-079,2024-04-09T10:10:55+00:00,Body č. 123-125,pass,Z9/16,79,45,0,3
+2024-04-09-078,2024-04-09T10:10:07+00:00,"121. Návrh Smlouvy o spolupráci při výstavbě veřejné infrastruktury „Výstavba RD Jehnice – jih, 3. etapa“",pass,Z9/16,78,47,0,0
+2024-04-09-077,2024-04-09T10:09:34+00:00,120. Návrh Smlouvy o spolupráci při výstavbě veřejné infrastruktury „Obytný soubor Tuřany“,pass,Z9/16,77,48,0,0
+2024-04-09-076,2024-04-09T10:08:38+00:00,119. Návrh Smlouvy o spolupráci při výstavbě veřejné infrastruktury „Nová Zbrojovka – objekt B“,pass,Z9/16,76,41,0,7
+2024-04-09-075,2024-04-09T10:08:08+00:00,"118. Návrh odnětí svěřeného majetku města městské části Brno-Starý Lískovec, pozemek p. č. 2484/4 v k. ú. Starý Lískovec",pass,Z9/16,75,47,0,0
+2024-04-09-074,2024-04-09T10:07:38+00:00,"117. Návrh svěření majetku města městské části Brno-Starý Lískovec, pozemek p. č. 2455/1 v k. ú. Starý Lískovec",pass,Z9/16,74,43,1,3
+2024-04-09-073,2024-04-09T10:07:10+00:00,116. Návrh směny části pozemku p. č. 519/2 za část pozemku p. č. 522 oba v k. ú. Nový Lískovec,pass,Z9/16,73,46,0,1
+2024-04-09-072,2024-04-09T10:06:42+00:00,"115. Záměr dispozice s pozemky p. č. 308/2, 309/2, 310/2, vše v k. ú. Dolní Heršpice",pass,Z9/16,72,45,0,0
+2024-04-09-071,2024-04-09T10:06:11+00:00,"114. Návrh dispozice s pozemky p. č. 1249/1 a p. č. 1359/4, oba v k. ú. Husovice",pass,Z9/16,71,37,0,10
+2024-04-09-070,2024-04-09T09:55:38+00:00,"113. Žádost o uznání vlastnického práva k pozemkům p. č. 1538/8 a p. č. 1538/10, vše v k. ú. Stránice",pass,Z9/16,70,49,0,0
+2024-04-09-069,2024-04-09T09:54:58+00:00,Body č. 107-112,pass,Z9/16,69,48,0,0
+2024-04-09-068,2024-04-09T09:54:02+00:00,Body č. 90-106,pass,Z9/16,68,49,0,0
+2024-04-09-067,2024-04-09T09:53:19+00:00,"89. Návrh na zrušení usnesení zasedání ZMB č. Z9/13, konaného dne 12.12.2023, bod č.73 a návrh nabytí pozemku p. č. 2004/2 v k. ú. Obřany pro stavbu ""Brno, MČ Hradiska a Mlýnské nábřeží – dostavba stokové sítě""",pass,Z9/16,67,48,0,0
+2024-04-09-066,2024-04-09T09:52:30+00:00,Body č. 78-88 bez bodu 85,pass,Z9/16,66,48,0,0
+2024-04-09-065,2024-04-09T09:51:38+00:00,Body č. 71-77,pass,Z9/16,65,49,0,0
+2024-04-09-064,2024-04-09T09:51:09+00:00,"70. Návrh prodeje pozemků p. č. 2915/39, p. č. 2915/40, p. č. 2918/18, p. č. 2923 a p. č. 2925, vše v k. ú. Kuřim",pass,Z9/16,64,36,5,5
+2024-04-09-063,2024-04-09T09:48:43+00:00,Body č. 65-69,pass,Z9/16,63,48,0,0
+2024-04-09-062,2024-04-09T09:47:37+00:00,64. Návrh zpeněžení pozemků p. č. 2700/5 a p. č. 2700/11 v k. ú. Kuřim formou veřejné elektronické dobrovolné dražby,pass,Z9/16,62,39,5,5
+2024-04-09-061,2024-04-09T09:47:05+00:00,"63. Návrh zpeněžení pozemku p. č. 1301 v k. ú. Staré Brno, jehož součástí je administrativní objekt na adrese Hybešova č. or. 16 (vjezd Vodní č. or. 9) formou veřejné elektronické dobrovolné dražby",pass,Z9/16,61,44,0,5
+2024-04-09-060,2024-04-09T09:46:21+00:00,"62. Návrh na vyjmutí nemovitých věcí – pozemku p. č. 488 a pozemku p. č. 489, jehož součástí je rodinný dům č. p. 93, Hroznová 39, Brno, vše v k. ú. Pisárky, ze ""Seznamu bytových a rodinných domů, které budou připravovány k prodeji""",pass,Z9/16,60,41,2,4
+2024-04-09-059,2024-04-09T09:45:35+00:00,"61. Projekt ""Rozvoj ITS v Brně, 1. etapa"" – návrh rámcové smlouvy o financování projektu",pass,Z9/16,59,48,0,1
+2024-04-09-058,2024-04-09T09:45:03+00:00,"60. Projekt ""Paracentrum Fénix"" – návrh smlouvy o poskytnutí návratné finanční výpomoci; návrh zástavní smlouvy; návrh rozpočtového opatření",pass,Z9/16,58,48,0,0
+2024-04-09-057,2024-04-09T09:44:31+00:00,"59. Projekt ""Modernizace kuchyně MMB Malinovského nám. 3"" – rozhodnutí o poskytnutí dotace",pass,Z9/16,57,49,0,0
+2024-04-09-056,2024-04-09T09:44:01+00:00,"58. Projekt ""Bazén Ponávka – technické zhodnocení"" – posouzení projektu",pass,Z9/16,56,42,0,6
+2024-04-09-055,2024-04-09T09:43:31+00:00,"57. Projekt ""Základní a mateřská škola Nová Zbrojovka, Brno – pořízení PD"" – posouzení projektu",pass,Z9/16,55,42,0,6
+2024-04-09-054,2024-04-09T09:43:03+00:00,"56. Projekt ""Stavební úpravy MŠ Štolcova 51"" – posouzení projektu",pass,Z9/16,54,42,0,6
+2024-04-09-053,2024-04-09T09:42:35+00:00,"55. Projekt ""Přírodní vzdělávací pointy v areálu Zoo Brno"" – posouzení projektu",pass,Z9/16,53,43,6,0
+2024-04-09-052,2024-04-09T09:40:54+00:00,"54. Projekt ""IT vybavení pro stavební úřad"" – posouzení projektu",pass,Z9/16,52,41,0,8
+2024-04-09-051,2024-04-09T09:40:25+00:00,53. Finanční prostředky Fondu kofinancování projektů – duben 2024 – návrh rozpočtových opatření,pass,Z9/16,51,43,6,0
+2024-04-09-050,2024-04-09T09:39:49+00:00,"51. Návrh na prominutí dluhů na nájemném v objektu Koniklecová 5, Brno",pass,Z9/16,50,42,5,2
+2024-04-09-049,2024-04-09T09:39:20+00:00,50. Návrh Smlouvy o spolupráci na přípravě a realizaci programů rezidencí začleněných do systému rezidencí „Villa HEZKA“,pass,Z9/16,49,42,0,6
+2024-04-09-048,2024-04-09T09:38:50+00:00,49. Návrh Smlouvy o poskytnutí investičního příspěvku „Nová Zbrojovka – objekt F“,pass,Z9/16,48,48,0,0
+2024-04-09-047,2024-04-09T09:38:22+00:00,"48. Návrh smlouvy o poskytnutí individuální dotace z rozpočtu města Brna v roce 2024 pro spolek Parnas, z. s., na projekt „Koncertní cesta orchestru ZUŠ Veveří do Lipska (DE)“ – návrh rozpočtového opatření",pass,Z9/16,47,49,0,0
+2024-04-09-046,2024-04-09T09:37:47+00:00,"47. Návrh smlouvy o poskytnutí individuální dotace z rozpočtu města Brna v roce 2024 pro Divadlo BARKA, z. ú., na činnost „Divadlo BARKA“ – návrh rozpočtového opatření",pass,Z9/16,46,41,5,2
+2024-04-09-045,2024-04-09T09:37:13+00:00,46. Návrh záměru poskytnutí dotace České provincii Kongregace sester sv. Cyrila a Metoděje na výstavbu Cyrilometodějské mateřské školy Brno,pass,Z9/16,45,46,0,1
+2024-04-09-044,2024-04-09T09:36:38+00:00,45. Návrh na poskytnutí neinvestičních příspěvků základním školám na zajištění základní plavecké výuky žáků základních škol – návrh rozpočtového opatření,pass,Z9/16,44,46,0,0
+2024-04-09-043,2024-04-09T09:36:08+00:00,44. Návrh na poskytnutí finančních podílů z rozpočtu města Brna na projekty prevence kriminality v roce 2024 - návrh rozpočtového opatření,pass,Z9/16,43,48,0,0
+2024-04-09-042,2024-04-09T09:35:36+00:00,"43. Návrh na poskytnutí investičního příspěvku Centru sociálních služeb, příspěvkové organizaci, na akci ""Rekonstrukce vnitřních prostor objektu Masná 134/3b, k. ú. Trnitá"", návrh rozpočtového opatření",pass,Z9/16,42,47,0,0
+2024-04-09-041,2024-04-09T09:35:02+00:00,42. Návrh na poskytnutí individuálních neinvestičních dotací na rok 2024 organizacím poskytujícím služby v souladu se Strategií politiky statutárního města Brna v oblasti drog a závislostí na období 2022-2025,pass,Z9/16,41,48,0,0
+2024-04-09-040,2024-04-09T09:34:25+00:00,"41. Návrh na poskytnutí individuální neinvestiční dotace spolku INSTITUT SOCIÁLNĚ ZDRAVOTNÍCH STRATEGIÍ z. s. na projekt ""PORADNA JAKO SLON – Alzheimerovská poradna, rozšíření činnosti poradny",pass,Z9/16,40,48,0,0
+2024-04-09-039,2024-04-09T09:33:51+00:00,"40. Návrh na poskytnutí individuální neinvestiční dotace společnosti AMERFO o. p. s. na projekt ""Podpora osob se zdravotním postižením v sociálním podniku"" – návrh rozpočtového opatření",pass,Z9/16,39,41,1,6
+2024-04-09-038,2024-04-09T09:33:16+00:00,"39. Návrh na poskytnutí individuální neinvestiční dotace Sociálnímu nadačnímu fondu na projekt ""Spolu štěstí naproti"" – návrh rozpočtového opatření",pass,Z9/16,38,43,0,4
+2024-04-09-037,2024-04-09T09:32:44+00:00,"38. Návrh na poskytnutí individuální neinvestiční dotace Potravinové bance pro Brno a Jihomoravský kraj, z. s., na projekt ""Pokračování projektu Potravinová banka pro Brno a Jihomoravský kraj v roce 2024""",pass,Z9/16,37,42,1,5
+2024-04-09-036,2024-04-09T09:32:09+00:00,37. Návrh na poskytnutí neinvestičních dotací organizacím národnostních menšin a organizacím působícím v oblasti etnik pro rok 2024 – návrh rozpočtového opatření,pass,Z9/16,36,41,6,1
+2024-04-09-035,2024-04-09T09:30:59+00:00,36. Návrh na poskytnutí neinvestičních dotací na rok 2024 z Programu IV – Prevence kriminality – návrh rozpočtového opatření,pass,Z9/16,35,42,0,6
+2024-04-09-034,2024-04-09T09:30:25+00:00,35. Návrh na poskytnutí neinvestičních dotací na rok 2024 z Programu III – Aktivity v oblasti drog a závislostí – návrh rozpočtového opatření,pass,Z9/16,34,47,0,1
+2024-04-09-033,2024-04-09T09:28:31+00:00,"34. Návrh na poskytnutí neinvestičních dotací – Program II pro rok 2024 – projekty nestátních neziskových organizací v sociální oblasti, které vhodným způsobem navazují na sociální služby – návrh rozpočtového opatření",pass,Z9/16,33,43,0,5
+2024-04-09-032,2024-04-09T09:27:53+00:00,33. Návrh na poskytnutí neinvestičních dotací v rámci dotačního programu pro poskytování dotací v oblasti podpory kreativních odvětví na rok 2024 v 5. etapě - “Pro Kreativní Brno” - návrh rozpočtového opatření,pass,Z9/16,32,46,0,1
+2024-04-09-031,2024-04-09T09:27:14+00:00,32. Návrh na poskytnutí individuální neinvestiční dotace na projekt Prima FRESH festival Brno,pass,Z9/16,31,47,0,0
+2024-04-09-030,2024-04-09T09:26:42+00:00,"31. Návrh na poskytnutí neinvestičních dotací na projekty v programu ""Dotace na činnosti doplňující zdravotnické služby na území města Brna"" na rok 2024, návrh rozpočtového opatření",pass,Z9/16,30,48,0,1
+2024-04-09-029,2024-04-09T09:26:07+00:00,"30. Návrh na poskytnutí neinvestičních dotací na projekty v programu ""Dotace na projekty v oblasti podpory rodinné politiky"" na rok 2024, návrh rozpočtového opatření",pass,Z9/16,29,49,0,0
+2024-04-09-028,2024-04-09T09:25:36+00:00,"29. Návrh na poskytnutí individuální neinvestiční dotace spolku Emilova sportovní, z. s., na uspořádání 13. ročníku Evropských her handicapované mládeže Emil Open ve městě Brně v roce 2024",pass,Z9/16,28,47,0,0
+2024-04-09-027,2024-04-09T09:25:03+00:00,28. Záměr poskytnutí individuálních investičních dotací z rozpočtu města Brna žadatelům v programech Národní sportovní agentury vyhlášených v roce 2024,pass,Z9/16,27,47,0,0
+2024-04-09-026,2024-04-09T09:24:29+00:00,"27. Návrh na poskytnutí individuální neinvestiční dotace společnosti EkoInkubátor, z. ú., na podporu Mezinárodního filmového festivalu EKOFILM a návrh smlouvy o poskytnutí dotace",pass,Z9/16,26,34,1,11
+2024-04-09-025,2024-04-09T09:23:51+00:00,26. Návrh na poskytnutí investičních dotací v rámci dotačního programu Podpora vytváření zelených střech,pass,Z9/16,25,42,0,6
+2024-04-09-024,2024-04-09T09:23:16+00:00,24. Návrh Dodatku č. 1 Statutu Sociálního fondu a zapojení Fondu rezerv a rozvoje do rozpočtu Odboru vnitřních věcí MMB – návrh rozpočtového opatření,pass,Z9/16,24,50,0,0
+2024-04-09-023,2024-04-09T09:22:46+00:00,23. Zapojení Fondu rezerv a rozvoje v souvislosti s poskytnutím účelového investičního a neinvestičního transferu městské části Brno-Komín na realizaci Komunitního veřejného prostoru Urbánkova – návrh rozpočtového opatření,pass,Z9/16,23,49,0,1
+2024-04-09-022,2024-04-09T09:22:12+00:00,"22. Zapojení Fondu rezerv a rozvoje v souvislosti s poskytnutím investičního příspěvku Zoo Brno a stanici zájmových činností, příspěvkové organizaci – návrh rozpočtového opatření",pass,Z9/16,22,40,6,4
+2024-04-09-021,2024-04-09T09:07:09+00:00,"21. Zapojení Fondu rezerv a rozvoje v souvislosti s navýšením účelových neinvestičních příspěvků Centru experimentálního divadla, příspěvkové organizaci v roce 2024 – návrh rozpočtového opatření",pass,Z9/16,21,39,6,1
+2024-04-09-020,2024-04-09T09:06:33+00:00,"19. Zapojení Fondu rezerv a rozvoje v souvislosti s návrhem poskytnutí individuální dotace z rozpočtu města Brna v roce 2024 pro spolek Zahrady Soutoku, z. s., na projekt „Lužánecká Open 2024“ – návrh rozpočtového opatření",pass,Z9/16,20,41,0,6
+2024-04-09-019,2024-04-09T09:05:58+00:00,18. Zapojení Fondu rezerv a rozvoje v souvislosti s návrhem poskytnutí individuální dotace z rozpočtu města Brna v roce 2024 pro společnost Prokoncertagency s.r.o. na projekt „BRNO BRASS FEST“ – návrh rozpočtového opatření,pass,Z9/16,19,40,0,7
+2024-04-09-018,2024-04-09T09:05:24+00:00,"17. Zapojení Fondu rezerv a rozvoje k financování Hlukové a rozptylové studie pro účely Vyhodnocení vlivů na udržitelný rozvoj území k návrhu Územního plánu města Brna, návrh rozpočtového opatření",pass,Z9/16,18,38,0,6
+2024-04-09-017,2024-04-09T08:30:25+00:00,16. Zapojení Fondu rezerv a rozvoje v souvislosti s přebíráním objektu bývalé pošty na ulici Orlí a Benešova – návrh rozpočtového opatření,pass,Z9/16,17,40,1,7
+2024-04-09-016,2024-04-09T08:29:50+00:00,15. Zapojení vyšších příjmů Odboru strategického rozvoje a spolupráce MMB na úhradu faktur za energie a služby Vysokému učení technickému v Brně – návrh rozpočtového opatření,pass,Z9/16,16,47,0,1
+2024-04-09-015,2024-04-09T08:29:17+00:00,14. Aktualizace rozpočtu Odboru investičního MMB – duben 2024 – návrh rozpočtového opatření,pass,Z9/16,15,40,0,8
+2024-04-09-014,2024-04-09T08:28:48+00:00,13. Členský příspěvek Cities and RegionsforCyclists – návrh rozpočtového opatření,pass,Z9/16,14,41,0,6
+2024-04-09-013,2024-04-09T08:28:16+00:00,12. Návrh přistoupení města Brna k Memorandu ze dne 10. 9. 2021 o vzájemné spolupráci a společném postupu „Muchova stezka“,pass,Z9/16,13,40,0,6
+2024-04-09-012,2024-04-09T08:27:44+00:00,11. Návrh aktualizace Integrované strategie rozvoje Brněnské metropolitní oblasti 2021+,pass,Z9/16,12,42,0,6
+2024-04-09-011,2024-04-09T08:27:07+00:00,10. Návrh smlouvy o spolupráci mezi městy Záhřebem (Chorvatská republika) a Brnem (Česká republika),pass,Z9/16,11,43,0,5
+2024-04-09-010,2024-04-09T08:26:36+00:00,9. Návrh smlouvy o spolupráci mezi městy Lvovem (Ukrajina) a Brnem (Česká republika),pass,Z9/16,10,42,6,0
+2024-04-09-009,2024-04-09T08:20:17+00:00,8. Návrh zřizovacích listin příspěvkových organizací v působnosti Odboru kultury Magistrátu města Brna,pass,Z9/16,9,47,0,0
+2024-04-09-008,2024-04-09T08:19:48+00:00,"7. Návrh obecně závazné vyhlášky statutárního města Brna, kterou se mění obecně závazná vyhláška statutárního města Brna č. 20/2020, o zákazu požívání alkoholických nápojů na veřejných prostranstvích, ve znění obecně závazné vyhlášky statutárního města Brna č. 6/2022“",pass,Z9/16,8,44,0,3
+2024-04-09-007,2024-04-09T08:19:00+00:00,"6. Návrh obecně závazné vyhlášky statutárního města Brna, kterou se mění obecně závazná vyhláška statutárního města Brna č. 11/2017, o nočním klidu, ve znění pozdějších vyhlášek vč. doplnění",pass,Z9/16,7,47,0,0
+2024-04-09-006,2024-04-09T08:16:56+00:00,"6. Návrh obecně závazné vyhlášky statutárního města Brna, kterou se mění obecně závazná vyhláška statutárního města Brna č. 11/2017, o nočním klidu, ve znění pozdějších vyhlášek",pass,Z9/16,6,45,0,1
+2024-04-09-005,2024-04-09T08:16:16+00:00,"5. Návrh obecně závazné vyhlášky statutárního města Brna, kterou se mění obecně závazná vyhláška statutárního města Brna č. 9/2017, o pravidlech pro pohyb psů, ve znění obecně závazné vyhlášky statutárního města Brna č. 21/2020",pass,Z9/16,5,46,0,0
+2024-04-09-004,2024-04-09T08:15:34+00:00,"1. Technický bod (zapisovatelé, právní asistence, ověřovatelé zápisu, schválení programu zasedání ZMB) - program",pass,Z9/16,4,47,0,0
+2024-04-09-003,2024-04-09T08:15:15+00:00,"1. Technický bod (zapisovatelé, právní asistence, ověřovatelé zápisu, schválení programu zasedání ZMB) - program - hlasování o zařazení bodu č. 130",pass,Z9/16,3,47,0,0
+2024-04-09-002,2024-04-09T08:14:55+00:00,"1. Technický bod (zapisovatelé, právní asistence, ověřovatelé zápisu, schválení programu zasedání ZMB) - program - hlasování o stažení bodu č. 20, 25, 52, 85, 122, 128",pass,Z9/16,2,47,0,0
+2024-04-09-001,2024-04-09T08:10:57+00:00,"1. Technický bod (zapisovatelé, právní asistence, ověřovatelé zápisu, schválení programu zasedání ZMB) - ověřovatelé zápisu",pass,Z9/16,1,45,0,0
+2024-03-05-102,2024-03-05T11:30:38+00:00,"124. Návrh zapojení statutárního města Brna do projektu Agentury pro sociální začleňování s názvem ""Desegregace vzdělávání dětí a žáků se sociálním znevýhodněním""",pass,Z9/15,102,45,0,5
+2024-03-05-101,2024-03-05T11:29:57+00:00,"123. Návrh koncernového pokynu – Zajištění dodávek elektřiny a zemního plynu prostřednictvím společnosti Energie Teplárny Brno, s. r. o., od roku 2025 dále",pass,Z9/15,101,50,0,0
+2024-03-05-100,2024-03-05T11:28:31+00:00,122. Plán udržitelné městské mobility města Brna – aktualizace přílohy 2.1. Zásobník projektů,pass,Z9/15,100,49,0,2
+2024-03-05-099,2024-03-05T11:28:00+00:00,"120. Návrh Dodatku č. 2 ke Smlouvě o spolupráci při výstavbě veřejné infrastruktury „POLYFUNKČNÍ OBJEKT TRIANGL C, ulice Podveská, Brno“ 121. Návrh Dodatku č. 3 ke Smlouvě o spolupráci při výstavbě veřejné infrastruktury „POLYFUNKČNÍ OBJEKT TRIANGL B, ulice Podveská, Brno“ a návrh Dohody o zrušení zástavního práva smluvního k nemovitým věcem",pass,Z9/15,99,48,0,3
+2024-03-05-098,2024-03-05T11:27:29+00:00,"119. Návrh Dodatku č. 2 ke Smlouvě o výstavbě veřejné dopravní a technické infrastruktury v rámci stavby ""OC KASKÁDY"", návrh Smlouvy o výstavbě veřejné dopravní a technické infrastruktury v rámci stavby ""OC KASKÁDY – C) Horní výstavba""",pass,Z9/15,98,48,0,2
+2024-03-05-097,2024-03-05T11:26:56+00:00,Body č. 114-118,pass,Z9/15,97,47,0,3
+2024-03-05-096,2024-03-05T11:25:34+00:00,112. Návrh Smlouvy o spolupráci při výstavbě veřejné infrastruktury „Dostavba proluky a městský park při ulici Leitnerova v Brně“,pass,Z9/15,96,46,0,3
+2024-03-05-095,2024-03-05T11:25:04+00:00,"111. Návrh Smlouvy o spolupráci při výstavbě veřejné infrastruktury „POLYFUNKČNÍ OBJEKT, BRNO – KALOVÁ“",pass,Z9/15,95,50,0,0
+2024-03-05-094,2024-03-05T11:24:36+00:00,"111. Návrh Smlouvy o spolupráci při výstavbě veřejné infrastruktury „POLYFUNKČNÍ OBJEKT, BRNO – KALOVÁ“",pass,Z9/15,94,50,1,0
+2024-03-05-093,2024-03-05T11:24:03+00:00,"110. Brněnské vodárny a kanalizace, a. s.– Smlouva o součinnosti v rámci Projektu Kalové hospodářství ČOV Brno-Modřice",pass,Z9/15,93,48,0,3
+2024-03-05-092,2024-03-05T11:23:33+00:00,109. Návrh na zrušení věcného břemene (služebnosti) zatěžujícího pozemek p. č. 1117/1 v k. ú. Štýřice,pass,Z9/15,92,51,0,0
+2024-03-05-091,2024-03-05T11:23:02+00:00,"108. Návrh odnětí svěřeného majetku města městské části Brno–Nový Lískovec, pozemků v k. ú. Nový Lískovec",pass,Z9/15,91,50,0,0
+2024-03-05-090,2024-03-05T11:22:35+00:00,"107. Návrh svěření majetku města městské části Brno-jih, pozemků p. č. 480/3, 480/31, 480/32 v k. ú. Komárov",pass,Z9/15,90,52,0,0
+2024-03-05-089,2024-03-05T11:22:06+00:00,Body č. 103-106,pass,Z9/15,89,49,0,0
+2024-03-05-088,2024-03-05T11:21:29+00:00,"102. Návrh smlouvy o bezúplatném převodu části stavby s názvem ""Brno, MČ Tuřany – odkanalizování Dvorska"" (celoplošná obnova povrchu stávající komunikace č. II/417 ul. Zapletalova)",pass,Z9/15,88,52,0,0
+2024-03-05-087,2024-03-05T11:20:53+00:00,"87-101, bez 98",pass,Z9/15,87,51,0,0
+2024-03-05-086,2024-03-05T11:20:01+00:00,Body č. 83-86,pass,Z9/15,86,52,0,0
+2024-03-05-085,2024-03-05T11:19:22+00:00,82. Návrh prodeje části pozemku p. č. 2927/23 v k. ú. Žebětín,pass,Z9/15,85,51,0,0
+2024-03-05-084,2024-03-05T11:18:54+00:00,"81. Návrh prodeje částí pozemků p. č. 852/5, 974/1, 977/2, vše v k. ú. Trnitá společnosti MS Trnitá 2, s.r.o.",pass,Z9/15,84,44,2,2
+2024-03-05-083,2024-03-05T11:18:25+00:00,Body č. 76-80,pass,Z9/15,83,51,0,1
+2024-03-05-082,2024-03-05T11:17:28+00:00,"75. Dohoda o narovnání, prodej pozemků p. č. 288/6 a 288/12, nabytí stavby vše v k. ú. Město Brno-majetkoprávní vypořádání ve vztahu k nemovitému majetku statutárního města Brna v lokalitě podchod pod hlavním nádražím, ulice Benešova, Pohořelec a Josefská - schvaluje - 2. a 3. odr.",pass,Z9/15,82,44,0,6
+2024-03-05-081,2024-03-05T11:16:55+00:00,"75. Dohoda o narovnání, prodej pozemků p. č. 288/6 a 288/12, nabytí stavby vše v k. ú. Město Brno-majetkoprávní vypořádání ve vztahu k nemovitému majetku statutárního města Brna v lokalitě podchod pod hlavním nádražím, ulice Benešova, Pohořelec a Josefská - schvaluje - 1. a 4. odr.",pass,Z9/15,81,49,0,2
+2024-03-05-080,2024-03-05T11:16:24+00:00,"75. Dohoda o narovnání, prodej pozemků p. č. 288/6 a 288/12, nabytí stavby vše v k. ú. Město Brno-majetkoprávní vypořádání ve vztahu k nemovitému majetku statutárního města Brna v lokalitě podchod pod hlavním nádražím, ulice Benešova, Pohořelec a Josefská - bere na vědomí",pass,Z9/15,80,48,0,3
+2024-03-05-079,2024-03-05T11:15:10+00:00,"74. Návrh zpeněžení pozemků p. č. 2773/1, p. č. 2773/2 a p. č. 2773/7, vše k. ú. Kuřim, formou veřejné elektronické dobrovolné dražby",pass,Z9/15,79,40,5,7
+2024-03-05-078,2024-03-05T10:19:58+00:00,"74. Návrh zpeněžení pozemků p. č. 2773/1, p. č. 2773/2 a p. č. 2773/7, vše k. ú. Kuřim, formou veřejné elektronické dobrovolné dražby",fail,Z9/15,78,2,0,0
+2024-03-05-077,2024-03-05T10:19:35+00:00,73. Návrh na změnu katastrální hranice mezi katastrálním územím Štýřice a katastrálním územím Horní Heršpice,pass,Z9/15,77,51,0,1
+2024-03-05-076,2024-03-05T10:19:07+00:00,72. Přehled bytů poskytnutých v celoměstském zájmu za 2. pololetí roku 2023,pass,Z9/15,76,50,0,1
+2024-03-05-075,2024-03-05T10:18:39+00:00,"71. Návrh na odnětí svěřeného majetku města městské části Brno-střed, pozemku p. č. 1119/1, jehož součástí je stavba č. p. 329, bytový dům Mlýnská 21, 23 v k. ú. Trnitá, obec Brno",pass,Z9/15,75,40,0,12
+2024-03-05-074,2024-03-05T10:18:11+00:00,"71. Návrh na odnětí svěřeného majetku města městské části Brno-střed, pozemku p. č. 1119/1, jehož součástí je stavba č. p. 329, bytový dům Mlýnská 21, 23 v k. ú. Trnitá, obec Brno",pass,Z9/15,74,40,0,11
+2024-03-05-073,2024-03-05T10:17:26+00:00,"70. Návrh dispozice s bytovými domy Ibsenova 9, 10, 11, Brno, včetně pozemků, vč. úpravy",pass,Z9/15,73,34,1,10
+2024-03-05-072,2024-03-05T10:15:55+00:00,"70. Návrh dispozice s bytovými domy Ibsenova 9, 10, 11, Brno, včetně pozemků - hlasování o návrhu p. Zemka",fail,Z9/15,72,11,1,21
+2024-03-05-071,2024-03-05T09:59:51+00:00,"69. Návrh prodeje podílu na pozemku p. č. 1651/1, k. ú. Kohoutovice, pod bytovým domem Bellova 22, 24, 26 v Brně",pass,Z9/15,71,51,0,1
+2024-03-05-070,2024-03-05T09:59:19+00:00,"68. Vymezení bytových jednotek a adresný záměr bezúplatného převodu spoluvlastnických podílů na 31 bytových jednotkách bytového domu č. p. 729 v k. ú. Žebětín, Brno, členům Bytového družstva Za Kněžským hájkem",pass,Z9/15,70,52,0,1
+2024-03-05-069,2024-03-05T09:58:44+00:00,"67. Adresný záměr bezúplatného převodu spoluvlastnických podílů na b.j. domu č.p. 2072, k. ú. Řečkovice na členy družstva Cihelna a záměr úplatného převodu podílů na pozemcích p. č. 799/7, 799/8, 815/34, 815/35, 940/4, 940/5, 940/6, k. ú. Řečkovice",pass,Z9/15,69,51,0,1
+2024-03-05-068,2024-03-05T09:58:03+00:00,"66. Návrh vzorové dohody o narovnání s bezúplatným převodem spoluvlastnického podílu města na bytových jednotkách bytového domu č. p.1228 Vrbovecká 4, 6, 8, 10 a převod podílu na pozemku p. č. 7231/2 v k. ú. Bystrc členům BYTOVÉHO DRUŽSTVA ZELENÁ LOUKA",pass,Z9/15,68,50,0,1
+2024-03-05-067,2024-03-05T09:57:32+00:00,65. Návrh na schválení záměru poskytnutí úročené investiční zápůjčky z rozpočtu města Brna městské části Brno-Židenice,pass,Z9/15,67,47,5,0
+2024-03-05-066,2024-03-05T09:52:20+00:00,"64. Projekt ""ZŠ Hamry – stavební úpravy"" – návrh smlouvy o poskytnutí podpory",pass,Z9/15,66,48,0,1
+2024-03-05-065,2024-03-05T09:51:53+00:00,"63. Projekt ""Brno, MČ Bosonohy III. a IV. etapa – dostavba oddílného kanalizačního systému"" - rozhodnutí o poskytnutí dotace",pass,Z9/15,65,49,0,1
+2024-03-05-064,2024-03-05T09:51:23+00:00,"62. Projekty ""Fotovoltaický systém pro městskou část Brno-Líšeň"" – rozhodnutí o poskytnutí dotace",pass,Z9/15,64,49,0,1
+2024-03-05-063,2024-03-05T09:50:55+00:00,"61. Projekt ""ZŠ a MŠ Jana Broskvy – rekonstrukce školní kuchyně"" – rozhodnutí o poskytnutí dotace",pass,Z9/15,63,48,0,0
+2024-03-05-062,2024-03-05T09:50:25+00:00,"60. Projekt ""Místní akční plán rozvoje vzdělávání ve městě Brně IV""– rozhodnutí o poskytnutí dotace",pass,Z9/15,62,48,0,1
+2024-03-05-061,2024-03-05T09:49:56+00:00,"59. Projekt ""Rosteme s digitálními technologiemi"" – posouzení projektu, návrh rozpočtového opatření",pass,Z9/15,61,48,0,1
+2024-03-05-060,2024-03-05T09:49:27+00:00,"58. Projekt ""#Vzdělávání #Inovace #Prosperita 2"" – posouzení projektu, návrh rozpočtového opatření",pass,Z9/15,60,44,4,1
+2024-03-05-059,2024-03-05T09:48:57+00:00,"57. Projekt ""Výstavba budovy mateřské školy, školní družiny a úprava přilehlého školního hřiště v areálu ZŠ Přemyslovo náměstí 1"" – posouzení projektu",pass,Z9/15,59,48,0,1
+2024-03-05-058,2024-03-05T09:48:28+00:00,"56. Projekt ""Výstavba MŠ Šámalova"" – posouzení projektu",pass,Z9/15,58,46,0,1
+2024-03-05-057,2024-03-05T09:47:59+00:00,"55. Projekt ""Rozvoj ITS v Brně, 3. etapa"" – posouzení projektu",pass,Z9/15,57,46,0,4
+2024-03-05-056,2024-03-05T09:46:51+00:00,"54. Projekt ""Rekonstrukce parkové plochy u ZŠ Jana Babáka"" – posouzení projektu",pass,Z9/15,56,46,0,1
+2024-03-05-055,2024-03-05T09:46:20+00:00,"53. Projekt ""Bosonožské náměstí – úprava veřejného prostranství"" – posouzení projektu",pass,Z9/15,55,48,0,1
+2024-03-05-054,2024-03-05T09:45:49+00:00,52. Finanční prostředky Fondu kofinancování projektů – březen 2024 – návrh rozpočtových opatření,pass,Z9/15,54,50,0,1
+2024-03-05-053,2024-03-05T09:45:19+00:00,"51. Žádost Masarykovy univerzity o prominutí nájemného v objektu Jakubské náměstí 5/Moravské náměstí 3, k. ú. Město Brno",pass,Z9/15,53,51,0,0
+2024-03-05-052,2024-03-05T09:44:45+00:00,"50. Návrh Dodatku č. 1 ke Smlouvě o poskytnutí investičního příspěvku „Bytový dům Rezidence Koniklec, Nový Lískovec“ a návrh Dohody o zrušení zástavního práva smluvního k nemovitým věcem",pass,Z9/15,52,39,0,10
+2024-03-05-051,2024-03-05T09:40:33+00:00,49. Návrh smlouvy o poskytnutí individuální dotace z rozpočtu města Brna v roce 2024 pro Nadační fond MEHRIN na projekt „Výroba 3D exponátů pro Nadační fond Mehrin“ – návrh rozpočtového opatření,pass,Z9/15,51,45,2,4
+2024-03-05-050,2024-03-05T09:40:01+00:00,"48. Návrh smlouvy o poskytnutí individuální neinvestiční dotace SNIP & CO, reklamní společnost, spol. s r.o. na realizaci projektu „Dronové show 2024""",pass,Z9/15,50,43,0,6
+2024-03-05-049,2024-03-05T09:39:28+00:00,47. Návrh na poskytnutí investiční dotace na pořízení výškové techniky pro Hasičský záchranný sbor Jihomoravského kraje; návrh veřejnoprávní smlouvy,pass,Z9/15,49,49,1,0
+2024-03-05-048,2024-03-05T09:38:56+00:00,46. Návrh na poskytnutí neinvestiční dotace na provoz a vybavení jednotek Hasičského záchranného sboru Jihomoravského kraje; návrh veřejnoprávní smlouvy; návrh rozpočtového opatření,pass,Z9/15,48,49,0,1
+2024-03-05-047,2024-03-05T09:38:25+00:00,45. Návrh na poskytnutí individuální neinvestiční dotace na projekt Zpřístupnění Atomového krytu 10-Z v roce 2024,pass,Z9/15,47,43,0,4
+2024-03-05-046,2024-03-05T09:37:55+00:00,44. Návrh na poskytnutí investičních dotací v rámci dotačního programu Podpora vytváření zelených střech,pass,Z9/15,46,48,0,1
+2024-03-05-045,2024-03-05T09:37:26+00:00,"43. Návrh na poskytnutí neinvestičního účelového příspěvku Kanceláři architekta města Brna, příspěvkové organizaci – návrh rozpočtového opatření",pass,Z9/15,45,43,0,6
+2024-03-05-044,2024-03-05T09:34:43+00:00,"42. Návrh na poskytnutí individuální neinvestiční dotace Ptačímu centru o. p. s., na zajištění činnosti záchranné stanice v roce 2024 - návrh rozpočtového opatření",pass,Z9/15,44,50,0,1
+2024-03-05-043,2024-03-05T09:34:12+00:00,41. Návrh na poskytnutí individuálních neinvestičních dotací pro oblast životního prostředí na rok 2024,pass,Z9/15,43,49,0,1
+2024-03-05-042,2024-03-05T09:33:43+00:00,40. Návrh na poskytnutí individuální neinvestiční dotace Masarykově univerzitě na popularizaci vědy pro žáky základních škol ve vědeckém výukovém centru Bioskop v roce 2024 – návrh rozpočtového opatření,pass,Z9/15,42,50,0,1
+2024-03-05-041,2024-03-05T09:33:12+00:00,39. Návrh na poskytnutí neinvestičních dotací na provozní náklady středisek volného času v roce 2024,pass,Z9/15,41,49,0,1
+2024-03-05-040,2024-03-05T09:32:44+00:00,38. Návrh na poskytnutí účelových neinvestičních dotací v programu Mezinárodní cena vévody z Edinburghu v roce 2024 – návrh rozpočtového opatření,pass,Z9/15,40,51,0,1
+2024-03-05-039,2024-03-05T09:32:11+00:00,37. Návrh na poskytnutí účelových neinvestičních příspěvků základním školám na mezinárodní projekty v roce 2024 – návrh rozpočtového opatření,pass,Z9/15,39,50,0,1
+2024-03-05-038,2024-03-05T09:31:42+00:00,"36. Návrh na poskytnutí účelového neinvestičního příspěvku Základní škole a Mateřské škole Brno, Merhautova 37, příspěvkové organizaci, na projekt OnStage Brno – návrh rozpočtového opatření",pass,Z9/15,38,46,1,4
+2024-03-05-037,2024-03-05T09:27:45+00:00,35. Návrh na poskytnutí neinvestičních příspěvků základním školám na zajištění vzdělávacího projektu Příběhy našich sousedů – návrh rozpočtového opatření,pass,Z9/15,37,44,0,6
+2024-03-05-036,2024-03-05T09:27:17+00:00,34. Návrh na poskytnutí individuální neinvestiční dotace GALANT BRNO s. r. o. na projekt „Zabezpečení celoročního provozu Sportareálu Družstevní v roce 2024“,pass,Z9/15,36,50,0,1
+2024-03-05-035,2024-03-05T09:26:46+00:00,33. Návrh na poskytnutí individuální neinvestiční dotace TJ TESLA BRNO z. s. na projekt „Zabezpečení celoročního provozu sportovního areálu TJ TESLA BRNO v roce 2024“,pass,Z9/15,35,47,0,1
+2024-03-05-034,2024-03-05T09:26:14+00:00,"32. Návrh na poskytnutí individuální investiční dotace společnosti STAREZ-SPORT, a. s., na realizaci projektu – Rekonstrukce ledové plochy haly Rondo",pass,Z9/15,34,47,0,3
+2024-03-05-033,2024-03-05T09:25:32+00:00,31. Záměr poskytnutí individuální investiční dotace Tělocvičné jednotě Sokol Brno-Žabovřesky na realizaci projektu „Rekonstrukce sauny Rosnička Brno“,pass,Z9/15,33,45,0,6
+2024-03-05-032,2024-03-05T09:24:45+00:00,30. Návrh na poskytnutí individuální investiční dotace z rozpočtu města Brna na realizaci busty Ernsta Wiesnera ve vile Stiassni; návrh rozpočtového opatření,pass,Z9/15,32,46,0,5
+2024-03-05-031,2024-03-05T09:24:10+00:00,29. Návrh na poskytnutí neinvestičních dotací dle dotačních programů v oblasti kultury na rok 2024 - návrh rozpočtového opatření,pass,Z9/15,31,50,0,1
+2024-03-05-030,2024-03-05T09:23:34+00:00,"29. Návrh na poskytnutí neinvestičních dotací dle dotačních programů v oblasti kultury na rok 2024 - návrh rozpočtového opatření - tab. č. 1, pol. 11",pass,Z9/15,30,45,4,1
+2024-03-05-029,2024-03-05T09:23:03+00:00,"29. Návrh na poskytnutí neinvestičních dotací dle dotačních programů v oblasti kultury na rok 2024 - návrh rozpočtového opatření - tab. č. 1, pol. 8",pass,Z9/15,29,44,4,0
+2024-03-05-028,2024-03-05T09:20:04+00:00,28. Návrh na poskytnutí účelového neinvestičního transferu městské části Brno-střed na správu a údržbu svěřeného pomníku Adolfa Loose na Janáčkově náměstí a svěřeného vodního prvku na Dominikánském náměstí v Brně; návrh rozpočtového opatření,pass,Z9/15,28,43,0,6
+2024-03-05-027,2024-03-05T09:17:17+00:00,"27. Změna zatřídění účelového transferu z rozpočtu města Brna poskytnutého městské části Brno-Bohunice na správu a údržbu kontejnerových stání, určených pro nádoby na komunální odpad z neinvestičního na investiční, návrh rozpočtového opatření",pass,Z9/15,27,50,0,0
+2024-03-05-026,2024-03-05T09:16:39+00:00,26. Zapojení Fondu rezerv a rozvoje do rozpočtu Odboru vnitřních věcí MMB v souvislosti se vznikem Odboru územního plánování a stavebního řádu MMB – návrh rozpočtového opatření,pass,Z9/15,26,44,0,8
+2024-03-05-025,2024-03-05T08:57:30+00:00,25. Zapojení Fondu rezerv a rozvoje v souvislosti s poskytnutím neinvestičních příspěvků základním školám na zajištění projektu Primární prevence na základních školách – návrh rozpočtového opatření,pass,Z9/15,25,49,0,1
+2024-03-05-024,2024-03-05T08:56:56+00:00,24. Zapojení Fondu rezerv a rozvoje k financování běžných a kapitálových výdajů Odboru školství a mládeže MMB – návrh rozpočtového opatření,pass,Z9/15,24,51,0,0
+2024-03-05-023,2024-03-05T08:56:25+00:00,"23. Zapojení Fondu rezerv a rozvoje v souvislosti s poskytnutím investičního příspěvku Kanceláři architekta města Brna, příspěvkové organizaci, na fyzický model k soutěži ""Sportovní hala pro dráhovou cyklistiku a atletiku"", návrh rozpočtového opatření",pass,Z9/15,23,42,0,8
+2024-03-05-022,2024-03-05T08:54:20+00:00,22. Zapojení Fondu rezerv a rozvoje v souvislosti s poskytnutí účelového investičního transferu městské části Brno-střed na realizaci Revitalizace vnitrobloku Bayerova – Botanická – návrh rozpočtového opatření,pass,Z9/15,22,46,0,6
+2024-03-05-021,2024-03-05T08:53:43+00:00,"21. Zapojení Fondu rezerv a rozvoje k financování běžných výdajů Městské policie Brno, návrh rozpočtového opatření",pass,Z9/15,21,51,0,1
+2024-03-05-020,2024-03-05T08:53:15+00:00,20. Návrh rozpočtového opatření – aktualizace rozpočtu Odboru participace MMB,pass,Z9/15,20,46,0,5
+2024-03-05-019,2024-03-05T08:31:13+00:00,19. Aktualizace rozpočtu běžných a kapitálových výdajů rozpočtu Odboru dopravy MMB – březen 2024 – návrh rozpočtového opatření,pass,Z9/15,19,48,0,4
+2024-03-05-018,2024-03-05T08:28:29+00:00,18. Aktualizace rozpočtu Odboru investičního MMB – březen 2024 – návrh rozpočtového opatření,pass,Z9/15,18,49,0,1
+2024-03-05-017,2024-03-05T08:28:01+00:00,"17. Platba faktur za energie Vysokému učení technickému v Brně – nebytové prostory svěřené Hvězdárně a planetáriu Brno, příspěvkové organizaci – návrh rozpočtového opatření",pass,Z9/15,17,50,0,1
+2024-03-05-016,2024-03-05T08:27:30+00:00,16. Výstavba městských holubníků – návrh rozpočtového opatření,pass,Z9/15,16,46,0,2
+2024-03-05-015,2024-03-05T08:21:19+00:00,14. Návrh zřizovacích listin příspěvkových organizací v působnosti Odboru školství a mládeže Magistrátu města Brna,pass,Z9/15,15,50,0,1
+2024-03-05-014,2024-03-05T08:20:48+00:00,13. Návrh zřizovacích listin příspěvkových organizací v působnosti Odboru zdraví Magistrátu města Brna,pass,Z9/15,14,50,0,1
+2024-03-05-013,2024-03-05T08:20:17+00:00,"12. Návrh zřizovací listiny Hvězdárny a planetária Brno, příspěvkové organizace",pass,Z9/15,13,48,0,1
+2024-03-05-012,2024-03-05T08:19:48+00:00,"11. Návrh zřizovací listiny Zoo Brno a stanice zájmových činností, příspěvkové organizace",pass,Z9/15,12,51,0,1
+2024-03-05-011,2024-03-05T08:19:21+00:00,"10. Návrh zřizovací listiny Veřejné zeleně města Brna, příspěvkové organizace",pass,Z9/15,11,50,0,1
+2024-03-05-010,2024-03-05T08:18:52+00:00,"9. Návrh zřizovací listiny Správy hřbitovů města Brna, příspěvkové organizace",pass,Z9/15,10,46,0,1
+2024-03-05-009,2024-03-05T08:18:22+00:00,"8. Návrh zřizovací listiny Kanceláře architekta města Brna, příspěvkové organizace",pass,Z9/15,9,46,0,6
+2024-03-05-008,2024-03-05T08:17:52+00:00,"7. Návrh obecně závazné vyhlášky statutárního města Brna, kterou se mění obecně závazná vyhláška statutárního města Brna č. 3/2017, kterou se stanoví školské obvody mateřských škol, ve znění pozdějších vyhlášek",pass,Z9/15,8,49,0,1
+2024-03-05-007,2024-03-05T08:17:16+00:00,"6. Návrh obecně závazné vyhlášky statutárního města Brna, kterou se mění obecně závazná vyhláška statutárního města Brna č. 2/2017, kterou se stanoví školské obvody základních škol, ve znění pozdějších vyhlášek",pass,Z9/15,7,51,0,1
+2024-03-05-006,2024-03-05T08:16:39+00:00,"5. Návrh obecně závazné vyhlášky statutárního města Brna, kterou se mění obecně závazná vyhláška statutárního města Brna č. 11/2017, o nočním klidu, ve znění pozdějších vyhlášek",pass,Z9/15,6,50,0,1
+2024-03-05-005,2024-03-05T08:16:02+00:00,"4. Určení funkcí, pro které budou členky/členové Zastupitelstva města Brna dlouhodobě uvolněny/i – návrh na změnu usnesení Z9/14. zasedání Zastupitelstva města Brna konaného dne 30. 1. 2024, bod č. 6",pass,Z9/15,5,45,0,3
+2024-03-05-004,2024-03-05T08:14:48+00:00,"1. Technický bod (zapisovatelé, právní asistence, ověřovatelé zápisu, schválení programu zasedání ZMB) - program",pass,Z9/15,4,48,0,0
+2024-03-05-003,2024-03-05T08:14:16+00:00,"1. Technický bod (zapisovatelé, právní asistence, ověřovatelé zápisu, schválení programu zasedání ZMB) - program - hlasování o zařazení bodu č. 123, 124",pass,Z9/15,3,48,0,1
+2024-03-05-002,2024-03-05T08:13:55+00:00,"1. Technický bod (zapisovatelé, právní asistence, ověřovatelé zápisu, schválení programu zasedání ZMB) - program - hlasování o stažení bodu č. 15, 98, 113",pass,Z9/15,2,48,0,0
+2024-03-05-001,2024-03-05T08:11:37+00:00,"1. Technický bod (zapisovatelé, právní asistence, ověřovatelé zápisu, schválení programu zasedání ZMB) - ověřovatelé zápisu",pass,Z9/15,1,43,0,0
+2024-01-30-101,2024-01-30T12:15:12+00:00,"96. Návrh změny stanov obchodních společností Teplárny Brno, a. s., a Veletrhy Brno, a. s.",pass,Z9/14,101,48,0,2
+2024-01-30-100,2024-01-30T12:14:37+00:00,94. Územně plánovací dokumentace 2023 – návrhy na nezahájení/zahájení procesu pořízení změn Územního plánu a regulačních plánů města Brna,pass,Z9/14,100,47,0,1
+2024-01-30-099,2024-01-30T12:14:03+00:00,"93. Návrh Dodatku č. 1 ke Smlouvě o spolupráci při výstavbě veřejné infrastruktury „Oáza u řeky, bydlení Horní Heršpice, ulice Dufkovo nábřeží """,pass,Z9/14,99,39,0,8
+2024-01-30-098,2024-01-30T12:13:31+00:00,"91. Návrh Dodatku č.1 ke Smlouvě o spolupráci při výstavbě veřejné dopravní a technické infrastruktury „Polyfunkční stavba Trnitá II Bulvár"" 92.Návrh Dodatku č. 1 ke Smlouvě o spolupráci při výstavbě veřejné infrastruktury ""Budova D""",pass,Z9/14,98,38,0,10
+2024-01-30-097,2024-01-30T12:12:33+00:00,90. Návrh Smlouvy o spolupráci při výstavbě veřejné infrastruktury „Obytný soubor Pastviny – Uhlířova“,pass,Z9/14,97,50,0,0
+2024-01-30-096,2024-01-30T12:12:01+00:00,89. Návrh Smlouvy o spolupráci na přípravě a realizaci programu „Rezidence KREILU“,pass,Z9/14,96,45,0,6
+2024-01-30-095,2024-01-30T12:11:30+00:00,"88. Návrh na setrvání na části usnesení Zastupitelstva města Brna Z9/08 konaného dne 20. 6. 2023, bod č. 159 - nesvěření pozemku p. č. 3123 v k. ú. Kníničky městské části Brno-Kníničky.",pass,Z9/14,95,46,0,6
+2024-01-30-094,2024-01-30T12:10:48+00:00,"87. Návrh odnětí svěřeného majetku města městské části Brno-Maloměřice a Obřany, pozemků p. č. 1804/4, p. č. 1804/5 v k. ú. Obřany",pass,Z9/14,94,51,0,1
+2024-01-30-093,2024-01-30T12:10:15+00:00,"85. Návrh směny pozemku p. č. 5864/2 za pozemek p. č. 5811/1 a návrh na zřízení služebnosti k pozemku p. č. 5864/2, vše v k. ú. Židenice",pass,Z9/14,93,46,0,7
+2024-01-30-092,2024-01-30T12:09:43+00:00,"83. Návrh směny pozemku p. č. 1519 a části pozemku p. č. 2620/1 za část pozemku p. č. 2621 a část pozemku p. č. 2622 k. ú. Bosonohy 84.Návrh směny pozemku p. č. 1601/2 za pozemek p. č. 1598/5, vše v k. ú. Chrlice",pass,Z9/14,92,48,0,4
+2024-01-30-091,2024-01-30T12:08:32+00:00,82. Předkupní právo dle § 101 stavebního zákona k pozemku p. č. 707/3 v k. ú. Horní Heršpice,pass,Z9/14,91,44,0,5
+2024-01-30-090,2024-01-30T12:07:59+00:00,Body č. 75-81,pass,Z9/14,90,51,0,0
+2024-01-30-089,2024-01-30T12:07:00+00:00,"73. Návrh nabytí pozemku p. č. 49/3 v k. ú.Dvorska 74. Návrh nabytí pozemků p. č. 1684/76 a p. č. 1903/47, oba v k. ú. Starý Lískovec",pass,Z9/14,89,52,0,1
+2024-01-30-088,2024-01-30T12:06:19+00:00,Body č. 70-72,pass,Z9/14,88,52,0,1
+2024-01-30-087,2024-01-30T12:05:37+00:00,"69. Návrh zpeněžení pozemků p. č. 403/1, 403/4, 403/5, 404 v k. ú. Pisárky jejichž součástmi je objekt Lipová č. o. 31, dvě garáže ve veřejné elektronické dobrovolné dražbě",pass,Z9/14,87,48,0,5
+2024-01-30-086,2024-01-30T12:05:03+00:00,"68. Projekt ""Akumulace dešťových vod v lokalitě Líšeň – Rokle"" – návrh aktualizovaného znění smlouvy o poskytnutí podpory",pass,Z9/14,86,50,0,0
+2024-01-30-085,2024-01-30T12:04:32+00:00,"67. Projekt ""Pořízení cisternové automobilové stříkačky pro JSDH Brno-Židenice"" – rozhodnutí o poskytnutí dotace",pass,Z9/14,85,50,0,1
+2024-01-30-084,2024-01-30T12:04:04+00:00,"66. Projekt ""ZŠ Sirotkova – přístavba učeben odborných předmětů"" – rozhodnutí o poskytnutí dotace",pass,Z9/14,84,50,0,1
+2024-01-30-083,2024-01-30T12:03:34+00:00,"65. Projekt ""ZŠ Gajdošova 3, druhá etapa"" – rozhodnutí o poskytnutí dotace",pass,Z9/14,83,46,0,5
+2024-01-30-082,2024-01-30T12:03:02+00:00,"64. Projekt ""Přístavba Logopedické třídy MŠ Hatě Brno – Ivanovice, Hatě 81/19"" – posouzení projektu",pass,Z9/14,82,46,0,6
+2024-01-30-081,2024-01-30T12:02:30+00:00,"63. Projekt ""Integrace cizinců ve městě Brně V."" – posouzení projektu",pass,Z9/14,81,45,6,1
+2024-01-30-080,2024-01-30T12:01:59+00:00,"62. Návrh na poskytnutí individuální investiční dotace spolku Tělovýchovná jednota Lokomotiva-Ingstav, z. s., na projekt „Stavební úpravy a nástavba objektu Jakuba Obrovského 2/2, 635 00 Brno“ spolufinancovaný z rozpočtu NSA",pass,Z9/14,80,46,0,4
+2024-01-30-079,2024-01-30T12:01:10+00:00,61. Finanční prostředky Fondu kofinancování projektů – leden 2024 – návrh rozpočtových opatření - 4. odr.,pass,Z9/14,79,43,0,7
+2024-01-30-078,2024-01-30T12:00:47+00:00,61. Finanční prostředky Fondu kofinancování projektů – leden 2024 – návrh rozpočtových opatření - 3. odr.,pass,Z9/14,78,40,0,11
+2024-01-30-077,2024-01-30T12:00:22+00:00,61. Finanční prostředky Fondu kofinancování projektů – leden 2024 – návrh rozpočtových opatření - 1. a 2. odr.,pass,Z9/14,77,46,0,5
+2024-01-30-076,2024-01-30T11:57:17+00:00,60. Projekty financované z Fondu kofinancování projektů – leden 2024 – návrh rozpočtového opatření,pass,Z9/14,76,44,0,6
+2024-01-30-075,2024-01-30T11:56:48+00:00,"59. Rozdělení finančních prostředků na projekty participativního rozpočtu – výsledky hlasování, návrh rozpočtového opatření",pass,Z9/14,75,44,0,6
+2024-01-30-074,2024-01-30T11:56:15+00:00,"58. Žádost o prominutí či snížení smluvní pokuty, návrh Dodatku č. 1 k Plánovací smlouvě č. 6313173069",pass,Z9/14,74,49,0,2
+2024-01-30-073,2024-01-30T11:55:44+00:00,57. Odpis nedobytné pohledávky z titulu dlužného nájemného,pass,Z9/14,73,52,0,1
+2024-01-30-072,2024-01-30T11:55:15+00:00,56. Návrh na uzavření dohody o narovnání – smírné vyřešení soudních sporů se společností KOREKT REAL s. r. o.,pass,Z9/14,72,51,0,0
+2024-01-30-071,2024-01-30T11:54:43+00:00,55. Návrh Dodatku č. 1 ke Smlouvě o poskytnutí investičního příspěvku „BLOK VÍDEŇSKÁ – DOSTAVBY“,pass,Z9/14,71,40,0,9
+2024-01-30-070,2024-01-30T11:53:28+00:00,54. Návrh Smlouvy o poskytnutí investičního příspěvku „Nová Zbrojovka – objekt A“,pass,Z9/14,70,51,0,0
+2024-01-30-069,2024-01-30T11:52:57+00:00,53. Návrh smlouvy s FabLab Brno s. r. o. o poskytování veřejné služby a podmínkách poskytnutí vyrovnávací platby za plnění závazku veřejné služby,pass,Z9/14,69,45,0,6
+2024-01-30-068,2024-01-30T11:52:28+00:00,"52. Návrh smlouvy s JIC, zájmovým sdružením právnických osob, o poskytování veřejné služby a podmínkách poskytnutí vyrovnávací platby za plnění závazku veřejné služby – rozpočtové opatření",pass,Z9/14,68,50,0,1
+2024-01-30-067,2024-01-30T11:51:52+00:00,50. Návrh na uzavření smluv o poskytnutí víceletých individuálních dotací z rozpočtu města Brna v oblasti kultury v letech 2024–2026,pass,Z9/14,67,46,0,7
+2024-01-30-066,2024-01-30T11:51:17+00:00,49. Návrh na uzavření smluv o poskytnutí jednoletých individuálních dotací z rozpočtu města Brna v oblasti kultury v roce 2024 - bod 2,pass,Z9/14,66,52,0,0
+2024-01-30-065,2024-01-30T11:50:51+00:00,49. Návrh na uzavření smluv o poskytnutí jednoletých individuálních dotací z rozpočtu města Brna v oblasti kultury v roce 2024,pass,Z9/14,65,51,0,0
+2024-01-30-064,2024-01-30T11:50:27+00:00,49. Návrh na uzavření smluv o poskytnutí jednoletých individuálních dotací z rozpočtu města Brna v oblasti kultury v roce 2024 - bod 1.2,pass,Z9/14,64,48,0,4
+2024-01-30-063,2024-01-30T11:49:15+00:00,"48. Návrh smlouvy o poskytnutí individuální dotace z rozpočtu města Brna v letech 2024–2025 pro společnost DBP, s. r. o., na projekt „Letní scéna Divadla Bolka Polívky v Brně“",pass,Z9/14,63,39,1,11
+2024-01-30-062,2024-01-30T11:48:36+00:00,"51. Návrh dohody o ukončení Smlouvy o poskytnutí individuální dotace v letech 2023-2025 se společností DBP, s. r. o., návrh dodatku č. 1 ke Smlouvě o poskytnutí individuální dotace 2023-2025 s Divadlem Bolka Polívky, z. ú. - návrh rozpočtového opatření",pass,Z9/14,62,39,1,12
+2024-01-30-061,2024-01-30T11:48:07+00:00,"51. Návrh dohody o ukončení Smlouvy o poskytnutí individuální dotace v letech 2023-2025 se společností DBP, s. r. o., návrh dodatku č. 1 ke Smlouvě o poskytnutí individuální dotace 2023-2025 s Divadlem Bolka Polívky, z. ú. - návrh rozpočtového opatření",pass,Z9/14,61,40,1,11
+2024-01-30-060,2024-01-30T11:41:16+00:00,47. Návrh na uzavření smluv o poskytnutí individuálních dotací z rozpočtu města Brna pro státní příspěvkové organizace v oblasti kultury na roky 2024-2025,pass,Z9/14,60,51,0,1
+2024-01-30-059,2024-01-30T11:40:40+00:00,"46. Návrh na poskytnutí dotací a uzavření smluv s organizacemi poskytujícími služby zdravotnické, služby v oblasti podpory rodinné politiky a podpory prevence domácího násilí",pass,Z9/14,59,46,0,6
+2024-01-30-058,2024-01-30T11:39:15+00:00,"45. Návrh navýšení poskytnuté individuální dotace, návrh dodatku č. 1 ke smlouvě o poskytnutí individuální dotace z rozpočtu města Brna v letech 2022-2025 uzavřené s Českým filharmonickým sborem Brno, o. p. s.",pass,Z9/14,58,50,0,1
+2024-01-30-057,2024-01-30T11:38:38+00:00,"44. Návrh na poskytnutí neinvestičních dotací na podporu aktivit k oživení ploch veřejné zeleně ve městě Brně v roce 2024 -""Nábřežít"", návrh vzorové veřejnoprávní smlouvy o poskytnutí dotace z rozpočtu města Brna, návrh rozpočtového opatření",pass,Z9/14,57,51,0,0
+2024-01-30-056,2024-01-30T11:37:59+00:00,"43. Návrh na poskytnutí neinvestičních dotací na podporu aktivit k oživení ploch veřejné zeleně ve městě Brně v roce 2024 – ""Vnitroblok"", návrh vzorové veřejnoprávní smlouvy o poskytnutí dotace z rozpočtu města Brna, návrh rozpočtového opatření",pass,Z9/14,56,51,0,0
+2024-01-30-055,2024-01-30T11:37:13+00:00,42. Návrh na poskytnutí dotací na podporu projektů ekologické výchovy ve městě Brně na rok 2024 a návrh rozpočtového opatření,pass,Z9/14,55,45,0,6
+2024-01-30-054,2024-01-30T11:36:39+00:00,"41. Návrh na poskytnutí investičních dotací v rámci dotačního programu Podpora využití srážkové vody, návrh veřejnoprávní smlouvy o poskytnutí dotace z rozpočtu města Brna",pass,Z9/14,54,46,1,5
+2024-01-30-053,2024-01-30T11:36:07+00:00,"40. Návrh na poskytnutí investičních dotací v rámci dotačního programu Podpora vytváření zelených střech, návrh vzorové veřejnoprávní smlouvy o poskytnutí dotace z rozpočtu města Brna",pass,Z9/14,53,46,0,6
+2024-01-30-052,2024-01-30T11:33:59+00:00,"39. Návrh na poskytnutí individuální neinvestiční dotace Malý fotbal Brno, z. s., na projekt „Podpora činnosti trenérů a animátorů pohybových aktivit na ZŠ“ v období 01-06/2024 – návrh rozpočtového opatření",pass,Z9/14,52,51,0,1
+2024-01-30-051,2024-01-30T11:31:13+00:00,38. Návrh na poskytnutí neinvestičních dotací na podporu provozu sportovišť pro rok 2024,pass,Z9/14,51,52,0,1
+2024-01-30-050,2024-01-30T11:30:26+00:00,37. Návrh na poskytnutí neinvestičních dotací na podporu vrcholového sportu pro rok 2024 – návrh rozpočtového opatření,pass,Z9/14,50,40,0,13
+2024-01-30-049,2024-01-30T11:29:41+00:00,"36. Návrh na poskytnutí individuální neinvestiční dotace Trenéři ve škole, z. s., na zabezpečení projektu „Trenéři ve škole“ v období 02-06/2024 – návrh rozpočtového opatření",pass,Z9/14,49,52,0,1
+2024-01-30-048,2024-01-30T11:29:07+00:00,35. Návrh na poskytnutí neinvestičních příspěvků školám a školským zařízením na podporu dietního stravování ve městě Brně na rok 2024 - návrh rozpočtového opatření,pass,Z9/14,48,52,0,0
+2024-01-30-047,2024-01-30T11:28:34+00:00,34. Návrh na poskytnutí neinvestičních dotací v rámci Programu I pro rok 2024 – sociální služby poskytované NNO – návrh rozpočtového opatření,pass,Z9/14,47,45,0,6
+2024-01-30-046,2024-01-30T11:28:01+00:00,"33. Návrh na poskytnutí neinvestičního transferu městským částem na opravy v objektech určených pro poskytování sociálních služeb, poskytnutí investičního transferu městské části Brno-Bohunice na pořízení zvedací plošiny, návrh rozpočtového opatření",pass,Z9/14,46,52,0,1
+2024-01-30-045,2024-01-30T11:27:22+00:00,16. Koordinace a synchronizace projektů informačních a komunikačních technologií řízených osob – návrh předchozího souhlasu s udělením koncernového pokynu,pass,Z9/14,45,49,0,5
+2024-01-30-044,2024-01-30T11:24:06+00:00,"15. Žádost obchodní společnosti Energie Teplárny Brno, s. r. o., o vstup do Koncernu statutárního města Brna, návrh Dodatku č. 4 k Deklaraci Koncernu statutárního města Brna",pass,Z9/14,44,52,0,1
+2024-01-30-043,2024-01-30T11:20:28+00:00,97. Volba členky/člena Rady města Brna pro participaci - Petr Bořecký,pass,Z9/14,43,43,2,8
+2024-01-30-042,2024-01-30T11:14:22+00:00,hlasování o zařazení bodu č. 97,pass,Z9/14,42,47,0,2
+2024-01-30-041,2024-01-30T10:29:58+00:00,32. Návrh na poskytnutí transferů městským částem z rozpočtu Odboru investičního MMB na rok 2024 – návrh rozpočtového opatření,pass,Z9/14,41,52,0,1
+2024-01-30-040,2024-01-30T10:29:26+00:00,31. Zapojení Fondu rezerv a rozvoje v souvislosti s poskytnutím účelového investičního transferu městské části Brno-sever na realizaci II. etapy parku Marie Restituty – návrh rozpočtového opatření,pass,Z9/14,40,52,0,0
+2024-01-30-039,2024-01-30T10:28:52+00:00,"30. Zapojení Fondu rezerv a rozvoje v souvislosti s poskytnutím účelového neinvestičního příspěvku Kanceláři architekta města Brna, příspěvkové organizaci, na soutěž o návrh ""Sportovní hala pro dráhovou cyklistiku a atletiku"", návrh rozpočtového opatření",pass,Z9/14,39,47,0,5
+2024-01-30-038,2024-01-30T10:22:41+00:00,29. Zapojení Fondu rezerv a rozvoje v souvislosti s návrhem na poskytnutí neinvestičních transferů a investičního transferu městským částem – návrh rozpočtového opatření,pass,Z9/14,38,51,0,1
+2024-01-30-037,2024-01-30T10:22:08+00:00,"28. Zapojení Fondu rezerv a rozvoje v souvislosti s poskytnutím úročené investiční zápůjčky městské části Brno-Slatina, návrh rozpočtového opatření",pass,Z9/14,37,52,0,1
+2024-01-30-036,2024-01-30T10:21:36+00:00,27. Zapojení rezervy rozpočtu v souvislosti s úhradou regresní platby – návrh rozpočtového opatření,pass,Z9/14,36,47,0,7
+2024-01-30-035,2024-01-30T10:21:05+00:00,26. Návrh rozpočtového opatření – přesun finančních prostředků z rozpočtu Odboru územního plánování a rozvoje MMB do rozpočtu Odboru vnitřních věcí MMB,pass,Z9/14,35,43,0,10
+2024-01-30-034,2024-01-30T10:18:53+00:00,25. Aktualizace rozpočtu Odboru investičního MMB – leden 2024 – návrh rozpočtového opatření,pass,Z9/14,34,44,0,10
+2024-01-30-033,2024-01-30T10:18:23+00:00,24. Návrh na poskytnutí peněžitého daru do majetku Jihomoravského filmového nadačního fondu,pass,Z9/14,33,48,0,6
+2024-01-30-032,2024-01-30T10:17:54+00:00,23. Návrh změny Dotačních pravidel,pass,Z9/14,32,43,4,5
+2024-01-30-031,2024-01-30T10:16:16+00:00,22. Akční plán zlepšování kvality ovzduší Brno - 2023,pass,Z9/14,31,47,1,5
+2024-01-30-030,2024-01-30T10:15:44+00:00,"21. Návrh aktualizace dokumentu ""Energetická politika statutárního města Brna""; návrh na zrušení části usnesení Z8/38. zasedání Zastupitelstva města Brna konaného dne 17. května 2022, bod č. 18",pass,Z9/14,30,49,0,5
+2024-01-30-029,2024-01-30T10:15:06+00:00,"20. Návrh na změnu zástupce statutárního města Brna na všech valných shromážděních Sdružení energetických manažerů měst a obcí, z. s.",pass,Z9/14,29,54,0,0
+2024-01-30-028,2024-01-30T10:14:36+00:00,"19. Návrh na delegování zástupců statutárního města Brna na valnou hromadu spolku CIVINET Česká a Slovenská republika, z. s.; návrh na zrušení části usnesení Z8/19. zasedání ZMB konaného dne 8. 9. 2020, bod 8",pass,Z9/14,28,50,0,2
+2024-01-30-027,2024-01-30T10:13:57+00:00,"18. Návrh Protokolu č. 76 o předání majetku statutárního města Brna k hospodaření Veřejné zeleni města Brna, příspěvkové organizaci",pass,Z9/14,27,54,0,0
+2024-01-30-026,2024-01-30T10:13:26+00:00,"17. Brněnské vodárny a kanalizace, a. s.– podpora Projektu Kalové hospodářství ČOV Brno-Modřice, zpráva o zahájení jednání o odkupu podílu SUEZ International S. A. S.",pass,Z9/14,26,48,0,5
+2024-01-30-025,2024-01-30T09:55:37+00:00,"14. SAKO Brno, a. s.– návrh změny stanov",pass,Z9/14,25,52,0,0
+2024-01-30-024,2024-01-30T09:55:08+00:00,13. Návrh zřizovacích listin příspěvkových organizací v působnosti Odboru sociální péče Magistrátu města Brna,pass,Z9/14,24,51,0,0
+2024-01-30-023,2024-01-30T09:54:36+00:00,"12. Návrh obecně závazné vyhlášky statutárního města Brna, kterou se mění obecně závazná vyhláška statutárního města Brna č. 20/2001, kterou se vydává Statut města Brna, ve znění pozdějších vyhlášek, a obecně závazná vyhláška statutárního města Brna č. 25/2023",pass,Z9/14,23,51,0,1
+2024-01-30-022,2024-01-30T09:53:55+00:00,"11. Odměňování neuvolněných členů Zastupitelstva města Brna a členů komisí Rady města Brna a výborů Zastupitelstva města Brna, kteří nejsou členy Zastupitelstva města Brna",pass,Z9/14,22,45,0,7
+2024-01-30-021,2024-01-30T09:53:22+00:00,10. Přehled účastí na schůzích výborů ZMB,pass,Z9/14,21,49,0,1
+2024-01-30-020,2024-01-30T09:52:45+00:00,9. Návrh změny Jednacího řádu Zastupitelstva města Brna,pass,Z9/14,20,43,0,9
+2024-01-30-019,2024-01-30T09:52:14+00:00,"9. Návrh změny Jednacího řádu Zastupitelstva města Brna - čl. 8, písm. b, odst. 7",pass,Z9/14,19,35,2,13
+2024-01-30-018,2024-01-30T09:42:52+00:00,"95. Změna v osobě v pořadí druhého náměstka primátorky města Brna - volba v pořadí druhé náměstkyně/druhého náměstka primátorky města Brna - RNDr. Filip Chvátal, Ph.D.",pass,Z9/14,18,44,4,2
+2024-01-30-017,2024-01-30T09:26:56+00:00,95. Změna v osobě v pořadí druhého náměstka primátorky města Brna - bere na vědomí,pass,Z9/14,17,49,0,2
+2024-01-30-016,2024-01-30T09:23:18+00:00,"8. Změna ve složení Kontrolního výboru Zastupitelstva města Brna - volba místopředsedkyně /místopředsedy Kontrolního výboru Zastupitelstva města Brna - Mgr. Sabina Benešová, DiS, LL.M.",pass,Z9/14,16,50,0,3
+2024-01-30-015,2024-01-30T09:21:15+00:00,8. Změna ve složení Kontrolního výboru Zastupitelstva města Brna - bere na vědomí,pass,Z9/14,15,50,0,0
+2024-01-30-014,2024-01-30T09:15:51+00:00,7. Změna ve složení Výboru pro národnostní menšiny Zastupitelstva města Brna - volba členky/člena Výboru pro národnostní menšiny Zastupitelstva města Brna - p. Štefan,pass,Z9/14,14,47,0,2
+2024-01-30-013,2024-01-30T09:15:32+00:00,7. Změna ve složení Výboru pro národnostní menšiny Zastupitelstva města Brna - volba členky/člena Výboru pro národnostní menšiny Zastupitelstva města Brna - p. Pernes,fail,Z9/14,13,6,0,21
+2024-01-30-012,2024-01-30T09:14:57+00:00,7. Změna ve složení Výboru pro národnostní menšiny Zastupitelstva města Brna - volba členky/člena Výboru pro národnostní menšiny Zastupitelstva města Brna - p. Krytinář,pass,Z9/14,12,42,0,4
+2024-01-30-011,2024-01-30T09:14:24+00:00,7. Změna ve složení Výboru pro národnostní menšiny Zastupitelstva města Brna - volba členky/člena Výboru pro národnostní menšiny Zastupitelstva města Brna - pí Fuchsová,fail,Z9/14,11,6,0,22
+2024-01-30-010,2024-01-30T09:07:13+00:00,7. Změna ve složení Výboru pro národnostní menšiny Zastupitelstva města Brna - volba členky/člena Výboru pro národnostní menšiny Zastupitelstva města Brna - volba volební komise,pass,Z9/14,10,49,0,2
+2024-01-30-009,2024-01-30T09:06:07+00:00,7. Změna ve složení Výboru pro národnostní menšiny Zastupitelstva města Brna - volba členky/člena Výboru pro národnostní menšiny Zastupitelstva města Brna - bere na vědomí,pass,Z9/14,9,51,0,0
+2024-01-30-008,2024-01-30T09:01:42+00:00,"7. Změna ve složení Výboru pro národnostní menšiny Zastupitelstva města Brna - volba předsedkyně/předsedy Výboru pro národnostní menšiny Zastupitelstva města Brna Mgr. Monika Lukášová Spilková, Ph.D.",pass,Z9/14,8,41,2,8
+2024-01-30-007,2024-01-30T08:52:28+00:00,7. Změna ve složení Výboru pro národnostní menšiny Zastupitelstva města Brna - volba volební komise,pass,Z9/14,7,50,0,2
+2024-01-30-006,2024-01-30T08:51:03+00:00,7. Změna ve složení Výboru pro národnostní menšiny Zastupitelstva města Brna - bere na vědomí,pass,Z9/14,6,50,0,1
+2024-01-30-005,2024-01-30T08:34:44+00:00,"6. Určení funkcí, pro které budou členky/členové Zastupitelstva města Brna dlouhodobě uvolněny/i – návrh na změnu usnesení Z9/01. zasedání Zastupitelstva města Brna konaného dne 20.10.2022, bod č. 4, ve znění pozdějších změn",pass,Z9/14,5,42,3,6
+2024-01-30-004,2024-01-30T08:19:48+00:00,"1. Technický bod (zapisovatelé, právní asistence, ověřovatelé zápisu, schválení programu zasedání ZMB) - program",pass,Z9/14,4,51,0,1
+2024-01-30-003,2024-01-30T08:19:25+00:00,"1. Technický bod (zapisovatelé, právní asistence, ověřovatelé zápisu, schválení programu zasedání ZMB) - program - hlasování o zařazení bodu č. 95, 96",pass,Z9/14,3,51,0,1
+2024-01-30-002,2024-01-30T08:19:03+00:00,"1. Technický bod (zapisovatelé, právní asistence, ověřovatelé zápisu, schválení programu zasedání ZMB) - program - hlasování o stažení bodu č. 86",pass,Z9/14,2,51,0,1
+2024-01-30-001,2024-01-30T08:15:22+00:00,"1. Technický bod (zapisovatelé, právní asistence, ověřovatelé zápisu, schválení programu zasedání ZMB) - ověřovatelé zápisu",pass,Z9/14,1,49,0,0
+2023-12-12-098,2023-12-12T12:20:43+00:00,"110. Návrh dodatku č. 1 ke Smlouvě o poskytnutí individuální investiční dotace uzavřené mezi statutárním městem Brnem a Domovem pro mne, z. s.",pass,Z9/13,98,43,0,8
+2023-12-12-097,2023-12-12T12:20:07+00:00,109. Návrh na poskytnutí neinvestičních individuálních dotací v roce 2023 – V. kolo – návrh rozpočtového opatření,pass,Z9/13,97,48,0,0
+2023-12-12-096,2023-12-12T12:19:37+00:00,108. Návrh na změnu termínu vyúčtování a zatřídění účelových investičních a neinvestičních transferů poskytnutých městským částem,pass,Z9/13,96,43,0,8
+2023-12-12-095,2023-12-12T12:19:05+00:00,105. Návrh na uzavření dohody o zrušení závazku společnosti B.Letná s. r. o. vybudovat trvalý průchod pro pěší v polyfunkčním objektu v k. ú. Bystrc při ulici Černého,pass,Z9/13,95,36,9,4
+2023-12-12-094,2023-12-12T12:18:33+00:00,"104. Zánik zástavních práv smluvních k pozemkům p. č. 4113/5, p. č. 4113/6 a p. č. 4113/7, vše v k. ú. Tuřany a na nich stojících stavbách",pass,Z9/13,94,49,0,1
+2023-12-12-093,2023-12-12T12:18:00+00:00,"103. Návrh odnětí svěřeného majetku města městské části Brno-střed, pozemků v k. ú. Štýřice",pass,Z9/13,93,45,0,2
+2023-12-12-092,2023-12-12T12:17:31+00:00,"102. Návrh odnětí svěřeného majetku města městské části Brno-jih, pozemků p. č. 1053/1, p. č. 1053/2, p. č. 1059, p. č. 1060, p. č. 1061, p. č. 1062, p. č. 1063, p. č. 1064, p. č. 1065 v k. ú. Komárov",pass,Z9/13,92,48,0,2
+2023-12-12-091,2023-12-12T12:17:00+00:00,"101. Návrh na zrušení usnesení zasedání Zastupitelstva města Brna č. Z9/09 konaného dne 05.09.2023, bod č. 150, návrh budoucí směny pozemků a částí pozemků v k. ú. Štýřice, Bohunice, Trnitá se společností Shell Czech Republic a. s.",pass,Z9/13,91,38,0,11
+2023-12-12-090,2023-12-12T12:16:20+00:00,100. Návrh směny části pozemku p. č. 5405/1 v k. ú. Žabovřesky,pass,Z9/13,90,45,0,0
+2023-12-12-089,2023-12-12T12:15:44+00:00,"99. Návrh směny pozemků v k. ú. Starý Lískovec a v k. ú. Trnitá se společností Brněnské komunikace a. s., návrh na zřízení služebností",pass,Z9/13,89,46,0,2
+2023-12-12-088,2023-12-12T12:15:09+00:00,"98. Návrh směny pozemků p. č. 7623/54 p. č. 7652/35 a p. č. 7748/22, vše v k. ú. Židenice (městská část Brno-Vinohrady)",pass,Z9/13,88,30,11,2
+2023-12-12-087,2023-12-12T12:06:03+00:00,96. Návrh dispozice s pozemkem p. č. 1340/99 v k. ú. Stránice,pass,Z9/13,87,50,0,1
+2023-12-12-086,2023-12-12T12:05:32+00:00,Body č. 86-95,pass,Z9/13,86,49,0,1
+2023-12-12-085,2023-12-12T12:04:48+00:00,Body č. 83-85,pass,Z9/13,85,50,0,1
+2023-12-12-084,2023-12-12T12:04:03+00:00,Body č. 80-82,pass,Z9/13,84,49,0,1
+2023-12-12-083,2023-12-12T12:03:22+00:00,79. Návrh na nepřijetí nabídky Státního pozemkového úřadu na uzavření kupní smlouvy k části pozemku p. č. 538 v k. ú. Staré Brno dotčené veřejně prospěšnou stavbou VPS1/06-II,pass,Z9/13,83,42,0,7
+2023-12-12-082,2023-12-12T12:02:42+00:00,Body č. 75-78,pass,Z9/13,82,48,0,0
+2023-12-12-081,2023-12-12T12:02:11+00:00,"74. Návrh nabytí části pozemku p. č. 4158 v k. ú. Tuřany pro stavbu „Komunikační obchvat Tuřan, I.etapa“",pass,Z9/13,81,42,0,6
+2023-12-12-080,2023-12-12T12:01:40+00:00,Body č. 72 a 73,pass,Z9/13,80,49,0,0
+2023-12-12-079,2023-12-12T12:00:41+00:00,Body č. 68-71,pass,Z9/13,79,44,0,4
+2023-12-12-078,2023-12-12T11:59:51+00:00,66. Návrh na pověření vedoucí/vedoucího Majetkového odboru MMB k podpisu dokumentů za statutární město Brno,pass,Z9/13,78,45,4,1
+2023-12-12-077,2023-12-12T11:57:00+00:00,Body č. 63-65,pass,Z9/13,77,50,0,0
+2023-12-12-076,2023-12-12T11:55:52+00:00,"62. Návrh Dohody o zrušení bytového spoluvlastnictví a o zrušení společenství vlastníků jednotek v budově č. ev. 284, 285, 286, 287, 288, vše v k. ú. Husovice, pro stavbu „Silnice I/42 Brno, VMO Tomkovo náměstí a VMO Rokytova“",pass,Z9/13,76,49,0,0
+2023-12-12-075,2023-12-12T11:55:14+00:00,"61. Návrh na zrušení části usnesení Z7/19. zasedání Zastupitelstva města Brna, konaného dne 21.6.2016, bod 153, ve věci odnětí svěřeného majetku městské části Brno-střed u bytového domu Úvoz 14 v k ú. Staré Brno",pass,Z9/13,75,39,0,12
+2023-12-12-074,2023-12-12T11:54:38+00:00,"60. Návrh na odnětí svěřeného majetku města městské části Brno-střed, nemovitosti při ulici Kamenná 2, v k. ú. Štýřice",pass,Z9/13,74,38,1,11
+2023-12-12-073,2023-12-12T11:53:33+00:00,"60. Návrh na odnětí svěřeného majetku města městské části Brno-střed, nemovitosti při ulici Kamenná 2, v k. ú. Štýřice",pass,Z9/13,73,42,0,8
+2023-12-12-072,2023-12-12T11:53:03+00:00,"59. Návrh na odnětí svěřeného majetku města městské části Brno-sever, nemovitosti při ulici Mostecká 16, v k. ú. Husovice",pass,Z9/13,72,51,0,0
+2023-12-12-071,2023-12-12T11:52:32+00:00,58. Adresný záměr bezúplatného převodu spoluvlastnických podílů na bytových jednotkách domu č. p. 1228 Vrbovecká 10 v Brně a záměr převodu podílu na pozemku p. č. 7231/2 v k. ú. Bystrc členům BYTOVÉHO DRUŽSTVA ZELENÁ LOUKA,pass,Z9/13,71,52,0,0
+2023-12-12-070,2023-12-12T11:51:57+00:00,57. Žádost o prominutí dluhu za nájem bytu č. 19 v domě Mostecká 987/12 v Brně,pass,Z9/13,70,43,0,6
+2023-12-12-069,2023-12-12T11:51:27+00:00,56. Návrh na uzavření dodatku č. 1 ke smlouvě č. 62 13 04 47 52 ze dne 27. 12. 2013 obsahující podmínky výstavby parkovacích stání v rámci bytové výstavby KAMECHY - var. A,pass,Z9/13,69,48,0,2
+2023-12-12-068,2023-12-12T11:50:37+00:00,"55. Návrh dohody o změně smlouvy o výstavbě bytového domu č. p. 747 postaveného na pozemku parc. č. 1461/137 v k. ú. Žebětín, obec Brno",pass,Z9/13,68,52,0,0
+2023-12-12-067,2023-12-12T11:50:06+00:00,"54. Návrh na udělení výjimky ze Statutu startovacího bytu, který je přílohou č. 2 Pravidel pronájmu bytů v domech v majetku statutárního města Brna, nájemcům startovacího bytu č. 15 v domě Mostecká 987/12, Brno",pass,Z9/13,67,44,0,8
+2023-12-12-066,2023-12-12T11:49:34+00:00,"53. Návrh aktualizovaného znění Statutu Fondu bytové výstavby a návrh na zrušení části usnesení Z8/21. zasedání ZMB konaného dne 10.11.2020, bod č. 89",pass,Z9/13,66,45,0,7
+2023-12-12-065,2023-12-12T11:48:59+00:00,"52. Projekt ""Rozšíření monitoringu a logování síťových prvků SMB"" – změna parametrů posouzení projektu",pass,Z9/13,65,50,0,0
+2023-12-12-064,2023-12-12T11:48:18+00:00,"51. Projekt ""Revitalizace Žebětínského rybníka"" – posouzení projektu",pass,Z9/13,64,42,0,6
+2023-12-12-063,2023-12-12T11:47:03+00:00,49. Finanční prostředky Fondu kofinancování projektů – prosinec 2023 – návrh rozpočtových opatření,pass,Z9/13,63,44,0,7
+2023-12-12-062,2023-12-12T11:45:58+00:00,48. Projekty financované z Fondu kofinancování projektů – prosinec 2023 – návrh rozpočtového opatření,pass,Z9/13,62,42,0,7
+2023-12-12-061,2023-12-12T11:45:25+00:00,47. Návrh aktualizace Metodiky implementace projektů (spolu)financovatelných z evropských fondů a národních programů; návrh aktualizace Statutu Fondu kofinancování projektů,pass,Z9/13,61,45,0,7
+2023-12-12-060,2023-12-12T11:44:23+00:00,46. Žádosti o souhlas se změnou projektu/činnosti a návrh dodatku ke smlouvě o poskytnutí dotace v oblasti kultury,pass,Z9/13,60,51,0,1
+2023-12-12-059,2023-12-12T11:43:54+00:00,45. Návrh smlouvy o převodu vlastnického práva mezi statutárním městem Brnem a společností IMOS development otevřený podílový fond,pass,Z9/13,59,48,0,3
+2023-12-12-058,2023-12-12T11:43:23+00:00,"44. Žádost o bezúplatný převod hrobového zařízení, návrh darovací smlouvy",pass,Z9/13,58,49,0,1
+2023-12-12-057,2023-12-12T11:42:54+00:00,"43. Návrh Dodatku č. 30 ke Smlouvě o závazku veřejné služby a kompenzaci z veřejné přepravy cestujících uzavřené mezi statutárním městem Brnem a Dopravním podnikem města Brna, a. s.",pass,Z9/13,57,45,0,6
+2023-12-12-056,2023-12-12T11:30:12+00:00,42. Žádost spolku SH ČMS – Sbor dobrovolných hasičů Brno-Královo Pole o prominutí povinnosti odvodu za porušení rozpočtové kázně u smluv o poskytnutí účelové neinvestiční dotace z rozpočtu města Brna,pass,Z9/13,56,48,0,1
+2023-12-12-055,2023-12-12T11:29:37+00:00,"41. Návrh na prodloužení termínu vyúčtování, změnu účelu a tvorba Fondu rezerv a rozvoje na základě očekávaného nedočerpání transferů poskytnutých městským částem v rámci postoupených příjmů od města Brna na rok 2023 – návrh rozpočtového opatření",pass,Z9/13,55,50,0,0
+2023-12-12-054,2023-12-12T11:28:59+00:00,40. Návrh na poskytnutí neinvestičních příspěvků základním školám zapojeným do projektu Příběhy našich sousedů na zajištění vstupu do expozice Tichá hrdinství – návrh rozpočtového opatření,pass,Z9/13,54,43,4,3
+2023-12-12-053,2023-12-12T11:28:23+00:00,"39. Převod nájemného za nemovitý majetek, snížení neinvestičního příspěvku Hvězdárny a planetária Brno, příspěvkové organizace, na odpisy a snížení nařízeného odvodu do rozpočtu města – návrh rozpočtového opatření",pass,Z9/13,53,50,0,0
+2023-12-12-052,2023-12-12T11:27:50+00:00,"38. Návrh smlouvy o poskytnutí individuální neinvestiční dotace Czech NationalSemiconductor Cluster, z. s. na realizaci projektu „Polovodičové kompetence Brna“",pass,Z9/13,52,49,0,2
+2023-12-12-051,2023-12-12T11:27:18+00:00,37. Návrh smlouvy o poskytnutí individuální neinvestiční dotace na projekt „Meziuniverzitní studentská soutěž MUNISS 2024“ Masarykově univerzitě,pass,Z9/13,51,52,0,0
+2023-12-12-050,2023-12-12T11:26:45+00:00,36. Návrh na poskytnutí individuální neinvestiční dotace na projekt „Rozvoj AI oblasti v neziskové organizaci Czechitas z. ú.“ Czechitas z. ú.,pass,Z9/13,50,50,0,0
+2023-12-12-049,2023-12-12T11:26:08+00:00,35. Návrh na snížení příspěvku zřizovatele příspěvkovým organizacím v působnosti Odboru sociální péče MMB na rok 2023 - návrh rozpočtového opatření,pass,Z9/13,49,43,6,2
+2023-12-12-048,2023-12-12T11:25:36+00:00,"34. Návrh na poskytnutí individuální neinvestiční dotace ASOCIACI ŘECKÝCH OBCÍ V ČESKÉ REPUBLICE, z. s.– Řecká obec Brno, pobočný spolek na provoz spolku – návrh rozpočtového opatření",pass,Z9/13,48,46,0,6
+2023-12-12-047,2023-12-12T11:25:05+00:00,33. Návrh na převod transferů poskytnutých městským částem z rozpočtu Odboru investičního MMB v rámci postoupených příjmů od města na rok 2023 – návrh rozpočtového opatření,pass,Z9/13,47,51,0,0
+2023-12-12-046,2023-12-12T11:24:32+00:00,32. Návrh smlouvy o poskytnutí návratné finanční výpomoci mezi statutárním městem Brnem a Úrazovou nemocnicí v Brně,pass,Z9/13,46,51,0,0
+2023-12-12-045,2023-12-12T11:24:00+00:00,"31. Nemocnice Milosrdných bratří, příspěvková organizace – návrh na změnu účelu využití části účelového neinvestičního příspěvku",pass,Z9/13,45,41,0,6
+2023-12-12-044,2023-12-12T11:23:28+00:00,30. Návrh na poskytnutí neinvestičních dotací na podporu sportovních odvětví v roce 2023 – 2. kolo – návrh rozpočtového opatření,pass,Z9/13,44,51,0,0
+2023-12-12-043,2023-12-12T11:22:50+00:00,28. Návrh na poskytnutí individuálních neinvestičních a investičních dotací pro oblast tělovýchovy a sportu na rok 2023 – IV. kolo – návrh rozpočtového opatření,pass,Z9/13,43,48,0,3
+2023-12-12-042,2023-12-12T11:22:16+00:00,27. Návrh na poskytnutí účelových neinvestičních příspěvků pro příspěvkové organizace v působnosti Odboru kultury MMB v roce 2023 – návrh rozpočtového opatření - 2. část usnesení,pass,Z9/13,42,46,0,6
+2023-12-12-041,2023-12-12T11:21:40+00:00,27. Návrh na poskytnutí účelových neinvestičních příspěvků pro příspěvkové organizace v působnosti Odboru kultury MMB v roce 2023 – návrh rozpočtového opatření - 3. organizace,pass,Z9/13,41,45,5,1
+2023-12-12-040,2023-12-12T11:21:08+00:00,27. Návrh na poskytnutí účelových neinvestičních příspěvků pro příspěvkové organizace v působnosti Odboru kultury MMB v roce 2023 – návrh rozpočtového opatření - 2. organizace,pass,Z9/13,40,49,0,1
+2023-12-12-039,2023-12-12T11:20:42+00:00,27. Návrh na poskytnutí účelových neinvestičních příspěvků pro příspěvkové organizace v působnosti Odboru kultury MMB v roce 2023 – návrh rozpočtového opatření - 1. organizace,pass,Z9/13,39,51,0,0
+2023-12-12-038,2023-12-12T11:19:44+00:00,"26. Návrh na poskytnutí účelového neinvestičního příspěvku a prodloužení termínu čerpání účelových neinvestičních příspěvků Centru experimentálního divadla, příspěvkové organizaci na rok 2023 – návrh rozpočtového opatření",pass,Z9/13,38,43,6,0
+2023-12-12-037,2023-12-12T11:19:08+00:00,25. Návrh na poskytnutí individuální investiční dotace z rozpočtu města Brna na realizaci pamětní desky věnované spisovateli Antonínu Zhořovi a výtvarnému teoretiku Igoru Zhořovi – návrh smlouvy – návrh rozpočtového opatření,pass,Z9/13,37,50,0,1
+2023-12-12-036,2023-12-12T11:18:26+00:00,24. Návrh na poskytnutí individuální investiční dotace z rozpočtu města Brna na realizaci umístění Poesiomatu před budovu Káznice v Brně – návrh smlouvy – návrh rozpočtového opatření,pass,Z9/13,36,43,6,2
+2023-12-12-035,2023-12-12T11:17:53+00:00,"23. Návrh na poskytnutí individuální účelové neinvestiční dotace Územnímu sdružení Českého zahrádkářského svazu Brno-město na podporu zahrádkářských akcí, vzdělávacích aktivit a zapojení dětí a mládeže – návrh smlouvy a rozpočtového opatření",pass,Z9/13,35,46,0,2
+2023-12-12-034,2023-12-12T11:17:18+00:00,"22. Návrh na poskytnutí účelového neinvestičního příspěvku Správě hřbitovů města Brna, příspěvkové organizaci – návrh rozpočtového opatření",pass,Z9/13,34,41,0,6
+2023-12-12-033,2023-12-12T11:15:28+00:00,21. Tvorba Fondu rezerv a rozvoje na základě očekávaného nedočerpání rozpočtu běžných a kapitálových výdajů Odboru životního prostředí MMB roku 2023 – návrh rozpočtového opatření,pass,Z9/13,33,39,0,7
+2023-12-12-032,2023-12-12T11:14:49+00:00,20. Tvorba Fondu rezerv a rozvoje na základě očekávaného nedočerpání rozpočtu kapitálových výdajů Odboru sportu MMB roku 2023 – návrh rozpočtového opatření,pass,Z9/13,32,41,0,6
+2023-12-12-031,2023-12-12T11:14:14+00:00,19. Návrh rozpočtového opatření – tvorba Fondu rezerv a rozvoje na základě očekávaného nedočerpání rozpočtu běžných a kapitálových výdajů Odboru školství a mládeže MMB roku 2023,pass,Z9/13,31,39,0,6
+2023-12-12-030,2023-12-12T11:13:39+00:00,"18. Přesun běžných a kapitálových výdajů v rámci rozpočtu Odboru správy majetku MMB, návrh rozpočtového opatření",pass,Z9/13,30,45,0,2
+2023-12-12-029,2023-12-12T11:13:08+00:00,17. Přesun běžných výdajů v rámci Odboru participace MMB – návrh rozpočtového opatření,pass,Z9/13,29,45,0,1
+2023-12-12-028,2023-12-12T11:12:36+00:00,16. Návrh rozpočtového opatření – přesun mezi výdaji v rámci rozpočtu Odboru životního prostředí Magistrátu města Brna,pass,Z9/13,28,29,0,9
+2023-12-12-027,2023-12-12T11:12:00+00:00,"15. „Rekonstrukce NN a SV pavilonu ""C"" WSŠ, ZŠ a MŠ Plovdivská 8“ – návrh rozpočtového opatření",pass,Z9/13,27,38,0,7
+2023-12-12-026,2023-12-12T10:30:55+00:00,14. Návrh rozpočtu statutárního města Brna na rok 2024,pass,Z9/13,26,41,2,10
+2023-12-12-025,2023-12-12T10:30:01+00:00,14. Návrh rozpočtu statutárního města Brna na rok 2024 - hl. o návrhu občanky,fail,Z9/13,25,9,2,19
+2023-12-12-024,2023-12-12T10:28:43+00:00,14. Návrh rozpočtu statutárního města Brna na rok 2024 - hlasování o návrhu pí Flamikové,fail,Z9/13,24,11,1,18
+2023-12-12-023,2023-12-12T10:07:03+00:00,"13. Kancelář architekta města Brna, příspěvková organizace – návrh na prodloužení termínu vyúčtování schváleného investičního příspěvku",pass,Z9/13,23,45,0,7
+2023-12-12-022,2023-12-12T10:06:27+00:00,"12. Záměr sloučení příspěvkových organizací Mateřské školy Brno, Bellova 2, příspěvkové organizace, se Základní školou Brno, Pavlovská 16, příspěvkovou organizací",pass,Z9/13,22,51,0,0
+2023-12-12-021,2023-12-12T10:05:55+00:00,"11. Souhlas s vytvořením společného školského obvodu Základní školy, Brno, Bosonožská 9, příspěvkové organizace, s obcí Popůvky – návrh smlouvy",pass,Z9/13,21,52,0,1
+2023-12-12-020,2023-12-12T10:05:23+00:00,10. Návrh aktualizace Integrované strategie rozvoje Brněnské metropolitní oblasti 2021+,pass,Z9/13,20,44,0,3
+2023-12-12-019,2023-12-12T10:03:53+00:00,9. Návrh obecně závazné vyhlášky statutárního města Brna o místních poplatcích,pass,Z9/13,19,50,0,2
+2023-12-12-018,2023-12-12T10:03:15+00:00,"8. Návrh obecně závazné vyhlášky, kterou se mění obecně závazná vyhláška statutárního města Brna č. 15/2007, o ochraně zeleně v městě Brně",pass,Z9/13,18,52,0,0
+2023-12-12-017,2023-12-12T10:02:27+00:00,"7. Návrh obecně závazné vyhlášky statutárního města Brna, kterou se mění obecně závazná vyhláška statutárního města Brna č. 20/2001, kterou se vydává Statut města Brna, ve znění pozdějších vyhlášek",pass,Z9/13,17,37,7,7
+2023-12-12-016,2023-12-12T10:01:41+00:00,"7. Návrh obecně závazné vyhlášky statutárního města Brna, kterou se mění obecně závazná vyhláška statutárního města Brna č. 20/2001, kterou se vydává Statut města Brna, ve znění pozdějších vyhlášek - hlasování o návrhu pí Drápalové",fail,Z9/13,16,12,0,18
+2023-12-12-015,2023-12-12T10:00:26+00:00,"7. Návrh obecně závazné vyhlášky statutárního města Brna, kterou se mění obecně závazná vyhláška statutárního města Brna č. 20/2001, kterou se vydává Statut města Brna, ve znění pozdějších vyhlášek - hlasování o návrhu p. Vondry",fail,Z9/13,15,11,2,18
+2023-12-12-014,2023-12-12T08:52:31+00:00,"7. Návrh obecně závazné vyhlášky statutárního města Brna, kterou se mění obecně závazná vyhláška statutárního města Brna č. 20/2001, kterou se vydává Statut města Brna, ve znění pozdějších vyhlášek - hlasování o návrhu pí Drápalové",pass,Z9/13,14,38,0,5
+2023-12-12-013,2023-12-12T08:49:14+00:00,"6. Návrh na pojmenování nových ulic a návrh na úpravu názvu parčíku, vše na území města Brna",pass,Z9/13,13,52,0,0
+2023-12-12-012,2023-12-12T08:48:45+00:00,5. Návrh na udělení Ceny města Brna pro rok 2023 - bod č. 2,pass,Z9/13,12,47,0,6
+2023-12-12-011,2023-12-12T08:48:10+00:00,5. Návrh na udělení Ceny města Brna pro rok 2023,pass,Z9/13,11,53,0,0
+2023-12-12-010,2023-12-12T08:47:38+00:00,5. Návrh na udělení Ceny města Brna pro rok 2023 - oblast literární činnost,pass,Z9/13,10,45,5,0
+2023-12-12-009,2023-12-12T08:27:54+00:00,4. Volba členky/člena Kontrolního výboru Zastupitelstva města Brna - volba členky/člena Kontrolního výboru Zastupitelstva města Brna - p. Benjamin Skála,pass,Z9/13,9,44,0,1
+2023-12-12-007,2023-12-12T08:22:44+00:00,4. Volba členky/člena Kontrolního výboru Zastupitelstva města Brna - volba volební komise,pass,Z9/13,7,49,0,0
+2023-12-12-006,2023-12-12T08:21:03+00:00,4. Volba členky/člena Kontrolního výboru Zastupitelstva města Brna - bere na vědomí,pass,Z9/13,6,48,0,0
+2023-12-12-005,2023-12-12T08:19:03+00:00,"1. Technický bod (zapisovatelé, právní asistence, ověřovatelé zápisu, schválení programu zasedání ZMB) - program",pass,Z9/13,5,47,0,3
+2023-12-12-004,2023-12-12T08:18:21+00:00,"1. Technický bod (zapisovatelé, právní asistence, ověřovatelé zápisu, schválení programu zasedání ZMB) - program - hlasování o stažení bodu č. 10",fail,Z9/13,4,8,8,24
+2023-12-12-003,2023-12-12T08:16:30+00:00,"1. Technický bod (zapisovatelé, právní asistence, ověřovatelé zápisu, schválení programu zasedání ZMB) - program - hlasování o zařazení bodu č. 108, 109, 110",pass,Z9/13,3,49,0,1
+2023-12-12-002,2023-12-12T08:16:06+00:00,"1. Technický bod (zapisovatelé, právní asistence, ověřovatelé zápisu, schválení programu zasedání ZMB) - program - hlasování o stažení bodu č. 29, 50, 67, 97, 106, 107",pass,Z9/13,2,48,0,1
+2023-12-12-001,2023-12-12T08:11:40+00:00,"1. Technický bod (zapisovatelé, právní asistence, ověřovatelé zápisu, schválení programu zasedání ZMB) - ověřovatelé zápisu",pass,Z9/13,1,46,0,0
 2023-11-14-077,2023-11-14T09:51:14+00:00,"98. Návrh Dodatku č. 1 ke Smlouvě o spolupráci při výstavbě veřejné infrastruktury „Residenční park Štefánikova, Brno – soubor staveb I (Etapa A+B)“",pass,Z9/12,77,43,1,5
 2023-11-14-076,2023-11-14T09:50:36+00:00,97. Návrh Dodatku č. 1 ke Smlouvě o spolupráci při výstavbě veřejné infrastruktury „Bytový dům Havlenova“,pass,Z9/12,76,43,0,5
 2023-11-14-075,2023-11-14T09:50:04+00:00,"96. Realizace výstavby Multifunkční sportovní a kulturní haly ve městě Brně – návrh dodatku č. 2 ke smlouvě o společnosti, dodatku č. 1 smlouvy o spolupráci a dodatku č. 1 smlouvy o společném zadávání veřejných zakázek",pass,Z9/12,75,40,1,9
