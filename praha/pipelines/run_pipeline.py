@@ -24,6 +24,18 @@ invocation regardless, accepting the wasted calls, or (b) run it once and therea
 `organizations.csv`/`memberships.csv`'s candidate-list rows as a merge target this orchestrator
 must preserve across re-runs (e.g. read-modify-write instead of overwrite). Not decided here —
 flagging for C6, not fixing it as part of C8.
+
+RESOLVED (C6, 2026-08-04): option (a). The nightly workflow (`.github/workflows/nightly.yml`)
+always runs `praha/scripts/party_affiliation.py --data-dir praha/data` immediately after this
+script. Reasoning: candidate-list affiliation is fixed at election time (volby.cz's 2022 results
+never change), so re-deriving it nightly is six cheap, infrequent HTTP GETs against a static
+government site, not a scaling or rate-limit concern — while option (b) would make
+`standardize.py` do fragile read-modify-write merging against another script's output every night,
+for a problem that a fixed two-step ordering solves for free. `party_affiliation.py`'s
+`write_outputs()` was additionally hardened (id-based dedup before append) so that even an
+out-of-band re-run of just that script (e.g. manual debugging, without an intervening
+`standardize.py` pass) can't silently double the candidate-list rows — this orchestrator itself is
+unchanged; the sequencing lives in the workflow, not here.
 """
 import argparse
 import json

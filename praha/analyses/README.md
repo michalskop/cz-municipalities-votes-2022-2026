@@ -25,21 +25,23 @@ sources (coalition agreements, council composition pages), and get it reviewed a
 sign-off requirement before the definition file's first commit. If the coalition changes mid-term,
 express it as multiple government_groups entries with since/until — do not silently overwrite.
 
-## Status (2026-08-04, C8)
+## Status (2026-08-04, C6 — updated from C8's now-stale text)
 
-All four `*_definition.json` files in this directory are **Sonnet-drafted DRAFTS, not yet
-owner-approved** (plan.md D7). `govity_definition.json` in particular carries citations for its
-`government_groups` claim (SPOLU pro Prahu + Česká pirátská strana + STAROSTOVÉ A NEZÁVISLÍ,
-coalition signed 2023-02-15 — PRAHA SOBĚ explicitly excluded) in its own `extras` field; the owner
-must verify those citations before this file is used to publish real output. See each
-`extras.draft_status` field for the same caveat repeated in-file.
+**All four `*_definition.json` files are APPROVED by the project owner** (commit `77e8009`, per
+plan.md decision D7). Each file's own `extras.approval_status` field records the sign-off directly:
+`govity_definition.json`'s `government_groups` claim (SPOLU pro Prahu + Česká pirátská strana +
+STAROSTOVÉ A NEZÁVISLÍ, coalition signed 2023-02-15 — PRAHA SOBĚ explicitly excluded) was
+independently re-verified against all four cited sources before approval — this was the
+highest-risk factual input in the pipeline (D7's own framing) and it is now closed for Praha.
 
-The `outputs/<slug>.json` files currently committed alongside each definition were produced by
-`praha/scripts/analyses/run_<slug>.py` as a **pipeline smoke test** (proving the runner ->
-shared-script -> schema-validated-output chain works end to end) — they are **provisional** for
-the same reason as the definitions that produced them. Do not wire them into a nightly workflow or
-the dashboard (C6/A2) until D7 sign-off lands; re-run the four `run_*.py` scripts to refresh them
-once it does.
+These definitions are cleared to publish real output and are wired into the nightly workflow
+(`.github/workflows/nightly.yml`, task C6): every night, after the pipeline regenerates
+`praha/data/` and the G4 monotonicity guard passes, all four `run_<slug>.py` scripts re-run against
+the shared, unmodified `legislature-data-analyses` scripts, their outputs pass the G7 range-sanity
+check (`scripts/g7_sanity_check.py` — no NaN/Infinity, share-like fields in `[0, 1]`), and the
+refreshed `outputs/<slug>.json` files are committed alongside the data update. The
+`outputs/<slug>.json` files currently in this directory therefore reflect real, approved,
+nightly-refreshed output, not the C8 smoke-test placeholders they used to be.
 
 ### Running a analysis locally
 

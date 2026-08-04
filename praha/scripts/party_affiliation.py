@@ -464,19 +464,65 @@ def write_outputs(
     new_organizations: list[dict[str, Any]],
     new_memberships: list[dict[str, Any]],
 ) -> None:
+    """Append this script's rows to organizations.csv/memberships.csv.
+
+    C6 ordering note: the nightly workflow always runs this script immediately after
+    `praha/pipelines/run_pipeline.py`, whose `standardize.py` step rewrites both CSVs from
+    scratch each run (see run_pipeline.py's module docstring) — so in normal operation
+    `existing_*` here never already contains this script's own `praha:org:candidate-list:*`/
+    matching-membership rows, and a plain append is correct and safe to run once per nightly
+    cycle. The dedup-by-id below is a defensive second layer for the *abnormal* case (e.g. someone
+    re-runs just this script twice in a row without an intervening standardize.py pass, such as a
+    manual debug session) — it drops any pre-existing row whose id collides with a row this run is
+    about to write, so re-running never silently doubles the candidate-list rows.
+    """
     org_path = data_dir / "organizations.csv"
     existing_orgs = pd.read_csv(org_path, dtype=str, keep_default_na=False)
     new_orgs_df = pd.DataFrame(new_organizations)
-    combined_orgs = pd.concat([existing_orgs, new_orgs_df], ignore_index=True)
+    new_org_ids = set(new_orgs_df["id"]) if not new_orgs_df.empty else set()
+    kept_orgs = existing_orgs[~existing_orgs["id"].isin(new_org_ids)]
+    dropped_org_dupes = len(existing_orgs) - len(kept_orgs)
+    if dropped_org_dupes:
+        logging.warning(
+            "%s: dropped %d pre-existing row(s) whose id collided with this run's output "
+            "(re-run without an intervening standardize.py pass?) before re-appending them.",
+            org_path,
+            dropped_org_dupes,
+        )
+    combined_orgs = pd.concat([kept_orgs, new_orgs_df], ignore_index=True)
     combined_orgs.to_csv(org_path, index=False, encoding="utf-8")
-    logging.info("Wrote %s (%d existing + %d new = %d rows)", org_path, len(existing_orgs), len(new_orgs_df), len(combined_orgs))
+    logging.info(
+        "Wrote %s (%d existing + %d new - %d deduped = %d rows)",
+        org_path,
+        len(existing_orgs),
+        len(new_orgs_df),
+        dropped_org_dupes,
+        len(combined_orgs),
+    )
 
     mem_path = data_dir / "memberships.csv"
     existing_mems = pd.read_csv(mem_path, dtype=str, keep_default_na=False)
     new_mems_df = pd.DataFrame(new_memberships)
-    combined_mems = pd.concat([existing_mems, new_mems_df], ignore_index=True)
+    new_mem_ids = set(new_mems_df["id"]) if not new_mems_df.empty else set()
+    kept_mems = existing_mems[~existing_mems["id"].isin(new_mem_ids)]
+    dropped_mem_dupes = len(existing_mems) - len(kept_mems)
+    if dropped_mem_dupes:
+        logging.warning(
+            "%s: dropped %d pre-existing row(s) whose id collided with this run's output "
+            "(re-run without an intervening standardize.py pass?) before re-appending them.",
+            mem_path,
+            dropped_mem_dupes,
+        )
+    combined_mems = pd.concat([kept_mems, new_mems_df], ignore_index=True)
     combined_mems.to_csv(mem_path, index=False, encoding="utf-8")
-    logging.info("Wrote %s (%d existing + %d new = %d rows)", mem_path, len(existing_mems), len(new_mems_df), len(combined_mems))
+    logging.info(
+        "Wrote %s (%d existing + %d new - %d deduped = %d rows)",
+        mem_path,
+        len(existing_mems),
+        len(new_mems_df),
+        dropped_mem_dupes,
+        len(combined_mems),
+    )
 
 
 def main() -> None:
