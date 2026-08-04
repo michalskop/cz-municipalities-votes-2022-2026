@@ -57,8 +57,8 @@ X0 = X.fillna(0)
 # filter people with too low attendance
 w = (w1 * w2).sum()
 pw = Xraw.notna().mul(w1, axis=0).mul(w2, axis=0).sum(axis=0)
-selected_voters = (pw > lo_limit).index
-X0c = X0.loc[:, selected_voters]
+X0c = X0.loc[:, pw > (lo_limit * pw.max())]
+selected_voters = X0c.columns
 
 # I matrix
 I = X.notna().astype(int).loc[:, selected_voters]

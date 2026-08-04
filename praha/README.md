@@ -1,4 +1,7 @@
 # Praha
+
+## NOTE: The Prague web has been updated and the scraper is not working anymore!!!
+
 ## Charts
 - govity: https://public.flourish.studio/visualisation/12766953/
 - attandance: https://public.flourish.studio/visualisation/12766366/
