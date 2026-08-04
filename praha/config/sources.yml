@@ -1,0 +1,22 @@
+# Source config for Praha. Populated 2026-08-04 per research/R1-praha.md (D8 decision).
+# The old praha.eu HTML scraper (legacy/praha/scripts/) is confirmed broken (302-redirects) —
+# do not resurrect it. Use the open-data CSV instead.
+
+vysledky_hlasovani_zhmp:
+  primary:
+    type: csv
+    url: "https://storage.golemio.cz/ckan/obis/Vysledky_hlasovani_ZHMP_2022_-_2026.csv"
+    schema: "https://opendata-storage.praha.eu/OVO_vysledky_hlasovani_zhmp/Vysledky_hlasovani_ZHMP.schema.json"
+    docs: "https://opendata-storage.praha.eu/OVO_vysledky_hlasovani_zhmp/Vysledky_hlasovani_ZHMP_dokumentace.html"
+    licence: "CC BY 4.0"
+    catalog_entry: "https://data.gov.cz/dataset?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov%C3%A9-sady%2F00064581%2Faaf8f062015cc627d5f247d6bd6cf9ac"
+    note: >
+      Wide format: one row per vote event, one column per councilor (header = full name with
+      academic titles). Vote vocabulary: "Hlas pro" = yes, "Hlas proti" = no, "Zdržel se" =
+      abstain, "Nehlasoval" = present/no vote, "Chyběl" = absent, empty = not a member at that
+      date. KNOWN DATA-QUALITY PATTERN (see research/R1-praha.md): 124/2346 rows undercount the
+      published "pocetpro" aggregate by exactly one vote, clustered on 5 specific meeting dates —
+      indicates a mid-term substitute councilor not present in the fixed column roster. C7 must
+      detect and handle this, not silently under-count or hard-fail on it.
+  group_affiliation_source: "TBD — this dataset has no party/klub column; find a separate source
+    for Praha's assembly composition (needed for the govity government_groups definition, D7)."

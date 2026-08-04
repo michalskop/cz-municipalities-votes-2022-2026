@@ -1,0 +1,25 @@
+# Source config for Brno. Populated 2026-08-04.
+#
+# CAUTION (see C1 scaffolding notes / task C2): the endpoint below returned HTTP 503
+# ("Service Unavailable — maintenance downtime or capacity problems") consistently across
+# several retries on 2026-08-04, while kod.brno.cz's root and data.brno.cz both returned 200.
+# This may be transient (maintenance window) or the endpoint may have moved. C2 must re-verify
+# before relying on it, and check the ArcGIS-based fallback noted below if it's still down.
+
+zastupitelstvo:
+  primary:
+    type: json
+    url: "https://kod.brno.cz/zastupitelstvo/"
+    note: >
+      Endpoint used by the legacy scraper (legacy/brno/scripts/downloader.py); returns a JSON
+      object with a "data" array, one entry per vote event, including "parties" -> "votes" for
+      per-person options. Vocabulary: Ano/Ano (VK) = yes, Ne/Ne (VK) = no,
+      Zdržel se/Zdržel se (VK) = abstain, nepřít. = absent, Nehlasoval/Nehlasoval (VK) = not voting.
+  fallback_to_investigate:
+    type: arcgis
+    url: "https://data.brno.cz/documents/mestobrno::hlasov%C3%A1n%C3%AD-zastupitelstva-city-council-voting-data/explore"
+    note: >
+      Brno's ArcGIS Hub open-data catalog entry for the same dataset (linked from the old README
+      as "Alternative App"). Confirmed reachable (HTTP 200) on 2026-08-04. Underlying REST
+      Feature Service URL not yet identified — needs investigation if the primary JSON endpoint
+      stays down.

@@ -1,0 +1,24 @@
+# Source config for Ostrava. Populated 2026-08-04 per research/R2-ostrava.md (R2 outcome: go).
+# No legacy scraper existed for Ostrava in this repo (legacy/ has no ostrava/ dir) — this is a
+# fresh build in C9, not a port.
+
+vysledky_hlasovani:
+  primary:
+    type: html
+    term_landing_page: "https://ostrava.cz/cs/urad/mesto-a-jeho-organy/zastupitelstvo-mesta/usneseni/volebni-obdobi-2022-2026-1"
+    meeting_index_pattern: "https://www.ostrava.cz/uloziste/zastupitelstvo/vysledky_hlasovani/vo2226/z<YYYYMM>/index.html"
+    vote_page_pattern: "https://www.ostrava.cz/uloziste/zastupitelstvo/vysledky_hlasovani/vo2226/z<YYYYMM>/<NNNN>.html"
+    verified_meetings: ["z202201 (term start, 30 votes)", "z202604 (31st session, 24.06.2026, 101 votes)"]
+    robots_txt: "checked 2026-08-04 — www.ostrava.cz allows all paths for User-agent: * (blank Disallow); clear to crawl"
+    note: >
+      No JSON/CSV API — plain HTML, one page per vote event. Enumerate meetings from the term
+      landing page, then votes from each meeting's index.html, then fetch each numbered vote
+      page. Vote vocabulary observed so far: "Pro" = yes, "Zdržel se" = abstain, "Nepřítomen" =
+      absent; "Proti" (no) and "Nehlasoval" (present, no vote) inferred from the aggregate line
+      labels but not yet observed on an individual vote line — C9 must confirm on a larger sample
+      before finalizing the standardizer's vocabulary map. No party/klub field on the vote page
+      itself — same open item as Praha for group affiliation (needed for govity, D7). Full-term
+      backfill is a few thousand HTTP requests (one-time); crawl politely (delay between
+      requests) and cache locally so nightly runs only fetch new meetings.
+  group_affiliation_source: "TBD — see slozeni-zastupitelstva (composition) pages on ostrava.cz;
+    not yet investigated."

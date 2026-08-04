@@ -1,0 +1,33 @@
+# Published Legislature Data Standard schema locations, shared by every city.
+# Verified live 2026-08-04 against https://michalskop.github.io/legislature-data-standard/dt/0.1.0/schemas/
+# Two schema shapes are in use upstream (see legislature-audit-standard-2026-07-07.md, S1/S5):
+#   - "table" schemas (persons/organizations/memberships): Frictionless-style {"fields": [...]}
+#   - "record" schemas (votes/vote-events/motions): JSON-Schema-style {"definitions": {<Name>: {...}}}
+# scripts/validate_tables.py and scripts/validate_votes.py read the shape that matches each entry below.
+
+persons:
+  shape: table
+  url: "https://michalskop.github.io/legislature-data-standard/dt/0.1.0/schemas/persons.dt.table.json"
+
+organizations:
+  shape: table
+  url: "https://michalskop.github.io/legislature-data-standard/dt/0.1.0/schemas/organizations.dt.table.json"
+
+memberships:
+  shape: table
+  url: "https://michalskop.github.io/legislature-data-standard/dt/0.1.0/schemas/memberships.dt.table.json"
+
+votes:
+  shape: record
+  definition: DtTableVotesRow
+  url: "https://michalskop.github.io/legislature-data-standard/dt/0.1.0/schemas/votes-table.dt.json"
+
+vote-events:
+  shape: record
+  definition: DtVoteEvent
+  url: "https://michalskop.github.io/legislature-data-standard/dt/0.1.0/schemas/vote-event.dt.json"
+
+motions:
+  shape: record
+  definition: DtMotion
+  url: "https://michalskop.github.io/legislature-data-standard/dt/0.1.0/schemas/motions.dt.json"
