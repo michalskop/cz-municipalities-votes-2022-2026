@@ -33,6 +33,14 @@ def _load_schema(url: str) -> dict:
 
 def _required_and_allowed(schema: dict, definition: str) -> tuple[set[str], set[str]]:
     node = schema.get("definitions", {}).get(definition, {})
+    # Some record schemas wrap the per-record object in an outer "type": "array"
+    # definition (e.g. motions.dt.json's "DtMotions" is {"type": "array", "items":
+    # {...}}), unlike DtVoteEvent/DtTableVotesRow which are top-level objects. The
+    # actual "properties"/"required" live at node["items"] in that case — unwrap it so
+    # both schema shapes validate the same way (found + fixed during C7, see
+    # config/schemas.yml's comment on the motions entry for the reproduction).
+    if node.get("type") == "array" and "items" in node:
+        node = node["items"]
     allowed = set(node.get("properties", {}).keys())
     required = set(node.get("required", []))
     return required, allowed

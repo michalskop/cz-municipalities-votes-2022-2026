@@ -1,0 +1,2 @@
+id,name,classification,identifiers,sources
+praha:org:zastupitelstvo-hmp,Zastupitelstvo hlavního města Prahy,assembly,"[{""scheme"": ""praha:org_abbr"", ""identifier"": ""Zastupitelstvo hl. m. Prahy""}]","[{""url"": ""https://storage.golemio.cz/ckan/obis/Vysledky_hlasovani_ZHMP_2022_-_2026.csv"", ""note"": ""Praha open-data roll-call CSV, term 2022-2026""}]"

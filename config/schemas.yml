@@ -29,5 +29,13 @@ vote-events:
 
 motions:
   shape: record
-  definition: DtMotion
+  # NOTE (fixed 2026-08-04 during C7): the published schema's definitions key is
+  # "DtMotions" (plural), not "DtMotion" — and unlike DtVoteEvent/DtTableVotesRow it
+  # wraps the per-record object in an outer {"type": "array", "items": {...}}. The old
+  # "DtMotion" value matched nothing, so validate_records.py's _required_and_allowed()
+  # returned empty required/allowed sets and every motions.json record hard-failed with
+  # "unexpected keys" for every key it had. Reproduced with a synthetic [{"id": "m1"}]
+  # motions.json before fixing. See scripts/validate_records.py for the matching
+  # items-unwrap fix (this is a general shape, not motions-specific).
+  definition: DtMotions
   url: "https://michalskop.github.io/legislature-data-standard/dt/0.1.0/schemas/motions.dt.json"
