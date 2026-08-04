@@ -12,7 +12,7 @@
   ],
   "government_members": [],
   "extras": {
-    "draft_status": "DRAFT — sourced by an AI agent (C8), NOT owner-approved. Per plan.md decision D7, this is 'the highest-impact factual input in the whole pipeline' — the project owner MUST verify the citations below and sign off before this file is used to publish real analysis output. Do not wire into a nightly workflow or dashboard until then.",
+    "approval_status": "APPROVED by project owner 2026-08-04, per plan.md decision D7. All four citation URLs independently re-verified (ct24.ceskatelevize.cz, echo24.cz, prazskypatriot.cz fetched and content confirmed matching the claims; prazsky.denik.cz and the praha.eu coalition-agreement PDF confirmed live/reachable). government_groups (SPOLU pro Prahu + Česká pirátská strana + STAROSTOVÉ A NEZÁVISLÍ, PRAHA SOBĚ excluded, since=2023-02-15) confirmed correct and ready to publish.",
     "government_groups_citation": [
       {
         "claim": "The Prague city governing coalition (2022-2026 term) is SPOLU pro Prahu (ODS/TOP09/KDU-CSL, running as one list) + Ceska piratska strana (Piráti) + STAROSTOVE A NEZAVISLI (STAN). PRAHA SOBE, despite winning 11 seats, is explicitly NOT part of the governing coalition — SPOLU refused to include them; this was verified 2026-08-04, contradicting an unverified guess in this task's own briefing text.",

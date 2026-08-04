@@ -6,7 +6,7 @@
   "yes_options": ["yes"],
   "no_options": ["no"],
   "extras": {
-    "draft_status": "DRAFT — sourced by an AI agent (C8), NOT owner-approved. Per plan.md decision D7, the project owner must sign off before this file is used to publish real analysis output.",
+    "approval_status": "APPROVED by project owner 2026-08-04, per plan.md decision D7. Candidate-list-based group direction accepted as the D7 fallback given praha.eu's live klub data is unscrapable.",
     "vocabulary_source": "Same vocabulary mapping as attendance_definition.json (see that file's extras.vocabulary_source) — rebelity measures how often a member votes with their own candidate-list majority (praha:org:candidate-list:* rows added by praha/scripts/party_affiliation.py), abstain counted as neither yes nor no for direction purposes.",
     "note": "Rebelity requires each person's group/candidate-list membership at each vote-event date, sourced from data/memberships.csv (candidate-list rows, D7 fallback) via the all-members-shaped persons file the runner builds — see praha/scripts/build_all_members.py."
   }

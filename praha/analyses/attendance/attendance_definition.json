@@ -4,7 +4,7 @@
   "present_options": ["yes", "no", "abstain"],
   "absent_options": ["absent", "not voting"],
   "extras": {
-    "draft_status": "DRAFT — sourced by an AI agent (C8), NOT owner-approved. Per plan.md decision D7, the project owner must sign off before this file is used to publish real analysis output.",
+    "approval_status": "APPROVED by project owner 2026-08-04, per plan.md decision D7. Vocabulary mapping and since/until reviewed against praha/config/sources.yml and praha/data/memberships.csv.",
     "vocabulary_source": "praha/config/sources.yml + research/R1-praha.md: CSV vote options 'Hlas pro'/'Hlas proti'/'Zdrzel se' -> yes/no/abstain (present); 'Chybel' -> absent; 'Nehlasoval' (present in the room but did not press a button) treated as absent for attendance purposes, mirroring the cz-psp-data-2025-202x convention (absent_options includes 'not voting').",
     "since_rationale": "2022-11-03 = start_date of the assembly term per praha/data/memberships.csv (C7). until=null: the term has not ended as of this file's creation (2026-08-04); the source CSV's last observed session is 2026-06-19."
   }
