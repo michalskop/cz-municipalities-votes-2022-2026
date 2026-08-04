@@ -1,0 +1,2711 @@
+[
+  {
+    "person_id": "praha:person:adam-scheinherr",
+    "dims": [
+      -1.0547437070477266,
+      -0.6215581075324071,
+      0.2535717153093308
+    ],
+    "weight": 0.7528770442156268,
+    "included": true,
+    "name": "Adam Scheinherr",
+    "given_names": [
+      "Adam"
+    ],
+    "family_names": [
+      "Scheinherr"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "name": "PRAHA SOBĚ",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "name": "PRAHA SOBĚ",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": null
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:adam-zabransky",
+    "dims": [
+      -0.6285102588629007,
+      0.495314708059598,
+      -0.27300221294667126
+    ],
+    "weight": 0.7964869775893397,
+    "included": true,
+    "name": "Adam Zábranský",
+    "given_names": [
+      "Adam"
+    ],
+    "family_names": [
+      "Zábranský"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "name": "Česká pirátská strana",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "name": "Česká pirátská strana",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": null
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:alexandra-udzenija",
+    "dims": [
+      0.5969194253846547,
+      0.2480982321269272,
+      0.06660854456350655
+    ],
+    "weight": 0.8800726832222895,
+    "included": true,
+    "name": "Alexandra Udženija",
+    "given_names": [
+      "Alexandra"
+    ],
+    "family_names": [
+      "Udženija"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "name": "SPOLU pro Prahu",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "name": "SPOLU pro Prahu",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": null
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:antonin-klecanda",
+    "dims": [
+      -0.036750254876629515,
+      0.23703430642848017,
+      -0.3425943762508237
+    ],
+    "weight": 0.9067231980617807,
+    "included": true,
+    "name": "Antonín Klecanda",
+    "given_names": [
+      "Antonín"
+    ],
+    "family_names": [
+      "Klecanda"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:starostove-a-nezavisli",
+        "name": "STAROSTOVÉ A NEZÁVISLÍ",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:starostove-a-nezavisli",
+        "name": "STAROSTOVÉ A NEZÁVISLÍ",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": null
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:bara-soukup",
+    "dims": [
+      -0.9308720031086124,
+      0.4660805835101822,
+      -0.012074038826542975
+    ],
+    "weight": 0.9115687462144154,
+    "included": true,
+    "name": "Bara Soukup",
+    "given_names": [
+      "Bara"
+    ],
+    "family_names": [
+      "Soukup"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "name": "Česká pirátská strana",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "name": "Česká pirátská strana",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": null
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:barbora-razga",
+    "dims": [
+      0.6819115175212374,
+      -0.45983730688240015,
+      0.08948030319227343
+    ],
+    "weight": 0.6965475469412478,
+    "included": true,
+    "name": "Barbora Rázga",
+    "given_names": [
+      "Barbora"
+    ],
+    "family_names": [
+      "Rázga"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "name": "ANO 2011",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": null
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:bohuslav-svoboda",
+    "dims": [
+      0.6239059193890355,
+      0.16179774861730467,
+      0.05096999166764204
+    ],
+    "weight": 0.954572986069049,
+    "included": true,
+    "name": "Bohuslav Svoboda",
+    "given_names": [
+      "Bohuslav"
+    ],
+    "family_names": [
+      "Svoboda"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "name": "SPOLU pro Prahu",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "name": "SPOLU pro Prahu",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": null
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:daniel-mazur",
+    "dims": [
+      -0.7248779984452712,
+      0.5331722712584042,
+      -0.17739815258161928
+    ],
+    "weight": 0.8255602665051484,
+    "included": true,
+    "name": "Daniel Mazur",
+    "given_names": [
+      "Daniel"
+    ],
+    "family_names": [
+      "Mazur"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "name": "Česká pirátská strana",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "name": "Česká pirátská strana",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": null
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:david-bodecek",
+    "dims": [
+      -0.7414580422084837,
+      0.4714395034665355,
+      -0.03419913504078228
+    ],
+    "weight": 0.8770442156268928,
+    "included": true,
+    "name": "David Bodeček",
+    "given_names": [
+      "David"
+    ],
+    "family_names": [
+      "Bodeček"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "name": "Česká pirátská strana",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "name": "Česká pirátská strana",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": null
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:david-prochazka",
+    "dims": [
+      -0.10109139955562534,
+      0.2468282537063973,
+      -0.37702108839666354
+    ],
+    "weight": 0.6244700181708056,
+    "included": true,
+    "name": "David Procházka",
+    "given_names": [
+      "David"
+    ],
+    "family_names": [
+      "Procházka"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": "2025-03-27"
+      },
+      {
+        "id": "praha:org:candidate-list:starostove-a-nezavisli",
+        "name": "STAROSTOVÉ A NEZÁVISLÍ",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": "2025-03-27"
+      },
+      {
+        "id": "praha:org:candidate-list:starostove-a-nezavisli",
+        "name": "STAROSTOVÉ A NEZÁVISLÍ",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": "2025-03-27"
+      }
+    ],
+    "since": "2022-11-03",
+    "until": "2025-03-27"
+  },
+  {
+    "person_id": "praha:person:david-vodrazka",
+    "dims": [
+      0.6656865852578202,
+      0.15865093531591473,
+      0.08907292968891416
+    ],
+    "weight": 0.7886129618413082,
+    "included": true,
+    "name": "David Vodrážka",
+    "given_names": [
+      "David"
+    ],
+    "family_names": [
+      "Vodrážka"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "name": "SPOLU pro Prahu",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "name": "SPOLU pro Prahu",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": null
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:eva-tylova",
+    "dims": [
+      -0.8168841232006413,
+      0.48655077124251855,
+      0.009366716179157986
+    ],
+    "weight": 0.8237431859479104,
+    "included": true,
+    "name": "Eva Tylová",
+    "given_names": [
+      "Eva"
+    ],
+    "family_names": [
+      "Tylová"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "name": "Česká pirátská strana",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "name": "Česká pirátská strana",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": null
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:gabriela-lnenickova",
+    "dims": [
+      -0.8450923987630152,
+      0.4833055944410542,
+      -0.026247061859254756
+    ],
+    "weight": 0.8582677165354329,
+    "included": true,
+    "name": "Gabriela Lněničková",
+    "given_names": [
+      "Gabriela"
+    ],
+    "family_names": [
+      "Lněničková"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "name": "Česká pirátská strana",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "name": "Česká pirátská strana",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": null
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:hana-marvanova",
+    "dims": [
+      0.13678129185305574,
+      0.3201253376042751,
+      0.5755358917235793
+    ],
+    "weight": 0.44276196244700183,
+    "included": true,
+    "name": "Hana Marvanová",
+    "given_names": [
+      "Hana"
+    ],
+    "family_names": [
+      "Marvanová"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "name": "SPOLU pro Prahu",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "name": "SPOLU pro Prahu",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": null
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:hana-trestikova",
+    "dims": [
+      -0.9148126703467968,
+      -0.6096757211286844,
+      0.11173445607416609
+    ],
+    "weight": 0.5087825560266505,
+    "included": true,
+    "name": "Hana Třeštíková",
+    "given_names": [
+      "Hana"
+    ],
+    "family_names": [
+      "Třeštíková"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "name": "PRAHA SOBĚ",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "name": "PRAHA SOBĚ",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": null
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:jakub-leps",
+    "dims": [
+      0.5885352864486084,
+      0.25030707140019104,
+      0.06327897783088153
+    ],
+    "weight": 0.9376135675348275,
+    "included": true,
+    "name": "Jakub Lepš",
+    "given_names": [
+      "Jakub"
+    ],
+    "family_names": [
+      "Lepš"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "name": "SPOLU pro Prahu",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "name": "SPOLU pro Prahu",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": null
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:jan-chabr",
+    "dims": [
+      0.5872505571791522,
+      0.2500647332124942,
+      0.08271650587616179
+    ],
+    "weight": 0.919442761962447,
+    "included": true,
+    "name": "Jan Chabr",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Chabr"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "name": "SPOLU pro Prahu",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "name": "SPOLU pro Prahu",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": null
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:jan-cizinsky",
+    "dims": [
+      -1.0427282509722866,
+      -0.5301945424498684,
+      0.2652432539099657
+    ],
+    "weight": 0.90732889158086,
+    "included": true,
+    "name": "Jan Čižinský",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Čižinský"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "name": "PRAHA SOBĚ",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "name": "PRAHA SOBĚ",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": null
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:jan-husbauer",
+    "dims": [
+      0.7291687467875797,
+      -0.29415512839332203,
+      0.14872351141870063
+    ],
+    "weight": 0.5227135069654754,
+    "included": true,
+    "name": "Jan Hušbauer",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Hušbauer"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "name": "ANO 2011",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": null
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:jan-kolar",
+    "dims": [
+      0.745405244971424,
+      -0.22361130196935278,
+      0.08338770224699829
+    ],
+    "weight": 0.5196850393700787,
+    "included": true,
+    "name": "Jan Kolář",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Kolář"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "name": "ANO 2011",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": null
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:jan-wolf",
+    "dims": [
+      0.5908831506809306,
+      0.22810814722248843,
+      0.10674029223388419
+    ],
+    "weight": 0.8964264082374318,
+    "included": true,
+    "name": "Jan Wolf",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Wolf"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "name": "SPOLU pro Prahu",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "name": "SPOLU pro Prahu",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": null
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:jana-komrskova",
+    "dims": [
+      -0.8047882787508593,
+      0.5292680050851009,
+      0.0077452159277727846
+    ],
+    "weight": 0.8479709267110842,
+    "included": true,
+    "name": "Jana Komrsková",
+    "given_names": [
+      "Jana"
+    ],
+    "family_names": [
+      "Komrsková"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "name": "Česká pirátská strana",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "name": "Česká pirátská strana",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": null
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:jaromir-beranek",
+    "dims": [
+      -0.872739616384947,
+      0.4893061322267417,
+      -0.01883291614641237
+    ],
+    "weight": 0.90732889158086,
+    "included": true,
+    "name": "Jaromír Beránek",
+    "given_names": [
+      "Jaromír"
+    ],
+    "family_names": [
+      "Beránek"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "name": "Česká pirátská strana",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "name": "Česká pirátská strana",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": null
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:jiri-bruzek",
+    "dims": [
+      -0.9328018937073012,
+      0.4486543703269857,
+      0.020442031760092093
+    ],
+    "weight": 0.8988491823137492,
+    "included": true,
+    "name": "Jiří Brůžek",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Brůžek"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "name": "Česká pirátská strana",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "name": "Česká pirátská strana",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": null
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:jiri-knitl",
+    "dims": [
+      -0.9904337046686751,
+      -0.5504342487985187,
+      0.15459937198206736
+    ],
+    "weight": 0.7395517867958813,
+    "included": true,
+    "name": "Jiří Knitl",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Knitl"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "name": "PRAHA SOBĚ",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "name": "PRAHA SOBĚ",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": null
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:jiri-pospisil",
+    "dims": [
+      0.58666552870831,
+      0.27283639363679874,
+      0.10136946832666055
+    ],
+    "weight": 0.8267716535433071,
+    "included": true,
+    "name": "Jiří Pospíšil",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Pospíšil"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "name": "SPOLU pro Prahu",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "name": "SPOLU pro Prahu",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": null
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:jiri-ptacek",
+    "dims": [
+      0.5690844865829437,
+      0.2525383005936314,
+      0.1079810492851973
+    ],
+    "weight": 0.9606299212598425,
+    "included": true,
+    "name": "Jiří Ptáček",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Ptáček"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "name": "SPOLU pro Prahu",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "name": "SPOLU pro Prahu",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": null
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:josef-nerusil",
+    "dims": [
+      0.13396809565051868,
+      -0.523834207920458,
+      -1.1276650865029354
+    ],
+    "weight": 0.7492428831011507,
+    "included": true,
+    "name": "Josef Nerušil",
+    "given_names": [
+      "Josef"
+    ],
+    "family_names": [
+      "Nerušil"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": "2026-03-26"
+      },
+      {
+        "id": "praha:org:candidate-list:spd-trik-pes-a-nez-pro-prahu",
+        "name": "SPD,Trik.,PES a nez. pro Prahu",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": "2026-03-26"
+      },
+      {
+        "id": "praha:org:candidate-list:spd-trik-pes-a-nez-pro-prahu",
+        "name": "SPD,Trik.,PES a nez. pro Prahu",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": "2026-03-26"
+      }
+    ],
+    "since": "2022-11-03",
+    "until": "2026-03-26"
+  },
+  {
+    "person_id": "praha:person:kamila-matejkova",
+    "dims": [
+      -0.9843556911904361,
+      -0.7630110061302872,
+      0.23293613337165334
+    ],
+    "weight": 0.6365838885523925,
+    "included": true,
+    "name": "Kamila Matějková",
+    "given_names": [
+      "Kamila"
+    ],
+    "family_names": [
+      "Matějková"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "name": "PRAHA SOBĚ",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "name": "PRAHA SOBĚ",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": null
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:katerina-arnotova",
+    "dims": [
+      -0.04188554258152336,
+      0.23755816898529147,
+      -0.33719746038649373
+    ],
+    "weight": 0.9036947304663838,
+    "included": true,
+    "name": "Kateřina Arnotová",
+    "given_names": [
+      "Kateřina"
+    ],
+    "family_names": [
+      "Arnotová"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:starostove-a-nezavisli",
+        "name": "STAROSTOVÉ A NEZÁVISLÍ",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:starostove-a-nezavisli",
+        "name": "STAROSTOVÉ A NEZÁVISLÍ",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": null
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:kristyna-drapalova",
+    "dims": [
+      -0.9778963762263866,
+      -0.6705102291678938,
+      0.23280711924535097
+    ],
+    "weight": 0.6644457904300424,
+    "included": true,
+    "name": "Kristýna Drápalová",
+    "given_names": [
+      "Kristýna"
+    ],
+    "family_names": [
+      "Drápalová"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "name": "PRAHA SOBĚ",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "name": "PRAHA SOBĚ",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": null
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:lenka-vedralova",
+    "dims": [
+      0.6557084589641031,
+      -0.38583855481238716,
+      -0.044547617601686275
+    ],
+    "weight": 0.581465778316172,
+    "included": true,
+    "name": "Lenka Vedralová",
+    "given_names": [
+      "Lenka"
+    ],
+    "family_names": [
+      "Vedralová"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "name": "ANO 2011",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": null
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:lucie-kubesa",
+    "dims": [
+      0.575242938065527,
+      0.25732632411236583,
+      0.1070209525785578
+    ],
+    "weight": 0.929739551786796,
+    "included": true,
+    "name": "Lucie Kubesa",
+    "given_names": [
+      "Lucie"
+    ],
+    "family_names": [
+      "Kubesa"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "name": "SPOLU pro Prahu",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "name": "SPOLU pro Prahu",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": null
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:magdalena-valdmanova",
+    "dims": [
+      -0.8191827191745403,
+      0.46316504165787464,
+      -0.11052894202726178
+    ],
+    "weight": 0.8558449424591157,
+    "included": true,
+    "name": "Magdalena Valdmanová",
+    "given_names": [
+      "Magdalena"
+    ],
+    "family_names": [
+      "Valdmanová"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "name": "Česká pirátská strana",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "name": "Česká pirátská strana",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": null
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:marcela-plesnikova",
+    "dims": [
+      0.7194245240040485,
+      -0.32641652647057856,
+      0.12822272192503473
+    ],
+    "weight": 0.5263476680799515,
+    "included": true,
+    "name": "Marcela Plesníková",
+    "given_names": [
+      "Marcela"
+    ],
+    "family_names": [
+      "Plesníková"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "name": "ANO 2011",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": null
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:mariana-capkova",
+    "dims": [
+      -0.784905198035762,
+      -0.577968414677247,
+      0.011879055431476162
+    ],
+    "weight": 0.5857056329497274,
+    "included": true,
+    "name": "Mariana Čapková",
+    "given_names": [
+      "Mariana"
+    ],
+    "family_names": [
+      "Čapková"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "name": "PRAHA SOBĚ",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "name": "PRAHA SOBĚ",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": null
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:marta-gellova",
+    "dims": [
+      0.7285370686860624,
+      -0.15310149361634598,
+      0.1392492432703812
+    ],
+    "weight": 0.6432465172622653,
+    "included": true,
+    "name": "Marta Gellová",
+    "given_names": [
+      "Marta"
+    ],
+    "family_names": [
+      "Gellová"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "name": "ANO 2011",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": null
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:martin-benkovic",
+    "dims": [
+      0.7112355286521518,
+      -0.3246315716010305,
+      0.09106546091519659
+    ],
+    "weight": 0.5735917625681405,
+    "included": true,
+    "name": "Martin Benkovič",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Benkovič"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "name": "ANO 2011",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": null
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:martin-hrubcik",
+    "dims": [
+      0.6418124643656967,
+      -0.40838310268759764,
+      0.13220982090584676
+    ],
+    "weight": 0.5166565717746819,
+    "included": true,
+    "name": "Martin Hrubčík",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Hrubčík"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": "2024-12-12"
+      },
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": "2024-12-12"
+      },
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "name": "ANO 2011",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": "2024-12-12"
+      }
+    ],
+    "since": "2022-11-03",
+    "until": "2024-12-12"
+  },
+  {
+    "person_id": "praha:person:martin-sedeke",
+    "dims": [
+      0.5961693207807585,
+      0.22983548063740286,
+      0.09430733392538179
+    ],
+    "weight": 0.8606904906117504,
+    "included": true,
+    "name": "Martin Sedeke",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Sedeke"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "name": "SPOLU pro Prahu",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "name": "SPOLU pro Prahu",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": null
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:michal-hroza",
+    "dims": [
+      0.5816886504631391,
+      0.2511168320028093,
+      0.07907335770068888
+    ],
+    "weight": 0.9594185342216839,
+    "included": true,
+    "name": "Michal Hroza",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Hroza"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "name": "SPOLU pro Prahu",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "name": "SPOLU pro Prahu",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": null
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:milan-urban",
+    "dims": [
+      0.15450482146364855,
+      -0.6495070619244723,
+      -1.0247119495406665
+    ],
+    "weight": 0.7328891580860085,
+    "included": true,
+    "name": "Milan Urban",
+    "given_names": [
+      "Milan"
+    ],
+    "family_names": [
+      "Urban"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:spd-trik-pes-a-nez-pro-prahu",
+        "name": "SPD,Trik.,PES a nez. pro Prahu",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:spd-trik-pes-a-nez-pro-prahu",
+        "name": "SPD,Trik.,PES a nez. pro Prahu",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": null
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:ondrej-prokop",
+    "dims": [
+      0.6662747959654259,
+      -0.5081984083905916,
+      0.02033940284526017
+    ],
+    "weight": 0.7019987886129618,
+    "included": true,
+    "name": "Ondřej Prokop",
+    "given_names": [
+      "Ondřej"
+    ],
+    "family_names": [
+      "Prokop"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "name": "ANO 2011",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": null
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:patrik-nacher",
+    "dims": [
+      0.672004815236855,
+      -0.5553731404572825,
+      0.06354434774343443
+    ],
+    "weight": 0.6135675348273774,
+    "included": true,
+    "name": "Patrik Nacher",
+    "given_names": [
+      "Patrik"
+    ],
+    "family_names": [
+      "Nacher"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "name": "ANO 2011",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": null
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:pavel-mares",
+    "dims": [
+      0.5500252730897993,
+      0.279914881962435,
+      0.13439279248800767
+    ],
+    "weight": 0.9006662628709873,
+    "included": true,
+    "name": "Pavel Mareš",
+    "given_names": [
+      "Pavel"
+    ],
+    "family_names": [
+      "Mareš"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "name": "SPOLU pro Prahu",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "name": "SPOLU pro Prahu",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": null
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:pavel-vyhnanek",
+    "dims": [
+      -0.951217581437312,
+      -0.5755293467524047,
+      -0.06934830707956824
+    ],
+    "weight": 0.4318594791035736,
+    "included": true,
+    "name": "Pavel Vyhnánek",
+    "given_names": [
+      "Pavel"
+    ],
+    "family_names": [
+      "Vyhnánek"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "name": "PRAHA SOBĚ",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "name": "PRAHA SOBĚ",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": null
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:pavel-zelenka",
+    "dims": [
+      -1.1249863321121196,
+      -0.442658474749845,
+      0.14543555764844904
+    ],
+    "weight": 0.5760145366444578,
+    "included": true,
+    "name": "Pavel Zelenka",
+    "given_names": [
+      "Pavel"
+    ],
+    "family_names": [
+      "Zelenka"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "name": "PRAHA SOBĚ",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "name": "PRAHA SOBĚ",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": null
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:petr-hlavacek",
+    "dims": [
+      0.23060429467714325,
+      0.28048221401837414,
+      -0.1434557068880408
+    ],
+    "weight": 0.8516050878255602,
+    "included": true,
+    "name": "Petr Hlaváček",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Hlaváček"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:starostove-a-nezavisli",
+        "name": "STAROSTOVÉ A NEZÁVISLÍ",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:starostove-a-nezavisli",
+        "name": "STAROSTOVÉ A NEZÁVISLÍ",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": null
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:petr-zeman",
+    "dims": [
+      -0.9439458192278721,
+      -0.6350460649756753,
+      0.280198344842325
+    ],
+    "weight": 0.7383403997577226,
+    "included": true,
+    "name": "Petr Zeman",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Zeman"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "name": "PRAHA SOBĚ",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "name": "PRAHA SOBĚ",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": null
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:radmila-kleslova",
+    "dims": [
+      0.7168744326378027,
+      -0.4953580358080994,
+      0.12632262645084738
+    ],
+    "weight": 0.3930950938824954,
+    "included": true,
+    "name": "Radmila Kleslová",
+    "given_names": [
+      "Radmila"
+    ],
+    "family_names": [
+      "Kleslová"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "name": "ANO 2011",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": null
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:radomir-nepil",
+    "dims": [
+      0.7350621971774292,
+      -0.40897751744886046,
+      0.06408579985130007
+    ],
+    "weight": 0.5645063597819502,
+    "included": true,
+    "name": "Radomír Nepil",
+    "given_names": [
+      "Radomír"
+    ],
+    "family_names": [
+      "Nepil"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "name": "ANO 2011",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": null
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:stanislav-nekolny",
+    "dims": [
+      0.7594478293291612,
+      -0.2834000429972477,
+      0.1749248901377243
+    ],
+    "weight": 0.48940036341611143,
+    "included": true,
+    "name": "Stanislav Nekolný",
+    "given_names": [
+      "Stanislav"
+    ],
+    "family_names": [
+      "Nekolný"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "name": "ANO 2011",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": null
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:tomas-kanera",
+    "dims": [
+      0.3442190458853689,
+      -0.29149714740909866,
+      -0.38872198001205327
+    ],
+    "weight": 0.14112658994548755,
+    "included": true,
+    "name": "Tomáš Kaněra",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Kaněra"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2025-01-23",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2025-01-23",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "name": "ANO 2011",
+        "classification": "candidate_list",
+        "since": "2025-01-23",
+        "until": null
+      }
+    ],
+    "since": "2025-01-23"
+  },
+  {
+    "person_id": "praha:person:tomas-kastovsky",
+    "dims": [
+      0.6114414733029123,
+      0.22988404874961477,
+      0.10444031241462046
+    ],
+    "weight": 0.9152029073288914,
+    "included": true,
+    "name": "Tomáš Kaštovský",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Kaštovský"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "name": "SPOLU pro Prahu",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "name": "SPOLU pro Prahu",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": null
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:tomas-pek",
+    "dims": [
+      0.6064107715321808,
+      0.22067077542181962,
+      0.07727651007357528
+    ],
+    "weight": 0.9043004239854633,
+    "included": true,
+    "name": "Tomáš Pek",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Pek"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "name": "SPOLU pro Prahu",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "name": "SPOLU pro Prahu",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": null
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:tomas-portlik",
+    "dims": [
+      0.5903441828559151,
+      0.2515730012167276,
+      0.0789529284337019
+    ],
+    "weight": 0.905511811023622,
+    "included": true,
+    "name": "Tomáš Portlík",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Portlík"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "name": "SPOLU pro Prahu",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "name": "SPOLU pro Prahu",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": null
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:tomas-slabihoudek",
+    "dims": [
+      0.5645978044844532,
+      0.22333407252259546,
+      0.1019639520202573
+    ],
+    "weight": 0.9600242277407631,
+    "included": true,
+    "name": "Tomáš Slabihoudek",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Slabihoudek"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "name": "SPOLU pro Prahu",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "name": "SPOLU pro Prahu",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": null
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:vaclav-bilek",
+    "dims": [
+      0.7293884707927021,
+      -0.2097449010990044,
+      0.1351428096991742
+    ],
+    "weight": 0.6910963052695335,
+    "included": true,
+    "name": "Václav Bílek",
+    "given_names": [
+      "Václav"
+    ],
+    "family_names": [
+      "Bílek"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "name": "ANO 2011",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": null
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:viktor-mahrik",
+    "dims": [
+      -0.8074827704180494,
+      0.5399366303507416,
+      0.095127301680992
+    ],
+    "weight": 0.87038158691702,
+    "included": true,
+    "name": "Viktor Mahrik",
+    "given_names": [
+      "Viktor"
+    ],
+    "family_names": [
+      "Mahrik"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "name": "Česká pirátská strana",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "name": "Česká pirátská strana",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": null
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:vladan-broz",
+    "dims": [
+      -0.9900695143413406,
+      -0.6454182556275926,
+      0.3318194262225145
+    ],
+    "weight": 0.887946698970321,
+    "included": true,
+    "name": "Vladan Brož",
+    "given_names": [
+      "Vladan"
+    ],
+    "family_names": [
+      "Brož"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "name": "PRAHA SOBĚ",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "name": "PRAHA SOBĚ",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": null
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:zdenek-hrib",
+    "dims": [
+      -0.7858085690102068,
+      0.5301293767042575,
+      -0.09417274305932125
+    ],
+    "weight": 0.8164748637189582,
+    "included": true,
+    "name": "Zdeněk Hřib",
+    "given_names": [
+      "Zdeněk"
+    ],
+    "family_names": [
+      "Hřib"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "name": "Česká pirátská strana",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "name": "Česká pirátská strana",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": null
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:zdenek-kovarik",
+    "dims": [
+      0.5836998129184963,
+      0.2759163935646573,
+      0.0704359287967844
+    ],
+    "weight": 0.9170199878861295,
+    "included": true,
+    "name": "Zdeněk Kovářík",
+    "given_names": [
+      "Zdeněk"
+    ],
+    "family_names": [
+      "Kovářík"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "name": "SPOLU pro Prahu",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "name": "SPOLU pro Prahu",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": null
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:zdenek-seidl",
+    "dims": [
+      0.14419087019243848,
+      -0.5395791810206879,
+      -0.8061974686084221
+    ],
+    "weight": 0.6353725015142339,
+    "included": true,
+    "name": "Zdeněk Seidl",
+    "given_names": [
+      "Zdeněk"
+    ],
+    "family_names": [
+      "Seidl"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:spd-trik-pes-a-nez-pro-prahu",
+        "name": "SPD,Trik.,PES a nez. pro Prahu",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:spd-trik-pes-a-nez-pro-prahu",
+        "name": "SPD,Trik.,PES a nez. pro Prahu",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": null
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:zdenek-zajicek",
+    "dims": [
+      0.6342508099556793,
+      0.22422050859715795,
+      0.10196782022617451
+    ],
+    "weight": 0.697153240460327,
+    "included": true,
+    "name": "Zdeněk Zajíček",
+    "given_names": [
+      "Zdeněk"
+    ],
+    "family_names": [
+      "Zajíček"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "name": "SPOLU pro Prahu",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "name": "SPOLU pro Prahu",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": null
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:zuzana-freitas",
+    "dims": [
+      -0.8757435332622282,
+      0.451542602197103,
+      -0.06873897299915595
+    ],
+    "weight": 0.8334342822531798,
+    "included": true,
+    "name": "Zuzana Freitas",
+    "given_names": [
+      "Zuzana"
+    ],
+    "family_names": [
+      "Freitas"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "name": "Česká pirátská strana",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "name": "Česká pirátská strana",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": null
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:zuzana-hamanova",
+    "dims": [
+      0.04536565632976327,
+      0.2718227956848622,
+      -0.33496673019738055
+    ],
+    "weight": 0.9491217443973349,
+    "included": true,
+    "name": "Zuzana Hamanová",
+    "given_names": [
+      "Zuzana"
+    ],
+    "family_names": [
+      "Hamanová"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:zastupitelstvo-hmp",
+        "name": "Zastupitelstvo hlavního města Prahy",
+        "classification": "parliament",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:starostove-a-nezavisli",
+        "name": "STAROSTOVÉ A NEZÁVISLÍ",
+        "classification": "groups",
+        "since": "2022-11-03",
+        "until": null
+      },
+      {
+        "id": "praha:org:candidate-list:starostove-a-nezavisli",
+        "name": "STAROSTOVÉ A NEZÁVISLÍ",
+        "classification": "candidate_list",
+        "since": "2022-11-03",
+        "until": null
+      }
+    ],
+    "since": "2022-11-03"
+  }
+]

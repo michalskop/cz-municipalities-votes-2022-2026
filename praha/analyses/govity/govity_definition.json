@@ -1,0 +1,37 @@
+{
+  "since": "2023-02-15",
+  "until": null,
+  "present_options": ["yes", "no", "abstain"],
+  "absent_options": ["absent", "not voting"],
+  "yes_options": ["yes"],
+  "no_options": ["no"],
+  "government_groups": [
+    "praha:org:candidate-list:spolu-pro-prahu",
+    "praha:org:candidate-list:ceska-piratska-strana",
+    "praha:org:candidate-list:starostove-a-nezavisli"
+  ],
+  "government_members": [],
+  "extras": {
+    "draft_status": "DRAFT — sourced by an AI agent (C8), NOT owner-approved. Per plan.md decision D7, this is 'the highest-impact factual input in the whole pipeline' — the project owner MUST verify the citations below and sign off before this file is used to publish real analysis output. Do not wire into a nightly workflow or dashboard until then.",
+    "government_groups_citation": [
+      {
+        "claim": "The Prague city governing coalition (2022-2026 term) is SPOLU pro Prahu (ODS/TOP09/KDU-CSL, running as one list) + Ceska piratska strana (Piráti) + STAROSTOVE A NEZAVISLI (STAN). PRAHA SOBE, despite winning 11 seats, is explicitly NOT part of the governing coalition — SPOLU refused to include them; this was verified 2026-08-04, contradicting an unverified guess in this task's own briefing text.",
+        "sources": [
+          "https://prazsky.denik.cz/zpravy_region/praha-koalice-magistrat-koalicni-smlouva-podpis-primator.html",
+          "https://ct24.ceskatelevize.cz/clanek/regiony/spolu-pirati-a-stan-podepsali-koalicni-smlouvu-na-prazskem-magistratu-9872",
+          "https://www.irozhlas.cz/zpravy-domov/praha-spolu-pirati-stan-zastupitelstvo_2302031014_bko",
+          "https://praha.eu/documents/d/praha/koalicni_smlouva_2023_3558236"
+        ]
+      },
+      {
+        "claim": "Coalition agreement signed 2023-02-15, 144 days after the 2022-09-23/24 election (not at term start 2022-11-03) — hence since=2023-02-15, not the assembly's own start_date. No documented coalition realignment since; two rada (executive council) personnel changes in Dec 2025 (Hrib->Beranek for transport, Pospisil->Slabihoudek for culture/tourism, both intra-coalition, both within the same candidate-list party as their predecessor) do NOT change which parties form the coalition, so a single since/until window is used.",
+        "sources": [
+          "https://prazsky.denik.cz/zpravy_region/praha-koalice-magistrat-koalicni-smlouva-podpis-primator.html",
+          "https://www.echo24.cz/a/HRc8Z/zpravy-domov-dosavadniho-namestka-prazskeho-primatora-pro-dopravu-zdenka-hriba-nahradi-ve-vedeni-mesta-zastupitel-jaromir-beranek",
+          "https://www.prazskypatriot.cz/pospisila-ve-vedeni-prahy-nahradi-slabihoudek-namestkem-primatora-bude-hroza/"
+        ]
+      }
+    ],
+    "not_investigated": "Whether SPOLU's own internal ODS/TOP09/KDU-CSL composition ever changed mid-term is out of scope: the plan explicitly instructs modeling SPOLU pro Prahu as one candidate-list org (no per-candidate sub-party split available), so any intra-SPOLU change would not be visible in this data model regardless."
+  }
+}

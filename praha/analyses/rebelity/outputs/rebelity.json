@@ -1,0 +1,1856 @@
+[
+  {
+    "person_id": "praha:person:katerina-arnotova",
+    "rebelity_total": 0,
+    "rebelity_possible": 2333,
+    "rebelity": 0.0,
+    "name": "Kateřina Arnotová",
+    "given_names": [
+      "Kateřina"
+    ],
+    "family_names": [
+      "Arnotová"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:starostove-a-nezavisli",
+        "classification": "group",
+        "name": "STAROSTOVÉ A NEZÁVISLÍ",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:starostove-a-nezavisli",
+        "classification": "candidate_list",
+        "name": "STAROSTOVÉ A NEZÁVISLÍ",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:martin-benkovic",
+    "rebelity_total": 1,
+    "rebelity_possible": 2094,
+    "rebelity": 0.000478,
+    "name": "Martin Benkovič",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Benkovič"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "classification": "candidate_list",
+        "name": "ANO 2011",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:jaromir-beranek",
+    "rebelity_total": 2,
+    "rebelity_possible": 2324,
+    "rebelity": 0.000861,
+    "name": "Jaromír Beránek",
+    "given_names": [
+      "Jaromír"
+    ],
+    "family_names": [
+      "Beránek"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "classification": "group",
+        "name": "Česká pirátská strana",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "classification": "candidate_list",
+        "name": "Česká pirátská strana",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:david-bodecek",
+    "rebelity_total": 10,
+    "rebelity_possible": 2324,
+    "rebelity": 0.004303,
+    "name": "David Bodeček",
+    "given_names": [
+      "David"
+    ],
+    "family_names": [
+      "Bodeček"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "classification": "group",
+        "name": "Česká pirátská strana",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "classification": "candidate_list",
+        "name": "Česká pirátská strana",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:vladan-broz",
+    "rebelity_total": 3,
+    "rebelity_possible": 2305,
+    "rebelity": 0.001302,
+    "name": "Vladan Brož",
+    "given_names": [
+      "Vladan"
+    ],
+    "family_names": [
+      "Brož"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "classification": "group",
+        "name": "PRAHA SOBĚ",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "classification": "candidate_list",
+        "name": "PRAHA SOBĚ",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:jiri-bruzek",
+    "rebelity_total": 2,
+    "rebelity_possible": 2324,
+    "rebelity": 0.000861,
+    "name": "Jiří Brůžek",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Brůžek"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "classification": "group",
+        "name": "Česká pirátská strana",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "classification": "candidate_list",
+        "name": "Česká pirátská strana",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:vaclav-bilek",
+    "rebelity_total": 4,
+    "rebelity_possible": 2094,
+    "rebelity": 0.00191,
+    "name": "Václav Bílek",
+    "given_names": [
+      "Václav"
+    ],
+    "family_names": [
+      "Bílek"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "classification": "candidate_list",
+        "name": "ANO 2011",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:jan-chabr",
+    "rebelity_total": 1,
+    "rebelity_possible": 2337,
+    "rebelity": 0.000428,
+    "name": "Jan Chabr",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Chabr"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "group",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "candidate_list",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:kristyna-drapalova",
+    "rebelity_total": 2,
+    "rebelity_possible": 2305,
+    "rebelity": 0.000868,
+    "name": "Kristýna Drápalová",
+    "given_names": [
+      "Kristýna"
+    ],
+    "family_names": [
+      "Drápalová"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "classification": "group",
+        "name": "PRAHA SOBĚ",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "classification": "candidate_list",
+        "name": "PRAHA SOBĚ",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:zuzana-freitas",
+    "rebelity_total": 1,
+    "rebelity_possible": 2324,
+    "rebelity": 0.00043,
+    "name": "Zuzana Freitas",
+    "given_names": [
+      "Zuzana"
+    ],
+    "family_names": [
+      "Freitas"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "classification": "group",
+        "name": "Česká pirátská strana",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "classification": "candidate_list",
+        "name": "Česká pirátská strana",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:marta-gellova",
+    "rebelity_total": 2,
+    "rebelity_possible": 2094,
+    "rebelity": 0.000955,
+    "name": "Marta Gellová",
+    "given_names": [
+      "Marta"
+    ],
+    "family_names": [
+      "Gellová"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "classification": "candidate_list",
+        "name": "ANO 2011",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:zuzana-hamanova",
+    "rebelity_total": 2,
+    "rebelity_possible": 2333,
+    "rebelity": 0.000857,
+    "name": "Zuzana Hamanová",
+    "given_names": [
+      "Zuzana"
+    ],
+    "family_names": [
+      "Hamanová"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:starostove-a-nezavisli",
+        "classification": "group",
+        "name": "STAROSTOVÉ A NEZÁVISLÍ",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:starostove-a-nezavisli",
+        "classification": "candidate_list",
+        "name": "STAROSTOVÉ A NEZÁVISLÍ",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:petr-hlavacek",
+    "rebelity_total": 3,
+    "rebelity_possible": 2333,
+    "rebelity": 0.001286,
+    "name": "Petr Hlaváček",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Hlaváček"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:starostove-a-nezavisli",
+        "classification": "group",
+        "name": "STAROSTOVÉ A NEZÁVISLÍ",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:starostove-a-nezavisli",
+        "classification": "candidate_list",
+        "name": "STAROSTOVÉ A NEZÁVISLÍ",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:michal-hroza",
+    "rebelity_total": 0,
+    "rebelity_possible": 2337,
+    "rebelity": 0.0,
+    "name": "Michal Hroza",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Hroza"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "group",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "candidate_list",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:martin-hrubcik",
+    "rebelity_total": 0,
+    "rebelity_possible": 1221,
+    "rebelity": 0.0,
+    "name": "Martin Hrubčík",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Hrubčík"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-03",
+        "until": "2024-12-12"
+      },
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "classification": "candidate_list",
+        "name": "ANO 2011",
+        "since": "2022-11-03",
+        "until": "2024-12-12"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:jan-husbauer",
+    "rebelity_total": 1,
+    "rebelity_possible": 2094,
+    "rebelity": 0.000478,
+    "name": "Jan Hušbauer",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Hušbauer"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "classification": "candidate_list",
+        "name": "ANO 2011",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:zdenek-hrib",
+    "rebelity_total": 2,
+    "rebelity_possible": 2324,
+    "rebelity": 0.000861,
+    "name": "Zdeněk Hřib",
+    "given_names": [
+      "Zdeněk"
+    ],
+    "family_names": [
+      "Hřib"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "classification": "group",
+        "name": "Česká pirátská strana",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "classification": "candidate_list",
+        "name": "Česká pirátská strana",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:tomas-kastovsky",
+    "rebelity_total": 0,
+    "rebelity_possible": 2337,
+    "rebelity": 0.0,
+    "name": "Tomáš Kaštovský",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Kaštovský"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "group",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "candidate_list",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:antonin-klecanda",
+    "rebelity_total": 1,
+    "rebelity_possible": 2333,
+    "rebelity": 0.000429,
+    "name": "Antonín Klecanda",
+    "given_names": [
+      "Antonín"
+    ],
+    "family_names": [
+      "Klecanda"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:starostove-a-nezavisli",
+        "classification": "group",
+        "name": "STAROSTOVÉ A NEZÁVISLÍ",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:starostove-a-nezavisli",
+        "classification": "candidate_list",
+        "name": "STAROSTOVÉ A NEZÁVISLÍ",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:radmila-kleslova",
+    "rebelity_total": 3,
+    "rebelity_possible": 2094,
+    "rebelity": 0.001433,
+    "name": "Radmila Kleslová",
+    "given_names": [
+      "Radmila"
+    ],
+    "family_names": [
+      "Kleslová"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "classification": "candidate_list",
+        "name": "ANO 2011",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:jiri-knitl",
+    "rebelity_total": 4,
+    "rebelity_possible": 2305,
+    "rebelity": 0.001735,
+    "name": "Jiří Knitl",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Knitl"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "classification": "group",
+        "name": "PRAHA SOBĚ",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "classification": "candidate_list",
+        "name": "PRAHA SOBĚ",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:jan-kolar",
+    "rebelity_total": 0,
+    "rebelity_possible": 2094,
+    "rebelity": 0.0,
+    "name": "Jan Kolář",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Kolář"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "classification": "candidate_list",
+        "name": "ANO 2011",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:jana-komrskova",
+    "rebelity_total": 3,
+    "rebelity_possible": 2324,
+    "rebelity": 0.001291,
+    "name": "Jana Komrsková",
+    "given_names": [
+      "Jana"
+    ],
+    "family_names": [
+      "Komrsková"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "classification": "group",
+        "name": "Česká pirátská strana",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "classification": "candidate_list",
+        "name": "Česká pirátská strana",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:zdenek-kovarik",
+    "rebelity_total": 5,
+    "rebelity_possible": 2337,
+    "rebelity": 0.002139,
+    "name": "Zdeněk Kovářík",
+    "given_names": [
+      "Zdeněk"
+    ],
+    "family_names": [
+      "Kovářík"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "group",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "candidate_list",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:lucie-kubesa",
+    "rebelity_total": 1,
+    "rebelity_possible": 2337,
+    "rebelity": 0.000428,
+    "name": "Lucie Kubesa",
+    "given_names": [
+      "Lucie"
+    ],
+    "family_names": [
+      "Kubesa"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "group",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "candidate_list",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:jakub-leps",
+    "rebelity_total": 0,
+    "rebelity_possible": 2337,
+    "rebelity": 0.0,
+    "name": "Jakub Lepš",
+    "given_names": [
+      "Jakub"
+    ],
+    "family_names": [
+      "Lepš"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "group",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "candidate_list",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:gabriela-lnenickova",
+    "rebelity_total": 1,
+    "rebelity_possible": 2324,
+    "rebelity": 0.00043,
+    "name": "Gabriela Lněničková",
+    "given_names": [
+      "Gabriela"
+    ],
+    "family_names": [
+      "Lněničková"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "classification": "group",
+        "name": "Česká pirátská strana",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "classification": "candidate_list",
+        "name": "Česká pirátská strana",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:viktor-mahrik",
+    "rebelity_total": 3,
+    "rebelity_possible": 2324,
+    "rebelity": 0.001291,
+    "name": "Viktor Mahrik",
+    "given_names": [
+      "Viktor"
+    ],
+    "family_names": [
+      "Mahrik"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "classification": "group",
+        "name": "Česká pirátská strana",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "classification": "candidate_list",
+        "name": "Česká pirátská strana",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:pavel-mares",
+    "rebelity_total": 1,
+    "rebelity_possible": 2337,
+    "rebelity": 0.000428,
+    "name": "Pavel Mareš",
+    "given_names": [
+      "Pavel"
+    ],
+    "family_names": [
+      "Mareš"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "group",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "candidate_list",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:hana-marvanova",
+    "rebelity_total": 9,
+    "rebelity_possible": 2337,
+    "rebelity": 0.003851,
+    "name": "Hana Marvanová",
+    "given_names": [
+      "Hana"
+    ],
+    "family_names": [
+      "Marvanová"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "group",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "candidate_list",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:kamila-matejkova",
+    "rebelity_total": 0,
+    "rebelity_possible": 2305,
+    "rebelity": 0.0,
+    "name": "Kamila Matějková",
+    "given_names": [
+      "Kamila"
+    ],
+    "family_names": [
+      "Matějková"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "classification": "group",
+        "name": "PRAHA SOBĚ",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "classification": "candidate_list",
+        "name": "PRAHA SOBĚ",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:daniel-mazur",
+    "rebelity_total": 6,
+    "rebelity_possible": 2324,
+    "rebelity": 0.002582,
+    "name": "Daniel Mazur",
+    "given_names": [
+      "Daniel"
+    ],
+    "family_names": [
+      "Mazur"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "classification": "group",
+        "name": "Česká pirátská strana",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "classification": "candidate_list",
+        "name": "Česká pirátská strana",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:patrik-nacher",
+    "rebelity_total": 0,
+    "rebelity_possible": 2094,
+    "rebelity": 0.0,
+    "name": "Patrik Nacher",
+    "given_names": [
+      "Patrik"
+    ],
+    "family_names": [
+      "Nacher"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "classification": "candidate_list",
+        "name": "ANO 2011",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:stanislav-nekolny",
+    "rebelity_total": 4,
+    "rebelity_possible": 2094,
+    "rebelity": 0.00191,
+    "name": "Stanislav Nekolný",
+    "given_names": [
+      "Stanislav"
+    ],
+    "family_names": [
+      "Nekolný"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "classification": "candidate_list",
+        "name": "ANO 2011",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:radomir-nepil",
+    "rebelity_total": 3,
+    "rebelity_possible": 2094,
+    "rebelity": 0.001433,
+    "name": "Radomír Nepil",
+    "given_names": [
+      "Radomír"
+    ],
+    "family_names": [
+      "Nepil"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "classification": "candidate_list",
+        "name": "ANO 2011",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:josef-nerusil",
+    "rebelity_total": 0,
+    "rebelity_possible": 1764,
+    "rebelity": 0.0,
+    "name": "Josef Nerušil",
+    "given_names": [
+      "Josef"
+    ],
+    "family_names": [
+      "Nerušil"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:spd-trik-pes-a-nez-pro-prahu",
+        "classification": "group",
+        "name": "SPD,Trik.,PES a nez. pro Prahu",
+        "since": "2022-11-03",
+        "until": "2026-03-26"
+      },
+      {
+        "id": "praha:org:candidate-list:spd-trik-pes-a-nez-pro-prahu",
+        "classification": "candidate_list",
+        "name": "SPD,Trik.,PES a nez. pro Prahu",
+        "since": "2022-11-03",
+        "until": "2026-03-26"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:tomas-pek",
+    "rebelity_total": 1,
+    "rebelity_possible": 2337,
+    "rebelity": 0.000428,
+    "name": "Tomáš Pek",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Pek"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "group",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "candidate_list",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:marcela-plesnikova",
+    "rebelity_total": 1,
+    "rebelity_possible": 2094,
+    "rebelity": 0.000478,
+    "name": "Marcela Plesníková",
+    "given_names": [
+      "Marcela"
+    ],
+    "family_names": [
+      "Plesníková"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "classification": "candidate_list",
+        "name": "ANO 2011",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:tomas-portlik",
+    "rebelity_total": 0,
+    "rebelity_possible": 2337,
+    "rebelity": 0.0,
+    "name": "Tomáš Portlík",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Portlík"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "group",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "candidate_list",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:jiri-pospisil",
+    "rebelity_total": 0,
+    "rebelity_possible": 2337,
+    "rebelity": 0.0,
+    "name": "Jiří Pospíšil",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Pospíšil"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "group",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "candidate_list",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:david-prochazka",
+    "rebelity_total": 0,
+    "rebelity_possible": 1537,
+    "rebelity": 0.0,
+    "name": "David Procházka",
+    "given_names": [
+      "David"
+    ],
+    "family_names": [
+      "Procházka"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:starostove-a-nezavisli",
+        "classification": "group",
+        "name": "STAROSTOVÉ A NEZÁVISLÍ",
+        "since": "2022-11-03",
+        "until": "2025-03-27"
+      },
+      {
+        "id": "praha:org:candidate-list:starostove-a-nezavisli",
+        "classification": "candidate_list",
+        "name": "STAROSTOVÉ A NEZÁVISLÍ",
+        "since": "2022-11-03",
+        "until": "2025-03-27"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:ondrej-prokop",
+    "rebelity_total": 1,
+    "rebelity_possible": 2094,
+    "rebelity": 0.000478,
+    "name": "Ondřej Prokop",
+    "given_names": [
+      "Ondřej"
+    ],
+    "family_names": [
+      "Prokop"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "classification": "candidate_list",
+        "name": "ANO 2011",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:jiri-ptacek",
+    "rebelity_total": 1,
+    "rebelity_possible": 2337,
+    "rebelity": 0.000428,
+    "name": "Jiří Ptáček",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Ptáček"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "group",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "candidate_list",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:barbora-razga",
+    "rebelity_total": 1,
+    "rebelity_possible": 2094,
+    "rebelity": 0.000478,
+    "name": "Barbora Rázga",
+    "given_names": [
+      "Barbora"
+    ],
+    "family_names": [
+      "Rázga"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "classification": "candidate_list",
+        "name": "ANO 2011",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:adam-scheinherr",
+    "rebelity_total": 2,
+    "rebelity_possible": 2305,
+    "rebelity": 0.000868,
+    "name": "Adam Scheinherr",
+    "given_names": [
+      "Adam"
+    ],
+    "family_names": [
+      "Scheinherr"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "classification": "group",
+        "name": "PRAHA SOBĚ",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "classification": "candidate_list",
+        "name": "PRAHA SOBĚ",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:martin-sedeke",
+    "rebelity_total": 3,
+    "rebelity_possible": 2337,
+    "rebelity": 0.001284,
+    "name": "Martin Sedeke",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Sedeke"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "group",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "candidate_list",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:zdenek-seidl",
+    "rebelity_total": 14,
+    "rebelity_possible": 1863,
+    "rebelity": 0.007515,
+    "name": "Zdeněk Seidl",
+    "given_names": [
+      "Zdeněk"
+    ],
+    "family_names": [
+      "Seidl"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:spd-trik-pes-a-nez-pro-prahu",
+        "classification": "group",
+        "name": "SPD,Trik.,PES a nez. pro Prahu",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:spd-trik-pes-a-nez-pro-prahu",
+        "classification": "candidate_list",
+        "name": "SPD,Trik.,PES a nez. pro Prahu",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:tomas-slabihoudek",
+    "rebelity_total": 0,
+    "rebelity_possible": 2337,
+    "rebelity": 0.0,
+    "name": "Tomáš Slabihoudek",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Slabihoudek"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "group",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "candidate_list",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:bara-soukup",
+    "rebelity_total": 2,
+    "rebelity_possible": 2324,
+    "rebelity": 0.000861,
+    "name": "Bara Soukup",
+    "given_names": [
+      "Bara"
+    ],
+    "family_names": [
+      "Soukup"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "classification": "group",
+        "name": "Česká pirátská strana",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "classification": "candidate_list",
+        "name": "Česká pirátská strana",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:bohuslav-svoboda",
+    "rebelity_total": 0,
+    "rebelity_possible": 2337,
+    "rebelity": 0.0,
+    "name": "Bohuslav Svoboda",
+    "given_names": [
+      "Bohuslav"
+    ],
+    "family_names": [
+      "Svoboda"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "group",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "candidate_list",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:eva-tylova",
+    "rebelity_total": 4,
+    "rebelity_possible": 2324,
+    "rebelity": 0.001721,
+    "name": "Eva Tylová",
+    "given_names": [
+      "Eva"
+    ],
+    "family_names": [
+      "Tylová"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "classification": "group",
+        "name": "Česká pirátská strana",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "classification": "candidate_list",
+        "name": "Česká pirátská strana",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:hana-trestikova",
+    "rebelity_total": 2,
+    "rebelity_possible": 2305,
+    "rebelity": 0.000868,
+    "name": "Hana Třeštíková",
+    "given_names": [
+      "Hana"
+    ],
+    "family_names": [
+      "Třeštíková"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "classification": "group",
+        "name": "PRAHA SOBĚ",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "classification": "candidate_list",
+        "name": "PRAHA SOBĚ",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:alexandra-udzenija",
+    "rebelity_total": 0,
+    "rebelity_possible": 2337,
+    "rebelity": 0.0,
+    "name": "Alexandra Udženija",
+    "given_names": [
+      "Alexandra"
+    ],
+    "family_names": [
+      "Udženija"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "group",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "candidate_list",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:milan-urban",
+    "rebelity_total": 1,
+    "rebelity_possible": 1863,
+    "rebelity": 0.000537,
+    "name": "Milan Urban",
+    "given_names": [
+      "Milan"
+    ],
+    "family_names": [
+      "Urban"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:spd-trik-pes-a-nez-pro-prahu",
+        "classification": "group",
+        "name": "SPD,Trik.,PES a nez. pro Prahu",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:spd-trik-pes-a-nez-pro-prahu",
+        "classification": "candidate_list",
+        "name": "SPD,Trik.,PES a nez. pro Prahu",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:magdalena-valdmanova",
+    "rebelity_total": 2,
+    "rebelity_possible": 2324,
+    "rebelity": 0.000861,
+    "name": "Magdalena Valdmanová",
+    "given_names": [
+      "Magdalena"
+    ],
+    "family_names": [
+      "Valdmanová"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "classification": "group",
+        "name": "Česká pirátská strana",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "classification": "candidate_list",
+        "name": "Česká pirátská strana",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:lenka-vedralova",
+    "rebelity_total": 1,
+    "rebelity_possible": 2094,
+    "rebelity": 0.000478,
+    "name": "Lenka Vedralová",
+    "given_names": [
+      "Lenka"
+    ],
+    "family_names": [
+      "Vedralová"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "classification": "candidate_list",
+        "name": "ANO 2011",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:david-vodrazka",
+    "rebelity_total": 1,
+    "rebelity_possible": 2337,
+    "rebelity": 0.000428,
+    "name": "David Vodrážka",
+    "given_names": [
+      "David"
+    ],
+    "family_names": [
+      "Vodrážka"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "group",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "candidate_list",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:pavel-vyhnanek",
+    "rebelity_total": 1,
+    "rebelity_possible": 2305,
+    "rebelity": 0.000434,
+    "name": "Pavel Vyhnánek",
+    "given_names": [
+      "Pavel"
+    ],
+    "family_names": [
+      "Vyhnánek"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "classification": "group",
+        "name": "PRAHA SOBĚ",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "classification": "candidate_list",
+        "name": "PRAHA SOBĚ",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:jan-wolf",
+    "rebelity_total": 1,
+    "rebelity_possible": 2337,
+    "rebelity": 0.000428,
+    "name": "Jan Wolf",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Wolf"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "group",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "candidate_list",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:zdenek-zajicek",
+    "rebelity_total": 1,
+    "rebelity_possible": 2337,
+    "rebelity": 0.000428,
+    "name": "Zdeněk Zajíček",
+    "given_names": [
+      "Zdeněk"
+    ],
+    "family_names": [
+      "Zajíček"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "group",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "candidate_list",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:pavel-zelenka",
+    "rebelity_total": 1,
+    "rebelity_possible": 2305,
+    "rebelity": 0.000434,
+    "name": "Pavel Zelenka",
+    "given_names": [
+      "Pavel"
+    ],
+    "family_names": [
+      "Zelenka"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "classification": "group",
+        "name": "PRAHA SOBĚ",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "classification": "candidate_list",
+        "name": "PRAHA SOBĚ",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:petr-zeman",
+    "rebelity_total": 3,
+    "rebelity_possible": 2305,
+    "rebelity": 0.001302,
+    "name": "Petr Zeman",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Zeman"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "classification": "group",
+        "name": "PRAHA SOBĚ",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "classification": "candidate_list",
+        "name": "PRAHA SOBĚ",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:adam-zabransky",
+    "rebelity_total": 5,
+    "rebelity_possible": 2324,
+    "rebelity": 0.002151,
+    "name": "Adam Zábranský",
+    "given_names": [
+      "Adam"
+    ],
+    "family_names": [
+      "Zábranský"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "classification": "group",
+        "name": "Česká pirátská strana",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "classification": "candidate_list",
+        "name": "Česká pirátská strana",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:mariana-capkova",
+    "rebelity_total": 3,
+    "rebelity_possible": 2305,
+    "rebelity": 0.001302,
+    "name": "Mariana Čapková",
+    "given_names": [
+      "Mariana"
+    ],
+    "family_names": [
+      "Čapková"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "classification": "group",
+        "name": "PRAHA SOBĚ",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "classification": "candidate_list",
+        "name": "PRAHA SOBĚ",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:jan-cizinsky",
+    "rebelity_total": 4,
+    "rebelity_possible": 2305,
+    "rebelity": 0.001735,
+    "name": "Jan Čižinský",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Čižinský"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "classification": "group",
+        "name": "PRAHA SOBĚ",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "classification": "candidate_list",
+        "name": "PRAHA SOBĚ",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:tomas-kanera",
+    "rebelity_total": 0,
+    "rebelity_possible": 838,
+    "rebelity": 0.0,
+    "name": "Tomáš Kaněra",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Kaněra"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-01-23"
+      },
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "classification": "candidate_list",
+        "name": "ANO 2011",
+        "since": "2025-01-23"
+      }
+    ],
+    "since": "2022-11-03"
+  }
+]

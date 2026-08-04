@@ -18,5 +18,20 @@ vysledky_hlasovani_zhmp:
       published "pocetpro" aggregate by exactly one vote, clustered on 5 specific meeting dates —
       indicates a mid-term substitute councilor not present in the fixed column roster. C7 must
       detect and handle this, not silently under-count or hard-fail on it.
-  group_affiliation_source: "TBD — this dataset has no party/klub column; find a separate source
-    for Praha's assembly composition (needed for the govity government_groups definition, D7)."
+  group_affiliation_source: >
+    RESOLVED 2026-08-04 (C8), per plan.md D7's standing rule. Praha's current
+    praha.eu/seznam-zastupitelu is a client-rendered SPA with no discoverable API (confirmed
+    dead-end this session, no browser automation available) — the old praha.eu HTML scraper
+    target is also dead (see the note at the top of this file). Live/current klub data is
+    therefore not scrapable; falling back to each councilor's original candidate-list (party)
+    affiliation from the official 2022 municipal election results, per D7's documented fallback.
+    Source: volby.cz's 2022 Praha results (xobec=554782, xnumnuts=1100) — aggregate list results
+    at kv1111?...&xobec=554782, per-list candidate results (elected candidates marked '*') at
+    kv111111?...&xstrana=<id>. Implemented in praha/scripts/party_affiliation.py, which writes
+    `praha:org:candidate-list:*` organizations (classification: candidate_list, NOT "group" — D7's
+    distinction) and matching memberships. All 66 persons.csv entries matched (65 originally
+    elected + 1 documented mid-term substitute, Tomáš Kaněra — see that script's
+    _KNOWN_SUBSTITUTES table for the citation). Six lists won seats: SPOLU pro Prahu (19),
+    ANO 2011 (14), Česká pirátská strana (13), PRAHA SOBĚ (11), STAROSTOVÉ A NEZÁVISLÍ (5),
+    SPD,Trik.,PES a nez. pro Prahu (3) — 65 seats total, verified against volby.cz's own aggregate
+    page (resolves an 18-vs-19-seat discrepancy in one secondary source: SPOLU pro Prahu won 19).

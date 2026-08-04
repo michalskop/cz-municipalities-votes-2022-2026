@@ -1,0 +1,6866 @@
+[
+  {
+    "person_id": "praha:person:adam-scheinherr",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -5.468524291363182,
+      -0.773747847167068,
+      -4.599937367891156
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:adam-zabransky",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -5.549638100766135,
+      0.21578218046647202,
+      -4.788235294048074
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:alexandra-udzenija",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      4.255630204616436,
+      0.19336235976067065,
+      4.833597287958716
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:antonin-klecanda",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -5.3324504496494685,
+      0.3278678845017868,
+      -4.41708525004092
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:bara-soukup",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -5.419845516439713,
+      -0.19419309872115634,
+      -4.768074274208684
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:barbora-razga",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      4.2277249798953775,
+      0.18920697263534908,
+      4.1063022131157885
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:bohuslav-svoboda",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      4.271378333491773,
+      0.2020442892099127,
+      5.842048324844424
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:daniel-mazur",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -5.180709300521536,
+      0.33409718762346735,
+      -4.391550665616724
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:david-bodecek",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -5.228865073116194,
+      0.21737700041532404,
+      -4.3782478617915235
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:david-prochazka",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -5.256043934362003,
+      0.29896863690884024,
+      -4.043771914293626
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:david-vodrazka",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      4.262659974249881,
+      0.19579955040004124,
+      4.440610326038813
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:eva-tylova",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -3.8620415871263307,
+      0.9704433497738968,
+      -4.847373738456837
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:gabriela-lnenickova",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -5.203835731179605,
+      0.21289292497441997,
+      -4.371328405861133
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:hana-marvanova",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      4.329039167790829,
+      0.2198700228969406,
+      6.432735369042834
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:hana-trestikova",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -5.216737820006413,
+      0.143329447278247,
+      -4.3216026201077
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jakub-leps",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      4.23190330547269,
+      0.18977167950737148,
+      4.107350414582467
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jan-chabr",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      4.249681220995899,
+      0.19205281137647479,
+      4.6171575391970325
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jan-cizinsky",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -5.33455068263046,
+      -0.2454500947750733,
+      -4.4071203795500855
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jan-husbauer",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      4.237169139284204,
+      0.19154756692248603,
+      4.106463255024193
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jan-kolar",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      4.23221902423316,
+      0.19032284125793963,
+      4.106357927269032
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jan-wolf",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      4.239479671978388,
+      0.19048817911948035,
+      4.42736239772341
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jana-komrskova",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -3.619289425427473,
+      0.9994256676229701,
+      -5.038213905757099
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jaromir-beranek",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -5.587679705720791,
+      0.19614466097107358,
+      -4.436133170357561
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jiri-bruzek",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -5.418812277797929,
+      -0.15295864442118076,
+      -4.540916484107608
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jiri-knitl",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -5.155117418344369,
+      0.20233687687170554,
+      -4.369743831893849
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jiri-pospisil",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      4.23190330547269,
+      0.18977167950737148,
+      4.107350414582467
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jiri-ptacek",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      4.17308388234746,
+      0.13546831101660314,
+      4.152556516028548
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:josef-nerusil",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -1.3394515813099725,
+      -3.178810498338221,
+      -6.263468720357347
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:kamila-matejkova",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -5.552337649141027,
+      -0.2628405654169982,
+      -4.455960341622459
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:katerina-arnotova",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -4.865093102901221,
+      0.3032562037260657,
+      -3.9889399721067873
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:kristyna-drapalova",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -5.525814607935152,
+      0.16889037291187048,
+      -4.561922145382091
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:lenka-vedralova",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      3.8053122090933944,
+      -0.25266837940973147,
+      2.7859713126113173
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:lucie-kubesa",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      4.232616061549612,
+      0.18989554919114393,
+      4.265417951638794
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:magdalena-valdmanova",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -5.487494242506799,
+      0.2598273961451371,
+      -4.42566615435419
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:marcela-plesnikova",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      4.2277249798953775,
+      0.18920697263534908,
+      4.1063022131157885
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:mariana-capkova",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -5.520557415955151,
+      -2.130443426091391,
+      -4.534159383785628
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:marta-gellova",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      4.237575942934694,
+      0.191543380502345,
+      4.106420240619895
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:martin-benkovic",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      4.236406240474246,
+      0.19089315973128881,
+      4.107406156862735
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:martin-hrubcik",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      4.236840279653069,
+      0.1907871235981911,
+      4.110812905636144
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:martin-sedeke",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      4.238118614224459,
+      0.19087953604670738,
+      4.443789755420967
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:michal-hroza",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      4.237759775092678,
+      0.19040673966128718,
+      4.261748523855929
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:milan-urban",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -1.3559443564615379,
+      -3.343617066335694,
+      -6.273931384510928
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:ondrej-prokop",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      4.242726119003587,
+      0.19217128537681855,
+      4.111123215885261
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:patrik-nacher",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      4.266291770072018,
+      0.19658038407603848,
+      4.621524725905964
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:pavel-mares",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      4.2378085032353,
+      0.19041571487467035,
+      4.261434100784911
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:pavel-vyhnanek",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -5.411142114099004,
+      0.1871212731847812,
+      -4.46255984974318
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:pavel-zelenka",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -5.535229148867633,
+      -0.3376061711594044,
+      -4.269541534056249
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:petr-hlavacek",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -0.7880871999849809,
+      1.941659087094531,
+      -0.36121525540023086
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:petr-zeman",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -5.67037529078207,
+      -0.2924847399715183,
+      -4.7125693031808975
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:radmila-kleslova",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      4.350002635839787,
+      0.1986777244680888,
+      4.477222663070187
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:radomir-nepil",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      4.24295457858947,
+      0.1929054823914488,
+      4.106796893994745
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:stanislav-nekolny",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      4.239985701520427,
+      0.18496259841006646,
+      4.2664458279514905
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:tomas-kanera",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "praha:person:tomas-kastovsky",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      4.2378085032353,
+      0.19041571487467035,
+      4.261434100784911
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:tomas-pek",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      4.23652381110507,
+      0.19023317776989362,
+      4.11180752386302
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:tomas-portlik",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      4.242316211797185,
+      0.19176683786281976,
+      4.270537892096873
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:tomas-slabihoudek",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      4.2277249798953775,
+      0.18920697263534908,
+      4.1063022131157885
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:vaclav-bilek",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      4.2336187294128464,
+      0.1898290973329312,
+      4.260303933977269
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:viktor-mahrik",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -4.836274392430859,
+      0.6232124996719218,
+      -2.2689358169607075
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:vladan-broz",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -5.159803900874881,
+      -0.6682168258188498,
+      -4.55382108950175
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:zdenek-hrib",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -5.264062808797712,
+      0.19312837617162285,
+      -4.611620064016202
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:zdenek-kovarik",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      4.2277249798953775,
+      0.18920697263534908,
+      4.1063022131157885
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:zdenek-seidl",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -1.3407788008029555,
+      -3.121640089176856,
+      -6.176411909397263
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:zdenek-zajicek",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      4.233570095802155,
+      0.18982042822850848,
+      4.26061818663991
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:zuzana-freitas",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -5.407818442442757,
+      0.18684499224689488,
+      -4.4538736652588495
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:zuzana-hamanova",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -3.4341232006571967,
+      1.029204373664587,
+      -4.213636540058912
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:adam-scheinherr",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -3.7949764070817564,
+      -2.411393557499073,
+      -1.449255980166941
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:adam-zabransky",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -1.7111202150031408,
+      0.8930734318521748,
+      -0.32704571000036525
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:alexandra-udzenija",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      1.5221230174160494,
+      0.5893090574092014,
+      0.2086079950258809
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:antonin-klecanda",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      1.4882240698634575,
+      0.5651147945009968,
+      0.15027720658139113
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:bara-soukup",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -2.2564573965253523,
+      0.9092927738468356,
+      -0.2767392560037426
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:barbora-razga",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      1.9668336419000243,
+      -1.264510910805875,
+      0.3098126268516668
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:bohuslav-svoboda",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      1.5649581686951972,
+      0.6341313975474782,
+      0.17706329400148949
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:daniel-mazur",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -1.947436451601917,
+      1.2464637330246104,
+      -0.0854394996024147
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:david-bodecek",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -1.828653673374829,
+      1.1478090258936677,
+      -0.3193119969183715
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:david-prochazka",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      1.627191871552525,
+      0.6434950606014325,
+      0.37289084851114407
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:david-vodrazka",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      1.5162971863223347,
+      0.8314931292665074,
+      0.2525512059448185
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:eva-tylova",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -2.363510710413187,
+      1.2377089640042087,
+      -0.4817525183816478
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:gabriela-lnenickova",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -0.6232845598338145,
+      1.0493599718908473,
+      0.05490234101330645
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:hana-marvanova",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -1.4718064590533004,
+      1.2522059103370755,
+      0.32491657437982857
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:hana-trestikova",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -2.81310818253036,
+      -2.2085589057844284,
+      -1.2120637845517133
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jakub-leps",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      1.5156475105407285,
+      0.5813282890998153,
+      0.19383852781409372
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jan-chabr",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      1.5711457973916696,
+      0.6219290951858475,
+      0.1449219509972942
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jan-cizinsky",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -2.8491367482249044,
+      -1.9541897421627228,
+      -1.4615828834469236
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jan-husbauer",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      1.729089034165591,
+      0.01383244686061385,
+      0.7566588137736587
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jan-kolar",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      1.7109827522609034,
+      -0.8784923397553548,
+      0.3303208879276847
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jan-wolf",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      1.7638666664740186,
+      0.4674303204927504,
+      0.14627420700616894
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jana-komrskova",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -2.0500736774839288,
+      1.1856097276691377,
+      -0.3583382455182784
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jaromir-beranek",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -2.0202354949317205,
+      1.2084731515268485,
+      -0.3423226371548375
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jiri-bruzek",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -1.6248633896146187,
+      0.9051590370412695,
+      -0.5371837372007928
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jiri-knitl",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -3.75010172386434,
+      -2.1132357991737205,
+      -1.0940236660903455
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jiri-pospisil",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      0.9564897819153995,
+      0.6672443640211406,
+      -0.1507984000532433
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jiri-ptacek",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      1.5383118743317998,
+      0.5391390712384905,
+      0.10247715936458027
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:josef-nerusil",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      0.4562315667289501,
+      -1.839132641110046,
+      3.4283345948931414
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:kamila-matejkova",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -3.059917196484094,
+      -2.7044932660846057,
+      -1.4516213827689453
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:katerina-arnotova",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      2.0271873918791505,
+      0.3353525634006349,
+      0.05067235414948197
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:kristyna-drapalova",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -2.889506525817655,
+      -2.877415133193927,
+      -1.6223083879727183
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:lenka-vedralova",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      1.7496194904013687,
+      0.3986590355340358,
+      0.8717064150498994
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:lucie-kubesa",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      1.4441408480627331,
+      0.5495098134746413,
+      0.1681121584627494
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:magdalena-valdmanova",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -2.44909480507995,
+      0.9393662864404329,
+      -0.6313800299331628
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:marcela-plesnikova",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      1.7741251483535216,
+      -0.7501676682912918,
+      1.0554594578419838
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:mariana-capkova",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      0.7714770755054059,
+      -2.213123999552439,
+      -0.10504061260104627
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:marta-gellova",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      1.7558411619979377,
+      -0.15603499088666736,
+      0.2892890278524462
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:martin-benkovic",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      1.8897479722316994,
+      -0.14607832676160917,
+      0.888305933277102
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:martin-hrubcik",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      1.8970347289003506,
+      -0.9827168358330001,
+      1.173745362680599
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:martin-sedeke",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      1.539616367457943,
+      0.5500531071293601,
+      0.134913091043503
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:michal-hroza",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      1.5285949311589326,
+      0.5681010463561071,
+      0.14639807693654472
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:milan-urban",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      1.285781085779381,
+      -2.0573378229604584,
+      3.2898128069060806
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:ondrej-prokop",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      1.5478071447943687,
+      -1.5522646741551462,
+      0.1985650336693488
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:patrik-nacher",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      1.6122607066169046,
+      -0.7734988428319477,
+      0.7542188714173649
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:pavel-mares",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      1.4413221347065,
+      0.548740941134737,
+      0.1674933621006238
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:pavel-vyhnanek",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -4.022155424064889,
+      -2.124105739124071,
+      -1.3335973152405476
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:pavel-zelenka",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -4.206430883058968,
+      -1.602698945247592,
+      -1.0738236414153857
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:petr-hlavacek",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      1.449791638296723,
+      0.5488093056064623,
+      0.159070908953399
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:petr-zeman",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -2.966305610398973,
+      -1.8982860952232712,
+      -1.7563383895713323
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:radmila-kleslova",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      2.12950362452677,
+      -1.9673037945472824,
+      1.3641263344286014
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:radomir-nepil",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      2.485255288193047,
+      -0.12618453394541634,
+      2.0093798628138755
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:stanislav-nekolny",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      2.036239758367817,
+      -0.20756197631359316,
+      0.379011245064201
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:tomas-kanera",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "praha:person:tomas-kastovsky",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      1.6771826995849886,
+      0.63220202477964,
+      0.23324972401214347
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:tomas-pek",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      1.5065425420886867,
+      0.57746260043576,
+      0.1709913352580005
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:tomas-portlik",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      1.5633039021691548,
+      0.5798566973915716,
+      0.207913677523847
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:tomas-slabihoudek",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      1.5447057887612246,
+      0.6218709959129817,
+      0.13616910082343206
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:vaclav-bilek",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      1.7911168867115486,
+      -0.22438481292839563,
+      0.24298556943386182
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:viktor-mahrik",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -2.716831784428604,
+      0.9385719636586288,
+      -0.695574884367956
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:vladan-broz",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -3.723228970536645,
+      -2.2638676477572934,
+      -1.1105431506214862
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:zdenek-hrib",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -1.8738634786531212,
+      1.218643766668343,
+      -0.3264218100182077
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:zdenek-kovarik",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      1.5400781278033058,
+      0.6114540567301469,
+      0.10934258731820275
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:zdenek-seidl",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      1.4238053386519505,
+      -2.214692295915428,
+      2.4900621327817305
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:zdenek-zajicek",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      1.5591593697872943,
+      0.5925398927162481,
+      0.3347985123985746
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:zuzana-freitas",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -2.2653733674922614,
+      1.1764690724928824,
+      -0.39807673841451807
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:zuzana-hamanova",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      1.4319175031206717,
+      0.5468046978258039,
+      0.1542623092582828
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:adam-scheinherr",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -3.547384920178259,
+      -3.59949420489308,
+      -3.927322073934197
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:adam-zabransky",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -1.636530573501977,
+      1.7870828359635913,
+      0.09783057390887549
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:alexandra-udzenija",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      1.4040734569364912,
+      1.356496742511876,
+      1.5846144575017076
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:antonin-klecanda",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      1.3513824317459606,
+      1.2477180734185727,
+      1.5109782032003227
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:bara-soukup",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -1.6333737659337433,
+      1.7824734185919247,
+      0.09659461499799628
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:barbora-razga",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      1.9534119133209973,
+      -3.026104247993231,
+      -0.625497568856528
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:bohuslav-svoboda",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      1.7078977160635944,
+      0.33923312761492724,
+      0.3218860426601306
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:daniel-mazur",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -1.0719067526904726,
+      1.916281896028797,
+      0.45164402780823476
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:david-bodecek",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -0.9323984157511833,
+      1.8556475035221327,
+      0.5900167880293787
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:david-prochazka",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      1.1033497906107617,
+      1.3167568628835045,
+      1.2868402617045491
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:david-vodrazka",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      1.5511412113675014,
+      1.264796999669087,
+      1.5520871123289688
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:eva-tylova",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -2.090796364979656,
+      1.3387799526801407,
+      -0.46627265014641167
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:gabriela-lnenickova",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -1.047605633942484,
+      1.6823137129964516,
+      0.24979026771463098
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:hana-marvanova",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      1.471788833933835,
+      -0.5881346167861794,
+      -2.524906194133182
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:hana-trestikova",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -3.25569858536677,
+      -3.73542745138828,
+      -4.037704007096118
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jakub-leps",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      1.3458337595635974,
+      1.2855955941310653,
+      1.4007297762238546
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jan-chabr",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      1.3339558136069722,
+      1.2900227853981663,
+      1.4604560523453203
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jan-cizinsky",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -3.3750853600835167,
+      -2.8464999151613957,
+      -3.0712980166244526
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jan-husbauer",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      2.6050027895072567,
+      -3.8304702330535925,
+      -0.9777114600739593
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jan-kolar",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -1.0798972617861746,
+      -4.1793324538615115,
+      -0.8566645450602217
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jan-wolf",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      0.9347175730572982,
+      1.4014898567348124,
+      1.099943967945932
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jana-komrskova",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -1.6558589051816766,
+      1.837832747218742,
+      0.1282532538079116
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jaromir-beranek",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -1.5951152126747956,
+      1.7227095490596107,
+      0.06732396227439001
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jiri-bruzek",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -1.9926463970873909,
+      1.326551744705512,
+      -0.39235195182623483
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jiri-knitl",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -3.477578561715047,
+      -3.372154570581656,
+      -4.668774403902272
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jiri-pospisil",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      1.3703725931543767,
+      1.2994137508828911,
+      1.4116281567927038
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jiri-ptacek",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      1.3294233109350275,
+      1.2779249865549056,
+      1.3982185788326738
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:josef-nerusil",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      1.2993058256020216,
+      -0.39981155761522386,
+      2.767862411953715
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:kamila-matejkova",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -2.7314804195895928,
+      -4.36045412266908,
+      -4.118648244572417
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:katerina-arnotova",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      1.3490074862784638,
+      1.3034413437624872,
+      1.432672305337703
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:kristyna-drapalova",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -3.566357628150415,
+      -3.760685729352445,
+      -4.436711197729644
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:lenka-vedralova",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      2.1966764848861358,
+      -0.6777270340261915,
+      0.4159588963244054
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:lucie-kubesa",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      1.2260711355329736,
+      1.600637224499755,
+      1.2063917229784282
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:magdalena-valdmanova",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -1.7810484482657938,
+      1.8200035071932914,
+      0.007055776252771954
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:marcela-plesnikova",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      2.1237494608571845,
+      -2.092949883587048,
+      -0.8337510932421378
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:mariana-capkova",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -3.145407044335272,
+      -3.2700371113121194,
+      -3.537152865743664
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:marta-gellova",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      2.2313670098598855,
+      -1.6537226265885896,
+      0.35114451470339214
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:martin-benkovic",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      2.0686410654556435,
+      -0.9499867181865355,
+      0.67364455882036
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:martin-hrubcik",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      1.9338758435980747,
+      -2.97905492181773,
+      -0.16920375398797674
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:martin-sedeke",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      1.4029222076828713,
+      1.2637876931978844,
+      1.6104588308763206
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:michal-hroza",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      1.3724926476931312,
+      1.3165748022621524,
+      1.4328942037619432
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:milan-urban",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      1.3015514835506576,
+      -2.0469148162553097,
+      2.351615387552421
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:ondrej-prokop",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      1.8493955904557844,
+      -2.084104774749422,
+      0.270082059696676
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:patrik-nacher",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      1.5953651360562822,
+      -4.145655757625077,
+      -1.440138527943854
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:pavel-mares",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      0.9923830083796444,
+      1.4636912079492714,
+      1.182078059268671
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:pavel-vyhnanek",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -2.7275562008920935,
+      -4.23259016584197,
+      -3.764475027251267
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:pavel-zelenka",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -4.079606141527355,
+      -4.367886746146953,
+      -5.7621721555681376
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:petr-hlavacek",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      1.322332158160313,
+      1.2756795139300143,
+      1.4580642182691133
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:petr-zeman",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -3.108557029953822,
+      -3.890451677565847,
+      -4.380519257414294
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:radmila-kleslova",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      1.9266806679630843,
+      -4.052083661836731,
+      1.2859907722667232
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:radomir-nepil",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      2.002988582297102,
+      -3.8071056361867037,
+      -0.8235918313117182
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:stanislav-nekolny",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      2.245803378041338,
+      -1.7468988485181869,
+      -1.1980695543882995
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:tomas-kanera",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "praha:person:tomas-kastovsky",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      1.61773143762113,
+      1.0154329436857443,
+      1.0146901912276935
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:tomas-pek",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      1.5863554289922286,
+      1.2475963560940877,
+      1.5972696937047914
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:tomas-portlik",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      1.330853667292791,
+      1.2836551376874357,
+      1.4340130427165574
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:tomas-slabihoudek",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      0.9770056278073443,
+      0.8105969949078389,
+      0.9236617196241587
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:vaclav-bilek",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      2.3156317728319413,
+      -2.0129953332642474,
+      -1.0326077326093641
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:viktor-mahrik",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -1.531806117050013,
+      1.6361603542824856,
+      0.0024171757032450903
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:vladan-broz",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -3.002949483459667,
+      -3.541139693724813,
+      -4.218019443236728
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:zdenek-hrib",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -1.5932817346330705,
+      1.669374966487573,
+      -0.035241677225746774
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:zdenek-kovarik",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      1.40513112456197,
+      1.313643195111289,
+      1.6263804372449642
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:zdenek-seidl",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      1.499347777246373,
+      -1.7817827743003218,
+      2.067284336864018
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:zdenek-zajicek",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      1.4444247019236076,
+      1.005789271128262,
+      1.7335186719840403
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:zuzana-freitas",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -1.6490875280170905,
+      1.8112319589397914,
+      0.14286075976818663
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:zuzana-hamanova",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      1.0894463985645513,
+      1.717511338524299,
+      1.4372935976357084
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:adam-scheinherr",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -3.0944546571152043,
+      -0.8903398789035215,
+      -3.979832521463085
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:adam-zabransky",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -1.7687705010424069,
+      2.0319805869485297,
+      0.1923565231495041
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:alexandra-udzenija",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      1.6420864475894872,
+      0.22919199492483716,
+      1.0370247537310733
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:antonin-klecanda",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      1.630488081370116,
+      0.22947118071428388,
+      0.9685940197414206
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:bara-soukup",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -3.9218028246113072,
+      2.3355079035808592,
+      -2.842070440656582
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:barbora-razga",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      2.026787303294666,
+      -2.7888527450124525,
+      1.9584241494304842
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:bohuslav-svoboda",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      1.66239973484407,
+      0.2941466779043575,
+      0.9756978301460365
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:daniel-mazur",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -2.444475251811996,
+      2.869085660501617,
+      -0.6639195511395762
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:david-bodecek",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -2.799888094586693,
+      2.2432035576412224,
+      -2.4905531072597835
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:david-prochazka",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      1.8758556843101748,
+      -0.005003112151875473,
+      1.429728198696064
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:david-vodrazka",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      1.810099200532278,
+      -0.41918547714477083,
+      1.2919023636541376
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:eva-tylova",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -4.082158521512967,
+      2.6295448595918987,
+      -2.846538878851922
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:gabriela-lnenickova",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -3.9591587201022835,
+      2.4866529344326125,
+      -2.5864845249733435
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:hana-marvanova",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -3.4730253921613308,
+      2.4821811843812753,
+      -2.7916424054554114
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:hana-trestikova",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -2.3994278034853127,
+      -1.4099635695334447,
+      -3.9268102323619196
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jakub-leps",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      1.6513691666183254,
+      0.23162434025093626,
+      1.0519271921407192
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jan-chabr",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      1.6543863122732023,
+      0.21701258416163188,
+      1.0437853414174174
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jan-cizinsky",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -3.425582427071484,
+      0.06224910004270585,
+      -3.0876216343391736
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jan-husbauer",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      1.9874306054253108,
+      -2.2835143624708025,
+      2.006685111776364
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jan-kolar",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      2.1025292043457737,
+      -2.1188882788178436,
+      3.1151680806195006
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jan-wolf",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      1.6717963898708836,
+      0.11366630601995296,
+      0.9270801496770605
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jana-komrskova",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -4.022567561707033,
+      2.5504542143177753,
+      -2.8015363787861816
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jaromir-beranek",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -3.820519589791234,
+      2.4714936938803045,
+      -2.4407677074831673
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jiri-bruzek",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -3.9755755183256083,
+      2.6589886841899815,
+      -2.7189941586667117
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jiri-knitl",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -3.0752972711948816,
+      -0.36225605138479516,
+      -3.9957927331658523
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jiri-pospisil",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      1.6791079833359153,
+      0.3247779100443301,
+      1.5142165492646398
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jiri-ptacek",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      1.5456377199354157,
+      0.2464442906428869,
+      0.617386485099103
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:josef-nerusil",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      1.697371589249533,
+      -2.185468806514669,
+      4.445602533472763
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:kamila-matejkova",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -3.0118601371028815,
+      -2.1624521093783557,
+      -5.473070711739813
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:katerina-arnotova",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      1.628482270582414,
+      0.2308084808532026,
+      0.996516633173634
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:kristyna-drapalova",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -2.1626459064429455,
+      -1.7398940095517885,
+      -4.014488559587527
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:lenka-vedralova",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      2.1174281915387545,
+      -3.262195488414927,
+      2.06010605570567
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:lucie-kubesa",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      1.6306977939237466,
+      0.22939793135586833,
+      0.9656904804991036
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:magdalena-valdmanova",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -2.9929005167394647,
+      2.0668050684659938,
+      -0.6519813804195356
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:marcela-plesnikova",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      2.2204230415527033,
+      -2.7174185108349125,
+      3.61263586879568
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:mariana-capkova",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -2.6135309914510456,
+      -0.8274235149255526,
+      -2.6705926492499446
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:marta-gellova",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      1.8923767371085944,
+      -1.9879808505653782,
+      1.1879134762553825
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:martin-benkovic",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      2.117782685043108,
+      -2.750371898400951,
+      2.1796726409443603
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:martin-hrubcik",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      1.3045818533243843,
+      -2.096010866339746,
+      1.3787697174620963
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:martin-sedeke",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      1.6528570352266458,
+      0.23336028546684087,
+      0.9959109024494514
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:michal-hroza",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      1.6461170558158906,
+      0.2949379629414589,
+      0.9717215048127856
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:milan-urban",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      1.640644353449385,
+      -2.8355266445251823,
+      4.0662321697431025
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:ondrej-prokop",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      2.0295851449480606,
+      -2.910886124054898,
+      2.490063026832381
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:patrik-nacher",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      2.0440396290190406,
+      -3.259481096176524,
+      1.9045502190656007
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:pavel-mares",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      1.3498763672338918,
+      0.41821783183949984,
+      0.507470961874215
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:pavel-vyhnanek",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -2.0160929449320344,
+      -1.366888546853871,
+      -3.5866888826919006
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:pavel-zelenka",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -3.8803069318162846,
+      -1.1269127873376512,
+      -5.285229823416703
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:petr-hlavacek",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      1.5199980964511581,
+      0.2984527604793634,
+      0.8009103594184559
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:petr-zeman",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -2.0514388130352716,
+      -0.8895228190177428,
+      -3.5528856021167377
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:radmila-kleslova",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      1.9609578100546825,
+      -1.7743477531210685,
+      1.9912671716571528
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:radomir-nepil",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      2.1902366067786536,
+      -2.341645197168354,
+      2.5357538759322646
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:stanislav-nekolny",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      1.8338530277113338,
+      -2.5796060498128615,
+      1.021212675805736
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:tomas-kanera",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "praha:person:tomas-kastovsky",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      1.642323990817059,
+      0.2947402715772,
+      0.9710327575751426
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:tomas-pek",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      1.7237947573355308,
+      0.05494837715260442,
+      1.100301051530412
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:tomas-portlik",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      1.6245459722510258,
+      0.22966535354627082,
+      0.9649416459244335
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:tomas-slabihoudek",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      1.690661776294505,
+      0.2951706001503917,
+      0.9435571008871437
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:vaclav-bilek",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      1.9942964093946378,
+      -2.5419286029910535,
+      1.6200838233770527
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:viktor-mahrik",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -3.4350042302290555,
+      2.757207183575425,
+      -2.086445198019652
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:vladan-broz",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -2.923607415998094,
+      -1.1045632764548372,
+      -4.341746460035538
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:zdenek-hrib",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -3.280932547688957,
+      2.692055735784454,
+      -2.0218602768413483
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:zdenek-kovarik",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      1.518331556731283,
+      0.6320058227475893,
+      1.18146188646506
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:zdenek-seidl",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      1.5897372293105154,
+      -2.0469343656822185,
+      4.105218826220329
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:zdenek-zajicek",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      1.6800717637068208,
+      0.29015531010251616,
+      1.662216956696551
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:zuzana-freitas",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -3.610357444404868,
+      2.039366137035233,
+      -1.96204229239796
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:zuzana-hamanova",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      1.6412583197371426,
+      0.29462036432229327,
+      0.9707079059295455
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:adam-scheinherr",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -2.8573010759842172,
+      -4.6104306972244204,
+      -2.8683941176259578
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:adam-zabransky",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      0.7228086863862633,
+      2.351346190278192,
+      0.34622915014912725
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:alexandra-udzenija",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      1.1664832910332736,
+      2.2943068370866295,
+      0.7717082392227942
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:antonin-klecanda",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      1.182298546478703,
+      2.1544814319186973,
+      0.7953135667823591
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:bara-soukup",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -1.483962037458752,
+      2.420744823242676,
+      -0.7157391666911446
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:barbora-razga",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      0.7213698294805339,
+      -2.6462003929706386,
+      1.0784979124995333
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:bohuslav-svoboda",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      1.2437977884687612,
+      2.1703781579540564,
+      0.7579798404107863
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:daniel-mazur",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -0.4189937150915962,
+      2.9070232582891484,
+      0.4252769252110234
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:david-bodecek",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -1.311378465455138,
+      2.1616519615706333,
+      -0.7680160412888287
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:david-prochazka",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      1.1092636715745379,
+      2.0621443861804702,
+      0.7273857864634273
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:david-vodrazka",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      1.3137926291208046,
+      0.4929141661367902,
+      0.9687333904942265
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:eva-tylova",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      0.5558762821157804,
+      2.432570594368999,
+      0.2813793718628203
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:gabriela-lnenickova",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -1.3592899312371018,
+      2.2336125344001307,
+      -0.952330637646971
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:hana-marvanova",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -0.12946322736789817,
+      2.4514134320784575,
+      -1.4605611450123464
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:hana-trestikova",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -1.7406505114404396,
+      -6.010823397574973,
+      0.2606901901056783
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jakub-leps",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      1.1639838031949363,
+      2.099663226147217,
+      0.7116111070457798
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jan-chabr",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      1.1398921168814173,
+      2.139453792642651,
+      0.7031460672114491
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jan-cizinsky",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -2.9316119953105515,
+      -4.624201394112644,
+      -3.0129106613944905
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jan-husbauer",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      0.6876319339979642,
+      -3.1102356857446876,
+      1.2788250838576356
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jan-kolar",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      0.9835392914867971,
+      0.4144371051406669,
+      1.162058543947455
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jan-wolf",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      1.190273816194048,
+      2.1911972385024043,
+      0.7216580410087735
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jana-komrskova",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -1.5521471509213849,
+      2.5566999214808597,
+      -0.6617445287270862
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jaromir-beranek",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -1.0826417592309847,
+      2.418076734968002,
+      -0.17372434951794613
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jiri-bruzek",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -1.609661747270183,
+      2.4460007733343567,
+      -0.7085682985278497
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jiri-knitl",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -2.258997997919425,
+      -4.669374615814902,
+      -2.0748948085184855
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jiri-pospisil",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      1.1124414297812852,
+      2.0883260793683505,
+      0.761320606950594
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jiri-ptacek",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      1.1049794325372257,
+      2.0530115481713334,
+      0.7123196710245789
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:josef-nerusil",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      0.39766814738906436,
+      -3.8915529276976053,
+      2.0134220554497726
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:kamila-matejkova",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -3.5774629801313615,
+      -5.3172370363623225,
+      -2.955118867970918
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:katerina-arnotova",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      1.250917056512774,
+      2.3479190628161213,
+      0.7503526565386847
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:kristyna-drapalova",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -2.3045754821610993,
+      -4.665487639746168,
+      -2.6182888483335924
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:lenka-vedralova",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -0.02551614246073165,
+      -3.35180548971369,
+      0.5433583139881158
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:lucie-kubesa",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      1.0897349736738573,
+      2.0503917145111434,
+      0.6285567962692075
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:magdalena-valdmanova",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -1.5148651480390474,
+      2.315896122236068,
+      -0.7054469027334619
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:marcela-plesnikova",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      0.03475802396700626,
+      -3.0510307515270694,
+      0.5479516893729598
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:mariana-capkova",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -2.4415034076900035,
+      -4.733002229804467,
+      -2.6623076320438948
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:marta-gellova",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      0.974831125724955,
+      0.43406068248634516,
+      1.0248966518425553
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:martin-benkovic",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      0.8278378417991697,
+      -2.8098913385840807,
+      1.2113333777950224
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:martin-hrubcik",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      0.7357749021872134,
+      -3.5879676158663023,
+      1.249286821955332
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:martin-sedeke",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      1.135875103167732,
+      2.170004392404994,
+      0.5929467261283559
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:michal-hroza",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      1.1016959099808339,
+      2.0490938111923143,
+      0.7121509936072538
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:milan-urban",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      0.7530155707220807,
+      -3.862768319497706,
+      2.35252868294129
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:ondrej-prokop",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      0.7149761834269539,
+      -3.1551060718856987,
+      1.0485705987253358
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:patrik-nacher",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      0.7267740734828539,
+      -3.4372660940743236,
+      1.1527822477949667
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:pavel-mares",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      1.130536214446009,
+      2.1095001730512144,
+      0.7468351326007312
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:pavel-vyhnanek",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -1.6631132389500929,
+      -5.89769226032598,
+      -0.5564680677783487
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:pavel-zelenka",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -3.0451078026876925,
+      -5.146037931811036,
+      -3.200182305274746
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:petr-hlavacek",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      1.5020476938073473,
+      3.29683037321316,
+      1.10769495139084
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:petr-zeman",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -3.5586308511040228,
+      -5.319509665912757,
+      -3.371307219553105
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:radmila-kleslova",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -0.5049066188014439,
+      -5.178490204015936,
+      0.9591609795801183
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:radomir-nepil",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      0.870970911355141,
+      -3.523365779722511,
+      1.213949515624763
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:stanislav-nekolny",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      0.7125092965412002,
+      -0.4381268726745276,
+      -0.12331170497109523
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:tomas-kanera",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "praha:person:tomas-kastovsky",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      1.1910971968928963,
+      2.1673111438191643,
+      0.6942773331623058
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:tomas-pek",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      1.108579855737451,
+      2.054419084310246,
+      0.7255338288640749
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:tomas-portlik",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      1.2712912833849597,
+      2.3776885047480394,
+      0.7206943380377976
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:tomas-slabihoudek",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      1.104315123304568,
+      2.0531094246376385,
+      0.7130046370105959
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:vaclav-bilek",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      0.9623216132615332,
+      0.4196219697064603,
+      0.8764473722625873
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:viktor-mahrik",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -0.06981093499767453,
+      2.6026732143465914,
+      0.4476206996284937
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:vladan-broz",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -2.929201363321129,
+      -4.6815836189011355,
+      -2.779977975793435
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:zdenek-hrib",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -0.17933533805410903,
+      2.5300691392942762,
+      0.4354436828881605
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:zdenek-kovarik",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      1.2620312368281226,
+      2.2076570981275756,
+      0.6470404260017316
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:zdenek-seidl",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -0.32301630750376065,
+      -4.603667716796026,
+      1.5182704033911278
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:zdenek-zajicek",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      1.1505116959239197,
+      2.2436149607482143,
+      0.7401094402210323
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:zuzana-freitas",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -1.517497048122201,
+      2.325226334740036,
+      -0.7153406398416401
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:zuzana-hamanova",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      1.0445277844104939,
+      1.9730743341143162,
+      0.7121980746230651
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:adam-scheinherr",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -0.10293412681649808,
+      -0.1896129788341108,
+      -0.3010625143467311
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:adam-zabransky",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -0.013180293112532366,
+      -0.108748866034268,
+      -0.2262097748566504
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:alexandra-udzenija",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.16239156584686343,
+      0.0715122534364593,
+      -0.20646819831522512
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:antonin-klecanda",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.02618415791424429,
+      -0.099083832294089,
+      -0.2776411170331513
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:bara-soukup",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -1.3011655402815498,
+      -1.0848853459556342,
+      -0.17924866325357972
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:barbora-razga",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.5806306501346805,
+      0.7059104765684532,
+      0.052960158258204465
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:bohuslav-svoboda",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.6745116235254551,
+      0.8661998355882297,
+      0.7925582461689865
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:daniel-mazur",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -0.10198570779017056,
+      -0.25822681157739985,
+      -0.33742971729693794
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:david-bodecek",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -0.03644402199009366,
+      -0.17996615750716394,
+      -0.2765514031508488
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:david-prochazka",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -0.03703369671069333,
+      -0.20886690210693337,
+      -0.5354207382517515
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:david-vodrazka",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.09504738824808644,
+      -0.10020467091064138,
+      -0.33657949716850627
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:eva-tylova",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -1.2704979482779464,
+      -1.0668436889406736,
+      -0.10939403118155402
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:gabriela-lnenickova",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -1.2679533160920953,
+      -1.0223131976970452,
+      -0.18307160351843024
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:hana-marvanova",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -1.0939766895852816,
+      -0.9067048980840198,
+      -0.6036961283811051
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:hana-trestikova",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -0.06393490176675702,
+      -0.22999543763675365,
+      -0.6607442665360687
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jakub-leps",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.05267094286084853,
+      -0.05562189664454517,
+      -0.18781101409358777
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jan-chabr",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.030667252966408102,
+      -0.09615738218480616,
+      -0.27505033008208485
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jan-cizinsky",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -0.18313395234205884,
+      -0.24768861999556474,
+      -0.29022231290158534
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jan-husbauer",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.20171947395629292,
+      0.1754923426987784,
+      -0.1685072857060382
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jan-kolar",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.20213705354598252,
+      0.1830877718374128,
+      -0.1561680294649116
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jan-wolf",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.057122435158450786,
+      -0.11080111714481572,
+      -0.3040468438878341
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jana-komrskova",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -1.6238237591306186,
+      -1.4497759332207287,
+      -0.03272363333137024
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jaromir-beranek",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -0.8580955298155367,
+      -0.8114901949251987,
+      0.04576144315257212
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jiri-bruzek",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -1.3156008164585449,
+      -1.1700142939290537,
+      0.05318051806806657
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jiri-knitl",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.12117074070103417,
+      0.0480113385937062,
+      -0.20848322468777705
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jiri-pospisil",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.020717296790068562,
+      -0.14884090563096258,
+      -0.3427524951979508
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jiri-ptacek",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.025688572453835098,
+      -0.09789529752826041,
+      -0.2729575733701008
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:josef-nerusil",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.6379864519115169,
+      1.7466639439635183,
+      3.115667201997822
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:kamila-matejkova",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -0.05306223499686624,
+      -0.13961639477098436,
+      -0.28072352235511283
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:katerina-arnotova",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.047238883753630334,
+      -0.14538316264264464,
+      -0.18441194636306535
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:kristyna-drapalova",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -0.140066821026337,
+      -0.1329338179129521,
+      -0.27177684778086214
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:lenka-vedralova",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.7995895159687835,
+      1.046142760993642,
+      0.8916896652977175
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:lucie-kubesa",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.025688572453835098,
+      -0.09789529752826041,
+      -0.2729575733701008
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:magdalena-valdmanova",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -0.43408912408627326,
+      -0.5986689232369811,
+      -0.22480069855296883
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:marcela-plesnikova",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.225848930584946,
+      0.19804304865961445,
+      -0.07907690818750894
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:mariana-capkova",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -0.07403726129794139,
+      -0.0008780971326441395,
+      -0.2979285470339748
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:marta-gellova",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.20419623341540113,
+      0.14192471718618374,
+      -0.2574722236516575
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:martin-benkovic",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.7460909430203865,
+      0.8714373787635393,
+      -0.20815084100457945
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:martin-hrubcik",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "praha:person:martin-sedeke",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.056330074771366104,
+      -0.07954487912679807,
+      -0.30068022152149976
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:michal-hroza",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.026676576063077502,
+      -0.0978959231144817,
+      -0.278752273347835
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:milan-urban",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.7270613897824574,
+      1.2705539705092699,
+      2.0962944277505997
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:ondrej-prokop",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.8030952185029827,
+      0.9972787339972192,
+      0.3917960853115952
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:patrik-nacher",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      1.1587105720643882,
+      1.649104239845361,
+      1.1952394027604791
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:pavel-mares",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.05467861740777333,
+      -0.07408671862299784,
+      -0.29089239915287085
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:pavel-vyhnanek",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -0.15959996932157963,
+      -0.23475144421120284,
+      -0.33558631751043816
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:pavel-zelenka",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.0031740298720865858,
+      -0.05500024614778222,
+      -0.3347250732427979
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:petr-hlavacek",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.05912011269041577,
+      -0.03520414014721642,
+      -0.19661418289085947
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:petr-zeman",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.3010659509135301,
+      0.6103924775692081,
+      0.22378862022836135
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:radmila-kleslova",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.7593710115625533,
+      1.3975146642121943,
+      1.1928396150309672
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:radomir-nepil",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.8034778800429683,
+      0.9558444380365837,
+      0.4649907707686781
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:stanislav-nekolny",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      1.0427144515156244,
+      1.4839306217961539,
+      1.0023745877786487
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:tomas-kanera",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.8910063618622729,
+      1.2988391363604697,
+      1.3237870768807967
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:tomas-kastovsky",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.02672225413078546,
+      -0.09802066745433924,
+      -0.2796966512092672
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:tomas-pek",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.12633277109953714,
+      0.03158998774788386,
+      -0.2067461720317825
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:tomas-portlik",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.03397017630216162,
+      -0.10033801316816986,
+      -0.29923881249726353
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:tomas-slabihoudek",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.033157097814876364,
+      -0.09814389039176642,
+      -0.2786424455471602
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:vaclav-bilek",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.1797866260704762,
+      0.09567624927070473,
+      -0.22238428964443394
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:viktor-mahrik",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -0.48499815423445014,
+      -0.5209539140434797,
+      -0.4404147829996796
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:vladan-broz",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -0.10276687718560641,
+      -0.03926522006506678,
+      -0.4260250253463993
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:zdenek-hrib",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -0.8216585242552156,
+      -0.8403221524336592,
+      -0.2228137186192739
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:zdenek-kovarik",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.11382648964231022,
+      -0.04089015122601269,
+      -0.043587670985628
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:zdenek-seidl",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.48179821467772427,
+      0.8283623415723516,
+      1.2995769765610787
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:zdenek-zajicek",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.06056248664703663,
+      -0.056283142199600726,
+      -0.2696762008127322
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:zuzana-freitas",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -0.5097554765204467,
+      -0.6533472102130728,
+      -0.23776214598596468
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:zuzana-hamanova",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.04691475714989574,
+      -0.14411803002233542,
+      -0.18333282853233776
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:adam-scheinherr",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -1.4167790350843097,
+      -2.1192965813753935,
+      0.09337433108869696
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:adam-zabransky",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.27344350688277774,
+      0.6404868022362471,
+      0.1893227891789845
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:alexandra-udzenija",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.4271006769665868,
+      0.5678387120494933,
+      0.04731948794123599
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:antonin-klecanda",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.4652920506989342,
+      0.6424496288296959,
+      0.012013988436899154
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:bara-soukup",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -0.8383592379022023,
+      0.8160222240067261,
+      0.23784098590749952
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:barbora-razga",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.5513709715139945,
+      0.04622322645334363,
+      -0.185632374504414
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:bohuslav-svoboda",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.4092890861794903,
+      0.5430341105940162,
+      0.07983723310000312
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:daniel-mazur",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.05457530169427482,
+      0.3208932613269335,
+      0.1168075627708529
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:david-bodecek",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -0.4794590298702423,
+      0.7058236878745382,
+      0.44397814627081883
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:david-prochazka",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "praha:person:david-vodrazka",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.4752088149043396,
+      0.592654622748963,
+      0.03444788601648196
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:eva-tylova",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -0.2489841664570686,
+      0.9003237492333114,
+      0.05127073814908545
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:gabriela-lnenickova",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -0.8235222781046496,
+      0.9415024164400876,
+      0.42780023970189035
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:hana-marvanova",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -0.9746124221352038,
+      1.386226293161118,
+      1.2128195409219098
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:hana-trestikova",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "praha:person:jakub-leps",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.47422295491157396,
+      0.4517237231146638,
+      -0.06884521608909694
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jan-chabr",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.4129641299041808,
+      0.5533939691628984,
+      0.0779939767564423
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jan-cizinsky",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -1.6871271353763895,
+      -1.955011091309573,
+      0.3680252806483299
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jan-husbauer",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.489081727372965,
+      -0.033972431466576615,
+      -0.22839356606589323
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jan-kolar",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.538043979547921,
+      0.15524625090110264,
+      -0.2332218658058976
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jan-wolf",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.3627530296266198,
+      0.20825879843938574,
+      -0.005592960224111069
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jana-komrskova",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -0.62931171215105,
+      0.9625364991271925,
+      0.31402333994512566
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jaromir-beranek",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -0.5568790453946162,
+      0.7561486539038379,
+      0.44118813635315063
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jiri-bruzek",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -1.1270743800018785,
+      0.7524674495431395,
+      0.39108813519125596
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jiri-knitl",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -0.9519094926765641,
+      -2.2355683707944847,
+      -0.4260095655776002
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jiri-pospisil",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.3814321366624186,
+      0.7274948125532409,
+      0.2537639138127477
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jiri-ptacek",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.4061336350128864,
+      0.5400399086536646,
+      0.07937765320210102
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:josef-nerusil",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -0.15066485920660733,
+      -2.3396186505485064,
+      -2.685037543847809
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:kamila-matejkova",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -2.0992301508364286,
+      -3.19849040167138,
+      0.6265795523037015
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:katerina-arnotova",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.36267156347361396,
+      0.5244098504493404,
+      0.12322859453163916
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:kristyna-drapalova",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -1.1248568325467583,
+      -0.7180582567481424,
+      0.45693081445890793
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:lenka-vedralova",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.4379409720569244,
+      0.10924388669041471,
+      -0.20957398112991146
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:lucie-kubesa",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.4061336350128864,
+      0.5400399086536646,
+      0.07937765320210102
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:magdalena-valdmanova",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.26010124628830583,
+      0.6327006696855076,
+      0.18162892678891107
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:marcela-plesnikova",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.44102209601124914,
+      0.07877940168317564,
+      -0.20675030508347006
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:mariana-capkova",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -0.2813358316633913,
+      -0.35399815596307216,
+      0.20216786594528693
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:marta-gellova",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.3779011369496624,
+      0.22470244621705276,
+      -0.10813265759967158
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:martin-benkovic",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.12778419847562186,
+      -1.7445346613752104,
+      -0.5957666882887757
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:martin-hrubcik",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "praha:person:martin-sedeke",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.5027801200779528,
+      0.522112379061646,
+      -0.045973991324630495
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:michal-hroza",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.41789892796544936,
+      0.5512338649322396,
+      0.08264221387742693
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:milan-urban",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.19688088973589912,
+      -1.954376869288887,
+      -2.214931955735124
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:ondrej-prokop",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.2437365190368806,
+      -1.7878580098464263,
+      -1.5010823134894116
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:patrik-nacher",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.5081919210745751,
+      0.1714815940841546,
+      -0.43127787853021765
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:pavel-mares",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.4242954790128121,
+      0.5671277223031036,
+      0.08730339872742654
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:pavel-vyhnanek",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -1.8194576122351485,
+      -1.4520599807176642,
+      0.5066647333773799
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:pavel-zelenka",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -1.6107344352045605,
+      -2.5000467223665583,
+      0.2778529138878316
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:petr-hlavacek",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.36986317259126855,
+      0.5677692496272932,
+      0.11381870502423094
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:petr-zeman",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -1.773169923670267,
+      -1.3345232579477078,
+      1.176634769281175
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:radmila-kleslova",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -0.033928260831513776,
+      -2.2251037558649296,
+      -1.2568424450079128
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:radomir-nepil",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.5391019358575387,
+      0.08046904457309154,
+      -0.13023381572166862
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:stanislav-nekolny",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.10470453088933557,
+      -1.8174619195827633,
+      -0.2968509769227827
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:tomas-kanera",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.43879359401358725,
+      0.11099416214236942,
+      -0.1999919924464185
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:tomas-kastovsky",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.4193885391318413,
+      0.5585439028312438,
+      0.08846601246246395
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:tomas-pek",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.4220837705165621,
+      0.5621717938988672,
+      0.07739079882715695
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:tomas-portlik",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.43194165309958715,
+      0.5728567060212896,
+      0.09770700692879467
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:tomas-slabihoudek",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.42519871820666677,
+      0.5452048758635467,
+      0.062154317680349944
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:vaclav-bilek",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.35588681130303046,
+      0.18933992523118848,
+      -0.07074651521361551
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:viktor-mahrik",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.17418836841306365,
+      0.66838648318017,
+      0.18530455725091735
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:vladan-broz",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -1.6332196017306368,
+      -1.9684028210107303,
+      0.43544812304213804
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:zdenek-hrib",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.33991013050802205,
+      0.8386375138989134,
+      0.22851045781342333
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:zdenek-kovarik",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.4541905942743781,
+      0.5931356360759181,
+      0.09393934973908752
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:zdenek-seidl",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.11106493374935601,
+      -2.466974598790436,
+      -1.7922932382305437
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:zdenek-zajicek",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.17330736191574458,
+      0.20931117316110395,
+      0.14014114156609875
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:zuzana-freitas",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -0.4035720904811601,
+      0.8411190653564877,
+      0.27733565401598886
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:zuzana-hamanova",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.4071390036598518,
+      0.5413849778156085,
+      0.0792964156641028
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:adam-scheinherr",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.08808528251311039,
+      -0.0748559539935704,
+      0.27148959559315544
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:adam-zabransky",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -0.7531780856567946,
+      0.9995953701501519,
+      -0.0823848597349656
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:alexandra-udzenija",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.25688613574718366,
+      0.03047776517781605,
+      0.09355701762085591
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:antonin-klecanda",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.11789067646281316,
+      0.1673351564303347,
+      0.08298932175550257
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:bara-soukup",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -1.4330996307826183,
+      0.6670509631520503,
+      0.26367206135229404
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:barbora-razga",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.9788002863909353,
+      -1.3247094336634901,
+      -1.4081914837908625
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:bohuslav-svoboda",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.2216292656049581,
+      0.054324892413151304,
+      0.12000750302733214
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:daniel-mazur",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -1.0804278077203977,
+      1.0234316980539258,
+      -0.028088586262619158
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:david-bodecek",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.1463488274030254,
+      0.010827957648323052,
+      0.33422362102982683
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:david-prochazka",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "praha:person:david-vodrazka",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.23097348283454072,
+      -0.07133486382141703,
+      0.19666527394303304
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:eva-tylova",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -1.7492164203342544,
+      0.7934278917591513,
+      0.5197449994527896
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:gabriela-lnenickova",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -0.1103860944703343,
+      0.22388987872728444,
+      0.17175070766344716
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:hana-marvanova",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -0.6326504292149893,
+      0.9901023474642447,
+      0.9420744576647582
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:hana-trestikova",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.46370828978219997,
+      -0.2639478648490875,
+      0.25818469385567633
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jakub-leps",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.22080489823550317,
+      0.05405779486388623,
+      0.12212138414059377
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jan-chabr",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.1324543221192066,
+      0.049900960917487226,
+      0.25884285978609367
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jan-cizinsky",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -0.3516379973982938,
+      -0.16887613355527287,
+      0.6003133961546044
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jan-husbauer",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.6791469343572448,
+      -0.8072311954534068,
+      -0.9724825326316624
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jan-kolar",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.39988390414012653,
+      0.06754236767614784,
+      -0.1798248436290745
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jan-wolf",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.2211013779681369,
+      0.05395586754019838,
+      0.12106649717938703
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jana-komrskova",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -0.7239851246652026,
+      0.7875504449525494,
+      0.4565558044649454
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jaromir-beranek",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -1.2939471638151312,
+      0.5362499082213065,
+      0.21644767594728526
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jiri-bruzek",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.08855757736784069,
+      0.24129589479818175,
+      0.08610792959964136
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jiri-knitl",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.2056646437518056,
+      -0.07431482384979919,
+      0.18002759095760199
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jiri-pospisil",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.25385349562081133,
+      0.03915285622409769,
+      0.10103583408652379
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:jiri-ptacek",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.22042638358810232,
+      0.05384174424631734,
+      0.11980595277388947
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:josef-nerusil",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      1.0348233933477131,
+      -1.6482739412623837,
+      -2.5664370684180637
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:kamila-matejkova",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -0.68737470355707,
+      -0.7759801713936411,
+      1.2403712754065404
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:katerina-arnotova",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.1183002013547418,
+      0.16819610652069847,
+      0.0796378263823201
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:kristyna-drapalova",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -1.8977410373462265,
+      0.5961861043548697,
+      0.2588016906381875
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:lenka-vedralova",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.398444795908483,
+      -0.30299187792763055,
+      0.21349325169447358
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:lucie-kubesa",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.22042638358810232,
+      0.05384174424631734,
+      0.11980595277388947
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:magdalena-valdmanova",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -0.06749685283558937,
+      0.20168898674311125,
+      0.1565407498123656
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:marcela-plesnikova",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.43296091053431157,
+      -0.436904346573467,
+      0.15055202330542128
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:mariana-capkova",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.2638493516325471,
+      -0.36273783948668104,
+      0.22585991363372765
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:marta-gellova",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.6721367588044261,
+      -0.6387605453874713,
+      -0.43910890072383685
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:martin-benkovic",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.4503796396013581,
+      -0.22350046125484632,
+      -0.23357365265669833
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:martin-hrubcik",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "praha:person:martin-sedeke",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.3727214733516644,
+      -0.14187975594139673,
+      0.0008424323760547768
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:michal-hroza",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.22918319513550686,
+      0.056932349442124976,
+      0.1235888378040747
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:milan-urban",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.9503467580643026,
+      -1.5341361385296208,
+      -2.3129107944313514
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:ondrej-prokop",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.43876978213889684,
+      -0.13165065002848936,
+      -0.3616392108881883
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:patrik-nacher",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.4632825551792457,
+      -0.18759776939099065,
+      -0.10765509583987089
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:pavel-mares",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.23130134878612946,
+      0.04147556068755484,
+      0.09325896486287844
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:pavel-vyhnanek",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.438889779045161,
+      -0.42186939420545616,
+      0.1806732194932773
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:pavel-zelenka",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -0.5712449602915006,
+      -0.18738951717727842,
+      0.5340256392503597
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:petr-hlavacek",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.2257534796893172,
+      0.052952978191787965,
+      0.12584183440544838
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:petr-zeman",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -1.248216689078292,
+      -0.6936652721730678,
+      1.1286843106204236
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:radmila-kleslova",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.22275511604468218,
+      -0.1627212483266043,
+      0.07017118371809232
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:radomir-nepil",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.7999647242092655,
+      -0.9438522775554365,
+      -0.720736913831973
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:stanislav-nekolny",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      1.2859428550613756,
+      -1.9400904139329744,
+      -1.799604630874106
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:tomas-kanera",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.34195130506183996,
+      0.042809966878139476,
+      -0.19883985595085074
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:tomas-kastovsky",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.2423539712550048,
+      0.03978148506345933,
+      0.10895303058534256
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:tomas-pek",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.3053564154834396,
+      -0.015042604133154848,
+      0.08312476506260756
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:tomas-portlik",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.1582336442603614,
+      0.14361519898990235,
+      0.04107198917286771
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:tomas-slabihoudek",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.2216292656049581,
+      0.054324892413151304,
+      0.12000750302733214
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:vaclav-bilek",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.3934667994194072,
+      -0.1301055007051027,
+      -0.026252472674428515
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:viktor-mahrik",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -1.3371350194218123,
+      1.1415478291974377,
+      0.0019304974761189615
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:vladan-broz",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -0.6845865970561043,
+      -0.4500490623275797,
+      0.9390311659510997
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:zdenek-hrib",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -0.9169913682752141,
+      0.7563144192760993,
+      -0.06767749186481645
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:zdenek-kovarik",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.17720366852752717,
+      0.002507886095331074,
+      0.29729287101875324
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:zdenek-seidl",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.4935201810860278,
+      -0.5310373210503266,
+      -1.1590257884235224
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:zdenek-zajicek",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.397999700202627,
+      -0.14920797685295512,
+      0.02801244110854136
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:zuzana-freitas",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -0.09854834026697327,
+      0.2572270881745619,
+      0.1760013140676289
+    ],
+    "included": true
+  },
+  {
+    "person_id": "praha:person:zuzana-hamanova",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.22042638358810232,
+      0.05384174424631734,
+      0.11980595277388947
+    ],
+    "included": true
+  }
+]

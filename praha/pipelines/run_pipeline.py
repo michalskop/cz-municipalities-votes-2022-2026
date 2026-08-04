@@ -9,6 +9,21 @@ the standardizer (see praha/scripts/standardize.py docstring for what counts as 
 documented" vs. "unexplained, fail loudly"), or a failed G1 schema validation. The documented
 substitute-vote pattern (R1) does NOT fail the run — it is logged and included in the quality
 report instead (see the plan's G2 acceptance check).
+
+IMPORTANT operational note (added C8, 2026-08-04): `standardize.standardize()` writes
+organizations.csv/memberships.csv FROM SCRATCH each run — it has no knowledge of the
+`praha:org:candidate-list:*` rows `praha/scripts/party_affiliation.py` adds (candidate-list/party
+affiliation, D7's fallback; see that script's module docstring). Running this pipeline WITHOUT a
+subsequent `party_affiliation.py` run will silently drop those rows back to just the bare assembly
+membership. This orchestrator does NOT currently call party_affiliation.py automatically (it hits
+a different, non-Golemio source — volby.cz — on a different cadence: candidate-list affiliation is
+fixed at election time and essentially never changes, unlike the nightly-updated vote CSV, so
+re-running it every night would be wasted network calls for data that cannot change). Whoever wires
+up C6 (nightly workflow) must either (a) run `party_affiliation.py` after every `run_pipeline.py`
+invocation regardless, accepting the wasted calls, or (b) run it once and thereafter treat
+`organizations.csv`/`memberships.csv`'s candidate-list rows as a merge target this orchestrator
+must preserve across re-runs (e.g. read-modify-write instead of overwrite). Not decided here —
+flagging for C6, not fixing it as part of C8.
 """
 import argparse
 import json

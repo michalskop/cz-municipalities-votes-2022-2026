@@ -1,0 +1,19 @@
+{
+  "since": "2022-11-03",
+  "until": null,
+  "lo_limit": 0.1,
+  "yes_options": ["yes"],
+  "no_options": ["no", "abstain"],
+  "absent_options": ["absent", "not voting"],
+  "rotate": {
+    "voter_id": "praha:person:bohuslav-svoboda",
+    "dims": [1, 1, 1]
+  },
+  "time_interval": "half-year",
+  "n_dims": 3,
+  "extras": {
+    "draft_status": "DRAFT — sourced by an AI agent (C8), NOT owner-approved. Per plan.md decision D7, the project owner must sign off before this file is used to publish real analysis output.",
+    "vocabulary_and_thresholds": "yes/no/abstain/absent/not-voting grouping mirrors cz-psp-data-2025-202x's wpca_definition.json convention (abstain grouped with 'no' for ideological-direction purposes, not treated as neutral; lo_limit=0.1 and n_dims=3 copied as reasonable defaults from that same reference file, not independently tuned for Praha's ~65-member assembly — owner/analyst may want to revisit these two values once real output is inspected).",
+    "rotate_choice": "praha:person:bohuslav-svoboda (primátor, SPOLU pro Prahu) chosen as the PCA rotation anchor only to fix the sign/orientation of the output axes for readability — an arbitrary technical choice (any consistently-voting member works), not a factual claim requiring citation."
+  }
+}

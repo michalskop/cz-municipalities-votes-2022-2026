@@ -1,0 +1,1922 @@
+[
+  {
+    "person_id": "praha:person:katerina-arnotova",
+    "vote_events_total": 2337,
+    "present": 2106,
+    "absent": 231,
+    "name": "Kateřina Arnotová",
+    "given_names": [
+      "Kateřina"
+    ],
+    "family_names": [
+      "Arnotová"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:starostove-a-nezavisli",
+        "classification": "group",
+        "name": "STAROSTOVÉ A NEZÁVISLÍ",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:starostove-a-nezavisli",
+        "classification": "candidate_list",
+        "name": "STAROSTOVÉ A NEZÁVISLÍ",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.9011553273
+  },
+  {
+    "person_id": "praha:person:martin-benkovic",
+    "vote_events_total": 2337,
+    "present": 964,
+    "absent": 1373,
+    "name": "Martin Benkovič",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Benkovič"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "classification": "candidate_list",
+        "name": "ANO 2011",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.4124946513
+  },
+  {
+    "person_id": "praha:person:jaromir-beranek",
+    "vote_events_total": 2337,
+    "present": 2213,
+    "absent": 124,
+    "name": "Jaromír Beránek",
+    "given_names": [
+      "Jaromír"
+    ],
+    "family_names": [
+      "Beránek"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "classification": "group",
+        "name": "Česká pirátská strana",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "classification": "candidate_list",
+        "name": "Česká pirátská strana",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.946940522
+  },
+  {
+    "person_id": "praha:person:david-bodecek",
+    "vote_events_total": 2337,
+    "present": 2092,
+    "absent": 245,
+    "name": "David Bodeček",
+    "given_names": [
+      "David"
+    ],
+    "family_names": [
+      "Bodeček"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "classification": "group",
+        "name": "Česká pirátská strana",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "classification": "candidate_list",
+        "name": "Česká pirátská strana",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.8951647411
+  },
+  {
+    "person_id": "praha:person:vladan-broz",
+    "vote_events_total": 2337,
+    "present": 2135,
+    "absent": 202,
+    "name": "Vladan Brož",
+    "given_names": [
+      "Vladan"
+    ],
+    "family_names": [
+      "Brož"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "classification": "group",
+        "name": "PRAHA SOBĚ",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "classification": "candidate_list",
+        "name": "PRAHA SOBĚ",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.9135643988
+  },
+  {
+    "person_id": "praha:person:jiri-bruzek",
+    "vote_events_total": 2337,
+    "present": 2089,
+    "absent": 248,
+    "name": "Jiří Brůžek",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Brůžek"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "classification": "group",
+        "name": "Česká pirátská strana",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "classification": "candidate_list",
+        "name": "Česká pirátská strana",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.8938810441
+  },
+  {
+    "person_id": "praha:person:vaclav-bilek",
+    "vote_events_total": 2337,
+    "present": 1683,
+    "absent": 654,
+    "name": "Václav Bílek",
+    "given_names": [
+      "Václav"
+    ],
+    "family_names": [
+      "Bílek"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "classification": "candidate_list",
+        "name": "ANO 2011",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.7201540436
+  },
+  {
+    "person_id": "praha:person:jan-chabr",
+    "vote_events_total": 2337,
+    "present": 2112,
+    "absent": 225,
+    "name": "Jan Chabr",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Chabr"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "group",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "candidate_list",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.9037227214
+  },
+  {
+    "person_id": "praha:person:kristyna-drapalova",
+    "vote_events_total": 2337,
+    "present": 1402,
+    "absent": 935,
+    "name": "Kristýna Drápalová",
+    "given_names": [
+      "Kristýna"
+    ],
+    "family_names": [
+      "Drápalová"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "classification": "group",
+        "name": "PRAHA SOBĚ",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "classification": "candidate_list",
+        "name": "PRAHA SOBĚ",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.5999144202
+  },
+  {
+    "person_id": "praha:person:zuzana-freitas",
+    "vote_events_total": 2337,
+    "present": 2135,
+    "absent": 202,
+    "name": "Zuzana Freitas",
+    "given_names": [
+      "Zuzana"
+    ],
+    "family_names": [
+      "Freitas"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "classification": "group",
+        "name": "Česká pirátská strana",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "classification": "candidate_list",
+        "name": "Česká pirátská strana",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.9135643988
+  },
+  {
+    "person_id": "praha:person:marta-gellova",
+    "vote_events_total": 2337,
+    "present": 1341,
+    "absent": 996,
+    "name": "Marta Gellová",
+    "given_names": [
+      "Marta"
+    ],
+    "family_names": [
+      "Gellová"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "classification": "candidate_list",
+        "name": "ANO 2011",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.5738125802
+  },
+  {
+    "person_id": "praha:person:zuzana-hamanova",
+    "vote_events_total": 2337,
+    "present": 2209,
+    "absent": 128,
+    "name": "Zuzana Hamanová",
+    "given_names": [
+      "Zuzana"
+    ],
+    "family_names": [
+      "Hamanová"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:starostove-a-nezavisli",
+        "classification": "group",
+        "name": "STAROSTOVÉ A NEZÁVISLÍ",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:starostove-a-nezavisli",
+        "classification": "candidate_list",
+        "name": "STAROSTOVÉ A NEZÁVISLÍ",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.945228926
+  },
+  {
+    "person_id": "praha:person:petr-hlavacek",
+    "vote_events_total": 2337,
+    "present": 1721,
+    "absent": 616,
+    "name": "Petr Hlaváček",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Hlaváček"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:starostove-a-nezavisli",
+        "classification": "group",
+        "name": "STAROSTOVÉ A NEZÁVISLÍ",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:starostove-a-nezavisli",
+        "classification": "candidate_list",
+        "name": "STAROSTOVÉ A NEZÁVISLÍ",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.7364142062
+  },
+  {
+    "person_id": "praha:person:michal-hroza",
+    "vote_events_total": 2337,
+    "present": 2242,
+    "absent": 95,
+    "name": "Michal Hroza",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Hroza"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "group",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "candidate_list",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.9593495935
+  },
+  {
+    "person_id": "praha:person:martin-hrubcik",
+    "vote_events_total": 1438,
+    "present": 717,
+    "absent": 721,
+    "name": "Martin Hrubčík",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Hrubčík"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-03",
+        "until": "2024-12-12"
+      },
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "classification": "candidate_list",
+        "name": "ANO 2011",
+        "since": "2022-11-03",
+        "until": "2024-12-12"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.4986091794
+  },
+  {
+    "person_id": "praha:person:jan-husbauer",
+    "vote_events_total": 2337,
+    "present": 985,
+    "absent": 1352,
+    "name": "Jan Hušbauer",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Hušbauer"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "classification": "candidate_list",
+        "name": "ANO 2011",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.4214805306
+  },
+  {
+    "person_id": "praha:person:zdenek-hrib",
+    "vote_events_total": 2337,
+    "present": 1930,
+    "absent": 407,
+    "name": "Zdeněk Hřib",
+    "given_names": [
+      "Zdeněk"
+    ],
+    "family_names": [
+      "Hřib"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "classification": "group",
+        "name": "Česká pirátská strana",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "classification": "candidate_list",
+        "name": "Česká pirátská strana",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.8258451006
+  },
+  {
+    "person_id": "praha:person:tomas-kastovsky",
+    "vote_events_total": 2337,
+    "present": 2104,
+    "absent": 233,
+    "name": "Tomáš Kaštovský",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Kaštovský"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "group",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "candidate_list",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.9002995293
+  },
+  {
+    "person_id": "praha:person:antonin-klecanda",
+    "vote_events_total": 2337,
+    "present": 2174,
+    "absent": 163,
+    "name": "Antonín Klecanda",
+    "given_names": [
+      "Antonín"
+    ],
+    "family_names": [
+      "Klecanda"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:starostove-a-nezavisli",
+        "classification": "group",
+        "name": "STAROSTOVÉ A NEZÁVISLÍ",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:starostove-a-nezavisli",
+        "classification": "candidate_list",
+        "name": "STAROSTOVÉ A NEZÁVISLÍ",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.9302524604
+  },
+  {
+    "person_id": "praha:person:radmila-kleslova",
+    "vote_events_total": 2337,
+    "present": 676,
+    "absent": 1661,
+    "name": "Radmila Kleslová",
+    "given_names": [
+      "Radmila"
+    ],
+    "family_names": [
+      "Kleslová"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "classification": "candidate_list",
+        "name": "ANO 2011",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.2892597347
+  },
+  {
+    "person_id": "praha:person:jiri-knitl",
+    "vote_events_total": 2337,
+    "present": 1892,
+    "absent": 445,
+    "name": "Jiří Knitl",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Knitl"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "classification": "group",
+        "name": "PRAHA SOBĚ",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "classification": "candidate_list",
+        "name": "PRAHA SOBĚ",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.809584938
+  },
+  {
+    "person_id": "praha:person:jan-kolar",
+    "vote_events_total": 2337,
+    "present": 1114,
+    "absent": 1223,
+    "name": "Jan Kolář",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Kolář"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "classification": "candidate_list",
+        "name": "ANO 2011",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.4766795036
+  },
+  {
+    "person_id": "praha:person:jana-komrskova",
+    "vote_events_total": 2337,
+    "present": 1926,
+    "absent": 411,
+    "name": "Jana Komrsková",
+    "given_names": [
+      "Jana"
+    ],
+    "family_names": [
+      "Komrsková"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "classification": "group",
+        "name": "Česká pirátská strana",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "classification": "candidate_list",
+        "name": "Česká pirátská strana",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.8241335045
+  },
+  {
+    "person_id": "praha:person:zdenek-kovarik",
+    "vote_events_total": 2337,
+    "present": 2121,
+    "absent": 216,
+    "name": "Zdeněk Kovářík",
+    "given_names": [
+      "Zdeněk"
+    ],
+    "family_names": [
+      "Kovářík"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "group",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "candidate_list",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.9075738126
+  },
+  {
+    "person_id": "praha:person:lucie-kubesa",
+    "vote_events_total": 2337,
+    "present": 2234,
+    "absent": 103,
+    "name": "Lucie Kubesa",
+    "given_names": [
+      "Lucie"
+    ],
+    "family_names": [
+      "Kubesa"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "group",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "candidate_list",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.9559264014
+  },
+  {
+    "person_id": "praha:person:jakub-leps",
+    "vote_events_total": 2337,
+    "present": 2154,
+    "absent": 183,
+    "name": "Jakub Lepš",
+    "given_names": [
+      "Jakub"
+    ],
+    "family_names": [
+      "Lepš"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "group",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "candidate_list",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.9216944801
+  },
+  {
+    "person_id": "praha:person:gabriela-lnenickova",
+    "vote_events_total": 2337,
+    "present": 2220,
+    "absent": 117,
+    "name": "Gabriela Lněničková",
+    "given_names": [
+      "Gabriela"
+    ],
+    "family_names": [
+      "Lněničková"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "classification": "group",
+        "name": "Česká pirátská strana",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "classification": "candidate_list",
+        "name": "Česká pirátská strana",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.9499358151
+  },
+  {
+    "person_id": "praha:person:viktor-mahrik",
+    "vote_events_total": 2337,
+    "present": 2232,
+    "absent": 105,
+    "name": "Viktor Mahrik",
+    "given_names": [
+      "Viktor"
+    ],
+    "family_names": [
+      "Mahrik"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "classification": "group",
+        "name": "Česká pirátská strana",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "classification": "candidate_list",
+        "name": "Česká pirátská strana",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.9550706033
+  },
+  {
+    "person_id": "praha:person:pavel-mares",
+    "vote_events_total": 2337,
+    "present": 2147,
+    "absent": 190,
+    "name": "Pavel Mareš",
+    "given_names": [
+      "Pavel"
+    ],
+    "family_names": [
+      "Mareš"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "group",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "candidate_list",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.918699187
+  },
+  {
+    "person_id": "praha:person:hana-marvanova",
+    "vote_events_total": 2337,
+    "present": 907,
+    "absent": 1430,
+    "name": "Hana Marvanová",
+    "given_names": [
+      "Hana"
+    ],
+    "family_names": [
+      "Marvanová"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "group",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "candidate_list",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.3881044074
+  },
+  {
+    "person_id": "praha:person:kamila-matejkova",
+    "vote_events_total": 2337,
+    "present": 1311,
+    "absent": 1026,
+    "name": "Kamila Matějková",
+    "given_names": [
+      "Kamila"
+    ],
+    "family_names": [
+      "Matějková"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "classification": "group",
+        "name": "PRAHA SOBĚ",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "classification": "candidate_list",
+        "name": "PRAHA SOBĚ",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.5609756098
+  },
+  {
+    "person_id": "praha:person:daniel-mazur",
+    "vote_events_total": 2337,
+    "present": 2065,
+    "absent": 272,
+    "name": "Daniel Mazur",
+    "given_names": [
+      "Daniel"
+    ],
+    "family_names": [
+      "Mazur"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "classification": "group",
+        "name": "Česká pirátská strana",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "classification": "candidate_list",
+        "name": "Česká pirátská strana",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.8836114677
+  },
+  {
+    "person_id": "praha:person:patrik-nacher",
+    "vote_events_total": 2337,
+    "present": 1031,
+    "absent": 1306,
+    "name": "Patrik Nacher",
+    "given_names": [
+      "Patrik"
+    ],
+    "family_names": [
+      "Nacher"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "classification": "candidate_list",
+        "name": "ANO 2011",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.4411638853
+  },
+  {
+    "person_id": "praha:person:stanislav-nekolny",
+    "vote_events_total": 2337,
+    "present": 846,
+    "absent": 1491,
+    "name": "Stanislav Nekolný",
+    "given_names": [
+      "Stanislav"
+    ],
+    "family_names": [
+      "Nekolný"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "classification": "candidate_list",
+        "name": "ANO 2011",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.3620025674
+  },
+  {
+    "person_id": "praha:person:radomir-nepil",
+    "vote_events_total": 2337,
+    "present": 942,
+    "absent": 1395,
+    "name": "Radomír Nepil",
+    "given_names": [
+      "Radomír"
+    ],
+    "family_names": [
+      "Nepil"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "classification": "candidate_list",
+        "name": "ANO 2011",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.4030808729
+  },
+  {
+    "person_id": "praha:person:josef-nerusil",
+    "vote_events_total": 2176,
+    "present": 1352,
+    "absent": 824,
+    "name": "Josef Nerušil",
+    "given_names": [
+      "Josef"
+    ],
+    "family_names": [
+      "Nerušil"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:spd-trik-pes-a-nez-pro-prahu",
+        "classification": "group",
+        "name": "SPD,Trik.,PES a nez. pro Prahu",
+        "since": "2022-11-03",
+        "until": "2026-03-26"
+      },
+      {
+        "id": "praha:org:candidate-list:spd-trik-pes-a-nez-pro-prahu",
+        "classification": "candidate_list",
+        "name": "SPD,Trik.,PES a nez. pro Prahu",
+        "since": "2022-11-03",
+        "until": "2026-03-26"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.6213235294
+  },
+  {
+    "person_id": "praha:person:tomas-pek",
+    "vote_events_total": 2337,
+    "present": 2136,
+    "absent": 201,
+    "name": "Tomáš Pek",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Pek"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "group",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "candidate_list",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.9139922978
+  },
+  {
+    "person_id": "praha:person:marcela-plesnikova",
+    "vote_events_total": 2337,
+    "present": 1301,
+    "absent": 1036,
+    "name": "Marcela Plesníková",
+    "given_names": [
+      "Marcela"
+    ],
+    "family_names": [
+      "Plesníková"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "classification": "candidate_list",
+        "name": "ANO 2011",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.5566966196
+  },
+  {
+    "person_id": "praha:person:tomas-portlik",
+    "vote_events_total": 2337,
+    "present": 1993,
+    "absent": 344,
+    "name": "Tomáš Portlík",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Portlík"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "group",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "candidate_list",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.8528027386
+  },
+  {
+    "person_id": "praha:person:jiri-pospisil",
+    "vote_events_total": 2337,
+    "present": 1764,
+    "absent": 573,
+    "name": "Jiří Pospíšil",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Pospíšil"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "group",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "candidate_list",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.7548138639
+  },
+  {
+    "person_id": "praha:person:david-prochazka",
+    "vote_events_total": 1568,
+    "present": 1183,
+    "absent": 385,
+    "name": "David Procházka",
+    "given_names": [
+      "David"
+    ],
+    "family_names": [
+      "Procházka"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:starostove-a-nezavisli",
+        "classification": "group",
+        "name": "STAROSTOVÉ A NEZÁVISLÍ",
+        "since": "2022-11-03",
+        "until": "2025-03-27"
+      },
+      {
+        "id": "praha:org:candidate-list:starostove-a-nezavisli",
+        "classification": "candidate_list",
+        "name": "STAROSTOVÉ A NEZÁVISLÍ",
+        "since": "2022-11-03",
+        "until": "2025-03-27"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.7544642857
+  },
+  {
+    "person_id": "praha:person:ondrej-prokop",
+    "vote_events_total": 2337,
+    "present": 1151,
+    "absent": 1186,
+    "name": "Ondřej Prokop",
+    "given_names": [
+      "Ondřej"
+    ],
+    "family_names": [
+      "Prokop"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "classification": "candidate_list",
+        "name": "ANO 2011",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.4925117672
+  },
+  {
+    "person_id": "praha:person:jiri-ptacek",
+    "vote_events_total": 2337,
+    "present": 2295,
+    "absent": 42,
+    "name": "Jiří Ptáček",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Ptáček"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "group",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "candidate_list",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.9820282413
+  },
+  {
+    "person_id": "praha:person:barbora-razga",
+    "vote_events_total": 2337,
+    "present": 1123,
+    "absent": 1214,
+    "name": "Barbora Rázga",
+    "given_names": [
+      "Barbora"
+    ],
+    "family_names": [
+      "Rázga"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "classification": "candidate_list",
+        "name": "ANO 2011",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.4805305948
+  },
+  {
+    "person_id": "praha:person:adam-scheinherr",
+    "vote_events_total": 2337,
+    "present": 1853,
+    "absent": 484,
+    "name": "Adam Scheinherr",
+    "given_names": [
+      "Adam"
+    ],
+    "family_names": [
+      "Scheinherr"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "classification": "group",
+        "name": "PRAHA SOBĚ",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "classification": "candidate_list",
+        "name": "PRAHA SOBĚ",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.7928968763
+  },
+  {
+    "person_id": "praha:person:martin-sedeke",
+    "vote_events_total": 2337,
+    "present": 1948,
+    "absent": 389,
+    "name": "Martin Sedeke",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Sedeke"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "group",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "candidate_list",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.8335472828
+  },
+  {
+    "person_id": "praha:person:zdenek-seidl",
+    "vote_events_total": 2337,
+    "present": 1338,
+    "absent": 999,
+    "name": "Zdeněk Seidl",
+    "given_names": [
+      "Zdeněk"
+    ],
+    "family_names": [
+      "Seidl"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:spd-trik-pes-a-nez-pro-prahu",
+        "classification": "group",
+        "name": "SPD,Trik.,PES a nez. pro Prahu",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:spd-trik-pes-a-nez-pro-prahu",
+        "classification": "candidate_list",
+        "name": "SPD,Trik.,PES a nez. pro Prahu",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.5725288832
+  },
+  {
+    "person_id": "praha:person:tomas-slabihoudek",
+    "vote_events_total": 2337,
+    "present": 2251,
+    "absent": 86,
+    "name": "Tomáš Slabihoudek",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Slabihoudek"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "group",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "candidate_list",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.9632006846
+  },
+  {
+    "person_id": "praha:person:bara-soukup",
+    "vote_events_total": 2337,
+    "present": 2153,
+    "absent": 184,
+    "name": "Bara Soukup",
+    "given_names": [
+      "Bara"
+    ],
+    "family_names": [
+      "Soukup"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "classification": "group",
+        "name": "Česká pirátská strana",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "classification": "candidate_list",
+        "name": "Česká pirátská strana",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.9212665811
+  },
+  {
+    "person_id": "praha:person:bohuslav-svoboda",
+    "vote_events_total": 2337,
+    "present": 2178,
+    "absent": 159,
+    "name": "Bohuslav Svoboda",
+    "given_names": [
+      "Bohuslav"
+    ],
+    "family_names": [
+      "Svoboda"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "group",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "candidate_list",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.9319640565
+  },
+  {
+    "person_id": "praha:person:eva-tylova",
+    "vote_events_total": 2337,
+    "present": 1941,
+    "absent": 396,
+    "name": "Eva Tylová",
+    "given_names": [
+      "Eva"
+    ],
+    "family_names": [
+      "Tylová"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "classification": "group",
+        "name": "Česká pirátská strana",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "classification": "candidate_list",
+        "name": "Česká pirátská strana",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.8305519897
+  },
+  {
+    "person_id": "praha:person:hana-trestikova",
+    "vote_events_total": 2337,
+    "present": 963,
+    "absent": 1374,
+    "name": "Hana Třeštíková",
+    "given_names": [
+      "Hana"
+    ],
+    "family_names": [
+      "Třeštíková"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "classification": "group",
+        "name": "PRAHA SOBĚ",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "classification": "candidate_list",
+        "name": "PRAHA SOBĚ",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.4120667522
+  },
+  {
+    "person_id": "praha:person:alexandra-udzenija",
+    "vote_events_total": 2337,
+    "present": 1953,
+    "absent": 384,
+    "name": "Alexandra Udženija",
+    "given_names": [
+      "Alexandra"
+    ],
+    "family_names": [
+      "Udženija"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "group",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "candidate_list",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.8356867779
+  },
+  {
+    "person_id": "praha:person:milan-urban",
+    "vote_events_total": 2337,
+    "present": 1401,
+    "absent": 936,
+    "name": "Milan Urban",
+    "given_names": [
+      "Milan"
+    ],
+    "family_names": [
+      "Urban"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:spd-trik-pes-a-nez-pro-prahu",
+        "classification": "group",
+        "name": "SPD,Trik.,PES a nez. pro Prahu",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:spd-trik-pes-a-nez-pro-prahu",
+        "classification": "candidate_list",
+        "name": "SPD,Trik.,PES a nez. pro Prahu",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.5994865212
+  },
+  {
+    "person_id": "praha:person:magdalena-valdmanova",
+    "vote_events_total": 2337,
+    "present": 2265,
+    "absent": 72,
+    "name": "Magdalena Valdmanová",
+    "given_names": [
+      "Magdalena"
+    ],
+    "family_names": [
+      "Valdmanová"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "classification": "group",
+        "name": "Česká pirátská strana",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "classification": "candidate_list",
+        "name": "Česká pirátská strana",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.9691912709
+  },
+  {
+    "person_id": "praha:person:lenka-vedralova",
+    "vote_events_total": 2337,
+    "present": 1402,
+    "absent": 935,
+    "name": "Lenka Vedralová",
+    "given_names": [
+      "Lenka"
+    ],
+    "family_names": [
+      "Vedralová"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "classification": "candidate_list",
+        "name": "ANO 2011",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.5999144202
+  },
+  {
+    "person_id": "praha:person:david-vodrazka",
+    "vote_events_total": 2337,
+    "present": 1727,
+    "absent": 610,
+    "name": "David Vodrážka",
+    "given_names": [
+      "David"
+    ],
+    "family_names": [
+      "Vodrážka"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "group",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "candidate_list",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.7389816003
+  },
+  {
+    "person_id": "praha:person:pavel-vyhnanek",
+    "vote_events_total": 2337,
+    "present": 738,
+    "absent": 1599,
+    "name": "Pavel Vyhnánek",
+    "given_names": [
+      "Pavel"
+    ],
+    "family_names": [
+      "Vyhnánek"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "classification": "group",
+        "name": "PRAHA SOBĚ",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "classification": "candidate_list",
+        "name": "PRAHA SOBĚ",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.3157894737
+  },
+  {
+    "person_id": "praha:person:jan-wolf",
+    "vote_events_total": 2337,
+    "present": 2115,
+    "absent": 222,
+    "name": "Jan Wolf",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Wolf"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "group",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "candidate_list",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.9050064185
+  },
+  {
+    "person_id": "praha:person:zdenek-zajicek",
+    "vote_events_total": 2337,
+    "present": 1591,
+    "absent": 746,
+    "name": "Zdeněk Zajíček",
+    "given_names": [
+      "Zdeněk"
+    ],
+    "family_names": [
+      "Zajíček"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "group",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:spolu-pro-prahu",
+        "classification": "candidate_list",
+        "name": "SPOLU pro Prahu",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.6807873342
+  },
+  {
+    "person_id": "praha:person:pavel-zelenka",
+    "vote_events_total": 2337,
+    "present": 1270,
+    "absent": 1067,
+    "name": "Pavel Zelenka",
+    "given_names": [
+      "Pavel"
+    ],
+    "family_names": [
+      "Zelenka"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "classification": "group",
+        "name": "PRAHA SOBĚ",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "classification": "candidate_list",
+        "name": "PRAHA SOBĚ",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.5434317501
+  },
+  {
+    "person_id": "praha:person:petr-zeman",
+    "vote_events_total": 2337,
+    "present": 1523,
+    "absent": 814,
+    "name": "Petr Zeman",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Zeman"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "classification": "group",
+        "name": "PRAHA SOBĚ",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "classification": "candidate_list",
+        "name": "PRAHA SOBĚ",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.6516902011
+  },
+  {
+    "person_id": "praha:person:adam-zabransky",
+    "vote_events_total": 2337,
+    "present": 2086,
+    "absent": 251,
+    "name": "Adam Zábranský",
+    "given_names": [
+      "Adam"
+    ],
+    "family_names": [
+      "Zábranský"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "classification": "group",
+        "name": "Česká pirátská strana",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:ceska-piratska-strana",
+        "classification": "candidate_list",
+        "name": "Česká pirátská strana",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.892597347
+  },
+  {
+    "person_id": "praha:person:mariana-capkova",
+    "vote_events_total": 2337,
+    "present": 1272,
+    "absent": 1065,
+    "name": "Mariana Čapková",
+    "given_names": [
+      "Mariana"
+    ],
+    "family_names": [
+      "Čapková"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "classification": "group",
+        "name": "PRAHA SOBĚ",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "classification": "candidate_list",
+        "name": "PRAHA SOBĚ",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.5442875481
+  },
+  {
+    "person_id": "praha:person:jan-cizinsky",
+    "vote_events_total": 2337,
+    "present": 2141,
+    "absent": 196,
+    "name": "Jan Čižinský",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Čižinský"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "classification": "group",
+        "name": "PRAHA SOBĚ",
+        "since": "2022-11-03"
+      },
+      {
+        "id": "praha:org:candidate-list:praha-sobe",
+        "classification": "candidate_list",
+        "name": "PRAHA SOBĚ",
+        "since": "2022-11-03"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.9161317929
+  },
+  {
+    "person_id": "praha:person:tomas-kanera",
+    "vote_events_total": 899,
+    "present": 640,
+    "absent": 259,
+    "name": "Tomáš Kaněra",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Kaněra"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-01-23"
+      },
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "classification": "candidate_list",
+        "name": "ANO 2011",
+        "since": "2025-01-23"
+      }
+    ],
+    "since": "2022-11-03",
+    "present_share": 0.7119021135
+  }
+]
