@@ -1,8 +1,15 @@
 # CZ municipalities votes 2022-2026
 
+Monitor of roll-call votes in Czech municipal assemblies, term 2022–2026.
+
 ## Municipalities
-- [Praha](/praha)
-- [Brno](/brno)
+- Praha, Brno, Ostrava — new pipelines in progress, following the
+  [Legislature Data Standard](http://www.popoloproject.com/) (dt/popolo schemas), see the project
+  plan for details.
+
+## Legacy
+The original pre-standard scrapers and CSV outputs (tag `v1-flourish`) have moved to
+[`legacy/`](./legacy/) — frozen, kept only as a regression baseline for the new pipelines.
 
 ## Articles
 - https://www.seznamzpravy.cz/clanek/fakta-v-brne-k-sobe-maji-stale-nejblize-ods-s-top-09-a-ano-ukazuje-analyza-239593
