@@ -90,6 +90,14 @@ jobs:
           python praha/scripts/analyses/run_wpca.py \
             --script /tmp/legislature-data-analyses/wpca/wpca.py
 
+      - name: Detect government/opposition WPCA axis
+        # Which wpca.json dims[] index correlates with real government/opposition membership is
+        # not fixed — it emerges from the vote data and can shift after a coalition change. Runs
+        # after wpca so it reads that night's freshly regenerated wpca.json, and writes the
+        # sidecar praha/analyses/wpca/outputs/government_axis.json (not a change to wpca.json
+        # itself, which is schema-validated by G1).
+        run: python praha/scripts/detect_government_axis.py
+
       - name: G7 range sanity check on analysis outputs
         run: |
           python scripts/g7_sanity_check.py --output-file praha/analyses/attendance/outputs/attendance.json

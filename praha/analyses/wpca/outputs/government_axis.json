@@ -1,0 +1,40 @@
+{
+  "generated_at": "2026-08-05T09:58:03.250383+00:00",
+  "method": "point_biserial_correlation",
+  "n_dims": 3,
+  "n_included_people": 66,
+  "government_groups": [
+    "praha:org:candidate-list:spolu-pro-prahu",
+    "praha:org:candidate-list:ceska-piratska-strana",
+    "praha:org:candidate-list:starostove-a-nezavisli"
+  ],
+  "government_person_count": 37,
+  "opposition_person_count": 29,
+  "correlations": [
+    {
+      "dim_index": 0,
+      "correlation": 0.008838917741431088
+    },
+    {
+      "dim_index": 1,
+      "correlation": 0.9452182963714862
+    },
+    {
+      "dim_index": 2,
+      "correlation": 0.0016126046529399227
+    }
+  ],
+  "detected_dim_index": 1,
+  "override_dim_index": null,
+  "overridden": false,
+  "effective_dim_index": 1,
+  "government_mean": 0.3310246094018409,
+  "opposition_mean": -0.47115341527238763,
+  "government_sign": 1,
+  "sources": {
+    "wpca_output": "praha/analyses/wpca/outputs/wpca.json",
+    "wpca_definition": "praha/analyses/wpca/wpca_definition.json",
+    "govity_definition": "praha/analyses/govity/govity_definition.json",
+    "memberships": "praha/data/memberships.csv"
+  }
+}
