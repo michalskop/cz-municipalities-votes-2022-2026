@@ -13,13 +13,16 @@ only adds city-specific *sources* and *definition files*, never forked analysis 
 
 ## Municipalities
 
-- **Praha** — [`praha/`](./praha/) · source: open-data CSV · status: scaffolded
-- **Brno** — [`brno/`](./brno/) · source: JSON API (currently returning 503, see
-  [`brno/README.md`](./brno/README.md)) · status: scaffolded
-- **Ostrava** — [`ostrava/`](./ostrava/) · source: HTML scrape · status: scaffolded
+- **Praha** — [`praha/`](./praha/) · source: open-data CSV · status: pipeline built, G1/G2/G5 pass,
+  definitions owner-approved (C7/C8 done)
+- **Brno** — [`brno/`](./brno/) · source: `zastupko.cz` JSON feed (the original `kod.brno.cz`
+  endpoint stayed down; see [`brno/README.md`](./brno/README.md)) · status: pipeline built,
+  G1/G2/G5 pass (C2 done); definitions/golden-sample not started, need owner sign-off (C3/C4)
+- **Ostrava** — [`ostrava/`](./ostrava/) · source: HTML scrape · status: scaffolded, pipeline not
+  built yet (task C9)
 
-None have a built pipeline yet (tasks C2/C7/C9). Coverage may extend to more cities later (top-20
-by population); a city is only added if it has recorded roll-call votes.
+Coverage may extend to more cities later (top-20 by population); a city is only added if it has
+recorded roll-call votes.
 
 ## Repository structure
 

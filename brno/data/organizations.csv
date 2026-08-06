@@ -1,0 +1,2 @@
+id,name,classification,identifiers,sources
+brno:org:zastupitelstvo-mesta-brna,Zastupitelstvo města Brna,assembly,"[{""scheme"": ""brno:org_abbr"", ""identifier"": ""ZMB""}]","[{""url"": ""https://brno.zastupko.cz/flask/brno/zastupitelstvo/9/dataset"", ""note"": ""zastupko.cz feed, dataset id 9, term 2022-2026""}]"

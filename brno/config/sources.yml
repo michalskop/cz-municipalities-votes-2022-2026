@@ -1,25 +1,130 @@
-# Source config for Brno. Populated 2026-08-04.
+# Source config for Brno. Populated 2026-08-04, re-investigated and resolved 2026-08-06/07 (C2).
 #
-# CAUTION (see C1 scaffolding notes / task C2): the endpoint below returned HTTP 503
-# ("Service Unavailable — maintenance downtime or capacity problems") consistently across
-# several retries on 2026-08-04, while kod.brno.cz's root and data.brno.cz both returned 200.
-# This may be transient (maintenance window) or the endpoint may have moved. C2 must re-verify
-# before relying on it, and check the ArcGIS-based fallback noted below if it's still down.
+# STATUS (2026-08-07): primary endpoint re-verified DOWN; a genuine, live, per-person fallback
+# was found and is now the primary data source for the pipeline (`brno/scripts/downloader.py`
+# fetches `zastupko_current.url` below). Investigation trail kept in full — see both entries.
 
-zastupitelstvo:
-  primary:
-    type: json
-    url: "https://kod.brno.cz/zastupitelstvo/"
-    note: >
-      Endpoint used by the legacy scraper (legacy/brno/scripts/downloader.py); returns a JSON
-      object with a "data" array, one entry per vote event, including "parties" -> "votes" for
-      per-person options. Vocabulary: Ano/Ano (VK) = yes, Ne/Ne (VK) = no,
-      Zdržel se/Zdržel se (VK) = abstain, nepřít. = absent, Nehlasoval/Nehlasoval (VK) = not voting.
-  fallback_to_investigate:
-    type: arcgis
-    url: "https://data.brno.cz/documents/mestobrno::hlasov%C3%A1n%C3%AD-zastupitelstva-city-council-voting-data/explore"
-    note: >
-      Brno's ArcGIS Hub open-data catalog entry for the same dataset (linked from the old README
-      as "Alternative App"). Confirmed reachable (HTTP 200) on 2026-08-04. Underlying REST
-      Feature Service URL not yet identified — needs investigation if the primary JSON endpoint
-      stays down.
+zastupitelstvo_kod_brno:
+  status: "DOWN — HTTP 503, re-verified 2026-08-06 and again 2026-08-07 (repeated retries, with
+    and without a browser User-Agent, various path suffixes, all 503; kod.brno.cz root and
+    data.brno.cz both still 200, so this is endpoint-specific, not sitewide). No longer used as
+    the primary source for C2; kept here for reference/future re-check only."
+  type: json
+  url: "https://kod.brno.cz/zastupitelstvo/"
+  note: >
+    Endpoint used by the legacy scraper (legacy/brno/scripts/downloader.py); when it worked, it
+    returned a JSON object with a "data" array, one entry per vote event, including
+    "parties" -> "votes" for per-person options. Vocabulary: Ano/Ano (VK) = yes, Ne/Ne (VK) = no,
+    Zdržel se/Zdržel se (VK) = abstain, nepřít. = absent, Nehlasoval/Nehlasoval (VK) = not voting.
+    Also published a separate "details": {"yes", "no", "abstained", "present"} aggregate per
+    event alongside the per-person votes — that made a genuine independent G2 cross-check
+    possible when this endpoint worked. If it ever comes back, it's worth re-evaluating as the
+    primary source since it has that built-in aggregate (the zastupko.cz replacement below does
+    not). Re-check periodically; not investigated further why it went down or whether it will
+    return.
+
+zastupko_current:
+  status: "LIVE, VERIFIED 2026-08-07 — now the primary source."
+  type: json
+  url: "https://brno.zastupko.cz/flask/brno/zastupitelstvo/9/dataset"
+  discovered_via: >
+    The ArcGIS Hub "explore" page (`data.brno.cz/documents/mestobrno::hlasování-zastupitelstva...`)
+    doesn't serve real content to a naive fetch (JS SPA), so it was resolved via the ArcGIS Item
+    API search instead: `https://www.arcgis.com/sharing/rest/search?q=hlasování zastupitelstva
+    brno&f=json` returns item id `f3c663acc9c047cfa898afea94ea3711`
+    ("Hlasování zastupitelstva 2022–2024/ City council voting data 2022–2024", owner
+    OpenDataBrno) whose description embeds the real JSON feed URL above. A second ArcGIS item
+    (`46c26ea8be4549f099e0b80113e0eb64`, a web-mapping app) confirms the same feed and additionally
+    links dataset id 8 (term 2018–2022, not used here) and documents the data model repo.
+  platform: >
+    Built by `zastupko.cz` (FIT VUT Brno project, `zastupko.fit.vutbr.cz`), NOT kod.brno.cz's own
+    platform — a different vendor/pipeline entirely, despite covering the same council. Dataset
+    id 9 = term 2022–2026 (`poradiZastupitelstva: 9`); id 8 = term 2018–2022 (prior term, not
+    used); id 10 = the *next* term (2026–2030) already provisioned but empty
+    (`{"zastupitelstva":[{"do":null,"od":null,...,"zasedani":[]}]}`) — confirms 9 is the correct,
+    current dataset and 10 is not usable yet.
+  schema: >
+    Documented at https://github.com/zastupko/data-model (schema.json / schema-CZ.json, CC BY
+    4.0). Nested structure: municipalita -> politickeSubjekty (party list, id/zkrNazev/barva) ->
+    zastupitele (council members: id, jmeno, prijmeni, politickeSubjekty[] with od/do date
+    intervals — i.e. REAL per-party-membership intervals, not inferred) -> zastupitelstva[0]
+    (the term) -> koalice[] (coalition composition, od/do) + lidr[] (mayor/leader, od/do) ->
+    zasedani[] (meetings: cislo, datum, id, url.zaznam) -> hlasovani[] (vote events: id, cislo,
+    cas, platne, prijato, proceduralni, blokove, tajne, projednavano[] (agenda item(s):
+    predmetHlasovani, cisloUsneseni, klicovaSlova[], urlNavrh), urlProtokol, sumarizace (aggregate
+    fallback, only used "if individual votes aren't available" — confirmed 0/2813 events use it
+    in this dataset, always per-person data instead), zastupiteleHlasy[] (idZastupitel, hlas,
+    prezencne)).
+  vote_option_vocabulary: >
+    Single-letter codes (schema-CZ.json's `hlas` enum), different from kod.brno.cz's Czech-word
+    vocabulary: "A" = Ano/pro -> yes, "N" = Ne/proti -> no, "Z" = Zdržel/a se -> abstain,
+    "–" (en dash) = Nepřítomen/nepřítomna -> absent, "X" = Nehlasoval/a -> not voting. Schema also
+    defines "O" (Omluven/a, excused) and "T" (Tajná, secret) but neither occurs even once in the
+    observed data (2022-10-20 through 2025-11-11) — standardize.py intentionally does not map
+    them (raises loudly if ever encountered, rather than guessing a dt-standard option for them).
+  coverage_and_known_gap: >
+    Live-verified data spans 2022-10-20 (Z9/01, first session of the term) through 2025-11-11
+    (Z9/30) — 2813 vote events across 30 sessions, 58 distinct council members. HOWEVER: Brno's
+    own official meeting listing (https://www.brno.cz/zasedani-zmb, fetched 2026-08-07) shows the
+    council continued meeting well past that: Z9/31 (2025-12-10), Z9/32 (2026-01-20), Z9/33
+    (2026-03-03), Z9/34 (2026-04-14), Z9/35 (2026-05-19), Z9/36 (2026-06-23) all held, and Z9/37
+    (2026-09-15) scheduled. The zastupko.cz feed has NOT been updated to include these 6+ held
+    sessions despite its own documentation claiming updates "within one week" of each session —
+    this is a real, ~9-month coverage gap as of 2026-08-07, not a sign the term ended early. The
+    "do": "2025-11-11" fields on koalice/lidr/politickeSubjekty entries are an artifact of this
+    same feed staleness (last snapshot date), not an actual coalition/term end — do not read them
+    as "the coalition ended." Re-check this feed on every pipeline run (nightly, once wired up);
+    if it stays stale, this needs a direct owner/maintainer inquiry (zastupko.cz contact) or a
+    parallel scrape of https://www.brno.cz/zasedani-zmb + apl.brno.cz protocol pages to backfill
+    the gap — out of scope for C2, flagged for whoever picks up C5/C6-equivalent nightly wiring
+    for Brno.
+  g2_cross_check_approach: >
+    No independently-published per-event aggregate is available in this feed (sumarizace is
+    always empty here) or reachable from this environment: apl.brno.cz (linked per-event as
+    urlProtokol, presumably the official signed protocol with a published pro/proti/zdrzel table)
+    resolves via DNS but times out on every connection attempt from this sandbox (tested http and
+    https, 20-30s timeouts) while www.brno.cz and kod.brno.cz root both work fine — likely a
+    firewall/network-path issue specific to this sandbox, not necessarily true from GitHub
+    Actions' network. standardize.py therefore uses a self-consistency check as the primary G2
+    signal (recomputed yes/no majority vs. the source's own published `prijato` pass/fail
+    boolean, which is asserted independently by the council's own voting system, not derived from
+    our per-person tally) — see standardize.py's docstring for the exact rule and observed
+    mismatch rate. It also makes a best-effort (non-blocking) attempt to fetch a sample of
+    urlProtokol pages for a genuine independent aggregate cross-check; if apl.brno.cz is
+    unreachable (as in this sandbox) it logs that plainly and does not fail the gate on a network
+    problem. Re-attempt from CI to see if the protocol pages are reachable there.
+  known_data_quality_findings:
+    - "One single vote event (hlasovani id=4962, session Z9/11, 2023-10-18, cislo '12') has 48 of
+      its 55 zastupiteleHlasy entries with `hlas: 0` (a bare JSON integer, not one of the
+      documented string codes) instead of a real vote value — a source-side export bug isolated
+      to this one record (only 6 valid '–' and 1 valid 'A' remain). standardize.py does not
+      fabricate a vote for these 48 people; it omits their votes.csv rows for this event and logs
+      the anomaly in the event's extras.data_quality."
+    - "Two distinct council members share the exact name 'Petr Bořecký' (source ids 3 and 121) —
+      a genuine G5 namesake collision, confirmed real (not a source duplicate): id 3 sat
+      2022-10-20→2025-11-11 for ANO 2011 (politickeSubjekt id 2) with a vote recorded in every
+      single one of the 2813 sessions; id 121 sat 2024-01-30→2025-11-11 for Lidovci a Starostové
+      (politickeSubjekt id 13), overlapping id 3's tenure and voting in the same sessions from
+      2024-01-30 onward. Disambiguated by suffixing the source's own numeric id to both person
+      IDs (brno:person:petr-borecky-3 / brno:person:petr-borecky-121) — never merged, per G5."
+    - "One member (source id 91, Karin Podivinská) has a documented former name in the source's
+      `aliasy` field: 'Karin Karasová' until 2022-10-20 (a maiden-name change, consistent with the
+      term's start date) — votes always reference the numeric id, not the name, so this poses no
+      identity risk, but the former name is recorded as a person identifier for completeness."
+  party_and_membership_data_available_for_c4: >
+    Unlike Praha (where party affiliation had to be sourced separately from volby.cz per D7's
+    fallback rule), this feed's `politickeSubjekty` array gives each council member's REAL,
+    live party/klub membership with since/until date intervals directly — exactly D7's *preferred*
+    case ("a live/current group-membership source... with since/until intervals"), not the
+    candidate-list fallback. `koalice`/`lidr` similarly give real coalition composition and mayor
+    intervals. C2 deliberately does NOT build party/coalition organizations or memberships from
+    this — per the plan's scope boundary (C2 must not attempt C4-owned, sign-off-gated coalition
+    facts) — but whoever picks up C4 should use this in-feed data directly rather than researching
+    it from scratch; it is much stronger evidence than Praha had at the same stage.
+  legacy_reconciliation: >
+    legacy/brno/data/vote_events.csv covers 2022-10-20 through 2024-05-14 (1584 rows, from the old
+    kod.brno.cz scraper, filtered to `present > 10` to skip empty/error votes) and voters.csv has
+    56 distinct voters. The same window in this feed has 1589 vote events (99.7% match, the 5-row
+    difference plausibly explained by legacy's own filter dropping near-empty votes that this
+    feed still includes) and exactly 56 distinct zastupitele who cast at least one recorded vote —
+    an exact match. See C2's commit message / pipeline run log for the full reconciliation report.
