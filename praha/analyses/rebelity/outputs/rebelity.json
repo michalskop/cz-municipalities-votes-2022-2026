@@ -815,9 +815,9 @@
   },
   {
     "person_id": "praha:person:hana-marvanova",
-    "rebelity_total": 9,
-    "rebelity_possible": 2337,
-    "rebelity": 0.003851,
+    "rebelity_total": 0,
+    "rebelity_possible": 175,
+    "rebelity": 0.0,
     "name": "Hana Marvanová",
     "given_names": [
       "Hana"
@@ -830,13 +830,15 @@
         "id": "praha:org:candidate-list:spolu-pro-prahu",
         "classification": "group",
         "name": "SPOLU pro Prahu",
-        "since": "2022-11-03"
+        "since": "2022-11-03",
+        "until": "2023-02-17"
       },
       {
         "id": "praha:org:candidate-list:spolu-pro-prahu",
         "classification": "candidate_list",
         "name": "SPOLU pro Prahu",
-        "since": "2022-11-03"
+        "since": "2022-11-03",
+        "until": "2023-02-17"
       }
     ],
     "since": "2022-11-03"
@@ -1170,13 +1172,15 @@
         "id": "praha:org:candidate-list:ano-2011",
         "classification": "group",
         "name": "ANO 2011",
-        "since": "2022-11-03"
+        "since": "2022-11-03",
+        "until": "2026-06-30"
       },
       {
         "id": "praha:org:candidate-list:ano-2011",
         "classification": "candidate_list",
         "name": "ANO 2011",
-        "since": "2022-11-03"
+        "since": "2022-11-03",
+        "until": "2026-06-30"
       }
     ],
     "since": "2022-11-03"
@@ -1849,6 +1853,90 @@
         "classification": "candidate_list",
         "name": "ANO 2011",
         "since": "2025-01-23"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:maria-sevcikova",
+    "rebelity_total": 0,
+    "rebelity_possible": 0,
+    "rebelity": null,
+    "name": "Mária Ševčíková",
+    "given_names": [
+      "Mária"
+    ],
+    "family_names": [
+      "Ševčíková"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2026-06-30"
+      },
+      {
+        "id": "praha:org:candidate-list:ano-2011",
+        "classification": "candidate_list",
+        "name": "ANO 2011",
+        "since": "2026-06-30"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:klara-cingrosova",
+    "rebelity_total": 0,
+    "rebelity_possible": 150,
+    "rebelity": 0.0,
+    "name": "Klára Cingrošová",
+    "given_names": [
+      "Klára"
+    ],
+    "family_names": [
+      "Cingrošová"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:spd-trik-pes-a-nez-pro-prahu",
+        "classification": "group",
+        "name": "SPD,Trik.,PES a nez. pro Prahu",
+        "since": "2026-03-26"
+      },
+      {
+        "id": "praha:org:candidate-list:spd-trik-pes-a-nez-pro-prahu",
+        "classification": "candidate_list",
+        "name": "SPD,Trik.,PES a nez. pro Prahu",
+        "since": "2026-03-26"
+      }
+    ],
+    "since": "2022-11-03"
+  },
+  {
+    "person_id": "praha:person:michal-biskup",
+    "rebelity_total": 0,
+    "rebelity_possible": 767,
+    "rebelity": 0.0,
+    "name": "Michal Biskup",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Biskup"
+    ],
+    "organizations": [
+      {
+        "id": "praha:org:candidate-list:starostove-a-nezavisli",
+        "classification": "group",
+        "name": "STAROSTOVÉ A NEZÁVISLÍ",
+        "since": "2025-04-24"
+      },
+      {
+        "id": "praha:org:candidate-list:starostove-a-nezavisli",
+        "classification": "candidate_list",
+        "name": "STAROSTOVÉ A NEZÁVISLÍ",
+        "since": "2025-04-24"
       }
     ],
     "since": "2022-11-03"

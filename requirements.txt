@@ -3,3 +3,14 @@ requests==2.32.3
 pyyaml==6.0.2
 jsonschema==4.23.0
 pytest==9.0.3
+
+# Used by praha/scripts/fetch_praha_roster.py to cross-check the live praha.eu roster (a
+# client-rendered Angular SPA plain `requests` can't read). NOTE: `pip install playwright` alone
+# is not enough — Playwright's own `playwright install chromium` browser-download step does not
+# work in this container's OS. Point Playwright at the system-installed Chromium instead:
+# `playwright.chromium.launch(executable_path="/snap/bin/chromium", ...)`. If this ever needs to
+# run in CI (e.g. a nightly job), the runner would need either the same system-Chromium
+# workaround or a working `playwright install --with-deps chromium` step — not yet set up, see
+# the flagged follow-up in fetch_praha_roster.py's usage/README notes.
+playwright==1.60.0
+beautifulsoup4==4.15.0

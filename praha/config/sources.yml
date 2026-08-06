@@ -35,3 +35,17 @@ vysledky_hlasovani_zhmp:
     ANO 2011 (14), Česká pirátská strana (13), PRAHA SOBĚ (11), STAROSTOVÉ A NEZÁVISLÍ (5),
     SPD,Trik.,PES a nez. pro Prahu (3) — 65 seats total, verified against volby.cz's own aggregate
     page (resolves an 18-vs-19-seat discrepancy in one secondary source: SPOLU pro Prahu won 19).
+
+    ADDENDUM 2026-08-06: the "no browser automation available" conclusion above was a limitation
+    of that session's tooling, not of praha.eu itself. Real browser automation (Playwright, driven
+    against the system-installed Chromium — see requirements.txt and
+    praha/scripts/fetch_praha_roster.py) *can* read praha.eu/seznam-zastupitelu and
+    praha.eu/politicke-kluby; both are just client-rendered Angular SPAs that a plain HTTP client
+    can't execute. This was used for a one-time reconciliation against 4 personnel changes the
+    stale Golemio CSV pipeline structurally could not see (see persons.csv/memberships.csv commit
+    history around 2026-08-06 and DIVERGENCE.md in the dashboard repo for the full story). This
+    does NOT replace `group_affiliation_source` above as the pipeline's regular/nightly source —
+    that remains the volby.cz candidate-list fallback, re-applied every run by
+    party_affiliation.py. Whether a live praha.eu roster check should become a recurring
+    (nightly/periodic) pipeline step, replacing or supplementing the candidate-list fallback, is
+    an open follow-up, not decided here.

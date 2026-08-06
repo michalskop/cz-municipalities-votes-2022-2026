@@ -562,14 +562,14 @@
         "name": "SPOLU pro Prahu",
         "classification": "groups",
         "since": "2022-11-03",
-        "until": null
+        "until": "2023-02-17"
       },
       {
         "id": "praha:org:candidate-list:spolu-pro-prahu",
         "name": "SPOLU pro Prahu",
         "classification": "candidate_list",
         "since": "2022-11-03",
-        "until": null
+        "until": "2023-02-17"
       }
     ],
     "since": "2022-11-03"
@@ -1746,24 +1746,25 @@
         "name": "Zastupitelstvo hlavního města Prahy",
         "classification": "parliament",
         "since": "2022-11-03",
-        "until": null
+        "until": "2026-06-30"
       },
       {
         "id": "praha:org:candidate-list:ano-2011",
         "name": "ANO 2011",
         "classification": "groups",
         "since": "2022-11-03",
-        "until": null
+        "until": "2026-06-30"
       },
       {
         "id": "praha:org:candidate-list:ano-2011",
         "name": "ANO 2011",
         "classification": "candidate_list",
         "since": "2022-11-03",
-        "until": null
+        "until": "2026-06-30"
       }
     ],
-    "since": "2022-11-03"
+    "since": "2022-11-03",
+    "until": "2026-06-30"
   },
   {
     "person_id": "praha:person:patrik-nacher",
