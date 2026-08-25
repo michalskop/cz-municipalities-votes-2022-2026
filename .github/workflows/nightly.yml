@@ -1,15 +1,16 @@
 # Nightly automation for the Praha pipeline (plan.md task C6).
 #
-# NOT YET LIVE: this workflow only runs once it is pushed to GitHub and the repo owner reviews and
-# enables it — per the project's git discipline, it was authored and committed locally but not
-# pushed. Until then this file is inert.
+# LIVE since 2026-08-25 (pushed to origin/main; runs on the schedule below plus workflow_dispatch).
 #
 # Shape: checkout -> install deps -> run Praha's pipeline -> party-affiliation fix (resolves the
 # standardize.py-overwrite gap documented in praha/pipelines/run_pipeline.py's module docstring) ->
-# G4 monotonicity guard (against the pre-run committed state) -> clone the shared analyses repo ->
-# run the four analyses -> G7 range-sanity check each output -> commit + push, but only if every
-# preceding step succeeded (GitHub Actions' default behavior: a failing step stops the job before
-# later steps, including the commit step, ever run — no extra plumbing needed for that).
+# roster overlay re-apply (resolves the analogous gap for praha.eu-diagnosed mid-term personnel
+# changes standardize.py/party_affiliation.py can't see — see roster_overlay.py) -> overlay
+# staleness warning (non-blocking) -> G4 monotonicity guard (against the pre-run committed state)
+# -> clone the shared analyses repo -> run the four analyses -> G7 range-sanity check each output
+# -> commit + push, but only if every preceding step succeeded (GitHub Actions' default behavior: a
+# failing step stops the job before later steps, including the commit step, ever run — no extra
+# plumbing needed for that).
 #
 # Single city only, deliberately not a matrix yet: only Praha has a working pipeline right now
 # (Brno is queued behind its own source coming back up — see plan.md C2; Ostrava's pipeline doesn't
@@ -58,6 +59,22 @@ jobs:
         # making standardize.py do fragile read-modify-write merging against another script's
         # output.
         run: python praha/scripts/party_affiliation.py --data-dir praha/data
+
+      - name: Re-apply praha.eu roster overlay (mid-term personnel changes Golemio can't see)
+        # Same class of gap as the party-affiliation step above, for a different blind spot: a
+        # personnel change (new substitute, klub exclusion) that has no covering roll-call vote
+        # yet is invisible to standardize.py, and a klub change after 2022 is invisible to
+        # party_affiliation.py's fixed election-results source. roster_overlay.py's rows are
+        # manually diagnosed+cited against a past praha.eu fetch (see its VERIFIED_AS_OF) and must
+        # be re-applied every night the same way, or they silently disappear/revert. Added after
+        # the 2026-08-25 manual nightly run failed G4 for exactly this reason.
+        run: python praha/scripts/roster_overlay.py --data-dir praha/data
+
+      - name: Check roster overlay staleness (non-blocking)
+        # Warns (does not fail the job) once VERIFIED_AS_OF is more than 30 days old — a reminder
+        # to re-run fetch_praha_roster.py and look for any *new*, not-yet-diagnosed personnel gap.
+        # See check_roster_overlay_staleness.py's docstring for why this can't be a hard gate.
+        run: python praha/scripts/check_roster_overlay_staleness.py
 
       - name: G4 monotonicity guard
         # Must run BEFORE anything is staged/committed: it diffs the just-regenerated working tree
