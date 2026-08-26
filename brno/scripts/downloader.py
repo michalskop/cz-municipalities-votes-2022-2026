@@ -10,17 +10,44 @@ was repointed 2026-08-26 from a stale mirror to the real origin server (see sour
 `mirror_vs_origin` note) — the previously documented "several months" lag was an artifact of that
 wrong URL, not a property of the source itself; re-fetching is still the right default, just no
 longer a workaround for a known-stale copy.
+
+IPv6 note (2026-08-26, first nightly CI run after the origin switch): the origin
+(zastupko.fit.vutbr.cz) publishes both an A and an AAAA record; GitHub Actions runners raised
+`ConnectionError: ... Network is unreachable` trying the AAAA (IPv6) address specifically — a
+well-documented GitHub Actions runner limitation (IPv6 looks configured on the interface but isn't
+actually routed to many external hosts), not a problem with the source or this repo's code, and
+not reproducible in this project's own dev sandbox (which resolves IPv6 fine). Forcing IPv4-only
+resolution for the duration of this script's one request works around it — see `_force_ipv4`.
 """
 import argparse
+import contextlib
 import logging
+import socket
 from pathlib import Path
 
 import requests
+import urllib3.util.connection as urllib3_connection
 import yaml
 
 _CITY_ROOT = Path(__file__).resolve().parents[1]
 _DEFAULT_SOURCES = _CITY_ROOT / "config" / "sources.yml"
 _DEFAULT_OUT = _CITY_ROOT / "work" / "raw" / "zastupko_dataset_9.json"
+
+
+@contextlib.contextmanager
+def _force_ipv4():
+    """Temporarily make urllib3 (requests' transport) resolve AF_INET only.
+
+    Scoped to this context manager's block, not a permanent process-wide patch — restores the
+    original resolver afterward so this script's IPv4-forcing choice can't leak into unrelated
+    code that happens to import this module.
+    """
+    original = urllib3_connection.allowed_gai_family
+    urllib3_connection.allowed_gai_family = lambda: socket.AF_INET
+    try:
+        yield
+    finally:
+        urllib3_connection.allowed_gai_family = original
 
 
 def download(
@@ -33,7 +60,8 @@ def download(
     url = cfg["zastupko_current"]["url"]
 
     logging.info("Downloading %s", url)
-    resp = requests.get(url, timeout=timeout)
+    with _force_ipv4():
+        resp = requests.get(url, timeout=timeout)
     resp.raise_for_status()
 
     out_path.parent.mkdir(parents=True, exist_ok=True)
