@@ -1,0 +1,58 @@
+{
+  "since": "2022-10-20",
+  "until": null,
+  "present_options": ["yes", "no", "abstain"],
+  "absent_options": ["absent", "not voting"],
+  "yes_options": ["yes"],
+  "no_options": ["no"],
+  "government_groups": [
+    "brno:org:group:ods-a-top-09",
+    "brno:org:group:ano-2011",
+    "brno:org:group:lidovci-a-starostove",
+    "brno:org:group:cssd-vasi-starostove",
+    "brno:org:group:socdem",
+    "brno:org:group:nezavisli",
+    "brno:org:group:brno-klidem-a-nezavisli-zastupitele"
+  ],
+  "government_members": [],
+  "extras": {
+    "approval_status": "PENDING PROJECT OWNER SIGN-OFF (D7) — draft only, NOT yet approved for publish. See government_groups_citation for the well-cited core facts, and open_questions for two specific edges that need an explicit owner decision before this can ship.",
+    "government_groups_citation": [
+      {
+        "claim": "Brno's 2022-2026 governing coalition, formed after the Oct 2022 election, is ODS+TOP09 ('ODS a TOP 09') + ANO 2011 + KDU-CSL+STAN ('Lidovci a Starostove') + CSSD ('CSSD VASI STAROSTOVE', later renamed 'SOCDEM' nationally in 2023) — 42 of 55 seats. Piraty (Pirati) pulled out of coalition talks hours before the signing ceremony over police raids connected to a corruption case; they, SPD+Trikolora, and Zeleni a Zit Brno sat in opposition instead.",
+        "sources": [
+          "https://www.irozhlas.cz/zpravy-domov/koalicni-smlouva-brno-koalice_2210191905_pat",
+          "https://zpravy.aktualne.cz/domaci/pirati-do-koalice-v-brne-nevstoupi-nazor-zmenili-po-policejn/r~741907bc4f9811ed9ae20cc47ab5f122/",
+          "https://www.seznamzpravy.cz/clanek/domaci-co-je-moc-to-je-moc-pirati-v-brne-couvaji-z-koalice-vadi-jim-kauzy-217223"
+        ]
+      },
+      {
+        "claim": "The CSSD/SOCDEM identity change (idPolitickySubjekt 14 -> 9 in the feed) is a party rebrand, not a coalition change: the single councilor tracked under this klub (Bretislav Stefan, source id 98) has a continuous, non-overlapping transition from 'CSSD VASI STAROSTOVE' (2022-10-20 to 2023-06-20) to 'SOCDEM' (2023-09-05 to 2026-01-20) in the feed's own data, consistent with CSSD's real, publicly documented 2023 national rebrand to SOCDEM.",
+        "sources": [
+          "brno.zastupko.cz/zastupko.fit.vutbr.cz feed itself (zastupitele[98].politickeSubjekty) — internal source-data citation, not an external news claim"
+        ]
+      },
+      {
+        "claim": "December 2025: ANO's national leadership expelled 10 Brno councillors (including deputy mayor Rene Cerny and councilor Petr Borecky) for refusing to leave the ruling coalition with ODS after the party's regional leadership called for it, following the Pavel Blazek bitcoin-seizure scandal. The expelled group EXPLICITLY STAYED in the governing coalition (that refusal is why they were expelled) and founded a new movement, 'Brno klidem', continuing as coalition members under that new banner. This is corroborated by the feed's own data: all 6 people who show a 'Nezavisli' (idPolitickySubjekt 7) interval have the IDENTICAL 2026-01-20 to 2026-03-03 window (a uniform transitional bucket, not scattered unrelated departures), and the same 6 (where recorded) later show 'Brno klidem a nezavisli zastupitele' (idPolitickySubjekt 16) from 2026-04-14 onward.",
+        "sources": [
+          "https://www.seznamzpravy.cz/clanek/domaci-politika-vedeni-ano-vyloucilo-brnenske-zastupitele-kteri-neopustili-koalici-s-ods-293838",
+          "https://ct24.ceskatelevize.cz/clanek/regiony/jihomoravsky-kraj/hnuti-ano-vyloucilo-desitku-brnenskych-zastupitelu-368143",
+          "https://www.irozhlas.cz/zpravy-domov/takove-veci-nelze-prehlizet-vedeni-ano-vyloucilo-brnenske-zastupitele-kteri_2512102016_cen",
+          "https://stisk.online/a/pxfVj/vylouceni-zastupitele-ano-prichazeji-s-hnutim-brno-klidem-chteji-pokracovat-v-politice",
+          "https://www.brno.cz/w/petr-borecky (official council page, confirms Borecky's CURRENT affiliation as 'Brnoklidem a nezavisli zastupitele')"
+        ]
+      }
+    ],
+    "open_questions_for_owner": [
+      {
+        "question": "Three people (Jiri Oliva id 21, Marek Viskot id 24, Bretislav Stefan id 98) show a 'nezarazeni' (unaffiliated, idPolitickySubjekt 15, org NOT currently in the draft government_groups list above) interval starting 2026-03-03 — the exact date the 6-person 'Nezavisli' transitional bucket ends. Oliva and Viskot both have an assembly start of 2022-10-20 with NO earlier recorded party interval (same 'incomplete history' pattern as the confirmed ex-ANO group — see party_affiliation.py's known_data_quality note), suggesting they may ALSO be part of the same ex-ANO/coalition-loyal group but chose to go formally independent rather than join 'Brno klidem'. I could not find news coverage specific to these two confirming or denying this. Should 'nezarazeni' (brno:org:group:nezarazeni) be added to government_groups (if they stayed coalition-aligned), left out (if they're genuinely independent/opposition-leaning), or should these two people be added individually to government_members instead (if their status is confirmed but distinct from the org-level klub)?",
+        "recommendation": "Leave 'nezarazeni' OUT of government_groups for now (the conservative default — do not assume coalition alignment without a citation) unless you can confirm otherwise."
+      },
+      {
+        "question": "Stefan's own SOCDEM interval ends 2026-01-20 and he shows 'nezarazeni' from 2026-03-03 onward (with a 6-week undocumented gap in between, same pattern as the ANO group's gap before joining Brno klidem). Did Stefan leave the coalition when he left SOCDEM, or does he remain a coalition-aligned independent? This directly affects whether SOCDEM's seat still counts as government-held today.",
+        "recommendation": "No specific citation found either way. Recommend treating this the same as the question above (SOCDEM's historical membership stays in government_groups since it WAS a coalition partner for its whole recorded tenure; whether Stefan personally still counts as government today is exactly the 'nezarazeni' question above) — but flagging explicitly rather than deciding unilaterally, since this is a live political fact, not a technical default."
+      }
+    ],
+    "not_investigated": "Whether any of the 4 original coalition parties' own internal composition changed (e.g. ODS/TOP09 splitting) is out of scope, matching Praha's own definition's equivalent note — this repo models each feed-reported klub as one org, no sub-party split available."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "since": "2022-10-20",
+  "until": null,
+  "present_options": ["yes", "no", "abstain"],
+  "absent_options": ["absent", "not voting"],
+  "yes_options": ["yes"],
+  "no_options": ["no"],
+  "extras": {
+    "approval_status": "DRAFT — measures alignment with each person's own REAL klub (brno:org:group:* rows from brno/scripts/party_affiliation.py, sourced directly from the feed's dated politickeSubjekty intervals — D7's preferred live-group case, not a candidate-list fallback like Praha's). Does not depend on which groups form the government, so it does not require the same D7 sign-off as govity/wpca's government_groups — ready to use as-is.",
+    "vocabulary_source": "Same vocabulary mapping as attendance_definition.json.",
+    "note": "Rebelity requires each person's group membership at each vote-event date, sourced from data/memberships.csv's brno:org:group:* rows (real dated intervals, not candidate-list origin) via the all-members-shaped persons file the runner builds — mirrors praha/scripts/build_all_members.py, a Brno equivalent is not yet built (out of scope for this draft, needed before rebelity can actually be run).",
+    "known_gap": "A handful of people (7 as of 2026-08-26 — see brno/scripts/party_affiliation.py's module docstring, e.g. René Černý, Karin Podivinská) have an incomplete politickeSubjekty history: the source only records their CURRENT group (from 2026-04-14/2026-03-03 onward), not their real 2022-2025 ANO 2011-era affiliation. Rebelity scores for votes cast before their earliest recorded interval will show as 'no group data' for those people rather than a (possibly wrong) guessed affiliation — never fabricated."
+  }
+}

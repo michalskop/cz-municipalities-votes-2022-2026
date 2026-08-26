@@ -1,0 +1,11 @@
+{
+  "since": "2022-10-20",
+  "until": null,
+  "present_options": ["yes", "no", "abstain"],
+  "absent_options": ["absent", "not voting"],
+  "extras": {
+    "approval_status": "DRAFT — no political judgment involved (pure vote-option vocabulary + term dates), does not require D7 sign-off the way govity/wpca's government_groups does. Ready to use as-is.",
+    "vocabulary_source": "brno/config/sources.yml's vote_option_vocabulary: schema-CZ.json's single-letter hlas codes, A/N/Z -> yes/no/abstain (present), '–' (absent, en dash) -> absent, X (Nehlasoval/a) -> not voting, mirroring the cz-psp-data-2025-202x convention of grouping 'not voting' with absent for attendance purposes.",
+    "since_rationale": "2022-10-20 = start_date of the assembly term per brno/data/memberships.csv (first session Z9/01). until=null: the term has not ended as of this file's creation (2026-08-26); the origin feed's last observed session is Z9/36 (2026-06-23), with Z9/37 (2026-09-15) scheduled but not yet held."
+  }
+}

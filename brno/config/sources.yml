@@ -89,9 +89,13 @@ zastupko_current:
     Single-letter codes (schema-CZ.json's `hlas` enum), different from kod.brno.cz's Czech-word
     vocabulary: "A" = Ano/pro -> yes, "N" = Ne/proti -> no, "Z" = Zdržel/a se -> abstain,
     "–" (en dash) = Nepřítomen/nepřítomna -> absent, "X" = Nehlasoval/a -> not voting. Schema also
-    defines "O" (Omluven/a, excused) and "T" (Tajná, secret) but neither occurs even once in the
-    observed data (2022-10-20 through 2025-11-11) — standardize.py intentionally does not map
-    them (raises loudly if ever encountered, rather than guessing a dt-standard option for them).
+    defines "O" (Omluven/a, excused) and "T" (Tajná, secret) — standardize.py intentionally does
+    not map either (skips + logs rather than guessing a dt-standard option for them; see its
+    module docstring finding #1). UPDATE 2026-08-26: "O" still never occurs; "T" DOES occur — all
+    48 non-"–"/"A" entries on the single already-documented anomalous event (hlasovani id=4962,
+    2023-10-18) are "T" on the origin server (they were a bare corrupted JSON integer `0` on the
+    old mirror — the origin has since been fixed upstream). Confirmed via a full scan of all
+    36 sessions' hlas values that this is the ONLY event with any "T"/"O" — not a wider pattern.
   coverage_and_known_gap: >
     RESOLVED 2026-08-26 (was previously documented as a ~9-month gap — that gap was an artifact
     of using the stale mirror, see the UPDATE note at the top of this file, not a real source-side

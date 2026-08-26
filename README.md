@@ -15,9 +15,10 @@ only adds city-specific *sources* and *definition files*, never forked analysis 
 
 - **Praha** — [`praha/`](./praha/) · source: open-data CSV · status: pipeline built, G1/G2/G5 pass,
   definitions owner-approved (C7/C8 done)
-- **Brno** — [`brno/`](./brno/) · source: `zastupko.cz` JSON feed (the original `kod.brno.cz`
-  endpoint stayed down; see [`brno/README.md`](./brno/README.md)) · status: pipeline built,
-  G1/G2/G5 pass (C2 done); definitions/golden-sample not started, need owner sign-off (C3/C4)
+- **Brno** — [`brno/`](./brno/) · source: `zastupko.cz` JSON feed, origin server (the original
+  `kod.brno.cz` endpoint stayed down; see [`brno/README.md`](./brno/README.md)) · status:
+  pipeline + golden sample + real party/klub data done, G1/G2/G5 pass (C2/C3 done); analysis
+  definitions drafted, coalition (`government_groups`) pending owner sign-off (C4/D7)
 - **Ostrava** — [`ostrava/`](./ostrava/) · source: HTML scrape · status: scaffolded, pipeline not
   built yet (task C9)
 

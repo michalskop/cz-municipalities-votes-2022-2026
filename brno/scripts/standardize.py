@@ -16,10 +16,16 @@ on coalition facts (D7), not C2.
 
 Three real data-quality findings are handled here, logged, never silently dropped:
 
-1. **Corrupted vote value** — one vote event (hlasovani id=4962) has 48/55 per-person `hlas` values
-   as a bare JSON integer `0` instead of a documented vocabulary code. No votes.csv row is written
-   for those 48 (person, event) pairs — never fabricate a vote — and the event's
-   `extras.data_quality.corrupted_hlas_values` records exactly which persons and how many.
+1. **Unmapped vote value** — one vote event (hlasovani id=4962) has 48/55 per-person `hlas` values
+   as `"T"` (schema-CZ.json's documented "Tajná"/secret-ballot code), which OPTION_MAP
+   deliberately does not map (see OPTION_MAP's own comment — O/T are excluded on purpose). On the
+   OLD brno.zastupko.cz mirror this same event instead had those 48 entries as a bare JSON integer
+   `0` (a genuine source-side export bug on that stale copy, since fixed upstream on the origin) —
+   this file's earlier revision described it as that bug; corrected 2026-08-26 when switching to
+   the origin (see sources.yml's `mirror_vs_origin`/`vote_option_vocabulary` notes). Whichever the
+   underlying cause, the handling is identical: no votes.csv row is written for those 48 (person,
+   event) pairs — never fabricate a vote — and the event's `extras.data_quality.corrupted_hlas_values`
+   records exactly which persons and how many.
 2. **G5 namesake collision** — two distinct real people share the name "Petr Bořecký" (source ids
    3 and 121, confirmed genuinely distinct: different parties, overlapping tenure — see
    sources.yml). Never merged; disambiguated by appending the source's own numeric id to the slug
@@ -430,10 +436,13 @@ def _build_votes_events_motions(
                 data_quality["corrupted_hlas_values"] = {
                     "affected_person_source_ids": corrupted_ids,
                     "note": (
-                        "Source returned a bare integer 0 instead of a documented hlas code for "
-                        "these people on this event — a source-side export bug (isolated to this "
-                        "one event as of 2026-08-07, see sources.yml). No vote recorded for them "
-                        "here; never fabricated."
+                        "Source has an unmapped hlas value for these people on this event — "
+                        "'T' (Tajná/secret ballot, schema-CZ.json documented but intentionally "
+                        "unmapped, see standardize.py's module docstring finding #1) on the "
+                        "origin server as of 2026-08-26; was a bare corrupted integer 0 on the "
+                        "old brno.zastupko.cz mirror, since fixed upstream (isolated to this one "
+                        "event, see sources.yml). No vote recorded for them here; never "
+                        "fabricated."
                     ),
                 }
             if consistency == "mismatch":

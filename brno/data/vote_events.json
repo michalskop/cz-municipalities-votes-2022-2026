@@ -51149,7 +51149,7 @@
             119,
             125
           ],
-          "note": "Source returned a bare integer 0 instead of a documented hlas code for these people on this event — a source-side export bug (isolated to this one event as of 2026-08-07, see sources.yml). No vote recorded for them here; never fabricated."
+          "note": "Source has an unmapped hlas value for these people on this event — 'T' (Tajná/secret ballot, schema-CZ.json documented but intentionally unmapped, see standardize.py's module docstring finding #1) on the origin server as of 2026-08-26; was a bare corrupted integer 0 on the old brno.zastupko.cz mirror, since fixed upstream (isolated to this one event, see sources.yml). No vote recorded for them here; never fabricated."
         }
       }
     }
