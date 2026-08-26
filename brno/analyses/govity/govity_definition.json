@@ -16,7 +16,7 @@
   ],
   "government_members": [],
   "extras": {
-    "approval_status": "PENDING PROJECT OWNER SIGN-OFF (D7) — draft only, NOT yet approved for publish. See government_groups_citation for the well-cited core facts, and open_questions for two specific edges that need an explicit owner decision before this can ship.",
+    "approval_status": "APPROVED by project owner 2026-08-27, per plan.md decision D7. Core coalition facts (government_groups_citation below) approved as-is. Both open questions resolved — see resolved_questions: the 'nezarazeni' org was left out of government_groups (conservative default, no citation for coalition alignment), and Štefan's post-SOCDEM status follows the same resolution.",
     "government_groups_citation": [
       {
         "claim": "Brno's 2022-2026 governing coalition, formed after the Oct 2022 election, is ODS+TOP09 ('ODS a TOP 09') + ANO 2011 + KDU-CSL+STAN ('Lidovci a Starostove') + CSSD ('CSSD VASI STAROSTOVE', later renamed 'SOCDEM' nationally in 2023) — 42 of 55 seats. Piraty (Pirati) pulled out of coalition talks hours before the signing ceremony over police raids connected to a corruption case; they, SPD+Trikolora, and Zeleni a Zit Brno sat in opposition instead.",
@@ -43,14 +43,15 @@
         ]
       }
     ],
-    "open_questions_for_owner": [
+    "resolved_questions": [
       {
-        "question": "Three people (Jiri Oliva id 21, Marek Viskot id 24, Bretislav Stefan id 98) show a 'nezarazeni' (unaffiliated, idPolitickySubjekt 15, org NOT currently in the draft government_groups list above) interval starting 2026-03-03 — the exact date the 6-person 'Nezavisli' transitional bucket ends. Oliva and Viskot both have an assembly start of 2022-10-20 with NO earlier recorded party interval (same 'incomplete history' pattern as the confirmed ex-ANO group — see party_affiliation.py's known_data_quality note), suggesting they may ALSO be part of the same ex-ANO/coalition-loyal group but chose to go formally independent rather than join 'Brno klidem'. I could not find news coverage specific to these two confirming or denying this. Should 'nezarazeni' (brno:org:group:nezarazeni) be added to government_groups (if they stayed coalition-aligned), left out (if they're genuinely independent/opposition-leaning), or should these two people be added individually to government_members instead (if their status is confirmed but distinct from the org-level klub)?",
-        "recommendation": "Leave 'nezarazeni' OUT of government_groups for now (the conservative default — do not assume coalition alignment without a citation) unless you can confirm otherwise."
+        "question": "Three people (Jiri Oliva id 21, Marek Viskot id 24, Bretislav Stefan id 98) show a 'nezarazeni' (unaffiliated, idPolitickySubjekt 15) interval starting 2026-03-03 — the exact date the 6-person 'Nezavisli' transitional bucket ends. Oliva and Viskot both have an assembly start of 2022-10-20 with NO earlier recorded party interval (same 'incomplete history' pattern as the confirmed ex-ANO group), suggesting they may ALSO be part of the same ex-ANO/coalition-loyal group but chose to go formally independent rather than join 'Brno klidem'. No citation found either way. Should 'nezarazeni' be added to government_groups, or left out?",
+        "resolution": "RESOLVED 2026-08-27 by project owner: left OUT of government_groups (the conservative default in the original draft recommendation) — do not assume coalition alignment without a citation. All three people's post-2026-03-03 votes count as opposition/independent for govity purposes until a citation says otherwise.",
+        "reopen_if": "A future re-check (see check_roster_overlay_staleness.py's pattern, not yet built for Brno) finds a citation confirming or denying these three people's coalition status."
       },
       {
-        "question": "Stefan's own SOCDEM interval ends 2026-01-20 and he shows 'nezarazeni' from 2026-03-03 onward (with a 6-week undocumented gap in between, same pattern as the ANO group's gap before joining Brno klidem). Did Stefan leave the coalition when he left SOCDEM, or does he remain a coalition-aligned independent? This directly affects whether SOCDEM's seat still counts as government-held today.",
-        "recommendation": "No specific citation found either way. Recommend treating this the same as the question above (SOCDEM's historical membership stays in government_groups since it WAS a coalition partner for its whole recorded tenure; whether Stefan personally still counts as government today is exactly the 'nezarazeni' question above) — but flagging explicitly rather than deciding unilaterally, since this is a live political fact, not a technical default."
+        "question": "Stefan's own SOCDEM interval ends 2026-01-20 and he shows 'nezarazeni' from 2026-03-03 onward. Did Stefan leave the coalition when he left SOCDEM, or does he remain a coalition-aligned independent?",
+        "resolution": "RESOLVED 2026-08-27: same disposition as the question above — SOCDEM's historical membership stays in government_groups (it WAS a coalition partner for its whole recorded tenure, 2022-10-20 through 2026-01-20), but Stefan's post-2026-03-03 'nezarazeni' status does not count as government (same conservative default, no citation)."
       }
     ],
     "not_investigated": "Whether any of the 4 original coalition parties' own internal composition changed (e.g. ODS/TOP09 splitting) is out of scope, matching Praha's own definition's equivalent note — this repo models each feed-reported klub as one org, no sub-party split available."
