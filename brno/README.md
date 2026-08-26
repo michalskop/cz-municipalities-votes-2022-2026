@@ -1,16 +1,16 @@
 # Brno
 
-Status: **C3/C4 drafted (2026-08-26)**, pending owner sign-off (D7). C2 (2026-08-07) built the
+Status: **C2/C3/C4 done, owner sign-off (D7) complete (2026-08-27)**. C2 (2026-08-07) built the
 downloader + standardizer; switched 2026-08-26 from a stale mirror to the real origin server
 (see `config/sources.yml`'s `mirror_vs_origin` note — closed a ~9-month coverage gap that turned
 out to be an artifact of the wrong URL, not a real source-side lag). C3 (golden sample, 5 pinned
-vote events) is done — see `tests/test_golden_sample.py`. C4's mechanical part (real party/klub
-organizations + memberships, sourced live from the feed, not a candidate-list fallback — see
-`scripts/party_affiliation.py`) is done; the four analysis definitions are drafted
-(`analyses/*/`_definition.json`), but `govity`/`wpca`'s `government_groups` (the coalition) is
-explicitly marked `PENDING PROJECT OWNER SIGN-OFF` — see `govity_definition.json`'s
-`open_questions_for_owner` for two specific unresolved edges. Not yet wired into the nightly
-workflow or the dashboard (C5/C6-equivalent, not started).
+vote events) — see `tests/test_golden_sample.py`. C4: real party/klub organizations + memberships
+sourced live from the feed, not a candidate-list fallback (see `scripts/party_affiliation.py`);
+all four analysis definitions drafted and validated against their schemas. `govity`/`wpca`'s
+`government_groups` (the coalition) was owner-approved 2026-08-27 — see
+`govity_definition.json`'s `resolved_questions` for how its two open edges were settled. Not yet
+wired into the nightly workflow or the dashboard, and `wpca` still needs its
+detect_government_axis.py-equivalent + runner scripts built (C5/C6-equivalent, not started).
 
 - Source: `config/sources.yml`. The original primary (`kod.brno.cz/zastupitelstvo/`) is still
   returning HTTP 503 (re-verified 2026-08-04, 2026-08-06, 2026-08-07 — endpoint-specific, not
