@@ -1,0 +1,1480 @@
+[
+  {
+    "person_id": "brno:person:marketa-vankova",
+    "govity_total": 2874,
+    "govity_possible": 2875,
+    "govity": 0.999652,
+    "name": "Markéta Vaňková",
+    "given_names": [
+      "Markéta"
+    ],
+    "family_names": [
+      "Vaňková"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ods-a-top-09",
+        "classification": "group",
+        "name": "ODS a TOP 09",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:rene-cerny",
+    "govity_total": 3067,
+    "govity_possible": 3070,
+    "govity": 0.999023,
+    "name": "René Černý",
+    "given_names": [
+      "René"
+    ],
+    "family_names": [
+      "Černý"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:brno-klidem-a-nezavisli-zastupitele",
+        "classification": "group",
+        "name": "Brno klidem a nezávislí zastupitelé",
+        "since": "2026-04-14",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:katerina-jarosova",
+    "govity_total": 2976,
+    "govity_possible": 2979,
+    "govity": 0.998993,
+    "name": "Kateřina Jarošová",
+    "given_names": [
+      "Kateřina"
+    ],
+    "family_names": [
+      "Jarošová"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:brno-klidem-a-nezavisli-zastupitele",
+        "classification": "group",
+        "name": "Brno klidem a nezávislí zastupitelé",
+        "since": "2026-04-14",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:karel-kalivoda",
+    "govity_total": 3207,
+    "govity_possible": 3215,
+    "govity": 0.997512,
+    "name": "Karel Kalivoda",
+    "given_names": [
+      "Karel"
+    ],
+    "family_names": [
+      "Kalivoda"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:brno-klidem-a-nezavisli-zastupitele",
+        "classification": "group",
+        "name": "Brno klidem a nezávislí zastupitelé",
+        "since": "2026-04-14",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:rene-novotny",
+    "govity_total": 2589,
+    "govity_possible": 2604,
+    "govity": 0.99424,
+    "name": "René Novotný",
+    "given_names": [
+      "René"
+    ],
+    "family_names": [
+      "Novotný"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:vit-prygl",
+    "govity_total": 2968,
+    "govity_possible": 2972,
+    "govity": 0.998654,
+    "name": "Vít Prýgl",
+    "given_names": [
+      "Vít"
+    ],
+    "family_names": [
+      "Prýgl"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:brno-klidem-a-nezavisli-zastupitele",
+        "classification": "group",
+        "name": "Brno klidem a nezávislí zastupitelé",
+        "since": "2026-04-14",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:jiri-oliva",
+    "govity_total": 3063,
+    "govity_possible": 3072,
+    "govity": 0.99707,
+    "name": "Jiří Oliva",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Oliva"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:nezarazeni",
+        "classification": "group",
+        "name": "nezařazení",
+        "since": "2026-03-03",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:marek-viskot",
+    "govity_total": 2900,
+    "govity_possible": 2903,
+    "govity": 0.998967,
+    "name": "Marek Viskot",
+    "given_names": [
+      "Marek"
+    ],
+    "family_names": [
+      "Viskot"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:nezarazeni",
+        "classification": "group",
+        "name": "nezařazení",
+        "since": "2026-03-03",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:petr-hladik",
+    "govity_total": 1951,
+    "govity_possible": 1975,
+    "govity": 0.987848,
+    "name": "Petr Hladík",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Hladík"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:lidovci-a-starostove",
+        "classification": "group",
+        "name": "Lidovci a Starostové",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:filip-chvatal",
+    "govity_total": 3151,
+    "govity_possible": 3169,
+    "govity": 0.99432,
+    "name": "Filip Chvátal",
+    "given_names": [
+      "Filip"
+    ],
+    "family_names": [
+      "Chvátal"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:lidovci-a-starostove",
+        "classification": "group",
+        "name": "Lidovci a Starostové",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:jitka-ivicicova",
+    "govity_total": 1142,
+    "govity_possible": 1153,
+    "govity": 0.99046,
+    "name": "Jitka Ivičičová",
+    "given_names": [
+      "Jitka"
+    ],
+    "family_names": [
+      "Ivičičová"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:lidovci-a-starostove",
+        "classification": "group",
+        "name": "Lidovci a Starostové",
+        "since": "2022-10-20",
+        "until": "2023-12-12"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:filip-leder",
+    "govity_total": 2817,
+    "govity_possible": 2846,
+    "govity": 0.98981,
+    "name": "Filip Leder",
+    "given_names": [
+      "Filip"
+    ],
+    "family_names": [
+      "Leder"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:lidovci-a-starostove",
+        "classification": "group",
+        "name": "Lidovci a Starostové",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:jaroslav-suchy",
+    "govity_total": 2808,
+    "govity_possible": 2822,
+    "govity": 0.995039,
+    "name": "Jaroslav Suchý",
+    "given_names": [
+      "Jaroslav"
+    ],
+    "family_names": [
+      "Suchý"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:lidovci-a-starostove",
+        "classification": "group",
+        "name": "Lidovci a Starostové",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:david-grund",
+    "govity_total": 2943,
+    "govity_possible": 2945,
+    "govity": 0.999321,
+    "name": "David Grund",
+    "given_names": [
+      "David"
+    ],
+    "family_names": [
+      "Grund"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ods-a-top-09",
+        "classification": "group",
+        "name": "ODS a TOP 09",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:jiri-herman",
+    "govity_total": 3011,
+    "govity_possible": 3013,
+    "govity": 0.999336,
+    "name": "Jiří Herman",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Herman"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ods-a-top-09",
+        "classification": "group",
+        "name": "ODS a TOP 09",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:michal-chladek",
+    "govity_total": 2495,
+    "govity_possible": 2497,
+    "govity": 0.999199,
+    "name": "Michal Chládek",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Chládek"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ods-a-top-09",
+        "classification": "group",
+        "name": "ODS a TOP 09",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:pavel-jankuj",
+    "govity_total": 282,
+    "govity_possible": 283,
+    "govity": 0.996466,
+    "name": "Pavel Jankůj",
+    "given_names": [
+      "Pavel"
+    ],
+    "family_names": [
+      "Jankůj"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ods-a-top-09",
+        "classification": "group",
+        "name": "ODS a TOP 09",
+        "since": "2026-04-14",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:robert-kerndl",
+    "govity_total": 2657,
+    "govity_possible": 2659,
+    "govity": 0.999248,
+    "name": "Robert Kerndl",
+    "given_names": [
+      "Robert"
+    ],
+    "family_names": [
+      "Kerndl"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ods-a-top-09",
+        "classification": "group",
+        "name": "ODS a TOP 09",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:petr-kratochvil",
+    "govity_total": 2883,
+    "govity_possible": 2887,
+    "govity": 0.998614,
+    "name": "Petr Kratochvíl",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Kratochvíl"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ods-a-top-09",
+        "classification": "group",
+        "name": "ODS a TOP 09",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:andrea-pazderova",
+    "govity_total": 2969,
+    "govity_possible": 2976,
+    "govity": 0.997648,
+    "name": "Andrea Pazderová",
+    "given_names": [
+      "Andrea"
+    ],
+    "family_names": [
+      "Pazderová"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ods-a-top-09",
+        "classification": "group",
+        "name": "ODS a TOP 09",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:martin-priborsky",
+    "govity_total": 3105,
+    "govity_possible": 3107,
+    "govity": 0.999356,
+    "name": "Martin Příborský",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Příborský"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ods-a-top-09",
+        "classification": "group",
+        "name": "ODS a TOP 09",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:david-trllo",
+    "govity_total": 3106,
+    "govity_possible": 3109,
+    "govity": 0.999035,
+    "name": "David Trllo",
+    "given_names": [
+      "David"
+    ],
+    "family_names": [
+      "Trllo"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ods-a-top-09",
+        "classification": "group",
+        "name": "ODS a TOP 09",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:tomas-kolacny",
+    "govity_total": 3025,
+    "govity_possible": 3092,
+    "govity": 0.978331,
+    "name": "Tomáš Koláčný",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Koláčný"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:pirati",
+        "classification": "group",
+        "name": "Česká pirátská strana",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:jiri-kment",
+    "govity_total": 3039,
+    "govity_possible": 3287,
+    "govity": 0.924551,
+    "name": "Jiří Kment",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Kment"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:spd-trikolora",
+        "classification": "group",
+        "name": "SPD+Trikolora",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:kristyna-cerna",
+    "govity_total": 2673,
+    "govity_possible": 2677,
+    "govity": 0.998506,
+    "name": "Kristýna Černá",
+    "given_names": [
+      "Kristýna"
+    ],
+    "family_names": [
+      "Černá"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ods-a-top-09",
+        "classification": "group",
+        "name": "ODS a TOP 09",
+        "since": "2022-10-20",
+        "until": "2026-05-19"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:karin-podivinska",
+    "govity_total": 2757,
+    "govity_possible": 2762,
+    "govity": 0.99819,
+    "name": "Karin Podivinská",
+    "given_names": [
+      "Karin"
+    ],
+    "family_names": [
+      "Podivinská"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:brno-klidem-a-nezavisli-zastupitele",
+        "classification": "group",
+        "name": "Brno klidem a nezávislí zastupitelé",
+        "since": "2026-04-14",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:petr-bauer",
+    "govity_total": 1683,
+    "govity_possible": 1683,
+    "govity": 1.0,
+    "name": "Petr Bauer",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Bauer"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-20",
+        "until": "2024-06-18"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:alena-gruberova",
+    "govity_total": 3249,
+    "govity_possible": 3259,
+    "govity": 0.996932,
+    "name": "Alena Gruberová",
+    "given_names": [
+      "Alena"
+    ],
+    "family_names": [
+      "Gruberová"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:nezavisli",
+        "classification": "group",
+        "name": "Nezávislí",
+        "since": "2026-01-20",
+        "until": "2026-03-03"
+      },
+      {
+        "id": "brno:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-20",
+        "until": "2025-12-10"
+      },
+      {
+        "id": "brno:org:group:brno-klidem-a-nezavisli-zastupitele",
+        "classification": "group",
+        "name": "Brno klidem a nezávislí zastupitelé",
+        "since": "2026-04-14",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:pavel-kriz",
+    "govity_total": 3024,
+    "govity_possible": 3028,
+    "govity": 0.998679,
+    "name": "Pavel Kříž",
+    "given_names": [
+      "Pavel"
+    ],
+    "family_names": [
+      "Kříž"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:nezavisli",
+        "classification": "group",
+        "name": "Nezávislí",
+        "since": "2026-01-20",
+        "until": "2026-03-03"
+      },
+      {
+        "id": "brno:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-20",
+        "until": "2025-12-10"
+      },
+      {
+        "id": "brno:org:group:brno-klidem-a-nezavisli-zastupitele",
+        "classification": "group",
+        "name": "Brno klidem a nezávislí zastupitelé",
+        "since": "2026-04-14",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:miroslav-kubasek",
+    "govity_total": 3194,
+    "govity_possible": 3206,
+    "govity": 0.996257,
+    "name": "Miroslav Kubásek",
+    "given_names": [
+      "Miroslav"
+    ],
+    "family_names": [
+      "Kubásek"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:pavel-outrata",
+    "govity_total": 2628,
+    "govity_possible": 2638,
+    "govity": 0.996209,
+    "name": "Pavel Outrata",
+    "given_names": [
+      "Pavel"
+    ],
+    "family_names": [
+      "Outrata"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:daniel-struz",
+    "govity_total": 2695,
+    "govity_possible": 2699,
+    "govity": 0.998518,
+    "name": "Daniel Struž",
+    "given_names": [
+      "Daniel"
+    ],
+    "family_names": [
+      "Struž"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:nezavisli",
+        "classification": "group",
+        "name": "Nezávislí",
+        "since": "2026-01-20",
+        "until": "2026-03-03"
+      },
+      {
+        "id": "brno:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-20",
+        "until": "2025-12-10"
+      },
+      {
+        "id": "brno:org:group:brno-klidem-a-nezavisli-zastupitele",
+        "classification": "group",
+        "name": "Brno klidem a nezávislí zastupitelé",
+        "since": "2026-04-14",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:bretislav-stefan",
+    "govity_total": 2515,
+    "govity_possible": 2529,
+    "govity": 0.994464,
+    "name": "Břetislav Štefan",
+    "given_names": [
+      "Břetislav"
+    ],
+    "family_names": [
+      "Štefan"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:socdem",
+        "classification": "group",
+        "name": "SOCDEM",
+        "since": "2023-09-05",
+        "until": "2026-01-20"
+      },
+      {
+        "id": "brno:org:group:cssd-vasi-starostove",
+        "classification": "group",
+        "name": "ČSSD VAŠI STAROSTOVÉ",
+        "since": "2022-10-20",
+        "until": "2023-06-20"
+      },
+      {
+        "id": "brno:org:group:nezarazeni",
+        "classification": "group",
+        "name": "nezařazení",
+        "since": "2026-03-03",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:jakub-hruska",
+    "govity_total": 2912,
+    "govity_possible": 2940,
+    "govity": 0.990476,
+    "name": "Jakub Hruška",
+    "given_names": [
+      "Jakub"
+    ],
+    "family_names": [
+      "Hruška"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:lidovci-a-starostove",
+        "classification": "group",
+        "name": "Lidovci a Starostové",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:martin-malecek",
+    "govity_total": 3056,
+    "govity_possible": 3078,
+    "govity": 0.992853,
+    "name": "Martin Maleček",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Maleček"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:lidovci-a-starostove",
+        "classification": "group",
+        "name": "Lidovci a Starostové",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:michal-marek",
+    "govity_total": 2845,
+    "govity_possible": 2867,
+    "govity": 0.992326,
+    "name": "Michal Marek",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Marek"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:lidovci-a-starostove",
+        "classification": "group",
+        "name": "Lidovci a Starostové",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:irena-matonohova",
+    "govity_total": 3139,
+    "govity_possible": 3155,
+    "govity": 0.994929,
+    "name": "Irena Matonohová",
+    "given_names": [
+      "Irena"
+    ],
+    "family_names": [
+      "Matonohová"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:lidovci-a-starostove",
+        "classification": "group",
+        "name": "Lidovci a Starostové",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:radomir-vondra",
+    "govity_total": 2973,
+    "govity_possible": 2992,
+    "govity": 0.99365,
+    "name": "Radomír Vondra",
+    "given_names": [
+      "Radomír"
+    ],
+    "family_names": [
+      "Vondra"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:lidovci-a-starostove",
+        "classification": "group",
+        "name": "Lidovci a Starostové",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:tomas-aberl",
+    "govity_total": 3183,
+    "govity_possible": 3187,
+    "govity": 0.998745,
+    "name": "Tomáš Aberl",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Aberl"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ods-a-top-09",
+        "classification": "group",
+        "name": "ODS a TOP 09",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:vladan-krasny",
+    "govity_total": 2640,
+    "govity_possible": 2650,
+    "govity": 0.996226,
+    "name": "Vladan Krásný",
+    "given_names": [
+      "Vladan"
+    ],
+    "family_names": [
+      "Krásný"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ods-a-top-09",
+        "classification": "group",
+        "name": "ODS a TOP 09",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:anna-putnova",
+    "govity_total": 3087,
+    "govity_possible": 3092,
+    "govity": 0.998383,
+    "name": "Anna Putnová",
+    "given_names": [
+      "Anna"
+    ],
+    "family_names": [
+      "Putnová"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ods-a-top-09",
+        "classification": "group",
+        "name": "ODS a TOP 09",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:dagmar-seidlova",
+    "govity_total": 2909,
+    "govity_possible": 2912,
+    "govity": 0.99897,
+    "name": "Dagmar Seidlová",
+    "given_names": [
+      "Dagmar"
+    ],
+    "family_names": [
+      "Seidlová"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ods-a-top-09",
+        "classification": "group",
+        "name": "ODS a TOP 09",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:pavel-urubek",
+    "govity_total": 3133,
+    "govity_possible": 3145,
+    "govity": 0.996184,
+    "name": "Pavel Urubek",
+    "given_names": [
+      "Pavel"
+    ],
+    "family_names": [
+      "Urubek"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ods-a-top-09",
+        "classification": "group",
+        "name": "ODS a TOP 09",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:libor-zabransky",
+    "govity_total": 1792,
+    "govity_possible": 1795,
+    "govity": 0.998329,
+    "name": "Libor Zábranský",
+    "given_names": [
+      "Libor"
+    ],
+    "family_names": [
+      "Zábranský"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ods-a-top-09",
+        "classification": "group",
+        "name": "ODS a TOP 09",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:marek-lahoda",
+    "govity_total": 2928,
+    "govity_possible": 2999,
+    "govity": 0.976325,
+    "name": "Marek Lahoda",
+    "given_names": [
+      "Marek"
+    ],
+    "family_names": [
+      "Lahoda"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:pirati",
+        "classification": "group",
+        "name": "Česká pirátská strana",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:monika-lukasova-spilkova",
+    "govity_total": 2764,
+    "govity_possible": 2822,
+    "govity": 0.979447,
+    "name": "Monika Lukášová Spilková",
+    "given_names": [
+      "Monika"
+    ],
+    "family_names": [
+      "Lukášová Spilková"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:pirati",
+        "classification": "group",
+        "name": "Česká pirátská strana",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:adam-zemek",
+    "govity_total": 3113,
+    "govity_possible": 3181,
+    "govity": 0.978623,
+    "name": "Adam Zemek",
+    "given_names": [
+      "Adam"
+    ],
+    "family_names": [
+      "Zemek"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:pirati",
+        "classification": "group",
+        "name": "Česká pirátská strana",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:tomas-anderle",
+    "govity_total": 2797,
+    "govity_possible": 3030,
+    "govity": 0.923102,
+    "name": "Tomáš Anderle",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Anderle"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:spd-trikolora",
+        "classification": "group",
+        "name": "SPD+Trikolora",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:blanka-borovska",
+    "govity_total": 2792,
+    "govity_possible": 3012,
+    "govity": 0.926959,
+    "name": "Blanka Borovská",
+    "given_names": [
+      "Blanka"
+    ],
+    "family_names": [
+      "Borovská"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:spd-trikolora",
+        "classification": "group",
+        "name": "SPD+Trikolora",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:petr-levicek",
+    "govity_total": 2014,
+    "govity_possible": 2105,
+    "govity": 0.95677,
+    "name": "Petr Levíček",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Levíček"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:nezavisli",
+        "classification": "group",
+        "name": "Nezávislí",
+        "since": "2026-01-20",
+        "until": "2026-03-03"
+      },
+      {
+        "id": "brno:org:group:spd-trikolora",
+        "classification": "group",
+        "name": "SPD+Trikolora",
+        "since": "2022-10-20",
+        "until": "2025-12-10"
+      },
+      {
+        "id": "brno:org:group:brno-klidem-a-nezavisli-zastupitele",
+        "classification": "group",
+        "name": "Brno klidem a nezávislí zastupitelé",
+        "since": "2026-04-14",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:leos-prokes",
+    "govity_total": 2567,
+    "govity_possible": 2774,
+    "govity": 0.925379,
+    "name": "Leoš Prokeš",
+    "given_names": [
+      "Leoš"
+    ],
+    "family_names": [
+      "Prokeš"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:spd-trikolora",
+        "classification": "group",
+        "name": "SPD+Trikolora",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:tomas-skricka",
+    "govity_total": 2998,
+    "govity_possible": 3219,
+    "govity": 0.931345,
+    "name": "Tomáš Skřička",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Skřička"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:spd-trikolora",
+        "classification": "group",
+        "name": "SPD+Trikolora",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:jana-drapalova",
+    "govity_total": 3004,
+    "govity_possible": 3098,
+    "govity": 0.969658,
+    "name": "Jana Drápalová",
+    "given_names": [
+      "Jana"
+    ],
+    "family_names": [
+      "Drápalová"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:zeleni-a-zit-brno",
+        "classification": "group",
+        "name": "Zelení a Žít Brno",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:jasna-flamikova",
+    "govity_total": 2611,
+    "govity_possible": 2725,
+    "govity": 0.958165,
+    "name": "Jasna Flamiková",
+    "given_names": [
+      "Jasna"
+    ],
+    "family_names": [
+      "Flamiková"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:zeleni-a-zit-brno",
+        "classification": "group",
+        "name": "Zelení a Žít Brno",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:matej-hollan",
+    "govity_total": 1787,
+    "govity_possible": 1886,
+    "govity": 0.947508,
+    "name": "Matěj Hollan",
+    "given_names": [
+      "Matěj"
+    ],
+    "family_names": [
+      "Hollan"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:zeleni-a-zit-brno",
+        "classification": "group",
+        "name": "Zelení a Žít Brno",
+        "since": "2022-10-20",
+        "until": "2025-12-10"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:petr-borecky-121",
+    "govity_total": 2045,
+    "govity_possible": 2047,
+    "govity": 0.999023,
+    "name": "Petr Bořecký",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Bořecký"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:lidovci-a-starostove",
+        "classification": "group",
+        "name": "Lidovci a Starostové",
+        "since": "2024-01-30",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:tomas-hejl",
+    "govity_total": 704,
+    "govity_possible": 705,
+    "govity": 0.998582,
+    "name": "Tomáš Hejl",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Hejl"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2024-09-10",
+        "until": "2025-04-29"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:sabina-benesova",
+    "govity_total": 870,
+    "govity_possible": 872,
+    "govity": 0.997706,
+    "name": "Sabina Benešová",
+    "given_names": [
+      "Sabina"
+    ],
+    "family_names": [
+      "Benešová"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-06-10",
+        "until": "2025-12-10"
+      },
+      {
+        "id": "brno:org:group:nezavisli",
+        "classification": "group",
+        "name": "Nezávislí",
+        "since": "2026-01-20",
+        "until": "2026-03-03"
+      },
+      {
+        "id": "brno:org:group:brno-klidem-a-nezavisli-zastupitele",
+        "classification": "group",
+        "name": "Brno klidem a nezávislí zastupitelé",
+        "since": "2026-04-14",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:matous-vencalek",
+    "govity_total": 421,
+    "govity_possible": 428,
+    "govity": 0.983645,
+    "name": "Matouš Vencálek",
+    "given_names": [
+      "Matouš"
+    ],
+    "family_names": [
+      "Vencálek"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:zeleni-a-zit-brno",
+        "classification": "group",
+        "name": "Zelení a Žít Brno",
+        "since": "2026-01-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:petr-borecky-3",
+    "govity_total": 3137,
+    "govity_possible": 3144,
+    "govity": 0.997774,
+    "name": "Petr Bořecký",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Bořecký"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:nezavisli",
+        "classification": "group",
+        "name": "Nezávislí",
+        "since": "2026-01-20",
+        "until": "2026-03-03"
+      },
+      {
+        "id": "brno:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-20",
+        "until": "2025-12-10"
+      },
+      {
+        "id": "brno:org:group:brno-klidem-a-nezavisli-zastupitele",
+        "classification": "group",
+        "name": "Brno klidem a nezávislí zastupitelé",
+        "since": "2026-04-14",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  }
+]

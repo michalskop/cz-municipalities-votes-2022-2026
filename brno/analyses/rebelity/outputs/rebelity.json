@@ -1,0 +1,1480 @@
+[
+  {
+    "person_id": "brno:person:marketa-vankova",
+    "rebelity_total": 0,
+    "rebelity_possible": 3323,
+    "rebelity": 0.0,
+    "name": "Markéta Vaňková",
+    "given_names": [
+      "Markéta"
+    ],
+    "family_names": [
+      "Vaňková"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ods-a-top-09",
+        "classification": "group",
+        "name": "ODS a TOP 09",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:rene-cerny",
+    "rebelity_total": 1,
+    "rebelity_possible": 283,
+    "rebelity": 0.003534,
+    "name": "René Černý",
+    "given_names": [
+      "René"
+    ],
+    "family_names": [
+      "Černý"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:brno-klidem-a-nezavisli-zastupitele",
+        "classification": "group",
+        "name": "Brno klidem a nezávislí zastupitelé",
+        "since": "2026-04-14",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:katerina-jarosova",
+    "rebelity_total": 0,
+    "rebelity_possible": 283,
+    "rebelity": 0.0,
+    "name": "Kateřina Jarošová",
+    "given_names": [
+      "Kateřina"
+    ],
+    "family_names": [
+      "Jarošová"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:brno-klidem-a-nezavisli-zastupitele",
+        "classification": "group",
+        "name": "Brno klidem a nezávislí zastupitelé",
+        "since": "2026-04-14",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:karel-kalivoda",
+    "rebelity_total": 0,
+    "rebelity_possible": 283,
+    "rebelity": 0.0,
+    "name": "Karel Kalivoda",
+    "given_names": [
+      "Karel"
+    ],
+    "family_names": [
+      "Kalivoda"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:brno-klidem-a-nezavisli-zastupitele",
+        "classification": "group",
+        "name": "Brno klidem a nezávislí zastupitelé",
+        "since": "2026-04-14",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:rene-novotny",
+    "rebelity_total": 10,
+    "rebelity_possible": 3275,
+    "rebelity": 0.003053,
+    "name": "René Novotný",
+    "given_names": [
+      "René"
+    ],
+    "family_names": [
+      "Novotný"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:vit-prygl",
+    "rebelity_total": 1,
+    "rebelity_possible": 283,
+    "rebelity": 0.003534,
+    "name": "Vít Prýgl",
+    "given_names": [
+      "Vít"
+    ],
+    "family_names": [
+      "Prýgl"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:brno-klidem-a-nezavisli-zastupitele",
+        "classification": "group",
+        "name": "Brno klidem a nezávislí zastupitelé",
+        "since": "2026-04-14",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:jiri-oliva",
+    "rebelity_total": 0,
+    "rebelity_possible": 360,
+    "rebelity": 0.0,
+    "name": "Jiří Oliva",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Oliva"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:nezarazeni",
+        "classification": "group",
+        "name": "nezařazení",
+        "since": "2026-03-03",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:marek-viskot",
+    "rebelity_total": 0,
+    "rebelity_possible": 360,
+    "rebelity": 0.0,
+    "name": "Marek Viskot",
+    "given_names": [
+      "Marek"
+    ],
+    "family_names": [
+      "Viskot"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:nezarazeni",
+        "classification": "group",
+        "name": "nezařazení",
+        "since": "2026-03-03",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:petr-hladik",
+    "rebelity_total": 9,
+    "rebelity_possible": 3317,
+    "rebelity": 0.002713,
+    "name": "Petr Hladík",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Hladík"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:lidovci-a-starostove",
+        "classification": "group",
+        "name": "Lidovci a Starostové",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:filip-chvatal",
+    "rebelity_total": 11,
+    "rebelity_possible": 3317,
+    "rebelity": 0.003316,
+    "name": "Filip Chvátal",
+    "given_names": [
+      "Filip"
+    ],
+    "family_names": [
+      "Chvátal"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:lidovci-a-starostove",
+        "classification": "group",
+        "name": "Lidovci a Starostové",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:jitka-ivicicova",
+    "rebelity_total": 2,
+    "rebelity_possible": 1207,
+    "rebelity": 0.001657,
+    "name": "Jitka Ivičičová",
+    "given_names": [
+      "Jitka"
+    ],
+    "family_names": [
+      "Ivičičová"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:lidovci-a-starostove",
+        "classification": "group",
+        "name": "Lidovci a Starostové",
+        "since": "2022-10-20",
+        "until": "2023-12-12"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:filip-leder",
+    "rebelity_total": 6,
+    "rebelity_possible": 3317,
+    "rebelity": 0.001809,
+    "name": "Filip Leder",
+    "given_names": [
+      "Filip"
+    ],
+    "family_names": [
+      "Leder"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:lidovci-a-starostove",
+        "classification": "group",
+        "name": "Lidovci a Starostové",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:jaroslav-suchy",
+    "rebelity_total": 5,
+    "rebelity_possible": 3317,
+    "rebelity": 0.001507,
+    "name": "Jaroslav Suchý",
+    "given_names": [
+      "Jaroslav"
+    ],
+    "family_names": [
+      "Suchý"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:lidovci-a-starostove",
+        "classification": "group",
+        "name": "Lidovci a Starostové",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:david-grund",
+    "rebelity_total": 1,
+    "rebelity_possible": 3323,
+    "rebelity": 0.000301,
+    "name": "David Grund",
+    "given_names": [
+      "David"
+    ],
+    "family_names": [
+      "Grund"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ods-a-top-09",
+        "classification": "group",
+        "name": "ODS a TOP 09",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:jiri-herman",
+    "rebelity_total": 1,
+    "rebelity_possible": 3323,
+    "rebelity": 0.000301,
+    "name": "Jiří Herman",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Herman"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ods-a-top-09",
+        "classification": "group",
+        "name": "ODS a TOP 09",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:michal-chladek",
+    "rebelity_total": 1,
+    "rebelity_possible": 3323,
+    "rebelity": 0.000301,
+    "name": "Michal Chládek",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Chládek"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ods-a-top-09",
+        "classification": "group",
+        "name": "ODS a TOP 09",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:pavel-jankuj",
+    "rebelity_total": 0,
+    "rebelity_possible": 284,
+    "rebelity": 0.0,
+    "name": "Pavel Jankůj",
+    "given_names": [
+      "Pavel"
+    ],
+    "family_names": [
+      "Jankůj"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ods-a-top-09",
+        "classification": "group",
+        "name": "ODS a TOP 09",
+        "since": "2026-04-14",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:robert-kerndl",
+    "rebelity_total": 1,
+    "rebelity_possible": 3323,
+    "rebelity": 0.000301,
+    "name": "Robert Kerndl",
+    "given_names": [
+      "Robert"
+    ],
+    "family_names": [
+      "Kerndl"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ods-a-top-09",
+        "classification": "group",
+        "name": "ODS a TOP 09",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:petr-kratochvil",
+    "rebelity_total": 5,
+    "rebelity_possible": 3323,
+    "rebelity": 0.001505,
+    "name": "Petr Kratochvíl",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Kratochvíl"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ods-a-top-09",
+        "classification": "group",
+        "name": "ODS a TOP 09",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:andrea-pazderova",
+    "rebelity_total": 7,
+    "rebelity_possible": 3323,
+    "rebelity": 0.002107,
+    "name": "Andrea Pazderová",
+    "given_names": [
+      "Andrea"
+    ],
+    "family_names": [
+      "Pazderová"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ods-a-top-09",
+        "classification": "group",
+        "name": "ODS a TOP 09",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:martin-priborsky",
+    "rebelity_total": 4,
+    "rebelity_possible": 3323,
+    "rebelity": 0.001204,
+    "name": "Martin Příborský",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Příborský"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ods-a-top-09",
+        "classification": "group",
+        "name": "ODS a TOP 09",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:david-trllo",
+    "rebelity_total": 2,
+    "rebelity_possible": 3323,
+    "rebelity": 0.000602,
+    "name": "David Trllo",
+    "given_names": [
+      "David"
+    ],
+    "family_names": [
+      "Trllo"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ods-a-top-09",
+        "classification": "group",
+        "name": "ODS a TOP 09",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:tomas-kolacny",
+    "rebelity_total": 32,
+    "rebelity_possible": 3296,
+    "rebelity": 0.009709,
+    "name": "Tomáš Koláčný",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Koláčný"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:pirati",
+        "classification": "group",
+        "name": "Česká pirátská strana",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:jiri-kment",
+    "rebelity_total": 38,
+    "rebelity_possible": 3287,
+    "rebelity": 0.011561,
+    "name": "Jiří Kment",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Kment"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:spd-trikolora",
+        "classification": "group",
+        "name": "SPD+Trikolora",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:kristyna-cerna",
+    "rebelity_total": 3,
+    "rebelity_possible": 3217,
+    "rebelity": 0.000933,
+    "name": "Kristýna Černá",
+    "given_names": [
+      "Kristýna"
+    ],
+    "family_names": [
+      "Černá"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ods-a-top-09",
+        "classification": "group",
+        "name": "ODS a TOP 09",
+        "since": "2022-10-20",
+        "until": "2026-05-19"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:karin-podivinska",
+    "rebelity_total": 0,
+    "rebelity_possible": 283,
+    "rebelity": 0.0,
+    "name": "Karin Podivinská",
+    "given_names": [
+      "Karin"
+    ],
+    "family_names": [
+      "Podivinská"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:brno-klidem-a-nezavisli-zastupitele",
+        "classification": "group",
+        "name": "Brno klidem a nezávislí zastupitelé",
+        "since": "2026-04-14",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:petr-bauer",
+    "rebelity_total": 0,
+    "rebelity_possible": 1697,
+    "rebelity": 0.0,
+    "name": "Petr Bauer",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Bauer"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-20",
+        "until": "2024-06-18"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:alena-gruberova",
+    "rebelity_total": 6,
+    "rebelity_possible": 3319,
+    "rebelity": 0.001808,
+    "name": "Alena Gruberová",
+    "given_names": [
+      "Alena"
+    ],
+    "family_names": [
+      "Gruberová"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:nezavisli",
+        "classification": "group",
+        "name": "Nezávislí",
+        "since": "2026-01-20",
+        "until": "2026-03-03"
+      },
+      {
+        "id": "brno:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-20",
+        "until": "2025-12-10"
+      },
+      {
+        "id": "brno:org:group:brno-klidem-a-nezavisli-zastupitele",
+        "classification": "group",
+        "name": "Brno klidem a nezávislí zastupitelé",
+        "since": "2026-04-14",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:pavel-kriz",
+    "rebelity_total": 3,
+    "rebelity_possible": 3319,
+    "rebelity": 0.000904,
+    "name": "Pavel Kříž",
+    "given_names": [
+      "Pavel"
+    ],
+    "family_names": [
+      "Kříž"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:nezavisli",
+        "classification": "group",
+        "name": "Nezávislí",
+        "since": "2026-01-20",
+        "until": "2026-03-03"
+      },
+      {
+        "id": "brno:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-20",
+        "until": "2025-12-10"
+      },
+      {
+        "id": "brno:org:group:brno-klidem-a-nezavisli-zastupitele",
+        "classification": "group",
+        "name": "Brno klidem a nezávislí zastupitelé",
+        "since": "2026-04-14",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:miroslav-kubasek",
+    "rebelity_total": 4,
+    "rebelity_possible": 3275,
+    "rebelity": 0.001221,
+    "name": "Miroslav Kubásek",
+    "given_names": [
+      "Miroslav"
+    ],
+    "family_names": [
+      "Kubásek"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:pavel-outrata",
+    "rebelity_total": 6,
+    "rebelity_possible": 3275,
+    "rebelity": 0.001832,
+    "name": "Pavel Outrata",
+    "given_names": [
+      "Pavel"
+    ],
+    "family_names": [
+      "Outrata"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:daniel-struz",
+    "rebelity_total": 5,
+    "rebelity_possible": 3319,
+    "rebelity": 0.001506,
+    "name": "Daniel Struž",
+    "given_names": [
+      "Daniel"
+    ],
+    "family_names": [
+      "Struž"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:nezavisli",
+        "classification": "group",
+        "name": "Nezávislí",
+        "since": "2026-01-20",
+        "until": "2026-03-03"
+      },
+      {
+        "id": "brno:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-20",
+        "until": "2025-12-10"
+      },
+      {
+        "id": "brno:org:group:brno-klidem-a-nezavisli-zastupitele",
+        "classification": "group",
+        "name": "Brno klidem a nezávislí zastupitelé",
+        "since": "2026-04-14",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:bretislav-stefan",
+    "rebelity_total": 2,
+    "rebelity_possible": 2728,
+    "rebelity": 0.000733,
+    "name": "Břetislav Štefan",
+    "given_names": [
+      "Břetislav"
+    ],
+    "family_names": [
+      "Štefan"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:socdem",
+        "classification": "group",
+        "name": "SOCDEM",
+        "since": "2023-09-05",
+        "until": "2026-01-20"
+      },
+      {
+        "id": "brno:org:group:cssd-vasi-starostove",
+        "classification": "group",
+        "name": "ČSSD VAŠI STAROSTOVÉ",
+        "since": "2022-10-20",
+        "until": "2023-06-20"
+      },
+      {
+        "id": "brno:org:group:nezarazeni",
+        "classification": "group",
+        "name": "nezařazení",
+        "since": "2026-03-03",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:jakub-hruska",
+    "rebelity_total": 4,
+    "rebelity_possible": 3317,
+    "rebelity": 0.001206,
+    "name": "Jakub Hruška",
+    "given_names": [
+      "Jakub"
+    ],
+    "family_names": [
+      "Hruška"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:lidovci-a-starostove",
+        "classification": "group",
+        "name": "Lidovci a Starostové",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:martin-malecek",
+    "rebelity_total": 6,
+    "rebelity_possible": 3317,
+    "rebelity": 0.001809,
+    "name": "Martin Maleček",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Maleček"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:lidovci-a-starostove",
+        "classification": "group",
+        "name": "Lidovci a Starostové",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:michal-marek",
+    "rebelity_total": 6,
+    "rebelity_possible": 3317,
+    "rebelity": 0.001809,
+    "name": "Michal Marek",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Marek"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:lidovci-a-starostove",
+        "classification": "group",
+        "name": "Lidovci a Starostové",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:irena-matonohova",
+    "rebelity_total": 8,
+    "rebelity_possible": 3317,
+    "rebelity": 0.002412,
+    "name": "Irena Matonohová",
+    "given_names": [
+      "Irena"
+    ],
+    "family_names": [
+      "Matonohová"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:lidovci-a-starostove",
+        "classification": "group",
+        "name": "Lidovci a Starostové",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:radomir-vondra",
+    "rebelity_total": 2,
+    "rebelity_possible": 3317,
+    "rebelity": 0.000603,
+    "name": "Radomír Vondra",
+    "given_names": [
+      "Radomír"
+    ],
+    "family_names": [
+      "Vondra"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:lidovci-a-starostove",
+        "classification": "group",
+        "name": "Lidovci a Starostové",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:tomas-aberl",
+    "rebelity_total": 2,
+    "rebelity_possible": 3323,
+    "rebelity": 0.000602,
+    "name": "Tomáš Aberl",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Aberl"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ods-a-top-09",
+        "classification": "group",
+        "name": "ODS a TOP 09",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:vladan-krasny",
+    "rebelity_total": 10,
+    "rebelity_possible": 3323,
+    "rebelity": 0.003009,
+    "name": "Vladan Krásný",
+    "given_names": [
+      "Vladan"
+    ],
+    "family_names": [
+      "Krásný"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ods-a-top-09",
+        "classification": "group",
+        "name": "ODS a TOP 09",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:anna-putnova",
+    "rebelity_total": 5,
+    "rebelity_possible": 3323,
+    "rebelity": 0.001505,
+    "name": "Anna Putnová",
+    "given_names": [
+      "Anna"
+    ],
+    "family_names": [
+      "Putnová"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ods-a-top-09",
+        "classification": "group",
+        "name": "ODS a TOP 09",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:dagmar-seidlova",
+    "rebelity_total": 3,
+    "rebelity_possible": 3323,
+    "rebelity": 0.000903,
+    "name": "Dagmar Seidlová",
+    "given_names": [
+      "Dagmar"
+    ],
+    "family_names": [
+      "Seidlová"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ods-a-top-09",
+        "classification": "group",
+        "name": "ODS a TOP 09",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:pavel-urubek",
+    "rebelity_total": 9,
+    "rebelity_possible": 3323,
+    "rebelity": 0.002708,
+    "name": "Pavel Urubek",
+    "given_names": [
+      "Pavel"
+    ],
+    "family_names": [
+      "Urubek"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ods-a-top-09",
+        "classification": "group",
+        "name": "ODS a TOP 09",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:libor-zabransky",
+    "rebelity_total": 4,
+    "rebelity_possible": 3323,
+    "rebelity": 0.001204,
+    "name": "Libor Zábranský",
+    "given_names": [
+      "Libor"
+    ],
+    "family_names": [
+      "Zábranský"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ods-a-top-09",
+        "classification": "group",
+        "name": "ODS a TOP 09",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:marek-lahoda",
+    "rebelity_total": 15,
+    "rebelity_possible": 3296,
+    "rebelity": 0.004551,
+    "name": "Marek Lahoda",
+    "given_names": [
+      "Marek"
+    ],
+    "family_names": [
+      "Lahoda"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:pirati",
+        "classification": "group",
+        "name": "Česká pirátská strana",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:monika-lukasova-spilkova",
+    "rebelity_total": 8,
+    "rebelity_possible": 3296,
+    "rebelity": 0.002427,
+    "name": "Monika Lukášová Spilková",
+    "given_names": [
+      "Monika"
+    ],
+    "family_names": [
+      "Lukášová Spilková"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:pirati",
+        "classification": "group",
+        "name": "Česká pirátská strana",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:adam-zemek",
+    "rebelity_total": 4,
+    "rebelity_possible": 3296,
+    "rebelity": 0.001214,
+    "name": "Adam Zemek",
+    "given_names": [
+      "Adam"
+    ],
+    "family_names": [
+      "Zemek"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:pirati",
+        "classification": "group",
+        "name": "Česká pirátská strana",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:tomas-anderle",
+    "rebelity_total": 16,
+    "rebelity_possible": 3287,
+    "rebelity": 0.004868,
+    "name": "Tomáš Anderle",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Anderle"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:spd-trikolora",
+        "classification": "group",
+        "name": "SPD+Trikolora",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:blanka-borovska",
+    "rebelity_total": 34,
+    "rebelity_possible": 3287,
+    "rebelity": 0.010344,
+    "name": "Blanka Borovská",
+    "given_names": [
+      "Blanka"
+    ],
+    "family_names": [
+      "Borovská"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:spd-trikolora",
+        "classification": "group",
+        "name": "SPD+Trikolora",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:petr-levicek",
+    "rebelity_total": 78,
+    "rebelity_possible": 3293,
+    "rebelity": 0.023687,
+    "name": "Petr Levíček",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Levíček"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:nezavisli",
+        "classification": "group",
+        "name": "Nezávislí",
+        "since": "2026-01-20",
+        "until": "2026-03-03"
+      },
+      {
+        "id": "brno:org:group:spd-trikolora",
+        "classification": "group",
+        "name": "SPD+Trikolora",
+        "since": "2022-10-20",
+        "until": "2025-12-10"
+      },
+      {
+        "id": "brno:org:group:brno-klidem-a-nezavisli-zastupitele",
+        "classification": "group",
+        "name": "Brno klidem a nezávislí zastupitelé",
+        "since": "2026-04-14",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:leos-prokes",
+    "rebelity_total": 10,
+    "rebelity_possible": 3287,
+    "rebelity": 0.003042,
+    "name": "Leoš Prokeš",
+    "given_names": [
+      "Leoš"
+    ],
+    "family_names": [
+      "Prokeš"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:spd-trikolora",
+        "classification": "group",
+        "name": "SPD+Trikolora",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:tomas-skricka",
+    "rebelity_total": 54,
+    "rebelity_possible": 3287,
+    "rebelity": 0.016428,
+    "name": "Tomáš Skřička",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Skřička"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:spd-trikolora",
+        "classification": "group",
+        "name": "SPD+Trikolora",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:jana-drapalova",
+    "rebelity_total": 44,
+    "rebelity_possible": 3121,
+    "rebelity": 0.014098,
+    "name": "Jana Drápalová",
+    "given_names": [
+      "Jana"
+    ],
+    "family_names": [
+      "Drápalová"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:zeleni-a-zit-brno",
+        "classification": "group",
+        "name": "Zelení a Žít Brno",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:jasna-flamikova",
+    "rebelity_total": 12,
+    "rebelity_possible": 3121,
+    "rebelity": 0.003845,
+    "name": "Jasna Flamiková",
+    "given_names": [
+      "Jasna"
+    ],
+    "family_names": [
+      "Flamiková"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:zeleni-a-zit-brno",
+        "classification": "group",
+        "name": "Zelení a Žít Brno",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:matej-hollan",
+    "rebelity_total": 73,
+    "rebelity_possible": 2689,
+    "rebelity": 0.027148,
+    "name": "Matěj Hollan",
+    "given_names": [
+      "Matěj"
+    ],
+    "family_names": [
+      "Hollan"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:zeleni-a-zit-brno",
+        "classification": "group",
+        "name": "Zelení a Žít Brno",
+        "since": "2022-10-20",
+        "until": "2025-12-10"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:petr-borecky-121",
+    "rebelity_total": 1,
+    "rebelity_possible": 2110,
+    "rebelity": 0.000474,
+    "name": "Petr Bořecký",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Bořecký"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:lidovci-a-starostove",
+        "classification": "group",
+        "name": "Lidovci a Starostové",
+        "since": "2024-01-30",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:tomas-hejl",
+    "rebelity_total": 1,
+    "rebelity_possible": 731,
+    "rebelity": 0.001368,
+    "name": "Tomáš Hejl",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Hejl"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2024-09-10",
+        "until": "2025-04-29"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:sabina-benesova",
+    "rebelity_total": 0,
+    "rebelity_possible": 891,
+    "rebelity": 0.0,
+    "name": "Sabina Benešová",
+    "given_names": [
+      "Sabina"
+    ],
+    "family_names": [
+      "Benešová"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-06-10",
+        "until": "2025-12-10"
+      },
+      {
+        "id": "brno:org:group:nezavisli",
+        "classification": "group",
+        "name": "Nezávislí",
+        "since": "2026-01-20",
+        "until": "2026-03-03"
+      },
+      {
+        "id": "brno:org:group:brno-klidem-a-nezavisli-zastupitele",
+        "classification": "group",
+        "name": "Brno klidem a nezávislí zastupitelé",
+        "since": "2026-04-14",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:matous-vencalek",
+    "rebelity_total": 2,
+    "rebelity_possible": 432,
+    "rebelity": 0.00463,
+    "name": "Matouš Vencálek",
+    "given_names": [
+      "Matouš"
+    ],
+    "family_names": [
+      "Vencálek"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:zeleni-a-zit-brno",
+        "classification": "group",
+        "name": "Zelení a Žít Brno",
+        "since": "2026-01-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  },
+  {
+    "person_id": "brno:person:petr-borecky-3",
+    "rebelity_total": 6,
+    "rebelity_possible": 3319,
+    "rebelity": 0.001808,
+    "name": "Petr Bořecký",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Bořecký"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:nezavisli",
+        "classification": "group",
+        "name": "Nezávislí",
+        "since": "2026-01-20",
+        "until": "2026-03-03"
+      },
+      {
+        "id": "brno:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-20",
+        "until": "2025-12-10"
+      },
+      {
+        "id": "brno:org:group:brno-klidem-a-nezavisli-zastupitele",
+        "classification": "group",
+        "name": "Brno klidem a nezávislí zastupitelé",
+        "since": "2026-04-14",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20"
+  }
+]

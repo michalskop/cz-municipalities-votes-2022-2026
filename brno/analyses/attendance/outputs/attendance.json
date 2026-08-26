@@ -1,0 +1,1540 @@
+[
+  {
+    "person_id": "brno:person:marketa-vankova",
+    "vote_events_total": 3332,
+    "present": 2876,
+    "absent": 456,
+    "name": "Markéta Vaňková",
+    "given_names": [
+      "Markéta"
+    ],
+    "family_names": [
+      "Vaňková"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ods-a-top-09",
+        "classification": "group",
+        "name": "ODS a TOP 09",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20",
+    "present_share": 0.8631452581
+  },
+  {
+    "person_id": "brno:person:rene-cerny",
+    "vote_events_total": 3332,
+    "present": 3071,
+    "absent": 261,
+    "name": "René Černý",
+    "given_names": [
+      "René"
+    ],
+    "family_names": [
+      "Černý"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:brno-klidem-a-nezavisli-zastupitele",
+        "classification": "group",
+        "name": "Brno klidem a nezávislí zastupitelé",
+        "since": "2026-04-14",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20",
+    "present_share": 0.9216686675
+  },
+  {
+    "person_id": "brno:person:katerina-jarosova",
+    "vote_events_total": 3332,
+    "present": 2980,
+    "absent": 352,
+    "name": "Kateřina Jarošová",
+    "given_names": [
+      "Kateřina"
+    ],
+    "family_names": [
+      "Jarošová"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:brno-klidem-a-nezavisli-zastupitele",
+        "classification": "group",
+        "name": "Brno klidem a nezávislí zastupitelé",
+        "since": "2026-04-14",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20",
+    "present_share": 0.8943577431
+  },
+  {
+    "person_id": "brno:person:karel-kalivoda",
+    "vote_events_total": 3332,
+    "present": 3216,
+    "absent": 116,
+    "name": "Karel Kalivoda",
+    "given_names": [
+      "Karel"
+    ],
+    "family_names": [
+      "Kalivoda"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:brno-klidem-a-nezavisli-zastupitele",
+        "classification": "group",
+        "name": "Brno klidem a nezávislí zastupitelé",
+        "since": "2026-04-14",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20",
+    "present_share": 0.9651860744
+  },
+  {
+    "person_id": "brno:person:rene-novotny",
+    "vote_events_total": 3332,
+    "present": 2604,
+    "absent": 728,
+    "name": "René Novotný",
+    "given_names": [
+      "René"
+    ],
+    "family_names": [
+      "Novotný"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20",
+    "present_share": 0.781512605
+  },
+  {
+    "person_id": "brno:person:vit-prygl",
+    "vote_events_total": 3332,
+    "present": 2973,
+    "absent": 359,
+    "name": "Vít Prýgl",
+    "given_names": [
+      "Vít"
+    ],
+    "family_names": [
+      "Prýgl"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:brno-klidem-a-nezavisli-zastupitele",
+        "classification": "group",
+        "name": "Brno klidem a nezávislí zastupitelé",
+        "since": "2026-04-14",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20",
+    "present_share": 0.8922569028
+  },
+  {
+    "person_id": "brno:person:jiri-oliva",
+    "vote_events_total": 3332,
+    "present": 3072,
+    "absent": 260,
+    "name": "Jiří Oliva",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Oliva"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:nezarazeni",
+        "classification": "group",
+        "name": "nezařazení",
+        "since": "2026-03-03",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20",
+    "present_share": 0.9219687875
+  },
+  {
+    "person_id": "brno:person:marek-viskot",
+    "vote_events_total": 3332,
+    "present": 2904,
+    "absent": 428,
+    "name": "Marek Viskot",
+    "given_names": [
+      "Marek"
+    ],
+    "family_names": [
+      "Viskot"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:nezarazeni",
+        "classification": "group",
+        "name": "nezařazení",
+        "since": "2026-03-03",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20",
+    "present_share": 0.8715486194
+  },
+  {
+    "person_id": "brno:person:petr-hladik",
+    "vote_events_total": 3333,
+    "present": 1976,
+    "absent": 1357,
+    "name": "Petr Hladík",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Hladík"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:lidovci-a-starostove",
+        "classification": "group",
+        "name": "Lidovci a Starostové",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20",
+    "present_share": 0.5928592859
+  },
+  {
+    "person_id": "brno:person:filip-chvatal",
+    "vote_events_total": 3332,
+    "present": 3170,
+    "absent": 162,
+    "name": "Filip Chvátal",
+    "given_names": [
+      "Filip"
+    ],
+    "family_names": [
+      "Chvátal"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:lidovci-a-starostove",
+        "classification": "group",
+        "name": "Lidovci a Starostové",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20",
+    "present_share": 0.9513805522
+  },
+  {
+    "person_id": "brno:person:jitka-ivicicova",
+    "vote_events_total": 1214,
+    "present": 1154,
+    "absent": 60,
+    "name": "Jitka Ivičičová",
+    "given_names": [
+      "Jitka"
+    ],
+    "family_names": [
+      "Ivičičová"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:lidovci-a-starostove",
+        "classification": "group",
+        "name": "Lidovci a Starostové",
+        "since": "2022-10-20",
+        "until": "2023-12-12"
+      }
+    ],
+    "since": "2022-10-20",
+    "present_share": 0.9505766063
+  },
+  {
+    "person_id": "brno:person:filip-leder",
+    "vote_events_total": 3332,
+    "present": 2846,
+    "absent": 486,
+    "name": "Filip Leder",
+    "given_names": [
+      "Filip"
+    ],
+    "family_names": [
+      "Leder"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:lidovci-a-starostove",
+        "classification": "group",
+        "name": "Lidovci a Starostové",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20",
+    "present_share": 0.8541416567
+  },
+  {
+    "person_id": "brno:person:jaroslav-suchy",
+    "vote_events_total": 3332,
+    "present": 2822,
+    "absent": 510,
+    "name": "Jaroslav Suchý",
+    "given_names": [
+      "Jaroslav"
+    ],
+    "family_names": [
+      "Suchý"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:lidovci-a-starostove",
+        "classification": "group",
+        "name": "Lidovci a Starostové",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20",
+    "present_share": 0.8469387755
+  },
+  {
+    "person_id": "brno:person:david-grund",
+    "vote_events_total": 3332,
+    "present": 2945,
+    "absent": 387,
+    "name": "David Grund",
+    "given_names": [
+      "David"
+    ],
+    "family_names": [
+      "Grund"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ods-a-top-09",
+        "classification": "group",
+        "name": "ODS a TOP 09",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20",
+    "present_share": 0.8838535414
+  },
+  {
+    "person_id": "brno:person:jiri-herman",
+    "vote_events_total": 3332,
+    "present": 3014,
+    "absent": 318,
+    "name": "Jiří Herman",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Herman"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ods-a-top-09",
+        "classification": "group",
+        "name": "ODS a TOP 09",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20",
+    "present_share": 0.9045618247
+  },
+  {
+    "person_id": "brno:person:michal-chladek",
+    "vote_events_total": 3332,
+    "present": 2498,
+    "absent": 834,
+    "name": "Michal Chládek",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Chládek"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ods-a-top-09",
+        "classification": "group",
+        "name": "ODS a TOP 09",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20",
+    "present_share": 0.74969988
+  },
+  {
+    "person_id": "brno:person:pavel-jankuj",
+    "vote_events_total": 286,
+    "present": 283,
+    "absent": 3,
+    "name": "Pavel Jankůj",
+    "given_names": [
+      "Pavel"
+    ],
+    "family_names": [
+      "Jankůj"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ods-a-top-09",
+        "classification": "group",
+        "name": "ODS a TOP 09",
+        "since": "2026-04-14",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20",
+    "present_share": 0.9895104895
+  },
+  {
+    "person_id": "brno:person:robert-kerndl",
+    "vote_events_total": 3332,
+    "present": 2659,
+    "absent": 673,
+    "name": "Robert Kerndl",
+    "given_names": [
+      "Robert"
+    ],
+    "family_names": [
+      "Kerndl"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ods-a-top-09",
+        "classification": "group",
+        "name": "ODS a TOP 09",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20",
+    "present_share": 0.7980192077
+  },
+  {
+    "person_id": "brno:person:petr-kratochvil",
+    "vote_events_total": 3332,
+    "present": 2887,
+    "absent": 445,
+    "name": "Petr Kratochvíl",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Kratochvíl"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ods-a-top-09",
+        "classification": "group",
+        "name": "ODS a TOP 09",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20",
+    "present_share": 0.8664465786
+  },
+  {
+    "person_id": "brno:person:andrea-pazderova",
+    "vote_events_total": 3332,
+    "present": 2976,
+    "absent": 356,
+    "name": "Andrea Pazderová",
+    "given_names": [
+      "Andrea"
+    ],
+    "family_names": [
+      "Pazderová"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ods-a-top-09",
+        "classification": "group",
+        "name": "ODS a TOP 09",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20",
+    "present_share": 0.8931572629
+  },
+  {
+    "person_id": "brno:person:martin-priborsky",
+    "vote_events_total": 3332,
+    "present": 3108,
+    "absent": 224,
+    "name": "Martin Příborský",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Příborský"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ods-a-top-09",
+        "classification": "group",
+        "name": "ODS a TOP 09",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20",
+    "present_share": 0.9327731092
+  },
+  {
+    "person_id": "brno:person:david-trllo",
+    "vote_events_total": 3332,
+    "present": 3109,
+    "absent": 223,
+    "name": "David Trllo",
+    "given_names": [
+      "David"
+    ],
+    "family_names": [
+      "Trllo"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ods-a-top-09",
+        "classification": "group",
+        "name": "ODS a TOP 09",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20",
+    "present_share": 0.9330732293
+  },
+  {
+    "person_id": "brno:person:tomas-kolacny",
+    "vote_events_total": 3333,
+    "present": 3093,
+    "absent": 240,
+    "name": "Tomáš Koláčný",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Koláčný"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:pirati",
+        "classification": "group",
+        "name": "Česká pirátská strana",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20",
+    "present_share": 0.9279927993
+  },
+  {
+    "person_id": "brno:person:jiri-kment",
+    "vote_events_total": 3332,
+    "present": 3288,
+    "absent": 44,
+    "name": "Jiří Kment",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Kment"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:spd-trikolora",
+        "classification": "group",
+        "name": "SPD+Trikolora",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20",
+    "present_share": 0.9867947179
+  },
+  {
+    "person_id": "brno:person:kristyna-cerna",
+    "vote_events_total": 3046,
+    "present": 2677,
+    "absent": 369,
+    "name": "Kristýna Černá",
+    "given_names": [
+      "Kristýna"
+    ],
+    "family_names": [
+      "Černá"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ods-a-top-09",
+        "classification": "group",
+        "name": "ODS a TOP 09",
+        "since": "2022-10-20",
+        "until": "2026-05-19"
+      }
+    ],
+    "since": "2022-10-20",
+    "present_share": 0.8788575181
+  },
+  {
+    "person_id": "brno:person:karin-podivinska",
+    "vote_events_total": 3332,
+    "present": 2763,
+    "absent": 569,
+    "name": "Karin Podivinská",
+    "given_names": [
+      "Karin"
+    ],
+    "family_names": [
+      "Podivinská"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:brno-klidem-a-nezavisli-zastupitele",
+        "classification": "group",
+        "name": "Brno klidem a nezávislí zastupitelé",
+        "since": "2026-04-14",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20",
+    "present_share": 0.8292316927
+  },
+  {
+    "person_id": "brno:person:petr-bauer",
+    "vote_events_total": 1703,
+    "present": 1684,
+    "absent": 19,
+    "name": "Petr Bauer",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Bauer"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-20",
+        "until": "2024-06-18"
+      }
+    ],
+    "since": "2022-10-20",
+    "present_share": 0.9888432179
+  },
+  {
+    "person_id": "brno:person:alena-gruberova",
+    "vote_events_total": 3332,
+    "present": 3260,
+    "absent": 72,
+    "name": "Alena Gruberová",
+    "given_names": [
+      "Alena"
+    ],
+    "family_names": [
+      "Gruberová"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:nezavisli",
+        "classification": "group",
+        "name": "Nezávislí",
+        "since": "2026-01-20",
+        "until": "2026-03-03"
+      },
+      {
+        "id": "brno:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-20",
+        "until": "2025-12-10"
+      },
+      {
+        "id": "brno:org:group:brno-klidem-a-nezavisli-zastupitele",
+        "classification": "group",
+        "name": "Brno klidem a nezávislí zastupitelé",
+        "since": "2026-04-14",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20",
+    "present_share": 0.9783913565
+  },
+  {
+    "person_id": "brno:person:pavel-kriz",
+    "vote_events_total": 3332,
+    "present": 3028,
+    "absent": 304,
+    "name": "Pavel Kříž",
+    "given_names": [
+      "Pavel"
+    ],
+    "family_names": [
+      "Kříž"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:nezavisli",
+        "classification": "group",
+        "name": "Nezávislí",
+        "since": "2026-01-20",
+        "until": "2026-03-03"
+      },
+      {
+        "id": "brno:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-20",
+        "until": "2025-12-10"
+      },
+      {
+        "id": "brno:org:group:brno-klidem-a-nezavisli-zastupitele",
+        "classification": "group",
+        "name": "Brno klidem a nezávislí zastupitelé",
+        "since": "2026-04-14",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20",
+    "present_share": 0.9087635054
+  },
+  {
+    "person_id": "brno:person:miroslav-kubasek",
+    "vote_events_total": 3333,
+    "present": 3206,
+    "absent": 127,
+    "name": "Miroslav Kubásek",
+    "given_names": [
+      "Miroslav"
+    ],
+    "family_names": [
+      "Kubásek"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20",
+    "present_share": 0.9618961896
+  },
+  {
+    "person_id": "brno:person:pavel-outrata",
+    "vote_events_total": 3332,
+    "present": 2639,
+    "absent": 693,
+    "name": "Pavel Outrata",
+    "given_names": [
+      "Pavel"
+    ],
+    "family_names": [
+      "Outrata"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20",
+    "present_share": 0.7920168067
+  },
+  {
+    "person_id": "brno:person:daniel-struz",
+    "vote_events_total": 3332,
+    "present": 2700,
+    "absent": 632,
+    "name": "Daniel Struž",
+    "given_names": [
+      "Daniel"
+    ],
+    "family_names": [
+      "Struž"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:nezavisli",
+        "classification": "group",
+        "name": "Nezávislí",
+        "since": "2026-01-20",
+        "until": "2026-03-03"
+      },
+      {
+        "id": "brno:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-20",
+        "until": "2025-12-10"
+      },
+      {
+        "id": "brno:org:group:brno-klidem-a-nezavisli-zastupitele",
+        "classification": "group",
+        "name": "Brno klidem a nezávislí zastupitelé",
+        "since": "2026-04-14",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20",
+    "present_share": 0.8103241297
+  },
+  {
+    "person_id": "brno:person:bretislav-stefan",
+    "vote_events_total": 3333,
+    "present": 2529,
+    "absent": 804,
+    "name": "Břetislav Štefan",
+    "given_names": [
+      "Břetislav"
+    ],
+    "family_names": [
+      "Štefan"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:socdem",
+        "classification": "group",
+        "name": "SOCDEM",
+        "since": "2023-09-05",
+        "until": "2026-01-20"
+      },
+      {
+        "id": "brno:org:group:cssd-vasi-starostove",
+        "classification": "group",
+        "name": "ČSSD VAŠI STAROSTOVÉ",
+        "since": "2022-10-20",
+        "until": "2023-06-20"
+      },
+      {
+        "id": "brno:org:group:nezarazeni",
+        "classification": "group",
+        "name": "nezařazení",
+        "since": "2026-03-03",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20",
+    "present_share": 0.7587758776
+  },
+  {
+    "person_id": "brno:person:jakub-hruska",
+    "vote_events_total": 3332,
+    "present": 2941,
+    "absent": 391,
+    "name": "Jakub Hruška",
+    "given_names": [
+      "Jakub"
+    ],
+    "family_names": [
+      "Hruška"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:lidovci-a-starostove",
+        "classification": "group",
+        "name": "Lidovci a Starostové",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20",
+    "present_share": 0.8826530612
+  },
+  {
+    "person_id": "brno:person:martin-malecek",
+    "vote_events_total": 3332,
+    "present": 3079,
+    "absent": 253,
+    "name": "Martin Maleček",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Maleček"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:lidovci-a-starostove",
+        "classification": "group",
+        "name": "Lidovci a Starostové",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20",
+    "present_share": 0.9240696279
+  },
+  {
+    "person_id": "brno:person:michal-marek",
+    "vote_events_total": 3333,
+    "present": 2868,
+    "absent": 465,
+    "name": "Michal Marek",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Marek"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:lidovci-a-starostove",
+        "classification": "group",
+        "name": "Lidovci a Starostové",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20",
+    "present_share": 0.8604860486
+  },
+  {
+    "person_id": "brno:person:irena-matonohova",
+    "vote_events_total": 3332,
+    "present": 3156,
+    "absent": 176,
+    "name": "Irena Matonohová",
+    "given_names": [
+      "Irena"
+    ],
+    "family_names": [
+      "Matonohová"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:lidovci-a-starostove",
+        "classification": "group",
+        "name": "Lidovci a Starostové",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20",
+    "present_share": 0.9471788715
+  },
+  {
+    "person_id": "brno:person:radomir-vondra",
+    "vote_events_total": 3332,
+    "present": 2993,
+    "absent": 339,
+    "name": "Radomír Vondra",
+    "given_names": [
+      "Radomír"
+    ],
+    "family_names": [
+      "Vondra"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:lidovci-a-starostove",
+        "classification": "group",
+        "name": "Lidovci a Starostové",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20",
+    "present_share": 0.8982593037
+  },
+  {
+    "person_id": "brno:person:tomas-aberl",
+    "vote_events_total": 3332,
+    "present": 3188,
+    "absent": 144,
+    "name": "Tomáš Aberl",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Aberl"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ods-a-top-09",
+        "classification": "group",
+        "name": "ODS a TOP 09",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20",
+    "present_share": 0.9567827131
+  },
+  {
+    "person_id": "brno:person:vladan-krasny",
+    "vote_events_total": 3332,
+    "present": 2650,
+    "absent": 682,
+    "name": "Vladan Krásný",
+    "given_names": [
+      "Vladan"
+    ],
+    "family_names": [
+      "Krásný"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ods-a-top-09",
+        "classification": "group",
+        "name": "ODS a TOP 09",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20",
+    "present_share": 0.7953181273
+  },
+  {
+    "person_id": "brno:person:anna-putnova",
+    "vote_events_total": 3332,
+    "present": 3092,
+    "absent": 240,
+    "name": "Anna Putnová",
+    "given_names": [
+      "Anna"
+    ],
+    "family_names": [
+      "Putnová"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ods-a-top-09",
+        "classification": "group",
+        "name": "ODS a TOP 09",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20",
+    "present_share": 0.9279711885
+  },
+  {
+    "person_id": "brno:person:dagmar-seidlova",
+    "vote_events_total": 3332,
+    "present": 2913,
+    "absent": 419,
+    "name": "Dagmar Seidlová",
+    "given_names": [
+      "Dagmar"
+    ],
+    "family_names": [
+      "Seidlová"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ods-a-top-09",
+        "classification": "group",
+        "name": "ODS a TOP 09",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20",
+    "present_share": 0.8742496999
+  },
+  {
+    "person_id": "brno:person:pavel-urubek",
+    "vote_events_total": 3332,
+    "present": 3145,
+    "absent": 187,
+    "name": "Pavel Urubek",
+    "given_names": [
+      "Pavel"
+    ],
+    "family_names": [
+      "Urubek"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ods-a-top-09",
+        "classification": "group",
+        "name": "ODS a TOP 09",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20",
+    "present_share": 0.943877551
+  },
+  {
+    "person_id": "brno:person:libor-zabransky",
+    "vote_events_total": 3332,
+    "present": 1795,
+    "absent": 1537,
+    "name": "Libor Zábranský",
+    "given_names": [
+      "Libor"
+    ],
+    "family_names": [
+      "Zábranský"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ods-a-top-09",
+        "classification": "group",
+        "name": "ODS a TOP 09",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20",
+    "present_share": 0.5387154862
+  },
+  {
+    "person_id": "brno:person:marek-lahoda",
+    "vote_events_total": 3332,
+    "present": 3000,
+    "absent": 332,
+    "name": "Marek Lahoda",
+    "given_names": [
+      "Marek"
+    ],
+    "family_names": [
+      "Lahoda"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:pirati",
+        "classification": "group",
+        "name": "Česká pirátská strana",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20",
+    "present_share": 0.9003601441
+  },
+  {
+    "person_id": "brno:person:monika-lukasova-spilkova",
+    "vote_events_total": 3333,
+    "present": 2823,
+    "absent": 510,
+    "name": "Monika Lukášová Spilková",
+    "given_names": [
+      "Monika"
+    ],
+    "family_names": [
+      "Lukášová Spilková"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:pirati",
+        "classification": "group",
+        "name": "Česká pirátská strana",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20",
+    "present_share": 0.8469846985
+  },
+  {
+    "person_id": "brno:person:adam-zemek",
+    "vote_events_total": 3332,
+    "present": 3182,
+    "absent": 150,
+    "name": "Adam Zemek",
+    "given_names": [
+      "Adam"
+    ],
+    "family_names": [
+      "Zemek"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:pirati",
+        "classification": "group",
+        "name": "Česká pirátská strana",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20",
+    "present_share": 0.9549819928
+  },
+  {
+    "person_id": "brno:person:tomas-anderle",
+    "vote_events_total": 3332,
+    "present": 3030,
+    "absent": 302,
+    "name": "Tomáš Anderle",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Anderle"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:spd-trikolora",
+        "classification": "group",
+        "name": "SPD+Trikolora",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20",
+    "present_share": 0.9093637455
+  },
+  {
+    "person_id": "brno:person:blanka-borovska",
+    "vote_events_total": 3332,
+    "present": 3012,
+    "absent": 320,
+    "name": "Blanka Borovská",
+    "given_names": [
+      "Blanka"
+    ],
+    "family_names": [
+      "Borovská"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:spd-trikolora",
+        "classification": "group",
+        "name": "SPD+Trikolora",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20",
+    "present_share": 0.9039615846
+  },
+  {
+    "person_id": "brno:person:petr-levicek",
+    "vote_events_total": 3332,
+    "present": 2105,
+    "absent": 1227,
+    "name": "Petr Levíček",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Levíček"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:nezavisli",
+        "classification": "group",
+        "name": "Nezávislí",
+        "since": "2026-01-20",
+        "until": "2026-03-03"
+      },
+      {
+        "id": "brno:org:group:spd-trikolora",
+        "classification": "group",
+        "name": "SPD+Trikolora",
+        "since": "2022-10-20",
+        "until": "2025-12-10"
+      },
+      {
+        "id": "brno:org:group:brno-klidem-a-nezavisli-zastupitele",
+        "classification": "group",
+        "name": "Brno klidem a nezávislí zastupitelé",
+        "since": "2026-04-14",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20",
+    "present_share": 0.6317527011
+  },
+  {
+    "person_id": "brno:person:leos-prokes",
+    "vote_events_total": 3332,
+    "present": 2774,
+    "absent": 558,
+    "name": "Leoš Prokeš",
+    "given_names": [
+      "Leoš"
+    ],
+    "family_names": [
+      "Prokeš"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:spd-trikolora",
+        "classification": "group",
+        "name": "SPD+Trikolora",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20",
+    "present_share": 0.8325330132
+  },
+  {
+    "person_id": "brno:person:tomas-skricka",
+    "vote_events_total": 3332,
+    "present": 3219,
+    "absent": 113,
+    "name": "Tomáš Skřička",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Skřička"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:spd-trikolora",
+        "classification": "group",
+        "name": "SPD+Trikolora",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20",
+    "present_share": 0.9660864346
+  },
+  {
+    "person_id": "brno:person:jana-drapalova",
+    "vote_events_total": 3332,
+    "present": 3099,
+    "absent": 233,
+    "name": "Jana Drápalová",
+    "given_names": [
+      "Jana"
+    ],
+    "family_names": [
+      "Drápalová"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:zeleni-a-zit-brno",
+        "classification": "group",
+        "name": "Zelení a Žít Brno",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20",
+    "present_share": 0.9300720288
+  },
+  {
+    "person_id": "brno:person:jasna-flamikova",
+    "vote_events_total": 3332,
+    "present": 2726,
+    "absent": 606,
+    "name": "Jasna Flamiková",
+    "given_names": [
+      "Jasna"
+    ],
+    "family_names": [
+      "Flamiková"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:zeleni-a-zit-brno",
+        "classification": "group",
+        "name": "Zelení a Žít Brno",
+        "since": "2022-10-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20",
+    "present_share": 0.8181272509
+  },
+  {
+    "person_id": "brno:person:matej-hollan",
+    "vote_events_total": 2895,
+    "present": 1887,
+    "absent": 1008,
+    "name": "Matěj Hollan",
+    "given_names": [
+      "Matěj"
+    ],
+    "family_names": [
+      "Hollan"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:zeleni-a-zit-brno",
+        "classification": "group",
+        "name": "Zelení a Žít Brno",
+        "since": "2022-10-20",
+        "until": "2025-12-10"
+      }
+    ],
+    "since": "2022-10-20",
+    "present_share": 0.6518134715
+  },
+  {
+    "person_id": "brno:person:petr-borecky-121",
+    "vote_events_total": 2118,
+    "present": 2047,
+    "absent": 71,
+    "name": "Petr Bořecký",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Bořecký"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:lidovci-a-starostove",
+        "classification": "group",
+        "name": "Lidovci a Starostové",
+        "since": "2024-01-30",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20",
+    "present_share": 0.9664778093
+  },
+  {
+    "person_id": "brno:person:tomas-hejl",
+    "vote_events_total": 732,
+    "present": 705,
+    "absent": 27,
+    "name": "Tomáš Hejl",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Hejl"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2024-09-10",
+        "until": "2025-04-29"
+      }
+    ],
+    "since": "2022-10-20",
+    "present_share": 0.9631147541
+  },
+  {
+    "person_id": "brno:person:sabina-benesova",
+    "vote_events_total": 897,
+    "present": 872,
+    "absent": 25,
+    "name": "Sabina Benešová",
+    "given_names": [
+      "Sabina"
+    ],
+    "family_names": [
+      "Benešová"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2025-06-10",
+        "until": "2025-12-10"
+      },
+      {
+        "id": "brno:org:group:nezavisli",
+        "classification": "group",
+        "name": "Nezávislí",
+        "since": "2026-01-20",
+        "until": "2026-03-03"
+      },
+      {
+        "id": "brno:org:group:brno-klidem-a-nezavisli-zastupitele",
+        "classification": "group",
+        "name": "Brno klidem a nezávislí zastupitelé",
+        "since": "2026-04-14",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20",
+    "present_share": 0.97212932
+  },
+  {
+    "person_id": "brno:person:matous-vencalek",
+    "vote_events_total": 438,
+    "present": 428,
+    "absent": 10,
+    "name": "Matouš Vencálek",
+    "given_names": [
+      "Matouš"
+    ],
+    "family_names": [
+      "Vencálek"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:zeleni-a-zit-brno",
+        "classification": "group",
+        "name": "Zelení a Žít Brno",
+        "since": "2026-01-20",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20",
+    "present_share": 0.9771689498
+  },
+  {
+    "person_id": "brno:person:petr-borecky-3",
+    "vote_events_total": 3332,
+    "present": 3144,
+    "absent": 188,
+    "name": "Petr Bořecký",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Bořecký"
+    ],
+    "organizations": [
+      {
+        "id": "brno:org:group:nezavisli",
+        "classification": "group",
+        "name": "Nezávislí",
+        "since": "2026-01-20",
+        "until": "2026-03-03"
+      },
+      {
+        "id": "brno:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-20",
+        "until": "2025-12-10"
+      },
+      {
+        "id": "brno:org:group:brno-klidem-a-nezavisli-zastupitele",
+        "classification": "group",
+        "name": "Brno klidem a nezávislí zastupitelé",
+        "since": "2026-04-14",
+        "until": "2026-06-23"
+      }
+    ],
+    "since": "2022-10-20",
+    "present_share": 0.943577431
+  }
+]
