@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T22:43:00.756433+00:00",
+  "generated_at": "2026-08-26T23:31:51.165433+00:00",
   "method": "point_biserial_correlation",
   "n_dims": 3,
   "n_included_people": 59,
@@ -17,23 +17,23 @@
   "correlations": [
     {
       "dim_index": 0,
-      "correlation": 0.7499625562307807
+      "correlation": 0.7499625562307813
     },
     {
       "dim_index": 1,
-      "correlation": 0.4219341789445488
+      "correlation": 0.42193417894454915
     },
     {
       "dim_index": 2,
-      "correlation": -0.08046930292143692
+      "correlation": -0.08046930292143704
     }
   ],
   "detected_dim_index": 0,
   "override_dim_index": null,
   "overridden": false,
   "effective_dim_index": 0,
-  "government_mean": 0.35492153222788,
-  "opposition_mean": -0.9165515223645758,
+  "government_mean": 0.3549215322278801,
+  "opposition_mean": -0.9165515223645759,
   "government_sign": 1,
   "sources": {
     "wpca_output": "brno/analyses/wpca/outputs/wpca.json",
