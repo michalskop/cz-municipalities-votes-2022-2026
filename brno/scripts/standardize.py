@@ -103,11 +103,77 @@ def _build_organization(source_url: str) -> dict[str, Any]:
     }
 
 
+# Explicitly cited, manually verified source-id renumbering(s) on the origin server
+# (zastupko.fit.vutbr.cz). Detected 2026-08-26 when switching from the brno.zastupko.cz mirror
+# (which still uses the old id) to the origin, per sources.yml's `mirror_vs_origin` note: source
+# id 3 (the mirror's "Petr Bořecký", ANO 2011, a vote in every one of the mirror's 2813 sessions
+# since 2022-10-20) is absent from the origin's zastupitele roster entirely — replaced by a NEW id
+# 125 whose first politickeSubjekty interval is the exact same ANO 2011 membership with the exact
+# same 2022-10-20 start date, and whose votes.csv coverage (3332 votes) is a strict superset of id
+# 3's (2812 votes, consistent with 6 more sessions on the origin) with zero votes left referencing
+# id 3 anywhere. This alone would be suggestive but not sufficient — G5 requires an independent
+# citation, not an inference from matching dates/counts. That citation: ANO 2011's national
+# leadership expelled 10 Brno councillors in December 2025 (matching id 125's ANO 2011 end_date,
+# 2025-12-10) for refusing to leave the ruling coalition with ODS after the Pavel Blažek
+# bitcoin-seizure scandal; the expelled councillors then founded a new movement, "Brno klidem"
+# (matching id 125's later politickeSubjekt 16, "Brno klidem a nezávislí zastupitelé") — see
+# citations below. Brno's own official council-member page for Petr Bořecký independently confirms
+# his CURRENT affiliation as "Brnoklidem a nezávislí zastupitelé" and role "uvolněný člen RMB pro
+# územní plánování", matching id 125 exactly. Mapped here to REUSE the already-established
+# brno:person:petr-borecky-3 identity (rather than mint a new -125 person and let the old -3
+# person's tenure look like it silently ended) — this is one person's ongoing tenure, not a
+# departure plus a new arrival. Never add an entry to this table without an independent citation;
+# an id change with no citation must mint a new person instead (the default behavior without an
+# entry here).
+_KNOWN_ID_RENUMBERINGS: dict[int, dict[str, Any]] = {
+    125: {
+        "stable_person_id": "brno:person:petr-borecky-3",
+        "former_source_id": 3,
+        "citations": [
+            {
+                "url": (
+                    "https://www.seznamzpravy.cz/clanek/domaci-politika-vedeni-ano-vyloucilo-"
+                    "brnenske-zastupitele-kteri-neopustili-koalici-s-ods-293838"
+                ),
+                "note": (
+                    "ANO 2011's national leadership expelled 10 Brno councillors in December "
+                    "2025 (incl. Petr Bořecký) for refusing to leave the ruling coalition with "
+                    "ODS on Brno's city council, after regional leadership called for it over "
+                    "the Pavel Blažek bitcoin-seizure scandal."
+                ),
+            },
+            {
+                "url": (
+                    "https://stisk.online/a/pxfVj/vylouceni-zastupitele-ano-prichazeji-s-hnutim-"
+                    "brno-klidem-chteji-pokracovat-v-politice"
+                ),
+                "note": (
+                    "The expelled ANO councillors, including Bořecký, founded a new movement "
+                    "'Brno klidem' to continue in Brno politics — matches id 125's later "
+                    "'Brno klidem a nezávislí zastupitelé' (idPolitickySubjekt=16) affiliation."
+                ),
+            },
+            {
+                "url": "https://www.brno.cz/w/petr-borecky",
+                "note": (
+                    "Brno's own official council-member page for Petr Bořecký: current "
+                    "affiliation 'Brnoklidem a nezávislí zastupitelé', role 'uvolněný člen RMB "
+                    "pro územní plánování' — matches id 125's current status exactly."
+                ),
+            },
+        ],
+    },
+}
+
+
 def _build_persons(
     zastupitele: list[dict[str, Any]], source_url: str
 ) -> tuple[list[dict[str, Any]], dict[int, str]]:
     """Returns (persons rows, {idZastupitel: person_id}). Handles the G5 namesake collision by
-    suffixing the source's own numeric id onto every colliding slug (never merges)."""
+    suffixing the source's own numeric id onto every colliding slug (never merges two distinct
+    people). Separately handles _KNOWN_ID_RENUMBERINGS (never merges two distinct people either —
+    it re-maps a single real person's OLD source id to their NEW one, both citing independent
+    confirmation; see that table's docstring)."""
     slug_to_ids: dict[str, list[int]] = {}
     for z in zastupitele:
         slug = _slugify(f"{z['jmeno']}-{z['prijmeni']}")
@@ -117,29 +183,51 @@ def _build_persons(
     id_to_person_id: dict[int, str] = {}
 
     for z in zastupitele:
-        slug = _slugify(f"{z['jmeno']}-{z['prijmeni']}")
-        colliding_ids = slug_to_ids[slug]
-        if len(colliding_ids) > 1:
-            logging.warning(
-                "G5 identity collision: %d distinct source ids (%s) share the name %r %r — "
-                "disambiguating with a numeric suffix, NOT merging.",
-                len(colliding_ids),
-                colliding_ids,
-                z["jmeno"],
-                z["prijmeni"],
+        renumbering = _KNOWN_ID_RENUMBERINGS.get(z["id"])
+        if renumbering is not None:
+            person_id = renumbering["stable_person_id"]
+            logging.info(
+                "Source id %d re-mapped to the already-established %s (former source id %d) "
+                "per _KNOWN_ID_RENUMBERINGS — see that table's citations.",
+                z["id"],
+                person_id,
+                renumbering["former_source_id"],
             )
-            person_slug = f"{slug}-{z['id']}"
         else:
-            person_slug = slug
+            slug = _slugify(f"{z['jmeno']}-{z['prijmeni']}")
+            colliding_ids = slug_to_ids[slug]
+            if len(colliding_ids) > 1:
+                logging.warning(
+                    "G5 identity collision: %d distinct source ids (%s) share the name %r %r — "
+                    "disambiguating with a numeric suffix, NOT merging.",
+                    len(colliding_ids),
+                    colliding_ids,
+                    z["jmeno"],
+                    z["prijmeni"],
+                )
+                person_slug = f"{slug}-{z['id']}"
+            else:
+                person_slug = slug
+            person_id = f"brno:person:{person_slug}"
 
-        person_id = f"brno:person:{person_slug}"
         id_to_person_id[z["id"]] = person_id
 
         identifiers = [{"scheme": "brno:zastupko_id", "identifier": str(z["id"])}]
+        if renumbering is not None:
+            identifiers.append(
+                {
+                    "scheme": "brno:zastupko_id_former",
+                    "identifier": str(renumbering["former_source_id"]),
+                }
+            )
         for alias in z.get("aliasy") or []:
             former = f"{alias.get('jmeno', '')} {alias.get('prijmeni', '')}".strip()
             if former:
                 identifiers.append({"scheme": "brno:former_name", "identifier": former})
+
+        sources_list = [{"url": source_url, "note": f"zastupko.cz idZastupitel={z['id']}"}]
+        if renumbering is not None:
+            sources_list.extend(renumbering["citations"])
 
         persons.append(
             {
@@ -148,10 +236,7 @@ def _build_persons(
                 "given_name": z["jmeno"],
                 "family_name": z["prijmeni"],
                 "identifiers": json.dumps(identifiers, ensure_ascii=False),
-                "sources": json.dumps(
-                    [{"url": source_url, "note": f"zastupko.cz idZastupitel={z['id']}"}],
-                    ensure_ascii=False,
-                ),
+                "sources": json.dumps(sources_list, ensure_ascii=False),
             }
         )
 
@@ -211,6 +296,25 @@ def _classify_result_consistency(
     return "match" if expected_prijato == prijato else "mismatch"
 
 
+def _session_date(session: dict[str, Any]) -> str:
+    """A session's date, tolerant of the schema-CZ.json-documented `datum` field AND the
+    undocumented `datum_od`/`datum_do` shape the zastupko.fit.vutbr.cz origin server has drifted
+    to as of 2026-08 (the schema doc still says `datum`; the live origin no longer sends it —
+    confirmed by comparing it against the brno.zastupko.cz mirror, which still uses `datum` and
+    is 6 sessions stale as a result, see sources.yml). Prefers `datum` when present (the
+    documented field); falls back to `datum_od` (the session's start date) otherwise. Neither
+    present is a real schema break, not something to guess past — fail loudly.
+    """
+    if "datum" in session:
+        return session["datum"]
+    if "datum_od" in session:
+        return session["datum_od"]
+    raise KeyError(
+        f"session {session.get('cislo')!r} (id={session.get('id')!r}) has neither 'datum' nor "
+        "'datum_od' — unrecognized session-date schema, see _session_date's docstring"
+    )
+
+
 def _build_votes_events_motions(
     zasedani: list[dict[str, Any]],
     id_to_person_id: dict[int, str],
@@ -239,7 +343,7 @@ def _build_votes_events_motions(
 
     for session in zasedani:
         session_no = session["cislo"]
-        session_date = session["datum"]
+        session_date = _session_date(session)
         session_url = session.get("url", {}).get("zaznam")
 
         for h in session["hlasovani"]:
@@ -462,7 +566,7 @@ def standardize(
         zasedani, id_to_person_id, source_url
     )
 
-    global_max_date = max(session["datum"] for session in zasedani)
+    global_max_date = max(_session_date(session) for session in zasedani)
     memberships = _build_memberships(id_to_person_id, event_dates_by_person, global_max_date, source_url)
 
     out_dir.mkdir(parents=True, exist_ok=True)

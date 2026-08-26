@@ -4,11 +4,12 @@ Source and format notes: brno/config/sources.yml. The original primary
 (`kod.brno.cz/zastupitelstvo/`) has been returning HTTP 503 since at least 2026-08-04 (re-verified
 still down 2026-08-06 and 2026-08-07) — this downloader fetches the `zastupko_current` fallback
 instead (a live, per-person JSON feed on a different platform, `zastupko.cz`, discovered via the
-ArcGIS Hub item search; see sources.yml for the full trail). The feed is ~8.5 MB and covers the
-whole term to date in one response — always re-fetch, never trust a stale copy (the feed itself is
-also known to lag the council's actual meeting schedule by several months as of 2026-08-07, see
-sources.yml's `coverage_and_known_gap` note; re-fetching won't fix that, only the upstream feed
-catching up will, but the downloader should still always pull the latest available snapshot).
+ArcGIS Hub item search; see sources.yml for the full trail). The feed is ~10 MB and covers the
+whole term to date in one response — always re-fetch, never trust a stale copy. `zastupko_current`
+was repointed 2026-08-26 from a stale mirror to the real origin server (see sources.yml's
+`mirror_vs_origin` note) — the previously documented "several months" lag was an artifact of that
+wrong URL, not a property of the source itself; re-fetching is still the right default, just no
+longer a workaround for a known-stale copy.
 """
 import argparse
 import logging

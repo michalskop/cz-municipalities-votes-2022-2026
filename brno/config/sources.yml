@@ -3,6 +3,18 @@
 # STATUS (2026-08-07): primary endpoint re-verified DOWN; a genuine, live, per-person fallback
 # was found and is now the primary data source for the pipeline (`brno/scripts/downloader.py`
 # fetches `zastupko_current.url` below). Investigation trail kept in full — see both entries.
+#
+# UPDATE (2026-08-26): `zastupko_current.url` was pointed at a STALE MIRROR (`brno.zastupko.cz`),
+# not the real origin. Confirmed via the city's own official dashboard for this exact dataset
+# (`data.brno.cz/apps/46c26ea8be4549f099e0b80113e0eb64/explore`, ArcGIS item id
+# `46c26ea8be4549f099e0b80113e0eb64`) — its item metadata credits the source feed at
+# `zastupko.fit.vutbr.cz` (FIT VUT's own domain), not `brno.zastupko.cz`. Direct comparison: the
+# mirror had 30 sessions ending Z9/30 (2025-11-11) — exactly the "~9-month gap" this file
+# previously documented as a source-side lag; the origin has 36 sessions ending Z9/36
+# (2026-06-23), with only Z9/37 (2026-09-15) scheduled and not yet held. The "lag" was never a
+# real gap in the source, only in which copy of it this pipeline was pointed at. URL switched
+# below; see `coverage_and_known_gap` (updated) and `schema` (now notes a field-name drift between
+# the two copies that `standardize.py`'s `_session_date()` handles).
 
 zastupitelstvo_kod_brno:
   status: "DOWN — HTTP 503, re-verified 2026-08-06 and again 2026-08-07 (repeated retries, with
@@ -24,9 +36,24 @@ zastupitelstvo_kod_brno:
     return.
 
 zastupko_current:
-  status: "LIVE, VERIFIED 2026-08-07 — now the primary source."
+  status: "LIVE, VERIFIED 2026-08-26 — origin server (not the brno.zastupko.cz mirror
+    originally used, see the UPDATE note above); now the primary source."
   type: json
-  url: "https://brno.zastupko.cz/flask/brno/zastupitelstvo/9/dataset"
+  url: "https://zastupko.fit.vutbr.cz/flask/brno/zastupitelstvo/9/dataset"
+  mirror_vs_origin: >
+    Two distinct servers serve what looks like the same feed: `brno.zastupko.cz` (used here
+    2026-08-07 through 2026-08-25 — a stale mirror/proxy, frozen at 30 sessions/Z9/30/
+    2025-11-11 the whole time) and `zastupko.fit.vutbr.cz` (FIT VUT's own origin — 36 sessions/
+    Z9/36/2026-06-23 as of 2026-08-26, actively updated). Both are otherwise structurally
+    identical (same municipalita/politickeSubjekty/zastupitele/zastupitelstva shape, same
+    hlasovani-level fields, same person/vote ids) except for one schema-level drift: session
+    objects on the mirror have a `datum` field (matching schema-CZ.json, the documented spec);
+    the origin's session objects have `datum_od`/`datum_do` instead (undocumented — the schema
+    repo hasn't been updated to match). `standardize.py`'s `_session_date()` accepts either.
+    Person/party counts also differ (60 zastupitele / 11 politickeSubjekty on the origin vs. 58 /
+    8 on the mirror) — expected, since 6 more sessions plausibly bring in new substitutes/klubs.
+    Re-verify this origin-vs-mirror relationship if either URL ever 404s or the gap reappears —
+    it's not documented anywhere except by direct comparison, done here on 2026-08-26.
   discovered_via: >
     The ArcGIS Hub "explore" page (`data.brno.cz/documents/mestobrno::hlasování-zastupitelstva...`)
     doesn't serve real content to a naive fetch (JS SPA), so it was resolved via the ArcGIS Item
@@ -45,16 +72,19 @@ zastupko_current:
     current dataset and 10 is not usable yet.
   schema: >
     Documented at https://github.com/zastupko/data-model (schema.json / schema-CZ.json, CC BY
-    4.0). Nested structure: municipalita -> politickeSubjekty (party list, id/zkrNazev/barva) ->
-    zastupitele (council members: id, jmeno, prijmeni, politickeSubjekty[] with od/do date
-    intervals — i.e. REAL per-party-membership intervals, not inferred) -> zastupitelstva[0]
-    (the term) -> koalice[] (coalition composition, od/do) + lidr[] (mayor/leader, od/do) ->
-    zasedani[] (meetings: cislo, datum, id, url.zaznam) -> hlasovani[] (vote events: id, cislo,
-    cas, platne, prijato, proceduralni, blokove, tajne, projednavano[] (agenda item(s):
-    predmetHlasovani, cisloUsneseni, klicovaSlova[], urlNavrh), urlProtokol, sumarizace (aggregate
-    fallback, only used "if individual votes aren't available" — confirmed 0/2813 events use it
-    in this dataset, always per-person data instead), zastupiteleHlasy[] (idZastupitel, hlas,
-    prezencne)).
+    4.0), against the mirror's shape — see `mirror_vs_origin` above for where the live origin has
+    drifted from it. Nested structure: municipalita -> politickeSubjekty (party list,
+    id/zkrNazev/barva) -> zastupitele (council members: id, jmeno, prijmeni, politickeSubjekty[]
+    with od/do date intervals — i.e. REAL per-party-membership intervals, not inferred) ->
+    zastupitelstva[0] (the term) -> koalice[] (coalition composition, od/do) + lidr[]
+    (mayor/leader, od/do) -> zasedani[] (meetings: cislo, id, plus EITHER `datum` (documented) OR
+    `datum_od`/`datum_do` (undocumented, the live origin's current shape) — no `url` field on the
+    origin's session objects, unlike the mirror's `url.zaznam`, but standardize.py never read that
+    field anyway) -> hlasovani[] (vote events: id, cislo, cas, platne, prijato, proceduralni,
+    blokove, tajne, projednavano[] (agenda item(s): predmetHlasovani, cisloUsneseni,
+    klicovaSlova[], urlNavrh), urlProtokol, sumarizace (aggregate fallback, only used "if
+    individual votes aren't available" — confirmed 0/2813 events use it in this dataset, always
+    per-person data instead), zastupiteleHlasy[] (idZastupitel, hlas, prezencne)).
   vote_option_vocabulary: >
     Single-letter codes (schema-CZ.json's `hlas` enum), different from kod.brno.cz's Czech-word
     vocabulary: "A" = Ano/pro -> yes, "N" = Ne/proti -> no, "Z" = Zdržel/a se -> abstain,
@@ -63,21 +93,16 @@ zastupko_current:
     observed data (2022-10-20 through 2025-11-11) — standardize.py intentionally does not map
     them (raises loudly if ever encountered, rather than guessing a dt-standard option for them).
   coverage_and_known_gap: >
-    Live-verified data spans 2022-10-20 (Z9/01, first session of the term) through 2025-11-11
-    (Z9/30) — 2813 vote events across 30 sessions, 58 distinct council members. HOWEVER: Brno's
-    own official meeting listing (https://www.brno.cz/zasedani-zmb, fetched 2026-08-07) shows the
-    council continued meeting well past that: Z9/31 (2025-12-10), Z9/32 (2026-01-20), Z9/33
-    (2026-03-03), Z9/34 (2026-04-14), Z9/35 (2026-05-19), Z9/36 (2026-06-23) all held, and Z9/37
-    (2026-09-15) scheduled. The zastupko.cz feed has NOT been updated to include these 6+ held
-    sessions despite its own documentation claiming updates "within one week" of each session —
-    this is a real, ~9-month coverage gap as of 2026-08-07, not a sign the term ended early. The
-    "do": "2025-11-11" fields on koalice/lidr/politickeSubjekty entries are an artifact of this
-    same feed staleness (last snapshot date), not an actual coalition/term end — do not read them
-    as "the coalition ended." Re-check this feed on every pipeline run (nightly, once wired up);
-    if it stays stale, this needs a direct owner/maintainer inquiry (zastupko.cz contact) or a
-    parallel scrape of https://www.brno.cz/zasedani-zmb + apl.brno.cz protocol pages to backfill
-    the gap — out of scope for C2, flagged for whoever picks up C5/C6-equivalent nightly wiring
-    for Brno.
+    RESOLVED 2026-08-26 (was previously documented as a ~9-month gap — that gap was an artifact
+    of using the stale mirror, see the UPDATE note at the top of this file, not a real source-side
+    lag). The origin now live-verified spans 2022-10-20 (Z9/01, first session of the term) through
+    2026-06-23 (Z9/36) — 36 sessions, 60 distinct council members. Cross-checked against Brno's
+    own official meeting listing (https://www.brno.cz/zasedani-zmb): Z9/36 (2026-06-23) is
+    genuinely the latest HELD session; Z9/37 (2026-09-15) is scheduled but hasn't happened yet
+    (consistent with a summer recess) — so there is currently no known coverage gap, not just a
+    smaller one. Re-verify this against brno.cz's listing on every pipeline run regardless (nightly,
+    once wired up) — this file's own history is a reminder that "the feed looks complete" isn't
+    self-evidently true without that external check.
   g2_cross_check_approach: >
     No independently-published per-event aggregate is available in this feed (sumarizace is
     always empty here) or reachable from this environment: apl.brno.cz (linked per-event as
