@@ -18,11 +18,20 @@ well-documented GitHub Actions runner limitation (IPv6 looks configured on the i
 actually routed to many external hosts), not a problem with the source or this repo's code, and
 not reproducible in this project's own dev sandbox (which resolves IPv6 fine). Forcing IPv4-only
 resolution for the duration of this script's one request works around it — see `_force_ipv4`.
+
+Retry note (2026-08-27): a later nightly run hit a plain `ConnectTimeoutError` (120s, IPv4 this
+time — a different failure mode than the IPv6 issue above) reaching the same origin server. FIT
+VUT's own infrastructure is not under this project's control and evidently has occasional
+availability blips; a bare single-attempt `requests.get` turns any one of them into a full pipeline
+failure for the night. Retries with backoff (same pattern already proven in
+ostrava/scripts/downloader.py, built the next day after independently hitting the same class of
+problem against a different server) — 3 attempts, 10s/20s between them.
 """
 import argparse
 import contextlib
 import logging
 import socket
+import time
 from pathlib import Path
 
 import requests
@@ -54,15 +63,28 @@ def download(
     sources_path: Path = _DEFAULT_SOURCES,
     out_path: Path = _DEFAULT_OUT,
     timeout: int = 120,
+    retries: int = 3,
 ) -> Path:
     """Fetch the source JSON named in sources.yml and save it verbatim."""
     cfg = yaml.safe_load(sources_path.read_text(encoding="utf-8"))
     url = cfg["zastupko_current"]["url"]
 
-    logging.info("Downloading %s", url)
-    with _force_ipv4():
-        resp = requests.get(url, timeout=timeout)
-    resp.raise_for_status()
+    last_exc: Exception | None = None
+    for attempt in range(1, retries + 1):
+        logging.info("Downloading %s (attempt %d/%d)", url, attempt, retries)
+        try:
+            with _force_ipv4():
+                resp = requests.get(url, timeout=timeout)
+            resp.raise_for_status()
+            break
+        except requests.exceptions.RequestException as exc:
+            last_exc = exc
+            if attempt < retries:
+                wait = 10 * attempt
+                logging.warning("Download failed (attempt %d/%d): %s — retrying in %ds", attempt, retries, exc, wait)
+                time.sleep(wait)
+    else:
+        raise RuntimeError(f"Failed to download {url} after {retries} attempts") from last_exc
 
     out_path.parent.mkdir(parents=True, exist_ok=True)
     out_path.write_bytes(resp.content)
