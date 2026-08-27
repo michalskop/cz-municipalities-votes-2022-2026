@@ -1,0 +1,45 @@
+{
+  "since": "2022-10-24",
+  "until": null,
+  "present_options": ["yes", "no", "abstain"],
+  "absent_options": ["absent", "not voting"],
+  "yes_options": ["yes"],
+  "no_options": ["no"],
+  "government_groups": [
+    "most:org:group:promost",
+    "most:org:group:ano-2011"
+  ],
+  "government_members": [],
+  "extras": {
+    "approval_status": "DRAFT — awaiting project owner sign-off per plan.md decision D7, same process as Praha/Brno/Ostrava.",
+    "government_groups_citation": [
+      {
+        "claim": "Most's 2022-2026 governing coalition, formed after the Oct 2022 election, is ProMOST (won the election, 21/45 seats, 41% of the vote) + ANO 2011 (2nd place, 10/45 seats, 20%) — 31/45 seats, a clear majority. Jan Paparega (ProMOST) was initially mayor; he resigned within months of also being elected senator, and Marek Hrvol (ProMOST, former first deputy mayor) became mayor on 2023-01-01, reportedly the youngest mayor in the Czech Republic at the time. ProMOST holds the mayor and both deputy mayor posts plus 3 more council seats; ANO's 3 council seats include their 2022 election leader Ivana Hvezdova.",
+        "sources": [
+          "https://mostecky.denik.cz/zpravy-region/mostu-zacala-vladnout-nova-koalice-promost-a-ano-primatorem-je-opet-paparega-202/",
+          "https://cs.wikipedia.org/wiki/Zastupitelstvo_m%C4%9Bsta_Mostu",
+          "https://www.irozhlas.cz/volby/komunalni-volby-2022/most-567027"
+        ]
+      },
+      {
+        "claim": "Corroborated directly by the source feed's own `koalice` field (zastupitelstva[0].koalice), which is NOT currently read/used anywhere in standardize.py or party_affiliation.py but independently states the coalition as idPolitickeSubjekt [3, 1] = ProMOST + ANO 2011, for one single unbroken interval spanning the ENTIRE term recorded so far (2022-10-24 to 2026-06-18, the dataset's last observed session) — i.e. the source's own data agrees with the news citation above, and shows no coalition change/reshuffle across the whole term.",
+        "sources": [
+          "most/work/raw/zastupko_dataset_8.json's own zastupitelstva[0].koalice field — internal source-data citation, not an external news claim"
+        ]
+      },
+      {
+        "claim": "The feed's own `lidr` (mayor) field is UNRELIABLE here, same caveat already documented for Brno's wpca_definition.json: it names idZastupitel=4 (Renata Cisarova, an SPD s pod.Trik. councilor, definitely NOT the mayor) rather than the real mayor. Do not use the `lidr` field as a mayor/rotate-anchor source for this city; the news citations above (Marek Hrvol, ProMOST, source id 17) are the trustworthy source instead.",
+        "sources": [
+          "most/work/raw/zastupko_dataset_8.json's own zastupitelstva[0].lidr field (internal, shown here as a documented DATA QUALITY CAVEAT, not a claim to rely on)"
+        ]
+      }
+    ],
+    "resolved_questions": [],
+    "open_questions_for_owner": [
+      {
+        "question": "5 current 'Nezaraz.' (unaffiliated) councilors and the sole current 'ODS a NEZAVISLI' councilor are not included in government_groups (conservative default, no citation found either way for their individual coalition alignment) — same disposition as Brno's own unaffiliated-group precedent. Confirm this is the right default, or should any of them be added based on other information?"
+      }
+    ],
+    "not_investigated": "Whether ProMOST or ANO 2011's own internal composition changed (e.g. a faction split) is out of scope, matching Praha/Brno's equivalent note — this repo models each feed-reported klub as one org, no sub-party split available."
+  }
+}

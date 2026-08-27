@@ -1,0 +1,11 @@
+{
+  "since": "2022-10-24",
+  "until": null,
+  "present_options": ["yes", "no", "abstain"],
+  "absent_options": ["absent", "not voting"],
+  "extras": {
+    "approval_status": "DRAFT — no political judgment involved (pure vote-option vocabulary + term dates), does not require D7 sign-off the way govity/wpca's government_groups does. Ready to use as-is.",
+    "vocabulary_source": "most/config/sources.yml's vote_option_vocabulary: schema-CZ.json's single-letter hlas codes, A/N/Z -> yes/no/abstain (present), '–' (absent, en dash) -> absent, X (Nehlasoval/a) -> not voting — identical to Brno's mapping, and confirmed via a full scan to have no unmapped values in Most's data (unlike Brno's one 'T' exception).",
+    "since_rationale": "2022-10-24 = start_date of the assembly term per most/data/memberships.csv (first session 1/3, 2022-10-24). until=null: the term has not ended as of this file's creation (2026-08-27); the origin feed's last observed session is session 24 (2026-06-18)."
+  }
+}

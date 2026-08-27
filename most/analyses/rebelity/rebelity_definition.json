@@ -1,0 +1,14 @@
+{
+  "since": "2022-10-24",
+  "until": null,
+  "present_options": ["yes", "no", "abstain"],
+  "absent_options": ["absent", "not voting"],
+  "yes_options": ["yes"],
+  "no_options": ["no"],
+  "extras": {
+    "approval_status": "DRAFT — measures alignment with each person's own REAL klub (most:org:group:* rows from most/scripts/party_affiliation.py, sourced directly from the feed's dated politickeSubjekty intervals — D7's preferred live-group case, same as Brno's). Does not depend on which groups form the government, so it does not require the same D7 sign-off as govity/wpca's government_groups — ready to use as-is.",
+    "vocabulary_source": "Same vocabulary mapping as attendance_definition.json.",
+    "note": "Rebelity requires each person's group membership at each vote-event date, sourced from data/memberships.csv's most:org:group:* rows (real dated intervals) via the all-members-shaped persons file the runner builds — a Most equivalent of praha/scripts/build_all_members.py is not yet built (out of scope for this draft, needed before rebelity can actually be run).",
+    "known_gap": "None found: party_affiliation.py's incomplete_history check (2026-08-27 run) found zero people with a politickeSubjekty history starting after their own assembly membership start — every current or former councilor's full party history is present in the source, unlike Brno's 2 documented gaps."
+  }
+}

@@ -1,0 +1,1133 @@
+[
+  {
+    "person_id": "most:person:alexandr-agh",
+    "rebelity_total": 1,
+    "rebelity_possible": 489,
+    "rebelity": 0.002045,
+    "name": "Alexandr Agh",
+    "given_names": [
+      "Alexandr"
+    ],
+    "family_names": [
+      "Agh"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:hana-aulicka-jirovcova",
+    "rebelity_total": 1,
+    "rebelity_possible": 483,
+    "rebelity": 0.00207,
+    "name": "Hana Aulická Jírovcová",
+    "given_names": [
+      "Hana"
+    ],
+    "family_names": [
+      "Aulická Jírovcová"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:smm",
+        "classification": "group",
+        "name": "SMM",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:lukas-bednarik",
+    "rebelity_total": 1,
+    "rebelity_possible": 488,
+    "rebelity": 0.002049,
+    "name": "Lukáš Bednařík",
+    "given_names": [
+      "Lukáš"
+    ],
+    "family_names": [
+      "Bednařík"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:renata-cisarova",
+    "rebelity_total": 3,
+    "rebelity_possible": 485,
+    "rebelity": 0.006186,
+    "name": "Renáta Císařová",
+    "given_names": [
+      "Renáta"
+    ],
+    "family_names": [
+      "Císařová"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:spd-s-pod-trik",
+        "classification": "group",
+        "name": "SPD s pod.Trik.",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:alena-dernerova",
+    "rebelity_total": 0,
+    "rebelity_possible": 406,
+    "rebelity": 0.0,
+    "name": "Alena Dernerová",
+    "given_names": [
+      "Alena"
+    ],
+    "family_names": [
+      "Dernerová"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:ods-a-nezavisli",
+        "classification": "group",
+        "name": "ODS a NEZÁVISLÍ",
+        "since": "2022-10-24",
+        "until": "2026-02-26"
+      },
+      {
+        "id": "most:org:group:nezaraz",
+        "classification": "group",
+        "name": "Nezařaz.",
+        "since": "2026-04-23"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:martin-domin",
+    "rebelity_total": 1,
+    "rebelity_possible": 483,
+    "rebelity": 0.00207,
+    "name": "Martin Domín",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Domín"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:smm",
+        "classification": "group",
+        "name": "SMM",
+        "since": "2022-10-24",
+        "until": "2024-06-20"
+      },
+      {
+        "id": "most:org:group:nezaraz",
+        "classification": "group",
+        "name": "Nezařaz.",
+        "since": "2024-09-19"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:daniel-drtik",
+    "rebelity_total": 2,
+    "rebelity_possible": 407,
+    "rebelity": 0.004914,
+    "name": "Daniel Drtík",
+    "given_names": [
+      "Daniel"
+    ],
+    "family_names": [
+      "Drtík"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:ods-a-nezavisli",
+        "classification": "group",
+        "name": "ODS a NEZÁVISLÍ",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:daniel-dunovsky",
+    "rebelity_total": 1,
+    "rebelity_possible": 488,
+    "rebelity": 0.002049,
+    "name": "Daniel Dunovský",
+    "given_names": [
+      "Daniel"
+    ],
+    "family_names": [
+      "Dunovský"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:jana-falterova-zudova",
+    "rebelity_total": 1,
+    "rebelity_possible": 489,
+    "rebelity": 0.002045,
+    "name": "Jana Falterová Zudová",
+    "given_names": [
+      "Jana"
+    ],
+    "family_names": [
+      "Falterová Zudová"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:josef-fiala",
+    "rebelity_total": 0,
+    "rebelity_possible": 485,
+    "rebelity": 0.0,
+    "name": "Josef Fiala",
+    "given_names": [
+      "Josef"
+    ],
+    "family_names": [
+      "Fiala"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:spd-s-pod-trik",
+        "classification": "group",
+        "name": "SPD s pod.Trik.",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:petr-formanek",
+    "rebelity_total": 0,
+    "rebelity_possible": 488,
+    "rebelity": 0.0,
+    "name": "Petr Formánek",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Formánek"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:jarmila-fuchsova",
+    "rebelity_total": 2,
+    "rebelity_possible": 485,
+    "rebelity": 0.004124,
+    "name": "Jarmila Fuchsová",
+    "given_names": [
+      "Jarmila"
+    ],
+    "family_names": [
+      "Fuchsová"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:spd-s-pod-trik",
+        "classification": "group",
+        "name": "SPD s pod.Trik.",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:pavel-gal",
+    "rebelity_total": 5,
+    "rebelity_possible": 478,
+    "rebelity": 0.01046,
+    "name": "Pavel Gál",
+    "given_names": [
+      "Pavel"
+    ],
+    "family_names": [
+      "Gál"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:nezaraz",
+        "classification": "group",
+        "name": "Nezařaz.",
+        "since": "2024-02-29",
+        "until": "2025-02-20"
+      },
+      {
+        "id": "most:org:group:smm",
+        "classification": "group",
+        "name": "SMM",
+        "since": "2025-04-24",
+        "until": "2025-09-18"
+      },
+      {
+        "id": "most:org:group:spd-s-pod-trik",
+        "classification": "group",
+        "name": "SPD s pod.Trik.",
+        "since": "2022-10-24",
+        "until": "2023-12-14"
+      },
+      {
+        "id": "most:org:group:nezaraz",
+        "classification": "group",
+        "name": "Nezařaz.",
+        "since": "2025-11-20"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:roman-houska",
+    "rebelity_total": 0,
+    "rebelity_possible": 445,
+    "rebelity": 0.0,
+    "name": "Roman Houska",
+    "given_names": [
+      "Roman"
+    ],
+    "family_names": [
+      "Houska"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:ods-a-nezavisli",
+        "classification": "group",
+        "name": "ODS a NEZÁVISLÍ",
+        "since": "2022-10-24",
+        "until": "2022-10-24"
+      },
+      {
+        "id": "most:org:group:nezaraz",
+        "classification": "group",
+        "name": "Nezařaz.",
+        "since": "2022-11-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:helena-houskova",
+    "rebelity_total": 0,
+    "rebelity_possible": 119,
+    "rebelity": 0.0,
+    "name": "Helena Houšková",
+    "given_names": [
+      "Helena"
+    ],
+    "family_names": [
+      "Houšková"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2025-09-18"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:jaroslav-hrvol",
+    "rebelity_total": 0,
+    "rebelity_possible": 488,
+    "rebelity": 0.0,
+    "name": "Jaroslav Hrvol",
+    "given_names": [
+      "Jaroslav"
+    ],
+    "family_names": [
+      "Hrvol"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:marek-hrvol",
+    "rebelity_total": 0,
+    "rebelity_possible": 488,
+    "rebelity": 0.0,
+    "name": "Marek Hrvol",
+    "given_names": [
+      "Marek"
+    ],
+    "family_names": [
+      "Hrvol"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:ivana-hvezdova",
+    "rebelity_total": 1,
+    "rebelity_possible": 489,
+    "rebelity": 0.002045,
+    "name": "Ivana Hvězdová",
+    "given_names": [
+      "Ivana"
+    ],
+    "family_names": [
+      "Hvězdová"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:pavla-choteborska",
+    "rebelity_total": 0,
+    "rebelity_possible": 488,
+    "rebelity": 0.0,
+    "name": "Pavla Chotěborská",
+    "given_names": [
+      "Pavla"
+    ],
+    "family_names": [
+      "Chotěborská"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:zbynek-jaks",
+    "rebelity_total": 0,
+    "rebelity_possible": 488,
+    "rebelity": 0.0,
+    "name": "Zbyněk Jakš",
+    "given_names": [
+      "Zbyněk"
+    ],
+    "family_names": [
+      "Jakš"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:jan-korba",
+    "rebelity_total": 0,
+    "rebelity_possible": 488,
+    "rebelity": 0.0,
+    "name": "Jan Korba",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Korba"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:milan-koznar",
+    "rebelity_total": 0,
+    "rebelity_possible": 395,
+    "rebelity": 0.0,
+    "name": "Milan Kožnar",
+    "given_names": [
+      "Milan"
+    ],
+    "family_names": [
+      "Kožnar"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:smm",
+        "classification": "group",
+        "name": "SMM",
+        "since": "2023-04-27"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:vladimir-kubik",
+    "rebelity_total": 0,
+    "rebelity_possible": 488,
+    "rebelity": 0.0,
+    "name": "Vladimír Kubík",
+    "given_names": [
+      "Vladimír"
+    ],
+    "family_names": [
+      "Kubík"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:tiep-luu-danh",
+    "rebelity_total": 1,
+    "rebelity_possible": 488,
+    "rebelity": 0.002049,
+    "name": "Tiep Luu Danh",
+    "given_names": [
+      "Tiep"
+    ],
+    "family_names": [
+      "Luu Danh"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:ondrej-malek",
+    "rebelity_total": 0,
+    "rebelity_possible": 488,
+    "rebelity": 0.0,
+    "name": "Ondřej Málek",
+    "given_names": [
+      "Ondřej"
+    ],
+    "family_names": [
+      "Málek"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:alois-maly",
+    "rebelity_total": 0,
+    "rebelity_possible": 488,
+    "rebelity": 0.0,
+    "name": "Alois Malý",
+    "given_names": [
+      "Alois"
+    ],
+    "family_names": [
+      "Malý"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:lubomira-mejstrikova",
+    "rebelity_total": 0,
+    "rebelity_possible": 489,
+    "rebelity": 0.0,
+    "name": "Lubomíra Mejstříková",
+    "given_names": [
+      "Lubomíra"
+    ],
+    "family_names": [
+      "Mejstříková"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:jiri-nedved",
+    "rebelity_total": 1,
+    "rebelity_possible": 483,
+    "rebelity": 0.00207,
+    "name": "Jiří Nedvěd",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Nedvěd"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:smm",
+        "classification": "group",
+        "name": "SMM",
+        "since": "2022-10-24",
+        "until": "2024-06-20"
+      },
+      {
+        "id": "most:org:group:nezaraz",
+        "classification": "group",
+        "name": "Nezařaz.",
+        "since": "2024-09-19"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:jan-paparega",
+    "rebelity_total": 0,
+    "rebelity_possible": 488,
+    "rebelity": 0.0,
+    "name": "Jan Paparega",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Paparega"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:berenika-pestova",
+    "rebelity_total": 0,
+    "rebelity_possible": 489,
+    "rebelity": 0.0,
+    "name": "Berenika Peštová",
+    "given_names": [
+      "Berenika"
+    ],
+    "family_names": [
+      "Peštová"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:patricie-prokesova",
+    "rebelity_total": 0,
+    "rebelity_possible": 489,
+    "rebelity": 0.0,
+    "name": "Patricie Prokešová",
+    "given_names": [
+      "Patricie"
+    ],
+    "family_names": [
+      "Prokešová"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:milan-rybak",
+    "rebelity_total": 6,
+    "rebelity_possible": 483,
+    "rebelity": 0.012422,
+    "name": "Milan Rybák",
+    "given_names": [
+      "Milan"
+    ],
+    "family_names": [
+      "Rybák"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:smm",
+        "classification": "group",
+        "name": "SMM",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:jan-schiller",
+    "rebelity_total": 0,
+    "rebelity_possible": 489,
+    "rebelity": 0.0,
+    "name": "Jan Schiller",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Schiller"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:marketa-stara",
+    "rebelity_total": 1,
+    "rebelity_possible": 488,
+    "rebelity": 0.002049,
+    "name": "Markéta Stará",
+    "given_names": [
+      "Markéta"
+    ],
+    "family_names": [
+      "Stará"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:martin-strakos",
+    "rebelity_total": 2,
+    "rebelity_possible": 485,
+    "rebelity": 0.004124,
+    "name": "Martin Strakoš",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Strakoš"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:spd-s-pod-trik",
+        "classification": "group",
+        "name": "SPD s pod.Trik.",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:jana-skudrnova",
+    "rebelity_total": 0,
+    "rebelity_possible": 489,
+    "rebelity": 0.0,
+    "name": "Jana Škudrnová",
+    "given_names": [
+      "Jana"
+    ],
+    "family_names": [
+      "Škudrnová"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:romana-sramkova",
+    "rebelity_total": 0,
+    "rebelity_possible": 20,
+    "rebelity": 0.0,
+    "name": "Romana Šrámková",
+    "given_names": [
+      "Romana"
+    ],
+    "family_names": [
+      "Šrámková"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2026-06-18"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:olga-srutova",
+    "rebelity_total": 0,
+    "rebelity_possible": 488,
+    "rebelity": 0.0,
+    "name": "Olga Šrůtová",
+    "given_names": [
+      "Olga"
+    ],
+    "family_names": [
+      "Šrůtová"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:sasa-stembera",
+    "rebelity_total": 1,
+    "rebelity_possible": 488,
+    "rebelity": 0.002049,
+    "name": "Sáša Štembera",
+    "given_names": [
+      "Sáša"
+    ],
+    "family_names": [
+      "Štembera"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:barbora-stempakova",
+    "rebelity_total": 1,
+    "rebelity_possible": 488,
+    "rebelity": 0.002049,
+    "name": "Barbora Štempáková",
+    "given_names": [
+      "Barbora"
+    ],
+    "family_names": [
+      "Štempáková"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:jiri-turis",
+    "rebelity_total": 1,
+    "rebelity_possible": 488,
+    "rebelity": 0.002049,
+    "name": "Jiří Turis",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Turis"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:jitka-urbankova-mikulova",
+    "rebelity_total": 1,
+    "rebelity_possible": 489,
+    "rebelity": 0.002045,
+    "name": "Jitka Urbánková Mikulová",
+    "given_names": [
+      "Jitka"
+    ],
+    "family_names": [
+      "Urbánková Mikulová"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:michal-varga",
+    "rebelity_total": 0,
+    "rebelity_possible": 132,
+    "rebelity": 0.0,
+    "name": "Michal Varga",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Varga"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:spd-s-pod-trik",
+        "classification": "group",
+        "name": "SPD s pod.Trik.",
+        "since": "2025-06-19"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:vlastimil-vozka",
+    "rebelity_total": 1,
+    "rebelity_possible": 488,
+    "rebelity": 0.002049,
+    "name": "Vlastimil Vozka",
+    "given_names": [
+      "Vlastimil"
+    ],
+    "family_names": [
+      "Vozka"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:vaclav-zahradnicek",
+    "rebelity_total": 0,
+    "rebelity_possible": 488,
+    "rebelity": 0.0,
+    "name": "Václav Zahradníček",
+    "given_names": [
+      "Václav"
+    ],
+    "family_names": [
+      "Zahradníček"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:lenka-bombera-piskacova",
+    "rebelity_total": 1,
+    "rebelity_possible": 469,
+    "rebelity": 0.002132,
+    "name": "Lenka Bombera Piskačová",
+    "given_names": [
+      "Lenka"
+    ],
+    "family_names": [
+      "Bombera Piskačová"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-24",
+        "until": "2026-04-23"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:stanislav-woznica",
+    "rebelity_total": 0,
+    "rebelity_possible": 369,
+    "rebelity": 0.0,
+    "name": "Stanislav Woznica",
+    "given_names": [
+      "Stanislav"
+    ],
+    "family_names": [
+      "Woznica"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2022-10-24",
+        "until": "2025-06-19"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:roman-lensky",
+    "rebelity_total": 1,
+    "rebelity_possible": 353,
+    "rebelity": 0.002833,
+    "name": "Roman Lenský",
+    "given_names": [
+      "Roman"
+    ],
+    "family_names": [
+      "Lenský"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:spd-s-pod-trik",
+        "classification": "group",
+        "name": "SPD s pod.Trik.",
+        "since": "2022-10-24",
+        "until": "2025-04-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:pavel-lisicky",
+    "rebelity_total": 0,
+    "rebelity_possible": 88,
+    "rebelity": 0.0,
+    "name": "Pavel Lisický",
+    "given_names": [
+      "Pavel"
+    ],
+    "family_names": [
+      "Lisický"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:smm",
+        "classification": "group",
+        "name": "SMM",
+        "since": "2022-10-24",
+        "until": "2023-02-16"
+      }
+    ],
+    "since": "2022-10-24"
+  }
+]

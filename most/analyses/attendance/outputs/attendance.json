@@ -1,0 +1,1182 @@
+[
+  {
+    "person_id": "most:person:alexandr-agh",
+    "vote_events_total": 489,
+    "present": 449,
+    "absent": 40,
+    "name": "Alexandr Agh",
+    "given_names": [
+      "Alexandr"
+    ],
+    "family_names": [
+      "Agh"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.918200409
+  },
+  {
+    "person_id": "most:person:hana-aulicka-jirovcova",
+    "vote_events_total": 489,
+    "present": 468,
+    "absent": 21,
+    "name": "Hana Aulická Jírovcová",
+    "given_names": [
+      "Hana"
+    ],
+    "family_names": [
+      "Aulická Jírovcová"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:smm",
+        "classification": "group",
+        "name": "SMM",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9570552147
+  },
+  {
+    "person_id": "most:person:lukas-bednarik",
+    "vote_events_total": 489,
+    "present": 444,
+    "absent": 45,
+    "name": "Lukáš Bednařík",
+    "given_names": [
+      "Lukáš"
+    ],
+    "family_names": [
+      "Bednařík"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9079754601
+  },
+  {
+    "person_id": "most:person:renata-cisarova",
+    "vote_events_total": 489,
+    "present": 444,
+    "absent": 45,
+    "name": "Renáta Císařová",
+    "given_names": [
+      "Renáta"
+    ],
+    "family_names": [
+      "Císařová"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:spd-s-pod-trik",
+        "classification": "group",
+        "name": "SPD s pod.Trik.",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9079754601
+  },
+  {
+    "person_id": "most:person:alena-dernerova",
+    "vote_events_total": 489,
+    "present": 253,
+    "absent": 236,
+    "name": "Alena Dernerová",
+    "given_names": [
+      "Alena"
+    ],
+    "family_names": [
+      "Dernerová"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:ods-a-nezavisli",
+        "classification": "group",
+        "name": "ODS a NEZÁVISLÍ",
+        "since": "2022-10-24",
+        "until": "2026-02-26"
+      },
+      {
+        "id": "most:org:group:nezaraz",
+        "classification": "group",
+        "name": "Nezařaz.",
+        "since": "2026-04-23"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.5173824131
+  },
+  {
+    "person_id": "most:person:martin-domin",
+    "vote_events_total": 489,
+    "present": 276,
+    "absent": 213,
+    "name": "Martin Domín",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Domín"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:smm",
+        "classification": "group",
+        "name": "SMM",
+        "since": "2022-10-24",
+        "until": "2024-06-20"
+      },
+      {
+        "id": "most:org:group:nezaraz",
+        "classification": "group",
+        "name": "Nezařaz.",
+        "since": "2024-09-19"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.5644171779
+  },
+  {
+    "person_id": "most:person:daniel-drtik",
+    "vote_events_total": 489,
+    "present": 396,
+    "absent": 93,
+    "name": "Daniel Drtík",
+    "given_names": [
+      "Daniel"
+    ],
+    "family_names": [
+      "Drtík"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:ods-a-nezavisli",
+        "classification": "group",
+        "name": "ODS a NEZÁVISLÍ",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.8098159509
+  },
+  {
+    "person_id": "most:person:daniel-dunovsky",
+    "vote_events_total": 489,
+    "present": 441,
+    "absent": 48,
+    "name": "Daniel Dunovský",
+    "given_names": [
+      "Daniel"
+    ],
+    "family_names": [
+      "Dunovský"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9018404908
+  },
+  {
+    "person_id": "most:person:jana-falterova-zudova",
+    "vote_events_total": 489,
+    "present": 487,
+    "absent": 2,
+    "name": "Jana Falterová Zudová",
+    "given_names": [
+      "Jana"
+    ],
+    "family_names": [
+      "Falterová Zudová"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9959100204
+  },
+  {
+    "person_id": "most:person:josef-fiala",
+    "vote_events_total": 489,
+    "present": 464,
+    "absent": 25,
+    "name": "Josef Fiala",
+    "given_names": [
+      "Josef"
+    ],
+    "family_names": [
+      "Fiala"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:spd-s-pod-trik",
+        "classification": "group",
+        "name": "SPD s pod.Trik.",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9488752556
+  },
+  {
+    "person_id": "most:person:petr-formanek",
+    "vote_events_total": 489,
+    "present": 465,
+    "absent": 24,
+    "name": "Petr Formánek",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Formánek"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9509202454
+  },
+  {
+    "person_id": "most:person:jarmila-fuchsova",
+    "vote_events_total": 489,
+    "present": 404,
+    "absent": 85,
+    "name": "Jarmila Fuchsová",
+    "given_names": [
+      "Jarmila"
+    ],
+    "family_names": [
+      "Fuchsová"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:spd-s-pod-trik",
+        "classification": "group",
+        "name": "SPD s pod.Trik.",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.8261758691
+  },
+  {
+    "person_id": "most:person:pavel-gal",
+    "vote_events_total": 489,
+    "present": 440,
+    "absent": 49,
+    "name": "Pavel Gál",
+    "given_names": [
+      "Pavel"
+    ],
+    "family_names": [
+      "Gál"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:nezaraz",
+        "classification": "group",
+        "name": "Nezařaz.",
+        "since": "2024-02-29",
+        "until": "2025-02-20"
+      },
+      {
+        "id": "most:org:group:smm",
+        "classification": "group",
+        "name": "SMM",
+        "since": "2025-04-24",
+        "until": "2025-09-18"
+      },
+      {
+        "id": "most:org:group:spd-s-pod-trik",
+        "classification": "group",
+        "name": "SPD s pod.Trik.",
+        "since": "2022-10-24",
+        "until": "2023-12-14"
+      },
+      {
+        "id": "most:org:group:nezaraz",
+        "classification": "group",
+        "name": "Nezařaz.",
+        "since": "2025-11-20"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.899795501
+  },
+  {
+    "person_id": "most:person:roman-houska",
+    "vote_events_total": 489,
+    "present": 430,
+    "absent": 59,
+    "name": "Roman Houska",
+    "given_names": [
+      "Roman"
+    ],
+    "family_names": [
+      "Houska"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:ods-a-nezavisli",
+        "classification": "group",
+        "name": "ODS a NEZÁVISLÍ",
+        "since": "2022-10-24",
+        "until": "2022-10-24"
+      },
+      {
+        "id": "most:org:group:nezaraz",
+        "classification": "group",
+        "name": "Nezařaz.",
+        "since": "2022-11-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.8793456033
+  },
+  {
+    "person_id": "most:person:helena-houskova",
+    "vote_events_total": 119,
+    "present": 96,
+    "absent": 23,
+    "name": "Helena Houšková",
+    "given_names": [
+      "Helena"
+    ],
+    "family_names": [
+      "Houšková"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2025-09-18"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.8067226891
+  },
+  {
+    "person_id": "most:person:jaroslav-hrvol",
+    "vote_events_total": 489,
+    "present": 433,
+    "absent": 56,
+    "name": "Jaroslav Hrvol",
+    "given_names": [
+      "Jaroslav"
+    ],
+    "family_names": [
+      "Hrvol"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.8854805726
+  },
+  {
+    "person_id": "most:person:marek-hrvol",
+    "vote_events_total": 489,
+    "present": 489,
+    "absent": 0,
+    "name": "Marek Hrvol",
+    "given_names": [
+      "Marek"
+    ],
+    "family_names": [
+      "Hrvol"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 1.0
+  },
+  {
+    "person_id": "most:person:ivana-hvezdova",
+    "vote_events_total": 489,
+    "present": 489,
+    "absent": 0,
+    "name": "Ivana Hvězdová",
+    "given_names": [
+      "Ivana"
+    ],
+    "family_names": [
+      "Hvězdová"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 1.0
+  },
+  {
+    "person_id": "most:person:pavla-choteborska",
+    "vote_events_total": 489,
+    "present": 463,
+    "absent": 26,
+    "name": "Pavla Chotěborská",
+    "given_names": [
+      "Pavla"
+    ],
+    "family_names": [
+      "Chotěborská"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9468302658
+  },
+  {
+    "person_id": "most:person:zbynek-jaks",
+    "vote_events_total": 489,
+    "present": 394,
+    "absent": 95,
+    "name": "Zbyněk Jakš",
+    "given_names": [
+      "Zbyněk"
+    ],
+    "family_names": [
+      "Jakš"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.8057259714
+  },
+  {
+    "person_id": "most:person:jan-korba",
+    "vote_events_total": 489,
+    "present": 414,
+    "absent": 75,
+    "name": "Jan Korba",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Korba"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.8466257669
+  },
+  {
+    "person_id": "most:person:milan-koznar",
+    "vote_events_total": 400,
+    "present": 319,
+    "absent": 81,
+    "name": "Milan Kožnar",
+    "given_names": [
+      "Milan"
+    ],
+    "family_names": [
+      "Kožnar"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:smm",
+        "classification": "group",
+        "name": "SMM",
+        "since": "2023-04-27"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.7975
+  },
+  {
+    "person_id": "most:person:vladimir-kubik",
+    "vote_events_total": 489,
+    "present": 486,
+    "absent": 3,
+    "name": "Vladimír Kubík",
+    "given_names": [
+      "Vladimír"
+    ],
+    "family_names": [
+      "Kubík"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9938650307
+  },
+  {
+    "person_id": "most:person:tiep-luu-danh",
+    "vote_events_total": 489,
+    "present": 316,
+    "absent": 173,
+    "name": "Tiep Luu Danh",
+    "given_names": [
+      "Tiep"
+    ],
+    "family_names": [
+      "Luu Danh"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.6462167689
+  },
+  {
+    "person_id": "most:person:ondrej-malek",
+    "vote_events_total": 489,
+    "present": 419,
+    "absent": 70,
+    "name": "Ondřej Málek",
+    "given_names": [
+      "Ondřej"
+    ],
+    "family_names": [
+      "Málek"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.8568507157
+  },
+  {
+    "person_id": "most:person:alois-maly",
+    "vote_events_total": 489,
+    "present": 439,
+    "absent": 50,
+    "name": "Alois Malý",
+    "given_names": [
+      "Alois"
+    ],
+    "family_names": [
+      "Malý"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.8977505112
+  },
+  {
+    "person_id": "most:person:lubomira-mejstrikova",
+    "vote_events_total": 489,
+    "present": 453,
+    "absent": 36,
+    "name": "Lubomíra Mejstříková",
+    "given_names": [
+      "Lubomíra"
+    ],
+    "family_names": [
+      "Mejstříková"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9263803681
+  },
+  {
+    "person_id": "most:person:jiri-nedved",
+    "vote_events_total": 489,
+    "present": 433,
+    "absent": 56,
+    "name": "Jiří Nedvěd",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Nedvěd"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:smm",
+        "classification": "group",
+        "name": "SMM",
+        "since": "2022-10-24",
+        "until": "2024-06-20"
+      },
+      {
+        "id": "most:org:group:nezaraz",
+        "classification": "group",
+        "name": "Nezařaz.",
+        "since": "2024-09-19"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.8854805726
+  },
+  {
+    "person_id": "most:person:jan-paparega",
+    "vote_events_total": 489,
+    "present": 450,
+    "absent": 39,
+    "name": "Jan Paparega",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Paparega"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9202453988
+  },
+  {
+    "person_id": "most:person:berenika-pestova",
+    "vote_events_total": 489,
+    "present": 295,
+    "absent": 194,
+    "name": "Berenika Peštová",
+    "given_names": [
+      "Berenika"
+    ],
+    "family_names": [
+      "Peštová"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.6032719836
+  },
+  {
+    "person_id": "most:person:patricie-prokesova",
+    "vote_events_total": 489,
+    "present": 485,
+    "absent": 4,
+    "name": "Patricie Prokešová",
+    "given_names": [
+      "Patricie"
+    ],
+    "family_names": [
+      "Prokešová"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9918200409
+  },
+  {
+    "person_id": "most:person:milan-rybak",
+    "vote_events_total": 489,
+    "present": 451,
+    "absent": 38,
+    "name": "Milan Rybák",
+    "given_names": [
+      "Milan"
+    ],
+    "family_names": [
+      "Rybák"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:smm",
+        "classification": "group",
+        "name": "SMM",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9222903885
+  },
+  {
+    "person_id": "most:person:jan-schiller",
+    "vote_events_total": 489,
+    "present": 405,
+    "absent": 84,
+    "name": "Jan Schiller",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Schiller"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.8282208589
+  },
+  {
+    "person_id": "most:person:marketa-stara",
+    "vote_events_total": 489,
+    "present": 479,
+    "absent": 10,
+    "name": "Markéta Stará",
+    "given_names": [
+      "Markéta"
+    ],
+    "family_names": [
+      "Stará"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9795501022
+  },
+  {
+    "person_id": "most:person:martin-strakos",
+    "vote_events_total": 489,
+    "present": 430,
+    "absent": 59,
+    "name": "Martin Strakoš",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Strakoš"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:spd-s-pod-trik",
+        "classification": "group",
+        "name": "SPD s pod.Trik.",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.8793456033
+  },
+  {
+    "person_id": "most:person:jana-skudrnova",
+    "vote_events_total": 489,
+    "present": 425,
+    "absent": 64,
+    "name": "Jana Škudrnová",
+    "given_names": [
+      "Jana"
+    ],
+    "family_names": [
+      "Škudrnová"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.8691206544
+  },
+  {
+    "person_id": "most:person:romana-sramkova",
+    "vote_events_total": 20,
+    "present": 20,
+    "absent": 0,
+    "name": "Romana Šrámková",
+    "given_names": [
+      "Romana"
+    ],
+    "family_names": [
+      "Šrámková"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2026-06-18"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 1.0
+  },
+  {
+    "person_id": "most:person:olga-srutova",
+    "vote_events_total": 489,
+    "present": 486,
+    "absent": 3,
+    "name": "Olga Šrůtová",
+    "given_names": [
+      "Olga"
+    ],
+    "family_names": [
+      "Šrůtová"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9938650307
+  },
+  {
+    "person_id": "most:person:sasa-stembera",
+    "vote_events_total": 489,
+    "present": 378,
+    "absent": 111,
+    "name": "Sáša Štembera",
+    "given_names": [
+      "Sáša"
+    ],
+    "family_names": [
+      "Štembera"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.773006135
+  },
+  {
+    "person_id": "most:person:barbora-stempakova",
+    "vote_events_total": 489,
+    "present": 432,
+    "absent": 57,
+    "name": "Barbora Štempáková",
+    "given_names": [
+      "Barbora"
+    ],
+    "family_names": [
+      "Štempáková"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.8834355828
+  },
+  {
+    "person_id": "most:person:jiri-turis",
+    "vote_events_total": 489,
+    "present": 431,
+    "absent": 58,
+    "name": "Jiří Turis",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Turis"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.881390593
+  },
+  {
+    "person_id": "most:person:jitka-urbankova-mikulova",
+    "vote_events_total": 489,
+    "present": 418,
+    "absent": 71,
+    "name": "Jitka Urbánková Mikulová",
+    "given_names": [
+      "Jitka"
+    ],
+    "family_names": [
+      "Urbánková Mikulová"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.854805726
+  },
+  {
+    "person_id": "most:person:michal-varga",
+    "vote_events_total": 132,
+    "present": 132,
+    "absent": 0,
+    "name": "Michal Varga",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Varga"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:spd-s-pod-trik",
+        "classification": "group",
+        "name": "SPD s pod.Trik.",
+        "since": "2025-06-19"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 1.0
+  },
+  {
+    "person_id": "most:person:vlastimil-vozka",
+    "vote_events_total": 489,
+    "present": 449,
+    "absent": 40,
+    "name": "Vlastimil Vozka",
+    "given_names": [
+      "Vlastimil"
+    ],
+    "family_names": [
+      "Vozka"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.918200409
+  },
+  {
+    "person_id": "most:person:vaclav-zahradnicek",
+    "vote_events_total": 489,
+    "present": 464,
+    "absent": 25,
+    "name": "Václav Zahradníček",
+    "given_names": [
+      "Václav"
+    ],
+    "family_names": [
+      "Zahradníček"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9488752556
+  },
+  {
+    "person_id": "most:person:lenka-bombera-piskacova",
+    "vote_events_total": 469,
+    "present": 313,
+    "absent": 156,
+    "name": "Lenka Bombera Piskačová",
+    "given_names": [
+      "Lenka"
+    ],
+    "family_names": [
+      "Bombera Piskačová"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-24",
+        "until": "2026-04-23"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.6673773987
+  },
+  {
+    "person_id": "most:person:stanislav-woznica",
+    "vote_events_total": 370,
+    "present": 288,
+    "absent": 82,
+    "name": "Stanislav Woznica",
+    "given_names": [
+      "Stanislav"
+    ],
+    "family_names": [
+      "Woznica"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2022-10-24",
+        "until": "2025-06-19"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.7783783784
+  },
+  {
+    "person_id": "most:person:roman-lensky",
+    "vote_events_total": 357,
+    "present": 285,
+    "absent": 72,
+    "name": "Roman Lenský",
+    "given_names": [
+      "Roman"
+    ],
+    "family_names": [
+      "Lenský"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:spd-s-pod-trik",
+        "classification": "group",
+        "name": "SPD s pod.Trik.",
+        "since": "2022-10-24",
+        "until": "2025-04-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.7983193277
+  },
+  {
+    "person_id": "most:person:pavel-lisicky",
+    "vote_events_total": 89,
+    "present": 74,
+    "absent": 15,
+    "name": "Pavel Lisický",
+    "given_names": [
+      "Pavel"
+    ],
+    "family_names": [
+      "Lisický"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:group:smm",
+        "classification": "group",
+        "name": "SMM",
+        "since": "2022-10-24",
+        "until": "2023-02-16"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.8314606742
+  }
+]
