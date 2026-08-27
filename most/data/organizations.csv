@@ -1,0 +1,2 @@
+id,name,classification,identifiers,sources
+most:org:zastupitelstvo-mesta-mostu,Zastupitelstvo města Mostu,assembly,"[{""scheme"": ""most:org_abbr"", ""identifier"": ""ZMM""}]","[{""url"": ""https://zastupko.fit.vutbr.cz/flask/most/zastupitelstvo/8/dataset"", ""note"": ""zastupko.cz feed, dataset id 8, term 2022-2026""}]"

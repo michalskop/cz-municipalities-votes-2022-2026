@@ -1,0 +1,53 @@
+# Source config for Most. Populated 2026-08-27 — same shared FIT VUT zastupko.cz backend Brno
+# uses (michalskop's own tip: Most is on "the same zastupko network" as Brno, confirmed directly
+# by testing the URL pattern). Not a port of any legacy scraper — Most has none in this repo.
+
+zastupko_current:
+  status: "LIVE, VERIFIED 2026-08-27 — origin server (not the most.zastupko.cz mirror, which is
+    also live but per Brno's precedent should not be trusted as the primary — see
+    mirror_vs_origin below)."
+  type: json
+  url: "https://zastupko.fit.vutbr.cz/flask/most/zastupitelstvo/8/dataset"
+  mirror_vs_origin: >
+    `most.zastupko.cz/flask/most/zastupitelstvo/8/dataset` (the mirror) and
+    `zastupko.fit.vutbr.cz/flask/most/zastupitelstvo/8/dataset` (the origin) both resolve and, as
+    of the 2026-08-27 discovery fetch, returned near-identical content — unlike Brno, where the
+    mirror was found to be badly stale (30 vs 36 sessions). Using the origin directly regardless,
+    per Brno's own lesson (brno/config/sources.yml's mirror_vs_origin note) — don't wait for the
+    mirror to drift before switching; there's no cost to preferring the origin from day one.
+  platform: >
+    Same shared FIT VUT backend (`zastupko.fit.vutbr.cz/flask/<city>/<organ>/<dataset_id>/dataset`)
+    Brno uses — NOT city-specific infrastructure. Dataset id 8 = Most's 2022-2026 term
+    (`poradiZastupitelstva: 8`, confirmed via od=2022/do=2026 in the response) — Most's own
+    numbering, unrelated to Brno's id 9. Ids 1-6 returned empty stub responses; id 7 is the prior
+    2018-2022 term (45 members, 6 sessions — clearly incomplete/frozen, not used).
+  schema: >
+    Same data-model as Brno's origin (github.com/zastupko/data-model schema-CZ.json), and already
+    on the SAME undocumented `datum_od`/`datum_do` session-date variant Brno's origin drifted to
+    (not the schema-documented `datum` field) — confirmed directly on first fetch, not discovered
+    via a later mismatch. Reuse standardize.py's `_session_date()`-equivalent handling from the
+    start rather than assuming the documented `datum` field works.
+  vote_option_vocabulary: >
+    Identical single-letter codes to Brno's: "A" = yes, "N" = no, "Z" = abstain, "–" (en dash) =
+    absent, "X" = not voting. Confirmed by a full scan of the 2022-2026 dataset (2026-08-27):
+    only these 5 values observed, no "O"/"T" (excused/secret) and no corrupted/unmapped values —
+    cleaner than Brno's data, which had one isolated event with an unmapped "T" value.
+  known_data_quality_findings:
+    - "No G5 namesake collisions found in a full scan of the 49-member zastupitele list
+      (2026-08-27) — every (jmeno, prijmeni) pair is unique. Confirmed again against the full
+      pipeline run (2026-08-27), not just the initial scan."
+    - "No platne=false (invalid) votes anywhere in the 2022-2026 term (489/489 events valid) —
+      unlike Brno, which has at least one invalid mayoral-election vote. Not a data-quality issue,
+      just means the golden-sample test can't pin an invalid-vote example the way Brno's does."
+    - "urlProtokol (official protocol page link) is null on all 489 events — unlike Brno, where
+      some events have it populated. standardize.py's run_protocol_cross_check() degrades to a
+      correct 0/0 no-op rather than a false 'unreachable' signal; the binding G2 signal for Most
+      is entirely the prijato-consistency check (489/489 match on the first real run)."
+  rada_note: >
+    Most ALSO publishes a real, substantial RADA (executive council) dataset on the same backend
+    — `zastupko.fit.vutbr.cz/flask/most/rada/8/dataset` (~1.75 MB, 10 members, 60 meetings, 2,427
+    votes, 2022-10-25 through 2026-07-23 — MORE current than the zastupitelstvo data). Deliberately
+    NOT built here — owner decision 2026-08-27 was zastupitelstvo first, rada as its own later
+    phase (still needs a data-model/dashboard decision — does rada become a second organization
+    under this same city, or its own city-slug like "most-rada"? not resolved). See this repo's
+    memory (most-source-research) for the full context if picking this back up later.
