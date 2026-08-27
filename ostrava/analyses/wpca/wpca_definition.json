@@ -12,10 +12,10 @@
   "time_interval": "half-year",
   "n_dims": 3,
   "extras": {
-    "approval_status": "PENDING PROJECT OWNER SIGN-OFF (D7) on the same government_groups facts as govity_definition.json (wpca's government-axis detection depends on them, via a detect_government_axis.py-equivalent script not yet run for Ostrava — see below). lo_limit/n_dims/rotate are technical defaults, ready to use independent of that sign-off.",
+    "approval_status": "APPROVED by project owner 2026-08-27, per plan.md decision D7 — inherits govity_definition.json's now-approved government_groups facts. lo_limit/n_dims/rotate are technical defaults, already ready to use independent of that sign-off.",
     "vocabulary_and_thresholds": "yes/no/abstain/absent/not-voting grouping and lo_limit=0.1/n_dims=3 copied as untuned defaults from praha/brno's own wpca_definition.json (itself copied from the cz-psp-data-2025-202x reference) — not independently tuned for Ostrava's 55-member assembly.",
     "rotate_choice": "ostrava:person:jan-dohnal (primátor since 2023-04-25, 'ODS + TOP09' klub) chosen as the PCA rotation anchor purely to fix output-axis sign/orientation for readability — an arbitrary technical choice, not a factual claim. Note he has been mayor for only part of the term (Tomáš Macura, ANO 2011, was mayor 2022-10-19 through 2023-04-25); this affects nothing about his validity as a rotation anchor, which needs no particular office, just a consistently-voting member.",
     "government_axis_override": null,
-    "government_axis_override_note": "Ostrava does not yet have a detect_government_axis.py run against real output, or the underlying wpca-runner infrastructure verified end-to-end — see ostrava/scripts/detect_government_axis.py (ported from Brno's already-working version, not yet executed here). This definition file establishes the input config only."
+    "government_axis_override_note": "detect_government_axis.py has been run against real output (2026-08-27): dim_index=0 shows the strongest correlation (0.72) with the now-approved government_groups classification, government_sign=+1 — auto-detection needs no override. See ostrava/analyses/wpca/outputs/government_axis.json."
   }
 }
