@@ -1,7 +1,7 @@
-# Nightly automation for the Praha, Brno and Ostrava pipelines (plan.md tasks C6/C6-equivalent).
+# Nightly automation for the Praha, Brno, Ostrava and Most pipelines (plan.md tasks C6/C6-equivalent).
 #
-# LIVE since 2026-08-25 (Praha) / 2026-08-27 (Brno, Ostrava) — pushed to origin/main; runs on the
-# schedule below plus workflow_dispatch.
+# LIVE since 2026-08-25 (Praha) / 2026-08-27 (Brno, Ostrava) / 2026-08-28 (Most) — pushed to
+# origin/main; runs on the schedule below plus workflow_dispatch.
 #
 # Shape per city: checkout -> install deps -> run the pipeline (download -> standardize -> G1 -> G2)
 # -> city-specific re-apply step(s) for data the standardizer can't retain on its own (Praha:
@@ -13,11 +13,11 @@
 # (GitHub Actions' default behavior: a failing step stops the job before later steps, including the
 # commit step, ever run — no extra plumbing needed for that).
 #
-# THREE SEQUENTIAL jobs (brno needs: praha, ostrava needs: brno), not a matrix and not parallel:
-# (1) each city's re-apply step sequence genuinely differs (Praha has 3 such steps, Brno has 1,
-# Ostrava has 2) — a matrix would need per-city conditional steps anyway, no real simplification
-# over three job bodies; (2) every job ends with `git pull --rebase && git push` against the same
-# branch — running them in parallel would race (job B's rebase can go stale between its own pull
+# FOUR SEQUENTIAL jobs (brno needs: praha, ostrava needs: brno, most needs: ostrava), not a matrix
+# and not parallel: (1) each city's re-apply step sequence genuinely differs (Praha has 3 such
+# steps, Brno and Most have 1, Ostrava has 2) — a matrix would need per-city conditional steps
+# anyway, no real simplification over four job bodies; (2) every job ends with `git pull --rebase
+# && git push` against the same branch — running them in parallel would race (job B's rebase can go stale between its own pull
 # and push if job A pushes in between, failing job B's push non-fast-forward). Sequential via
 # `needs:` avoids that whole class of failure at the cost of extra total runtime, which a
 # once-nightly job doesn't need to optimize away.
@@ -338,5 +338,84 @@ jobs:
             exit 0
           fi
           git commit -m "Nightly Ostrava data + analysis update"
+          git pull --rebase
+          git push
+
+  most:
+    name: Most nightly pipeline
+    needs: ostrava
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Most pipeline (download -> standardize -> G1 schema gate -> G2 cross-check)
+        run: python most/pipelines/run_pipeline.py
+
+      - name: Re-apply real party/klub data (D7 preferred case)
+        # standardize.py rewrites organizations.csv/memberships.csv from scratch every run, which
+        # would silently drop the most:org:group:* rows this script adds — same class of gap as
+        # Brno's party_affiliation.py step, see that script's module docstring. Real live group
+        # data straight from the same feed already downloaded this run, not a separate fetch.
+        run: python most/scripts/party_affiliation.py --data-dir most/data
+
+      - name: G4 monotonicity guard
+        run: python scripts/monotonicity_guard.py --data-dir most/data
+
+      - name: Clone legislature-data-analyses
+        run: |
+          git clone --depth=1 https://github.com/michalskop/legislature-data-analyses.git /tmp/legislature-data-analyses
+
+      - name: Run attendance analysis
+        run: |
+          python most/scripts/analyses/run_attendance.py \
+            --script /tmp/legislature-data-analyses/attendance/attendance.py
+
+      - name: Run rebelity analysis
+        run: |
+          python most/scripts/analyses/run_rebelity.py \
+            --script /tmp/legislature-data-analyses/rebelity/rebelity.py
+
+      - name: Run govity analysis
+        run: |
+          python most/scripts/analyses/run_govity.py \
+            --script /tmp/legislature-data-analyses/govity/govity.py
+
+      - name: Run wpca analysis
+        run: |
+          python most/scripts/analyses/run_wpca.py \
+            --script /tmp/legislature-data-analyses/wpca/wpca.py
+
+      - name: Detect government/opposition WPCA axis
+        run: python most/scripts/detect_government_axis.py
+
+      - name: G7 range sanity check on analysis outputs
+        run: |
+          python scripts/g7_sanity_check.py --output-file most/analyses/attendance/outputs/attendance.json
+          python scripts/g7_sanity_check.py --output-file most/analyses/rebelity/outputs/rebelity.json
+          python scripts/g7_sanity_check.py --output-file most/analyses/govity/outputs/govity.json
+          python scripts/g7_sanity_check.py --output-file most/analyses/wpca/outputs/wpca.json
+          python scripts/g7_sanity_check.py --output-file most/analyses/wpca/outputs/wpca_time.json
+          python scripts/g7_sanity_check.py --output-file most/analyses/wpca/outputs/government_axis.json
+
+      - name: Commit and push updated data + analysis outputs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add most/data/ most/analyses/*/outputs/
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "Nightly Most data + analysis update"
           git pull --rebase
           git push
