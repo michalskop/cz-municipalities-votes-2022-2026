@@ -91,6 +91,7 @@ def build_party_memberships(
     politicke_subjekty_by_id: dict[int, dict[str, Any]],
     source_url: str,
     assembly_start_by_person: dict[str, str],
+    global_max_date: str,
 ) -> tuple[list[dict[str, Any]], dict[str, Any]]:
     memberships: list[dict[str, Any]] = []
     incomplete_history: list[dict[str, Any]] = []
@@ -121,20 +122,34 @@ def build_party_memberships(
             subjekt = politicke_subjekty_by_id[iv["idPolitickySubjekt"]]
             org_id = f"brno:org:group:{_slugify(subjekt['zkrNazev'])}"
             membership_id = f"brno:membership:group:{person_id.split(':', 2)[2]}:{org_id.split(':', 2)[2]}:{iv['od']}"
+            raw_do = iv.get("do") or ""
+            # The source's own "do" field is populated with the dataset's last-observed snapshot
+            # date even for people who are STILL in this group — it is not a real departure date
+            # unless it's earlier than the whole dataset's last date. Same artifact already
+            # documented for koalice/lidr in sources.yml's coverage_and_known_gap note (before that
+            # note's 2026-08-26 update), and handled identically to standardize.py's own
+            # _build_memberships (global_max_date comparison) for the bare assembly membership.
+            # BUG (found 2026-08-27 via the dashboard's "no current groups render" symptom): this
+            # function originally stored `raw_do` verbatim as end_date, silently closing every
+            # still-current group membership.
+            end_date_str = "" if raw_do == global_max_date else raw_do
             memberships.append(
                 {
                     "id": membership_id,
                     "person_id": person_id,
                     "organization_id": org_id,
                     "start_date": iv["od"],
-                    "end_date": iv.get("do") or "",
+                    "end_date": end_date_str,
                     "sources": json.dumps(
                         [
                             {
                                 "url": source_url,
                                 "note": (
                                     f"zastupko.cz zastupitele[].politickeSubjekty[] real interval "
-                                    f"(idPolitickySubjekt={iv['idPolitickySubjekt']})."
+                                    f"(idPolitickySubjekt={iv['idPolitickySubjekt']}). end_date "
+                                    "blanked when equal to the dataset's global last-observed "
+                                    "date (last-snapshot artifact, not a real departure) — see "
+                                    "build_party_memberships's inline comment."
                                 ),
                             }
                         ],
@@ -204,8 +219,17 @@ def run(raw_path: Path, data_dir: Path, sources_path: Path) -> dict[str, Any]:
 
     politicke_subjekty_by_id = {s["id"]: s for s in data["politickeSubjekty"]}
     orgs = build_party_organizations(data["politickeSubjekty"], source_url)
+
+    term = data["zastupitelstva"][0]
+    global_max_date = max(standardize._session_date(session) for session in term["zasedani"])
+
     memberships, report = build_party_memberships(
-        data["zastupitele"], id_to_person_id, politicke_subjekty_by_id, source_url, assembly_start_by_person
+        data["zastupitele"],
+        id_to_person_id,
+        politicke_subjekty_by_id,
+        source_url,
+        assembly_start_by_person,
+        global_max_date,
     )
 
     write_outputs(data_dir, orgs, memberships)
