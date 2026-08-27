@@ -1,0 +1,1721 @@
+[
+  {
+    "person_id": "most:person:alena-dernerova",
+    "dims": [
+      -1.3157604463457262,
+      -0.43290108238522795,
+      0.6804655805641933
+    ],
+    "weight": 0.7362924281984335,
+    "included": true,
+    "name": "Alena Dernerová",
+    "given_names": [
+      "Alena"
+    ],
+    "family_names": [
+      "Dernerová"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:zastupitelstvo-mesta-mostu",
+        "name": "Zastupitelstvo města Mostu",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "most:org:group:ods-a-nezavisli",
+        "name": "ODS a NEZÁVISLÍ",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": "2026-02-26"
+      },
+      {
+        "id": "most:org:group:nezaraz",
+        "name": "Nezařaz.",
+        "classification": "groups",
+        "since": "2026-04-23",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:alexandr-agh",
+    "dims": [
+      0.42983047056378043,
+      0.09900919950049766,
+      0.06278754283898891
+    ],
+    "weight": 0.8851174934725848,
+    "included": true,
+    "name": "Alexandr Agh",
+    "given_names": [
+      "Alexandr"
+    ],
+    "family_names": [
+      "Agh"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:zastupitelstvo-mesta-mostu",
+        "name": "Zastupitelstvo města Mostu",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "most:org:group:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:alois-maly",
+    "dims": [
+      0.43727815409135085,
+      0.1180793277468772,
+      0.05452513543557266
+    ],
+    "weight": 0.9164490861618799,
+    "included": true,
+    "name": "Alois Malý",
+    "given_names": [
+      "Alois"
+    ],
+    "family_names": [
+      "Malý"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:zastupitelstvo-mesta-mostu",
+        "name": "Zastupitelstvo města Mostu",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "most:org:group:promost",
+        "name": "ProMOST",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:barbora-stempakova",
+    "dims": [
+      0.3156817199420404,
+      -0.17621399159926662,
+      0.049530157133900785
+    ],
+    "weight": 0.877284595300261,
+    "included": true,
+    "name": "Barbora Štempáková",
+    "given_names": [
+      "Barbora"
+    ],
+    "family_names": [
+      "Štempáková"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:zastupitelstvo-mesta-mostu",
+        "name": "Zastupitelstvo města Mostu",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "most:org:group:promost",
+        "name": "ProMOST",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:berenika-pestova",
+    "dims": [
+      0.43946569429974514,
+      0.16727129853332873,
+      0.041098271256419835
+    ],
+    "weight": 0.6553524804177546,
+    "included": true,
+    "name": "Berenika Peštová",
+    "given_names": [
+      "Berenika"
+    ],
+    "family_names": [
+      "Peštová"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:zastupitelstvo-mesta-mostu",
+        "name": "Zastupitelstvo města Mostu",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "most:org:group:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:daniel-drtik",
+    "dims": [
+      -0.38162471340656967,
+      0.3055252548141752,
+      0.05841420143243789
+    ],
+    "weight": 0.8511749347258486,
+    "included": true,
+    "name": "Daniel Drtík",
+    "given_names": [
+      "Daniel"
+    ],
+    "family_names": [
+      "Drtík"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:zastupitelstvo-mesta-mostu",
+        "name": "Zastupitelstvo města Mostu",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "most:org:group:ods-a-nezavisli",
+        "name": "ODS a NEZÁVISLÍ",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:daniel-dunovsky",
+    "dims": [
+      0.28735387597369844,
+      -0.07189585093108748,
+      -0.07263758587591548
+    ],
+    "weight": 0.8877284595300262,
+    "included": true,
+    "name": "Daniel Dunovský",
+    "given_names": [
+      "Daniel"
+    ],
+    "family_names": [
+      "Dunovský"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:zastupitelstvo-mesta-mostu",
+        "name": "Zastupitelstvo města Mostu",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "most:org:group:promost",
+        "name": "ProMOST",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:hana-aulicka-jirovcova",
+    "dims": [
+      -1.2847251983538701,
+      0.710806195557643,
+      -0.6102750755229883
+    ],
+    "weight": 0.9843342036553526,
+    "included": true,
+    "name": "Hana Aulická Jírovcová",
+    "given_names": [
+      "Hana"
+    ],
+    "family_names": [
+      "Aulická Jírovcová"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:zastupitelstvo-mesta-mostu",
+        "name": "Zastupitelstvo města Mostu",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "most:org:group:smm",
+        "name": "SMM",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:helena-houskova",
+    "dims": [
+      0.23992448837782968,
+      0.2132276274977292,
+      -0.33182415309666596
+    ],
+    "weight": 0.1618798955613577,
+    "included": true,
+    "name": "Helena Houšková",
+    "given_names": [
+      "Helena"
+    ],
+    "family_names": [
+      "Houšková"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:zastupitelstvo-mesta-mostu",
+        "name": "Zastupitelstvo města Mostu",
+        "classification": "parliament",
+        "since": "2025-09-18",
+        "until": null
+      },
+      {
+        "id": "most:org:group:promost",
+        "name": "ProMOST",
+        "classification": "groups",
+        "since": "2025-09-18",
+        "until": null
+      }
+    ],
+    "since": "2025-09-18"
+  },
+  {
+    "person_id": "most:person:ivana-hvezdova",
+    "dims": [
+      0.4019918446624907,
+      0.08220625463372475,
+      0.006178071187724666
+    ],
+    "weight": 1.0,
+    "included": true,
+    "name": "Ivana Hvězdová",
+    "given_names": [
+      "Ivana"
+    ],
+    "family_names": [
+      "Hvězdová"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:zastupitelstvo-mesta-mostu",
+        "name": "Zastupitelstvo města Mostu",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "most:org:group:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:jan-korba",
+    "dims": [
+      0.4054459316854841,
+      0.08425646285861914,
+      0.011640714179965804
+    ],
+    "weight": 0.9295039164490863,
+    "included": true,
+    "name": "Jan Korba",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Korba"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:zastupitelstvo-mesta-mostu",
+        "name": "Zastupitelstvo města Mostu",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "most:org:group:promost",
+        "name": "ProMOST",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:jan-paparega",
+    "dims": [
+      0.4322934955882136,
+      0.09077457862515416,
+      0.07967037646478652
+    ],
+    "weight": 0.8929503916449086,
+    "included": true,
+    "name": "Jan Paparega",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Paparega"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:zastupitelstvo-mesta-mostu",
+        "name": "Zastupitelstvo města Mostu",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "most:org:group:promost",
+        "name": "ProMOST",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:jan-schiller",
+    "dims": [
+      0.3874035705317836,
+      0.1854188479081501,
+      0.11746551407788075
+    ],
+    "weight": 0.7336814621409922,
+    "included": true,
+    "name": "Jan Schiller",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Schiller"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:zastupitelstvo-mesta-mostu",
+        "name": "Zastupitelstvo města Mostu",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "most:org:group:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:jana-falterova-zudova",
+    "dims": [
+      0.39841986580264116,
+      0.08384305966563244,
+      0.02081435009360747
+    ],
+    "weight": 1.0,
+    "included": true,
+    "name": "Jana Falterová Zudová",
+    "given_names": [
+      "Jana"
+    ],
+    "family_names": [
+      "Falterová Zudová"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:zastupitelstvo-mesta-mostu",
+        "name": "Zastupitelstvo města Mostu",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "most:org:group:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:jana-skudrnova",
+    "dims": [
+      0.4492742682432913,
+      0.12201385427008357,
+      0.08800426930154312
+    ],
+    "weight": 0.8851174934725848,
+    "included": true,
+    "name": "Jana Škudrnová",
+    "given_names": [
+      "Jana"
+    ],
+    "family_names": [
+      "Škudrnová"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:zastupitelstvo-mesta-mostu",
+        "name": "Zastupitelstvo města Mostu",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "most:org:group:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:jarmila-fuchsova",
+    "dims": [
+      -0.197732267384549,
+      -0.8034529023754317,
+      -0.47049982927788303
+    ],
+    "weight": 0.8146214099216711,
+    "included": true,
+    "name": "Jarmila Fuchsová",
+    "given_names": [
+      "Jarmila"
+    ],
+    "family_names": [
+      "Fuchsová"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:zastupitelstvo-mesta-mostu",
+        "name": "Zastupitelstvo města Mostu",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "most:org:group:spd-s-pod-trik",
+        "name": "SPD s pod.Trik.",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:jaroslav-hrvol",
+    "dims": [
+      0.4455471289160519,
+      0.10060350802847699,
+      0.12333597436886504
+    ],
+    "weight": 0.9190600522193211,
+    "included": true,
+    "name": "Jaroslav Hrvol",
+    "given_names": [
+      "Jaroslav"
+    ],
+    "family_names": [
+      "Hrvol"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:zastupitelstvo-mesta-mostu",
+        "name": "Zastupitelstvo města Mostu",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "most:org:group:promost",
+        "name": "ProMOST",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:jiri-nedved",
+    "dims": [
+      -1.832413293979106,
+      -0.12492739292111006,
+      0.17214793397258715
+    ],
+    "weight": 0.8798955613577024,
+    "included": true,
+    "name": "Jiří Nedvěd",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Nedvěd"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:zastupitelstvo-mesta-mostu",
+        "name": "Zastupitelstvo města Mostu",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "most:org:group:smm",
+        "name": "SMM",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": "2024-06-20"
+      },
+      {
+        "id": "most:org:group:nezaraz",
+        "name": "Nezařaz.",
+        "classification": "groups",
+        "since": "2024-09-19",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:jiri-turis",
+    "dims": [
+      0.43271908090909833,
+      0.053910438255290606,
+      0.14110890027994016
+    ],
+    "weight": 0.8851174934725848,
+    "included": true,
+    "name": "Jiří Turis",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Turis"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:zastupitelstvo-mesta-mostu",
+        "name": "Zastupitelstvo města Mostu",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "most:org:group:promost",
+        "name": "ProMOST",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:jitka-urbankova-mikulova",
+    "dims": [
+      0.42733971576822005,
+      0.01800886764569337,
+      0.06999606516638512
+    ],
+    "weight": 0.8224543080939948,
+    "included": true,
+    "name": "Jitka Urbánková Mikulová",
+    "given_names": [
+      "Jitka"
+    ],
+    "family_names": [
+      "Urbánková Mikulová"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:zastupitelstvo-mesta-mostu",
+        "name": "Zastupitelstvo města Mostu",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "most:org:group:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:josef-fiala",
+    "dims": [
+      -0.6224014152823318,
+      -0.6758810354411394,
+      -0.49606680738651704
+    ],
+    "weight": 0.9817232375979114,
+    "included": true,
+    "name": "Josef Fiala",
+    "given_names": [
+      "Josef"
+    ],
+    "family_names": [
+      "Fiala"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:zastupitelstvo-mesta-mostu",
+        "name": "Zastupitelstvo města Mostu",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "most:org:group:spd-s-pod-trik",
+        "name": "SPD s pod.Trik.",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:lenka-bombera-piskacova",
+    "dims": [
+      0.20257169744626513,
+      -0.5183142974056789,
+      0.12429452259156987
+    ],
+    "weight": 0.6553524804177546,
+    "included": true,
+    "name": "Lenka Bombera Piskačová",
+    "given_names": [
+      "Lenka"
+    ],
+    "family_names": [
+      "Bombera Piskačová"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:zastupitelstvo-mesta-mostu",
+        "name": "Zastupitelstvo města Mostu",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": "2026-04-23"
+      },
+      {
+        "id": "most:org:group:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": "2026-04-23"
+      }
+    ],
+    "since": "2022-10-24",
+    "until": "2026-04-23"
+  },
+  {
+    "person_id": "most:person:lubomira-mejstrikova",
+    "dims": [
+      0.3646929058553365,
+      0.1659037211307428,
+      -0.008287754062945452
+    ],
+    "weight": 0.8328981723237597,
+    "included": true,
+    "name": "Lubomíra Mejstříková",
+    "given_names": [
+      "Lubomíra"
+    ],
+    "family_names": [
+      "Mejstříková"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:zastupitelstvo-mesta-mostu",
+        "name": "Zastupitelstvo města Mostu",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "most:org:group:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:lukas-bednarik",
+    "dims": [
+      0.22181004589965553,
+      0.0018081904186308998,
+      -0.12146395123151378
+    ],
+    "weight": 0.9242819843342037,
+    "included": true,
+    "name": "Lukáš Bednařík",
+    "given_names": [
+      "Lukáš"
+    ],
+    "family_names": [
+      "Bednařík"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:zastupitelstvo-mesta-mostu",
+        "name": "Zastupitelstvo města Mostu",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "most:org:group:promost",
+        "name": "ProMOST",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:marek-hrvol",
+    "dims": [
+      0.4295135056298902,
+      0.09291563543830865,
+      0.08561933606707064
+    ],
+    "weight": 1.0,
+    "included": true,
+    "name": "Marek Hrvol",
+    "given_names": [
+      "Marek"
+    ],
+    "family_names": [
+      "Hrvol"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:zastupitelstvo-mesta-mostu",
+        "name": "Zastupitelstvo města Mostu",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "most:org:group:promost",
+        "name": "ProMOST",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:marketa-stara",
+    "dims": [
+      0.3380306357940094,
+      0.0787511996079317,
+      0.09788463181878575
+    ],
+    "weight": 0.9634464751958224,
+    "included": true,
+    "name": "Markéta Stará",
+    "given_names": [
+      "Markéta"
+    ],
+    "family_names": [
+      "Stará"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:zastupitelstvo-mesta-mostu",
+        "name": "Zastupitelstvo města Mostu",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "most:org:group:promost",
+        "name": "ProMOST",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:martin-domin",
+    "dims": [
+      -1.9295746041842994,
+      -0.05730885082975308,
+      0.15196828029564904
+    ],
+    "weight": 0.5796344647519581,
+    "included": true,
+    "name": "Martin Domín",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Domín"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:zastupitelstvo-mesta-mostu",
+        "name": "Zastupitelstvo města Mostu",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "most:org:group:smm",
+        "name": "SMM",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": "2024-06-20"
+      },
+      {
+        "id": "most:org:group:nezaraz",
+        "name": "Nezařaz.",
+        "classification": "groups",
+        "since": "2024-09-19",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:martin-strakos",
+    "dims": [
+      0.2704466005709011,
+      -0.21329415377800834,
+      -0.16272700518932012
+    ],
+    "weight": 0.7885117493472587,
+    "included": true,
+    "name": "Martin Strakoš",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Strakoš"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:zastupitelstvo-mesta-mostu",
+        "name": "Zastupitelstvo města Mostu",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "most:org:group:spd-s-pod-trik",
+        "name": "SPD s pod.Trik.",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:michal-varga",
+    "dims": [
+      0.24525930144377167,
+      0.1858225634259023,
+      -0.29933625906555184
+    ],
+    "weight": 0.21148825065274152,
+    "included": true,
+    "name": "Michal Varga",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Varga"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:zastupitelstvo-mesta-mostu",
+        "name": "Zastupitelstvo města Mostu",
+        "classification": "parliament",
+        "since": "2025-06-19",
+        "until": null
+      },
+      {
+        "id": "most:org:group:spd-s-pod-trik",
+        "name": "SPD s pod.Trik.",
+        "classification": "groups",
+        "since": "2025-06-19",
+        "until": null
+      }
+    ],
+    "since": "2025-06-19"
+  },
+  {
+    "person_id": "most:person:milan-koznar",
+    "dims": [
+      -0.17670273550463703,
+      0.28217046835191734,
+      -0.7514694862968683
+    ],
+    "weight": 0.5691906005221933,
+    "included": true,
+    "name": "Milan Kožnar",
+    "given_names": [
+      "Milan"
+    ],
+    "family_names": [
+      "Kožnar"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:zastupitelstvo-mesta-mostu",
+        "name": "Zastupitelstvo města Mostu",
+        "classification": "parliament",
+        "since": "2023-04-27",
+        "until": null
+      },
+      {
+        "id": "most:org:group:smm",
+        "name": "SMM",
+        "classification": "groups",
+        "since": "2023-04-27",
+        "until": null
+      }
+    ],
+    "since": "2023-04-27"
+  },
+  {
+    "person_id": "most:person:milan-rybak",
+    "dims": [
+      -1.0514100031550586,
+      0.8178812824574918,
+      -0.1919892559945578
+    ],
+    "weight": 0.9086161879895561,
+    "included": true,
+    "name": "Milan Rybák",
+    "given_names": [
+      "Milan"
+    ],
+    "family_names": [
+      "Rybák"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:zastupitelstvo-mesta-mostu",
+        "name": "Zastupitelstvo města Mostu",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "most:org:group:smm",
+        "name": "SMM",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:olga-srutova",
+    "dims": [
+      0.3438271607401092,
+      0.0719401249253342,
+      0.2083508205029503
+    ],
+    "weight": 0.9973890339425588,
+    "included": true,
+    "name": "Olga Šrůtová",
+    "given_names": [
+      "Olga"
+    ],
+    "family_names": [
+      "Šrůtová"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:zastupitelstvo-mesta-mostu",
+        "name": "Zastupitelstvo města Mostu",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "most:org:group:promost",
+        "name": "ProMOST",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:ondrej-malek",
+    "dims": [
+      0.43518425393587346,
+      0.11007890103790033,
+      0.0450562929114628
+    ],
+    "weight": 0.8407310704960835,
+    "included": true,
+    "name": "Ondřej Málek",
+    "given_names": [
+      "Ondřej"
+    ],
+    "family_names": [
+      "Málek"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:zastupitelstvo-mesta-mostu",
+        "name": "Zastupitelstvo města Mostu",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "most:org:group:promost",
+        "name": "ProMOST",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:patricie-prokesova",
+    "dims": [
+      0.41515865985213224,
+      0.10452551575142538,
+      0.021685045935096566
+    ],
+    "weight": 1.0,
+    "included": true,
+    "name": "Patricie Prokešová",
+    "given_names": [
+      "Patricie"
+    ],
+    "family_names": [
+      "Prokešová"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:zastupitelstvo-mesta-mostu",
+        "name": "Zastupitelstvo města Mostu",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "most:org:group:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:pavel-gal",
+    "dims": [
+      -0.4366461887076744,
+      -0.47872727237205615,
+      -0.2334125510986304
+    ],
+    "weight": 0.9033942558746736,
+    "included": true,
+    "name": "Pavel Gál",
+    "given_names": [
+      "Pavel"
+    ],
+    "family_names": [
+      "Gál"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:zastupitelstvo-mesta-mostu",
+        "name": "Zastupitelstvo města Mostu",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "most:org:group:nezaraz",
+        "name": "Nezařaz.",
+        "classification": "groups",
+        "since": "2024-02-29",
+        "until": "2025-02-20"
+      },
+      {
+        "id": "most:org:group:smm",
+        "name": "SMM",
+        "classification": "groups",
+        "since": "2025-04-24",
+        "until": "2025-09-18"
+      },
+      {
+        "id": "most:org:group:spd-s-pod-trik",
+        "name": "SPD s pod.Trik.",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": "2023-12-14"
+      },
+      {
+        "id": "most:org:group:nezaraz",
+        "name": "Nezařaz.",
+        "classification": "groups",
+        "since": "2025-11-20",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:pavel-lisicky",
+    "dims": [
+      -2.076597828110014,
+      0.8104650224530233,
+      0.037005432686384294
+    ],
+    "weight": 0.2819843342036553,
+    "included": true,
+    "name": "Pavel Lisický",
+    "given_names": [
+      "Pavel"
+    ],
+    "family_names": [
+      "Lisický"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:zastupitelstvo-mesta-mostu",
+        "name": "Zastupitelstvo města Mostu",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": "2023-02-16"
+      },
+      {
+        "id": "most:org:group:smm",
+        "name": "SMM",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": "2023-02-16"
+      }
+    ],
+    "since": "2022-10-24",
+    "until": "2023-02-16"
+  },
+  {
+    "person_id": "most:person:pavla-choteborska",
+    "dims": [
+      0.3995119433687601,
+      0.08688914483449688,
+      0.014026118438916138
+    ],
+    "weight": 0.9921671018276762,
+    "included": true,
+    "name": "Pavla Chotěborská",
+    "given_names": [
+      "Pavla"
+    ],
+    "family_names": [
+      "Chotěborská"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:zastupitelstvo-mesta-mostu",
+        "name": "Zastupitelstvo města Mostu",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "most:org:group:promost",
+        "name": "ProMOST",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:petr-formanek",
+    "dims": [
+      0.4102570087144831,
+      0.12260262230934392,
+      0.0028668249393293916
+    ],
+    "weight": 0.8929503916449086,
+    "included": true,
+    "name": "Petr Formánek",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Formánek"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:zastupitelstvo-mesta-mostu",
+        "name": "Zastupitelstvo města Mostu",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "most:org:group:promost",
+        "name": "ProMOST",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:renata-cisarova",
+    "dims": [
+      -0.18925730657868445,
+      -0.6899648674977668,
+      -0.3687071203519578
+    ],
+    "weight": 0.9503916449086162,
+    "included": true,
+    "name": "Renáta Císařová",
+    "given_names": [
+      "Renáta"
+    ],
+    "family_names": [
+      "Císařová"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:zastupitelstvo-mesta-mostu",
+        "name": "Zastupitelstvo města Mostu",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "most:org:group:spd-s-pod-trik",
+        "name": "SPD s pod.Trik.",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:roman-houska",
+    "dims": [
+      -1.3842391705323123,
+      -0.46188839959105765,
+      0.7520849854707166
+    ],
+    "weight": 0.9373368146214099,
+    "included": true,
+    "name": "Roman Houska",
+    "given_names": [
+      "Roman"
+    ],
+    "family_names": [
+      "Houska"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:zastupitelstvo-mesta-mostu",
+        "name": "Zastupitelstvo města Mostu",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "most:org:group:ods-a-nezavisli",
+        "name": "ODS a NEZÁVISLÍ",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": "2022-10-24"
+      },
+      {
+        "id": "most:org:group:nezaraz",
+        "name": "Nezařaz.",
+        "classification": "groups",
+        "since": "2022-11-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:roman-lensky",
+    "dims": [
+      -0.5410321116616839,
+      -0.5882943642270568,
+      -0.5895771251951032
+    ],
+    "weight": 0.7362924281984334,
+    "included": true,
+    "name": "Roman Lenský",
+    "given_names": [
+      "Roman"
+    ],
+    "family_names": [
+      "Lenský"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:zastupitelstvo-mesta-mostu",
+        "name": "Zastupitelstvo města Mostu",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": "2025-04-24"
+      },
+      {
+        "id": "most:org:group:spd-s-pod-trik",
+        "name": "SPD s pod.Trik.",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": "2025-04-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "until": "2025-04-24"
+  },
+  {
+    "person_id": "most:person:romana-sramkova",
+    "dims": [
+      0.08904132479664466,
+      0.04101760750292848,
+      -0.299161923458961
+    ],
+    "weight": 0.046997389033942565,
+    "included": false,
+    "name": "Romana Šrámková",
+    "given_names": [
+      "Romana"
+    ],
+    "family_names": [
+      "Šrámková"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:zastupitelstvo-mesta-mostu",
+        "name": "Zastupitelstvo města Mostu",
+        "classification": "parliament",
+        "since": "2026-06-18",
+        "until": null
+      },
+      {
+        "id": "most:org:group:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2026-06-18",
+        "until": null
+      }
+    ],
+    "since": "2026-06-18"
+  },
+  {
+    "person_id": "most:person:sasa-stembera",
+    "dims": [
+      0.4283437358027372,
+      0.15255949858159,
+      0.18360142158470735
+    ],
+    "weight": 0.8433420365535248,
+    "included": true,
+    "name": "Sáša Štembera",
+    "given_names": [
+      "Sáša"
+    ],
+    "family_names": [
+      "Štembera"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:zastupitelstvo-mesta-mostu",
+        "name": "Zastupitelstvo města Mostu",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "most:org:group:promost",
+        "name": "ProMOST",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:stanislav-woznica",
+    "dims": [
+      0.42025772832940433,
+      0.04614905204750914,
+      0.22436816749206512
+    ],
+    "weight": 0.7258485639686684,
+    "included": true,
+    "name": "Stanislav Woznica",
+    "given_names": [
+      "Stanislav"
+    ],
+    "family_names": [
+      "Woznica"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:zastupitelstvo-mesta-mostu",
+        "name": "Zastupitelstvo města Mostu",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": "2025-06-19"
+      },
+      {
+        "id": "most:org:group:promost",
+        "name": "ProMOST",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": "2025-06-19"
+      }
+    ],
+    "since": "2022-10-24",
+    "until": "2025-06-19"
+  },
+  {
+    "person_id": "most:person:tiep-luu-danh",
+    "dims": [
+      0.33948615386666947,
+      -0.01065206098140607,
+      0.17188347875091559
+    ],
+    "weight": 0.7101827676240209,
+    "included": true,
+    "name": "Tiep Luu Danh",
+    "given_names": [
+      "Tiep"
+    ],
+    "family_names": [
+      "Luu Danh"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:zastupitelstvo-mesta-mostu",
+        "name": "Zastupitelstvo města Mostu",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "most:org:group:promost",
+        "name": "ProMOST",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:vaclav-zahradnicek",
+    "dims": [
+      0.3979177205447111,
+      0.100476690509971,
+      0.0025525088580039194
+    ],
+    "weight": 0.9765013054830287,
+    "included": true,
+    "name": "Václav Zahradníček",
+    "given_names": [
+      "Václav"
+    ],
+    "family_names": [
+      "Zahradníček"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:zastupitelstvo-mesta-mostu",
+        "name": "Zastupitelstvo města Mostu",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "most:org:group:promost",
+        "name": "ProMOST",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:vladimir-kubik",
+    "dims": [
+      0.425444926527637,
+      0.09198735415064183,
+      0.21086380395050786
+    ],
+    "weight": 0.9947780678851176,
+    "included": true,
+    "name": "Vladimír Kubík",
+    "given_names": [
+      "Vladimír"
+    ],
+    "family_names": [
+      "Kubík"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:zastupitelstvo-mesta-mostu",
+        "name": "Zastupitelstvo města Mostu",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "most:org:group:promost",
+        "name": "ProMOST",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:vlastimil-vozka",
+    "dims": [
+      0.3041171709251992,
+      -0.19465919297308645,
+      0.03451324775891488
+    ],
+    "weight": 0.9425587467362926,
+    "included": true,
+    "name": "Vlastimil Vozka",
+    "given_names": [
+      "Vlastimil"
+    ],
+    "family_names": [
+      "Vozka"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:zastupitelstvo-mesta-mostu",
+        "name": "Zastupitelstvo města Mostu",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "most:org:group:promost",
+        "name": "ProMOST",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "most:person:zbynek-jaks",
+    "dims": [
+      0.40409268869706877,
+      0.08833171775415694,
+      0.01871841240633488
+    ],
+    "weight": 0.8668407310704962,
+    "included": true,
+    "name": "Zbyněk Jakš",
+    "given_names": [
+      "Zbyněk"
+    ],
+    "family_names": [
+      "Jakš"
+    ],
+    "organizations": [
+      {
+        "id": "most:org:zastupitelstvo-mesta-mostu",
+        "name": "Zastupitelstvo města Mostu",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "most:org:group:promost",
+        "name": "ProMOST",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  }
+]

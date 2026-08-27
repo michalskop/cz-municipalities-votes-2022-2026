@@ -1,0 +1,4994 @@
+[
+  {
+    "person_id": "most:person:alena-dernerova",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -2.4463884543873196,
+      -1.3804994022395818,
+      2.419352841345184
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:alexandr-agh",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.817278962859805,
+      0.24399232208087995,
+      0.15685702082554695
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:alois-maly",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.817278962859805,
+      0.24399232208087995,
+      0.15685702082554695
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:barbora-stempakova",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.817278962859805,
+      0.24399232208087995,
+      0.15685702082554695
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:berenika-pestova",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.8316938686259465,
+      0.15350316078891924,
+      0.32475165971124226
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:daniel-drtik",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -1.5957906319098885,
+      -0.24846637435747337,
+      -0.20373459487354084
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:daniel-dunovsky",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.8184976801912343,
+      0.24548285144929663,
+      0.15301216076168941
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:hana-aulicka-jirovcova",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -3.3655079777961934,
+      -2.2629150245404275,
+      -0.2515406800270135
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:helena-houskova",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "most:person:ivana-hvezdova",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.817278962859805,
+      0.24399232208087995,
+      0.15685702082554695
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jan-korba",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.817278962859805,
+      0.24399232208087995,
+      0.15685702082554695
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jan-paparega",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.817278962859805,
+      0.24399232208087995,
+      0.15685702082554695
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jan-schiller",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.7035343247758097,
+      -0.057799940334127824,
+      0.6111075741302433
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jana-falterova-zudova",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.817278962859805,
+      0.24399232208087995,
+      0.15685702082554695
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jana-skudrnova",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.817278962859805,
+      0.24399232208087995,
+      0.15685702082554695
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jarmila-fuchsova",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.19841661374953096,
+      1.191729085226281,
+      -1.0706485842799662
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jaroslav-hrvol",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.817278962859805,
+      0.24399232208087995,
+      0.15685702082554695
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jiri-nedved",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -3.508179325630494,
+      -2.369712933888129,
+      0.23675094543618327
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jiri-turis",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.829537388077599,
+      0.2292426115701579,
+      0.2171954737148944
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jitka-urbankova-mikulova",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.817278962859805,
+      0.24399232208087995,
+      0.15685702082554695
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:josef-fiala",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -0.764058418170364,
+      1.22077050931711,
+      -1.1563293438480466
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:lenka-bombera-piskacova",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.7294517844261046,
+      0.6375315452006132,
+      -0.24984262812759186
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:lubomira-mejstrikova",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.7035343247758097,
+      -0.057799940334127824,
+      0.6111075741302433
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:lukas-bednarik",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.19841661374953096,
+      1.191729085226281,
+      -1.0706485842799662
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:marek-hrvol",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.817278962859805,
+      0.24399232208087995,
+      0.15685702082554695
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:marketa-stara",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.8336755384445472,
+      0.13373527623104337,
+      0.24173100199626052
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:martin-domin",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -3.420042411415583,
+      -2.3815893478000083,
+      -0.00654565923874465
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:martin-strakos",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.7065472038429654,
+      0.6183257865446469,
+      -0.2578290930781082
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:michal-varga",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "most:person:milan-koznar",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "most:person:milan-rybak",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -2.5633627947060997,
+      -3.3315079758404194,
+      0.29581122057310194
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:olga-srutova",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.829537388077599,
+      0.2292426115701579,
+      0.2171954737148944
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:ondrej-malek",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.817278962859805,
+      0.24399232208087995,
+      0.15685702082554695
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:patricie-prokesova",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.817278962859805,
+      0.24399232208087995,
+      0.15685702082554695
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:pavel-gal",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -0.4593735700167603,
+      1.1917689470330823,
+      -1.361497207772519
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:pavel-lisicky",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -3.420042411415583,
+      -2.3815893478000083,
+      -0.00654565923874465
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:pavla-choteborska",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.817278962859805,
+      0.24399232208087995,
+      0.15685702082554695
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:petr-formanek",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      1.0147056451937921,
+      0.033477367751332934,
+      0.18250634002612154
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:renata-cisarova",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.19841661374953096,
+      1.191729085226281,
+      -1.0706485842799662
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:roman-houska",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -2.631353852312665,
+      -0.5687084870362148,
+      1.1173709963122263
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:roman-lensky",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -0.6766897665725085,
+      0.8571424552646502,
+      -1.712724245747271
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:sasa-stembera",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.817278962859805,
+      0.24399232208087995,
+      0.15685702082554695
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:stanislav-woznica",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.817278962859805,
+      0.24399232208087995,
+      0.15685702082554695
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:tiep-luu-danh",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.7294517844261046,
+      0.6375315452006132,
+      -0.24984262812759186
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:vaclav-zahradnicek",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.8187265382908543,
+      0.2415226922569054,
+      0.15710889711460532
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:vladimir-kubik",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.817278962859805,
+      0.24399232208087995,
+      0.15685702082554695
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:vlastimil-vozka",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.817278962859805,
+      0.24399232208087995,
+      0.15685702082554695
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:zbynek-jaks",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.817278962859805,
+      0.24399232208087995,
+      0.15685702082554695
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:alena-dernerova",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -1.670423260283829,
+      -2.6424835430681384,
+      -2.12512469104308
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:alexandr-agh",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      0.97332315829164,
+      0.6244763495954375,
+      1.0675530634309058
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:alois-maly",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      0.97332315829164,
+      0.6244763495954375,
+      1.0675530634309058
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:barbora-stempakova",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      0.97332315829164,
+      0.6244763495954375,
+      1.0675530634309058
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:berenika-pestova",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      0.6827507643514512,
+      -0.5120239908782616,
+      0.6854938332192191
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:daniel-drtik",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      0.97332315829164,
+      0.6244763495954375,
+      1.0675530634309058
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:daniel-dunovsky",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -2.868732836364594,
+      -2.6355391049895,
+      -2.4571916979562105
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:hana-aulicka-jirovcova",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -3.063795887727407,
+      -0.9702505873303346,
+      -3.2977817911687493
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:helena-houskova",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "most:person:ivana-hvezdova",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      0.97332315829164,
+      0.6244763495954375,
+      1.0675530634309058
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jan-korba",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      0.97332315829164,
+      0.6244763495954375,
+      1.0675530634309058
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jan-paparega",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      0.97332315829164,
+      0.6244763495954375,
+      1.0675530634309058
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jan-schiller",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      0.97332315829164,
+      0.6244763495954375,
+      1.0675530634309058
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jana-falterova-zudova",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      0.97332315829164,
+      0.6244763495954375,
+      1.0675530634309058
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jana-skudrnova",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      0.9776759416651349,
+      0.6275973335478112,
+      1.0799329192434348
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jarmila-fuchsova",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -1.3805277462147914,
+      -2.292117101678836,
+      -2.9136388981332795
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jaroslav-hrvol",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      1.0995876239468605,
+      0.6923139908467323,
+      1.1200569387828392
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jiri-nedved",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -3.063795887727407,
+      -0.9702505873303346,
+      -3.2977817911687493
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jiri-turis",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      0.994327822772997,
+      0.5478117361515411,
+      1.1097170555124904
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jitka-urbankova-mikulova",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      0.9776759416651349,
+      0.6275973335478112,
+      1.0799329192434348
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:josef-fiala",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -3.58277053938893,
+      -2.0190298995225358,
+      -2.800526154872722
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:lenka-bombera-piskacova",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      0.7282312059898692,
+      -0.8213575214473637,
+      0.9064364182283186
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:lubomira-mejstrikova",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      0.6354458836546756,
+      -0.09253150180150789,
+      0.20181380624772707
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:lukas-bednarik",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      0.97332315829164,
+      0.6244763495954375,
+      1.0675530634309058
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:marek-hrvol",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      0.97332315829164,
+      0.6244763495954375,
+      1.0675530634309058
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:marketa-stara",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      0.97332315829164,
+      0.6244763495954375,
+      1.0675530634309058
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:martin-domin",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -3.102281200117076,
+      2.490775035467219,
+      -3.0306991598008213
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:martin-strakos",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      1.0056302647301594,
+      0.8471589448546325,
+      1.0688567171464802
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:michal-varga",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "most:person:milan-koznar",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -3.197847281779926,
+      -1.223327656665929,
+      -3.3755430995933318
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:milan-rybak",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -2.743012917811268,
+      -1.1239747413692274,
+      -3.195830964805275
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:olga-srutova",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -0.7807916845420416,
+      0.4960535142627591,
+      1.0237990349029533
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:ondrej-malek",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      0.97332315829164,
+      0.6244763495954375,
+      1.0675530634309058
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:patricie-prokesova",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      0.97332315829164,
+      0.6244763495954375,
+      1.0675530634309058
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:pavel-gal",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -1.3757985220386844,
+      -2.2281293875633157,
+      -2.87835606717128
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:pavel-lisicky",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "most:person:pavla-choteborska",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      0.97332315829164,
+      0.6244763495954375,
+      1.0675530634309058
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:petr-formanek",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      0.97332315829164,
+      0.6244763495954375,
+      1.0675530634309058
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:renata-cisarova",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -1.3757985220386844,
+      -2.2281293875633157,
+      -2.87835606717128
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:roman-houska",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -0.7896149134602907,
+      0.5077176944835862,
+      1.0267264713813342
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:roman-lensky",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -1.315718613171757,
+      -1.7144583884728577,
+      -2.5885951401440783
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:sasa-stembera",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      1.0104593960028974,
+      0.8862596736298973,
+      1.0944102780586225
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:stanislav-woznica",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      0.97332315829164,
+      0.6244763495954375,
+      1.0675530634309058
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:tiep-luu-danh",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      1.0104593960028974,
+      0.8862596736298973,
+      1.0944102780586225
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:vaclav-zahradnicek",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      1.0104593960028974,
+      0.8862596736298973,
+      1.0944102780586225
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:vladimir-kubik",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      0.97332315829164,
+      0.6244763495954375,
+      1.0675530634309058
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:vlastimil-vozka",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      0.97332315829164,
+      0.6244763495954375,
+      1.0675530634309058
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:zbynek-jaks",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      1.2226870744236193,
+      0.9989542143563162,
+      1.157659726055067
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:alena-dernerova",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -1.1969118070405886,
+      -0.8843545916399077,
+      0.35985418872206065
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:alexandr-agh",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      0.9355235992108575,
+      0.8433674191479329,
+      0.959657251674079
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:alois-maly",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      1.260992059921596,
+      0.28582009922829227,
+      1.316774855942229
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:barbora-stempakova",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      0.6168775929259576,
+      0.5372190738182037,
+      0.2860931491214961
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:berenika-pestova",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      0.9355235992108575,
+      0.8433674191479329,
+      0.959657251674079
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:daniel-drtik",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      0.6683253815672606,
+      0.6977313617383728,
+      0.3027895513549001
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:daniel-dunovsky",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      1.2200815671705634,
+      0.14961063656066118,
+      1.1938801398783234
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:hana-aulicka-jirovcova",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -2.8954053326542035,
+      -1.2846665503171582,
+      -2.6331310196663793
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:helena-houskova",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "most:person:ivana-hvezdova",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      0.6168775929259576,
+      0.5372190738182037,
+      0.2860931491214961
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jan-korba",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      0.6555254572869074,
+      0.6496920060608949,
+      0.2826857744106204
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jan-paparega",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      0.9355235992108575,
+      0.8433674191479329,
+      0.959657251674079
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jan-schiller",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      0.6205056325819645,
+      0.549800085520493,
+      0.2908604457529115
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jana-falterova-zudova",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      0.6168775929259576,
+      0.5372190738182037,
+      0.2860931491214961
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jana-skudrnova",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      0.9499965443338051,
+      0.9097496983317845,
+      1.0532943941645905
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jarmila-fuchsova",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -1.2974744740274178,
+      -1.827600657920732,
+      -1.498668971014855
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jaroslav-hrvol",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      1.1146786202857086,
+      0.7176732430588108,
+      1.2395073149730111
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jiri-nedved",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -3.473239330570557,
+      -2.5120087711967023,
+      -3.3256327847228677
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jiri-turis",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      0.8955869078242339,
+      0.2173268155415401,
+      1.5429193567114359
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jitka-urbankova-mikulova",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      0.9392584252729872,
+      0.8476802625820509,
+      0.9738605248025285
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:josef-fiala",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -2.5134766349919904,
+      -2.168036911695755,
+      -2.1255836637964176
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:lenka-bombera-piskacova",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      0.8428598666118464,
+      0.4980824028471156,
+      0.7338831010004829
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:lubomira-mejstrikova",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      0.6168775929259576,
+      0.5372190738182037,
+      0.2860931491214961
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:lukas-bednarik",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      0.6168775929259576,
+      0.5372190738182037,
+      0.2860931491214961
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:marek-hrvol",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      1.1146786202857086,
+      0.7176732430588108,
+      1.2395073149730111
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:marketa-stara",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      0.6168775929259576,
+      0.5372190738182037,
+      0.2860931491214961
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:martin-domin",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -3.0964320281914355,
+      -2.9956681056975514,
+      -2.7210597702093744
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:martin-strakos",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -1.008091746205238,
+      -1.189965729308399,
+      -1.6561534487215026
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:michal-varga",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "most:person:milan-koznar",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -1.4444004622676074,
+      1.3788388095769704,
+      -1.7932160266793415
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:milan-rybak",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -1.4444004622676074,
+      1.3788388095769704,
+      -1.7932160266793415
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:olga-srutova",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      1.1126009625899398,
+      0.6139986560178994,
+      1.2981760087308385
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:ondrej-malek",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      0.9355235992108575,
+      0.8433674191479329,
+      0.959657251674079
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:patricie-prokesova",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      0.6168775929259576,
+      0.5372190738182037,
+      0.2860931491214961
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:pavel-gal",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -1.9814953924473835,
+      -1.9085014420232267,
+      -0.9194080734283145
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:pavel-lisicky",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "most:person:pavla-choteborska",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      0.6168775929259576,
+      0.5372190738182037,
+      0.2860931491214961
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:petr-formanek",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      0.6168775929259576,
+      0.5372190738182037,
+      0.2860931491214961
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:renata-cisarova",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -1.2709932633893004,
+      -1.704032167387059,
+      -1.3567400433634513
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:roman-houska",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -3.0693489476405365,
+      -2.8275215528569997,
+      -1.858491592464034
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:roman-lensky",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -2.8127181032511,
+      -2.2617468934164124,
+      -2.313243921372548
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:sasa-stembera",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      1.0631804976545811,
+      1.2899437711851864,
+      0.9765778988643519
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:stanislav-woznica",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      1.2126459154133151,
+      0.8564147088019818,
+      1.385341626325768
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:tiep-luu-danh",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      0.9355235992108575,
+      0.8433674191479329,
+      0.959657251674079
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:vaclav-zahradnicek",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      0.6168775929259576,
+      0.5372190738182037,
+      0.2860931491214961
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:vladimir-kubik",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      1.1146786202857086,
+      0.7176732430588108,
+      1.2395073149730111
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:vlastimil-vozka",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      0.6168775929259576,
+      0.5372190738182037,
+      0.2860931491214961
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:zbynek-jaks",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      0.6168775929259576,
+      0.5372190738182037,
+      0.2860931491214961
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:alena-dernerova",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -2.195489454269063,
+      -2.108571310212641,
+      -1.9124046887349004
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:alexandr-agh",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      0.2805602782347967,
+      0.2416477698218741,
+      0.1794332585425249
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:alois-maly",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      0.37069637909876696,
+      0.3394934404480272,
+      0.27555909736205814
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:barbora-stempakova",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      0.37069637909876696,
+      0.3394934404480272,
+      0.27555909736205814
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:berenika-pestova",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      0.02128519080789108,
+      0.03474166439856439,
+      0.018668198570815402
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:daniel-drtik",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -1.4756663331385032,
+      -1.408014024425302,
+      -0.8487666874832982
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:daniel-dunovsky",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      0.2805602782347967,
+      0.2416477698218741,
+      0.1794332585425249
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:hana-aulicka-jirovcova",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      0.2831343763265026,
+      0.24424181621324875,
+      0.18236502779978106
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:helena-houskova",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "most:person:ivana-hvezdova",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      0.2805602782347967,
+      0.2416477698218741,
+      0.1794332585425249
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jan-korba",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      0.2805602782347967,
+      0.2416477698218741,
+      0.1794332585425249
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jan-paparega",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      0.2805602782347967,
+      0.2416477698218741,
+      0.1794332585425249
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jan-schiller",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      0.37069637909876696,
+      0.3394934404480272,
+      0.27555909736205814
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jana-falterova-zudova",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      0.2805602782347967,
+      0.2416477698218741,
+      0.1794332585425249
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jana-skudrnova",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      0.02831067531939728,
+      0.015966550867945392,
+      0.0294190511621716
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jarmila-fuchsova",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      0.2688577141787125,
+      0.1355982751855519,
+      0.2644013302695894
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jaroslav-hrvol",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      0.2805602782347967,
+      0.2416477698218741,
+      0.1794332585425249
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jiri-nedved",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -2.1633388700146905,
+      -1.7686410881165289,
+      -1.5130654177831144
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jiri-turis",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      0.02128519080789108,
+      0.03474166439856439,
+      0.018668198570815402
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jitka-urbankova-mikulova",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      0.37069637909876696,
+      0.3394934404480272,
+      0.27555909736205814
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:josef-fiala",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -1.4756663331385032,
+      -1.408014024425302,
+      -0.8487666874832982
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:lenka-bombera-piskacova",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      0.29845495409847494,
+      0.18808506146292148,
+      0.15931726806182045
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:lubomira-mejstrikova",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      0.2805602782347967,
+      0.2416477698218741,
+      0.1794332585425249
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:lukas-bednarik",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      0.2805602782347967,
+      0.2416477698218741,
+      0.1794332585425249
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:marek-hrvol",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      0.2805602782347967,
+      0.2416477698218741,
+      0.1794332585425249
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:marketa-stara",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      0.2805602782347967,
+      0.2416477698218741,
+      0.1794332585425249
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:martin-domin",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      0.02831067531939728,
+      0.015966550867945392,
+      0.0294190511621716
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:martin-strakos",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      0.29071962776430965,
+      0.21421058966668474,
+      0.2073908974948846
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:michal-varga",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "most:person:milan-koznar",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      0.30226305843567136,
+      0.2564927115424339,
+      0.18413361445779294
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:milan-rybak",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -0.06111918636195409,
+      0.6189728696639485,
+      0.0880465425525336
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:olga-srutova",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      0.3068543268409799,
+      0.2644342139928151,
+      0.11175634956709263
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:ondrej-malek",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      0.2805602782347967,
+      0.2416477698218741,
+      0.1794332585425249
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:patricie-prokesova",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      0.2805602782347967,
+      0.2416477698218741,
+      0.1794332585425249
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:pavel-gal",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      0.2825241014070088,
+      0.25561460171447753,
+      0.1907965177052965
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:pavel-lisicky",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "most:person:pavla-choteborska",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      0.2805602782347967,
+      0.2416477698218741,
+      0.1794332585425249
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:petr-formanek",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      0.2805602782347967,
+      0.2416477698218741,
+      0.1794332585425249
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:renata-cisarova",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -1.4756663331385032,
+      -1.408014024425302,
+      -0.8487666874832982
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:roman-houska",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -1.8796054100569002,
+      -1.492416679185184,
+      -1.436304438224532
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:roman-lensky",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      0.41768134219406816,
+      0.3665557979871914,
+      0.29844534038724096
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:sasa-stembera",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      0.2805602782347967,
+      0.2416477698218741,
+      0.1794332585425249
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:stanislav-woznica",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      0.37069637909876696,
+      0.3394934404480272,
+      0.27555909736205814
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:tiep-luu-danh",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      0.2911463125483992,
+      0.2614001176191252,
+      0.18647922978018716
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:vaclav-zahradnicek",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      0.3112713276505778,
+      0.2693714783984784,
+      0.17486841662679609
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:vladimir-kubik",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      0.2805602782347967,
+      0.2416477698218741,
+      0.1794332585425249
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:vlastimil-vozka",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      0.2805602782347967,
+      0.2416477698218741,
+      0.1794332585425249
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:zbynek-jaks",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      0.2805602782347967,
+      0.2416477698218741,
+      0.1794332585425249
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:alena-dernerova",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -1.8263535703310245,
+      1.5263071107166188,
+      -1.7766899085672974
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:alexandr-agh",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      0.10569690458320241,
+      0.009091336346619591,
+      0.1330065699691937
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:alois-maly",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      0.383504049072142,
+      -0.6140789709518145,
+      0.11144790220087179
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:barbora-stempakova",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      0.19670822473264848,
+      -0.5193463974891986,
+      0.16233716376454058
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:berenika-pestova",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      0.4514312511667087,
+      -1.2289996340865184,
+      0.3094619969269202
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:daniel-drtik",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      0.09345217600577928,
+      0.2475896275551684,
+      -0.10006096993491749
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:daniel-dunovsky",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      0.3594232883958696,
+      -0.04825208640517562,
+      -0.09225243055289471
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:hana-aulicka-jirovcova",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -0.1692558257266112,
+      -0.8046275580783651,
+      0.7270998762807354
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:helena-houskova",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "most:person:ivana-hvezdova",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      0.10181227054207354,
+      0.009545031852809761,
+      0.13040131709572553
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jan-korba",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      0.10181227054207354,
+      0.009545031852809761,
+      0.13040131709572553
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jan-paparega",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      0.30384348541630796,
+      -0.08651359126219062,
+      -0.029766755153469972
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jan-schiller",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      0.48662782380225167,
+      -0.5522772878102529,
+      0.00048151676089771417
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jana-falterova-zudova",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      0.012389967066785332,
+      -0.038919775860997756,
+      0.06887206117340346
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jana-skudrnova",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      0.6101565740515018,
+      -0.41034701656920264,
+      -0.17613363682317554
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jarmila-fuchsova",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -0.05784945290946255,
+      0.6421361093108627,
+      0.5375725597114378
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jaroslav-hrvol",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      0.30384348541630796,
+      -0.08651359126219062,
+      -0.029766755153469972
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jiri-nedved",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -1.502434753066596,
+      0.9833638653849254,
+      -1.4109219332753284
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jiri-turis",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      0.108095320228288,
+      -0.08661551326309383,
+      0.19158076447982975
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jitka-urbankova-mikulova",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      0.10181227054207354,
+      0.009545031852809761,
+      0.13040131709572553
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:josef-fiala",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      0.0026609236125990548,
+      0.36350733390010465,
+      0.44648501032924914
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:lenka-bombera-piskacova",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      0.1401418245141995,
+      0.03147760878176258,
+      0.01891135253401043
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:lubomira-mejstrikova",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      0.40812535917726717,
+      -0.3142883934542023,
+      -0.01596556457398004
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:lukas-bednarik",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      0.10181227054207354,
+      0.009545031852809761,
+      0.13040131709572553
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:marek-hrvol",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      0.10181227054207354,
+      0.009545031852809761,
+      0.13040131709572553
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:marketa-stara",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      0.10427072140091553,
+      -0.515764279837914,
+      0.29311328423578886
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:martin-domin",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "most:person:martin-strakos",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      0.10181227054207354,
+      0.009545031852809761,
+      0.13040131709572553
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:michal-varga",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "most:person:milan-koznar",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      0.023618640447899263,
+      -0.25082257768978883,
+      0.43164008496421075
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:milan-rybak",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      0.07053751280949956,
+      -0.08234956360999754,
+      0.12354921459997882
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:olga-srutova",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      0.11710222998920332,
+      0.03158600465888928,
+      0.0845114025785297
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:ondrej-malek",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      0.108095320228288,
+      -0.08661551326309383,
+      0.19158076447982975
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:patricie-prokesova",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      0.40812535917726717,
+      -0.3142883934542023,
+      -0.01596556457398004
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:pavel-gal",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      0.09295934808885183,
+      -0.014422444711093262,
+      0.18930260765872234
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:pavel-lisicky",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "most:person:pavla-choteborska",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      0.03453425189024508,
+      -0.06193335098389091,
+      0.04014091615072443
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:petr-formanek",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      0.10569690458320241,
+      0.009091336346619591,
+      0.1330065699691937
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:renata-cisarova",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      0.10181227054207354,
+      0.009545031852809761,
+      0.13040131709572553
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:roman-houska",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -1.4407730159282435,
+      1.0538603891850444,
+      -1.3943535775457092
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:roman-lensky",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -0.579387135567941,
+      0.8677512335579555,
+      -0.011848860981068151
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:sasa-stembera",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      0.1401418245141995,
+      0.03147760878176258,
+      0.01891135253401043
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:stanislav-woznica",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -0.8232341457703973,
+      0.65754510172911,
+      -0.5869315953273172
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:tiep-luu-danh",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      0.07395273925858348,
+      0.0840149321902395,
+      0.1462171300013424
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:vaclav-zahradnicek",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      0.012389967066785332,
+      -0.038919775860997756,
+      0.06887206117340346
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:vladimir-kubik",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      0.3071118123485326,
+      -0.09533144240947306,
+      -0.030514457677922956
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:vlastimil-vozka",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      0.10170726098379698,
+      0.004816931157117221,
+      0.13042118659889787
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:zbynek-jaks",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      0.10181227054207354,
+      0.009545031852809761,
+      0.13040131709572553
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:alena-dernerova",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -3.771424679587678,
+      -4.2867201448623975,
+      -3.2901778593218363
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:alexandr-agh",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.9373321061799192,
+      1.1094177018981821,
+      0.12146062432235447
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:alois-maly",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.9481034256328059,
+      1.1167390604424983,
+      0.10971157194340773
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:barbora-stempakova",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -1.6654327265761577,
+      -2.493730105229162,
+      0.10974148492734274
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:berenika-pestova",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.9787316178673632,
+      1.1224478207360236,
+      0.12256263542142551
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:daniel-drtik",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.9373321061799192,
+      1.1094177018981821,
+      0.12146062432235447
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:daniel-dunovsky",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.9373321061799192,
+      1.1094177018981821,
+      0.12146062432235447
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:hana-aulicka-jirovcova",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.5738127235218562,
+      1.421681872688047,
+      1.8310681791859684
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:helena-houskova",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "most:person:ivana-hvezdova",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.9373321061799192,
+      1.1094177018981821,
+      0.12146062432235447
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jan-korba",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.9373321061799192,
+      1.1094177018981821,
+      0.12146062432235447
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jan-paparega",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.9373321061799192,
+      1.1094177018981821,
+      0.12146062432235447
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jan-schiller",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.9373321061799192,
+      1.1094177018981821,
+      0.12146062432235447
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jana-falterova-zudova",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.9373321061799192,
+      1.1094177018981821,
+      0.12146062432235447
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jana-skudrnova",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.9373321061799192,
+      1.1094177018981821,
+      0.12146062432235447
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jarmila-fuchsova",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -3.1114670230833026,
+      -3.8214442866329708,
+      -1.560317661077982
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jaroslav-hrvol",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.9373321061799192,
+      1.1094177018981821,
+      0.12146062432235447
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jiri-nedved",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -3.636063983967844,
+      -4.240913220284106,
+      -2.8037580899947203
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jiri-turis",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.9373321061799192,
+      1.1094177018981821,
+      0.12146062432235447
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jitka-urbankova-mikulova",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -0.004963283645955354,
+      -0.07268188186831426,
+      0.10905206717759323
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:josef-fiala",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -3.1487991182087063,
+      -3.849838797873125,
+      -1.6736716856589997
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:lenka-bombera-piskacova",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -3.771424679587678,
+      -4.2867201448623975,
+      -3.2901778593218363
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:lubomira-mejstrikova",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.9373321061799192,
+      1.1094177018981821,
+      0.12146062432235447
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:lukas-bednarik",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.9373321061799192,
+      1.1094177018981821,
+      0.12146062432235447
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:marek-hrvol",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.9373321061799192,
+      1.1094177018981821,
+      0.12146062432235447
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:marketa-stara",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.9373321061799192,
+      1.1094177018981821,
+      0.12146062432235447
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:martin-domin",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -3.771424679587678,
+      -4.2867201448623975,
+      -3.2901778593218363
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:martin-strakos",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.2151152775427572,
+      -0.23808606238743926,
+      -0.26318719181713723
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:michal-varga",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.29013640788309525,
+      -0.25542278988851436,
+      -0.3251621875527134
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:milan-koznar",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.6160894427724416,
+      1.3933264129588814,
+      1.794392074585016
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:milan-rybak",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.5899519894153864,
+      1.3773429910279953,
+      1.656924622413317
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:olga-srutova",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.9657826014805859,
+      1.1504593743303098,
+      -0.01860130280821135
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:ondrej-malek",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      1.0284897707376546,
+      1.2678689981253406,
+      0.5504176296774839
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:patricie-prokesova",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.9373321061799192,
+      1.1094177018981821,
+      0.12146062432235447
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:pavel-gal",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.5899519894153864,
+      1.3773429910279953,
+      1.656924622413317
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:pavel-lisicky",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "most:person:pavla-choteborska",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.9787316178673632,
+      1.1224478207360236,
+      0.12256263542142551
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:petr-formanek",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.9373321061799192,
+      1.1094177018981821,
+      0.12146062432235447
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:renata-cisarova",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -1.672718482092711,
+      -2.528336414768716,
+      0.1788008064770624
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:roman-houska",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -3.1114670230833026,
+      -3.8214442866329708,
+      -1.560317661077982
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:roman-lensky",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -2.038512945727425,
+      -2.786610875784623,
+      0.6070811820293897
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:sasa-stembera",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.9609202110491025,
+      1.125736274087657,
+      -0.01962863122088065
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:stanislav-woznica",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.9787316178673632,
+      1.1224478207360236,
+      0.12256263542142551
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:tiep-luu-danh",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.9787316178673632,
+      1.1224478207360236,
+      0.12256263542142551
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:vaclav-zahradnicek",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.9373321061799192,
+      1.1094177018981821,
+      0.12146062432235447
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:vladimir-kubik",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.9373321061799192,
+      1.1094177018981821,
+      0.12146062432235447
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:vlastimil-vozka",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -1.6654327265761577,
+      -2.493730105229162,
+      0.10974148492734274
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:zbynek-jaks",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.9373321061799192,
+      1.1094177018981821,
+      0.12146062432235447
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:alena-dernerova",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -2.0076024106731447,
+      -2.014177488126827,
+      -2.0981016269526744
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:alexandr-agh",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.18828789633223908,
+      0.17807777876758185,
+      0.18648501020313554
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:alois-maly",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.18828789633223908,
+      0.17807777876758185,
+      0.18648501020313554
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:barbora-stempakova",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.18828789633223908,
+      0.17807777876758185,
+      0.18648501020313554
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:berenika-pestova",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.16039190794153438,
+      0.14832903369385,
+      0.15449815627363891
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:daniel-drtik",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.1890694118379446,
+      0.23406764171535568,
+      0.19406446551945356
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:daniel-dunovsky",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.18828789633223908,
+      0.17807777876758185,
+      0.18648501020313554
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:hana-aulicka-jirovcova",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.18828789633223908,
+      0.17807777876758185,
+      0.18648501020313554
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:helena-houskova",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.18828789633223908,
+      0.17807777876758185,
+      0.18648501020313554
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:ivana-hvezdova",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.18828789633223908,
+      0.17807777876758185,
+      0.18648501020313554
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jan-korba",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.19880509837007954,
+      0.18251887609259485,
+      0.19729988544310947
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jan-paparega",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.18828789633223908,
+      0.17807777876758185,
+      0.18648501020313554
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jan-schiller",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.13832863110246374,
+      0.09917977556115463,
+      0.019394889496298723
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jana-falterova-zudova",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.18828789633223908,
+      0.17807777876758185,
+      0.18648501020313554
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jana-skudrnova",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.19880509837007954,
+      0.18251887609259485,
+      0.19729988544310947
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jarmila-fuchsova",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.15812886963157494,
+      -0.09857396173816883,
+      0.24090297535648264
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jaroslav-hrvol",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.19880509837007954,
+      0.18251887609259485,
+      0.19729988544310947
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jiri-nedved",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -1.8286371307915947,
+      -1.5693593600350202,
+      -1.6657978593645009
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jiri-turis",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.18828789633223908,
+      0.17807777876758185,
+      0.18648501020313554
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jitka-urbankova-mikulova",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.20500609805352588,
+      0.1959521149981031,
+      0.20122884780956618
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:josef-fiala",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.18828789633223908,
+      0.17807777876758185,
+      0.18648501020313554
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:lenka-bombera-piskacova",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.15842752487819908,
+      0.1561500360692285,
+      0.1514123352640447
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:lubomira-mejstrikova",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.18828789633223908,
+      0.17807777876758185,
+      0.18648501020313554
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:lukas-bednarik",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.15842752487819908,
+      0.1561500360692285,
+      0.1514123352640447
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:marek-hrvol",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.18828789633223908,
+      0.17807777876758185,
+      0.18648501020313554
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:marketa-stara",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.18828789633223908,
+      0.17807777876758185,
+      0.18648501020313554
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:martin-domin",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -1.7325113289486105,
+      -1.611378787502129,
+      -1.5198607305375267
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:martin-strakos",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.18828789633223908,
+      0.17807777876758185,
+      0.18648501020313554
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:michal-varga",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.18828789633223908,
+      0.17807777876758185,
+      0.18648501020313554
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:milan-koznar",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.18828789633223908,
+      0.17807777876758185,
+      0.18648501020313554
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:milan-rybak",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.15593617526654596,
+      0.26596389432478906,
+      0.20397297127197497
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:olga-srutova",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.19710004742433768,
+      0.011650908195725704,
+      0.21331711759311553
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:ondrej-malek",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.19880509837007954,
+      0.18251887609259485,
+      0.19729988544310947
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:patricie-prokesova",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.18828789633223908,
+      0.17807777876758185,
+      0.18648501020313554
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:pavel-gal",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -1.563601759306649,
+      -1.4870735403054252,
+      -1.4224168584638626
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:pavel-lisicky",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "most:person:pavla-choteborska",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.1972492002973438,
+      0.18532639635102333,
+      0.1819849614401675
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:petr-formanek",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.18828789633223908,
+      0.17807777876758185,
+      0.18648501020313554
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:renata-cisarova",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.16039190794153438,
+      0.14832903369385,
+      0.15449815627363891
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:roman-houska",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -1.9256870058946713,
+      -1.7798873693544466,
+      -1.9116273602946867
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:roman-lensky",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "most:person:sasa-stembera",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.15538877048213712,
+      0.16664335027233093,
+      0.14687268487521488
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:stanislav-woznica",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "most:person:tiep-luu-danh",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.15842752487819908,
+      0.1561500360692285,
+      0.1514123352640447
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:vaclav-zahradnicek",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.18828789633223908,
+      0.17807777876758185,
+      0.18648501020313554
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:vladimir-kubik",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.18828789633223908,
+      0.17807777876758185,
+      0.18648501020313554
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:vlastimil-vozka",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.15538877048213712,
+      0.16664335027233093,
+      0.14687268487521488
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:zbynek-jaks",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.15538877048213712,
+      0.16664335027233093,
+      0.14687268487521488
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:alena-dernerova",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -2.214761704363078,
+      -2.3793235285611067,
+      -2.0570109225590927
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:alexandr-agh",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.4533529109070979,
+      0.4446934493272379,
+      0.4359012153152243
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:alois-maly",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.4056409877144202,
+      0.33843407200356485,
+      0.3997447666243573
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:barbora-stempakova",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.4814667979170528,
+      0.38052114940373655,
+      0.4569372960578676
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:berenika-pestova",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.2723181607095703,
+      0.20652662751469225,
+      0.3717240846929933
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:daniel-drtik",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.3962961505353871,
+      0.35850355119181143,
+      0.3931059569050767
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:daniel-dunovsky",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.268184126539164,
+      0.5240482871142368,
+      -0.24824278437104744
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:hana-aulicka-jirovcova",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.3600189437257409,
+      0.4333202574161545,
+      0.49378343366202815
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:helena-houskova",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.4919006953898583,
+      0.39176844806213246,
+      0.47851908773463453
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:ivana-hvezdova",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.4035110690615472,
+      0.3370856926590753,
+      0.3980801783144607
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jan-korba",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.4814667979170528,
+      0.38052114940373655,
+      0.4569372960578676
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jan-paparega",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.24888136848052508,
+      0.18835677515162588,
+      0.32854705880648055
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jan-schiller",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.24681817307767684,
+      0.1835774002289053,
+      0.32333341871426735
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jana-falterova-zudova",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.4224906905786067,
+      0.34477912536348293,
+      0.3529580086745714
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jana-skudrnova",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.41002658718708535,
+      0.3424474207952457,
+      0.39066920683360984
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jarmila-fuchsova",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.24358821005350123,
+      0.2624824110632404,
+      0.286890672662051
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jaroslav-hrvol",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.4533529109070979,
+      0.4446934493272379,
+      0.4359012153152243
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jiri-nedved",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -2.21486190621001,
+      -2.3271821304970906,
+      -1.9358341522265667
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jiri-turis",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.4035110690615472,
+      0.3370856926590753,
+      0.3980801783144607
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:jitka-urbankova-mikulova",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.4035110690615472,
+      0.3370856926590753,
+      0.3980801783144607
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:josef-fiala",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.4035110690615472,
+      0.3370856926590753,
+      0.3980801783144607
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:lenka-bombera-piskacova",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.24358821005350123,
+      0.2624824110632404,
+      0.286890672662051
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:lubomira-mejstrikova",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.4035110690615472,
+      0.3370856926590753,
+      0.3980801783144607
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:lukas-bednarik",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.4533529109070979,
+      0.4446934493272379,
+      0.4359012153152243
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:marek-hrvol",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.4035110690615472,
+      0.3370856926590753,
+      0.3980801783144607
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:marketa-stara",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -0.6313404383652733,
+      -0.4853800139523306,
+      -0.12887414786827114
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:martin-domin",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -2.9271163727425646,
+      -3.1956963462152204,
+      -3.2641581671555295
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:martin-strakos",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.6147814141568163,
+      0.6471902288278356,
+      0.686467465925392
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:michal-varga",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.4035110690615472,
+      0.3370856926590753,
+      0.3980801783144607
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:milan-koznar",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.4035110690615472,
+      0.3370856926590753,
+      0.3980801783144607
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:milan-rybak",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -0.7610135420843942,
+      -0.2994231423843976,
+      -0.7569474354125495
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:olga-srutova",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.28194955672511185,
+      0.5191082534426885,
+      -0.28139001809526826
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:ondrej-malek",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.4035110690615472,
+      0.3370856926590753,
+      0.3980801783144607
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:patricie-prokesova",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.4035110690615472,
+      0.3370856926590753,
+      0.3980801783144607
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:pavel-gal",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -2.233635223344247,
+      -2.4189954944378167,
+      -1.861704037690795
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:pavel-lisicky",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "most:person:pavla-choteborska",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.4035110690615472,
+      0.3370856926590753,
+      0.3980801783144607
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:petr-formanek",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.4035110690615472,
+      0.3370856926590753,
+      0.3980801783144607
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:renata-cisarova",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -0.6204724082308994,
+      -0.4737522704636032,
+      -0.12259940864270981
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:roman-houska",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -1.9889124791544373,
+      -1.7734204181980275,
+      -2.3921873626180354
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:roman-lensky",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "most:person:sasa-stembera",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.2677427398684862,
+      0.5180383987734649,
+      -0.25370762362556976
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:stanislav-woznica",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "most:person:tiep-luu-danh",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -1.7898475688623103,
+      -1.8016343634312537,
+      -1.8430935039856728
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:vaclav-zahradnicek",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.42123812765567104,
+      0.3504296647045781,
+      0.39298172174617313
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:vladimir-kubik",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.2629699352080523,
+      0.5114148207382808,
+      -0.23626784845537896
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:vlastimil-vozka",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.4035110690615472,
+      0.3370856926590753,
+      0.3980801783144607
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most:person:zbynek-jaks",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.24681817307767684,
+      0.1835774002289053,
+      0.32333341871426735
+    ],
+    "included": true
+  }
+]

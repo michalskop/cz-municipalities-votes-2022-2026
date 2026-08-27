@@ -1,0 +1,39 @@
+{
+  "generated_at": "2026-08-27T22:24:39.640456+00:00",
+  "method": "point_biserial_correlation",
+  "n_dims": 3,
+  "n_included_people": 48,
+  "government_groups": [
+    "most:org:group:promost",
+    "most:org:group:ano-2011"
+  ],
+  "government_person_count": 32,
+  "opposition_person_count": 16,
+  "correlations": [
+    {
+      "dim_index": 0,
+      "correlation": 0.7946579954912011
+    },
+    {
+      "dim_index": 1,
+      "correlation": 0.202874049272305
+    },
+    {
+      "dim_index": 2,
+      "correlation": 0.3443384886248301
+    }
+  ],
+  "detected_dim_index": 0,
+  "override_dim_index": null,
+  "overridden": false,
+  "effective_dim_index": 0,
+  "government_mean": 0.3815683514776769,
+  "opposition_mean": -0.8065257113232402,
+  "government_sign": 1,
+  "sources": {
+    "wpca_output": "most/analyses/wpca/outputs/wpca.json",
+    "wpca_definition": "most/analyses/wpca/wpca_definition.json",
+    "govity_definition": "most/analyses/govity/govity_definition.json",
+    "memberships": "most/data/memberships.csv"
+  }
+}
