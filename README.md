@@ -13,15 +13,18 @@ only adds city-specific *sources* and *definition files*, never forked analysis 
 
 ## Municipalities
 
-- **Praha** — [`praha/`](./praha/) · source: open-data CSV · status: pipeline built, G1/G2/G5 pass,
-  definitions owner-approved (C7/C8 done)
+- **Praha** — [`praha/`](./praha/) · source: open-data CSV · status: **live** —
+  nightly-automated (G4/G7 gated), definitions owner-approved, wired into the dashboard at
+  `mesta.datatimes.cz/praha` with live (not fixture) data (C7/C8/D7/C6 done)
 - **Brno** — [`brno/`](./brno/) · source: `zastupko.cz` JSON feed, origin server (the original
-  `kod.brno.cz` endpoint stayed down; see [`brno/README.md`](./brno/README.md)) · status:
-  pipeline + golden sample + real party/klub data + analysis definitions done, G1/G2/G5 pass,
-  coalition (`government_groups`) owner-approved (C2/C3/C4/D7 done); not yet wired into nightly
-  automation or the dashboard
-- **Ostrava** — [`ostrava/`](./ostrava/) · source: HTML scrape · status: scaffolded, pipeline not
-  built yet (task C9)
+  `kod.brno.cz` endpoint stayed down; see [`brno/README.md`](./brno/README.md)) · status: **live**
+  — real party/klub data, coalition (`government_groups`) owner-approved, nightly-automated,
+  wired into the dashboard at `mesta.datatimes.cz/brno` (C2/C3/C4/D7/C5/C6 done)
+- **Ostrava** — [`ostrava/`](./ostrava/) · source: HTML scrape (no API) · status: pipeline +
+  golden sample done, G1/G2/G3 pass, 2,116 votes across the full term (C9 done); party/klub data
+  + coalition sign-off + nightly automation + dashboard not yet done (C4/D7/C5/C6 pending — see
+  [`ostrava/README.md`](./ostrava/README.md) for the mid-term coalition-change complexity that
+  makes C4 non-trivial here)
 
 Coverage may extend to more cities later (top-20 by population); a city is only added if it has
 recorded roll-call votes.
