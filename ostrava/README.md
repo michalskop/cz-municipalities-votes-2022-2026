@@ -17,14 +17,24 @@ scraper existed for Ostrava in this repo; this was a fresh build, not a port.
   module docstring. Identity is built from normalized (given_name, family_name) only; 59 distinct
   persons resulting, consistent with Ostrava's real ~55-58-member assembly (spot-checked against
   the live composition page, no sign of a false name-based split).
-- **Not yet done**: C4 (real party/klub organizations + memberships, government_groups + owner
-  sign-off per D7) — Ostrava's per-vote party grouping is only sometimes populated (confirmed
-  empty on an entire sampled meeting), so this needs the live composition page
-  (`ostrava.cz/.../slozeni-zastupitelstva-1`) as its primary source instead, plus real political
-  research: the governing coalition changed mid-term (original 2022 ANO+SPOLU+Ostravak+Starostové
-  pro Ostravu+Piráti coalition broke apart in March 2023 when part of ANO's club left to form an
-  independent club; a new ANO+SPOLU coalition formed 2023-04-25) — not resolved here. Also not
-  yet done: nightly workflow wiring, dashboard `CityConfig` entry.
+- **C4 mechanical part done (2026-08-27)**: real, precisely DATED klub (assembly group)
+  organizations + memberships — found (not assumed) that the first vote of every meeting has
+  klub grouping whenever any vote in that meeting does, for 24 of 31 meetings (2022-10-19 through
+  2025-06-18); no klub data published since. This directly captured the ANO 2011 club split with
+  exact dates: still intact at meeting 202302 (2023-02-22), a transitional "Nezařazení" klub
+  appears at 202303 (2023-03-22), replaced by a new klub "JDETO!!!" by 202304 (2023-04-26). See
+  `scripts/party_affiliation.py`. `scripts/check_klub_staleness.py` (non-blocking) already warns
+  — the last confirmed klub snapshot is 400+ days old as of this writing.
+- Four analysis definitions drafted (`analyses/*/`_definition.json`, validated against their
+  schemas). attendance/rebelity need no political judgment and are ready to use. govity/wpca's
+  `government_groups` is drafted with full citations (a stable 6-klub coalition confirmed from
+  2023-04-25 onward — ANO 2011, ODS+TOP09, KDU-ČSL, Ostravak, STAROSTOVÉ pro OSTRAVU, Piráti) but
+  marked **PENDING PROJECT OWNER SIGN-OFF (D7)** — one specific open question (were Ostravak/
+  STAROSTOVÉ pro OSTRAVU ALSO in the coalition for the term's first ~6 months, or only from
+  2023-04-25?) is listed in `govity_definition.json`'s `open_questions_for_owner` rather than
+  guessed. WPCA's government-axis auto-detection already shows a strong 0.72 correlation with
+  this draft classification — a good sanity check, not proof either way on the open question.
+- **Not yet done**: D7 sign-off, nightly workflow wiring, dashboard `CityConfig` entry.
 
 ## Structure
 

@@ -1,0 +1,1388 @@
+[
+  {
+    "person_id": "ostrava:person:ales-bohac",
+    "rebelity_total": 3,
+    "rebelity_possible": 2110,
+    "rebelity": 0.001422,
+    "name": "Aleš Boháč",
+    "given_names": [
+      "Aleš"
+    ],
+    "family_names": [
+      "Boháč"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:starostove-pro-ostravu",
+        "classification": "group",
+        "name": "STAROSTOVÉ pro OSTRAVU",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:ales-linhart",
+    "rebelity_total": 0,
+    "rebelity_possible": 754,
+    "rebelity": 0.0,
+    "name": "Aleš Linhart",
+    "given_names": [
+      "Aleš"
+    ],
+    "family_names": [
+      "Linhart"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ods-top09",
+        "classification": "group",
+        "name": "ODS + TOP09",
+        "since": "2025-03-26"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:andrea-hoffmannova",
+    "rebelity_total": 1,
+    "rebelity_possible": 2103,
+    "rebelity": 0.000476,
+    "name": "Andrea Hoffmannová",
+    "given_names": [
+      "Andrea"
+    ],
+    "family_names": [
+      "Hoffmannová"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:pirati",
+        "classification": "group",
+        "name": "Piráti",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:bretislav-riger",
+    "rebelity_total": 3,
+    "rebelity_possible": 1798,
+    "rebelity": 0.001669,
+    "name": "Břetislav Riger",
+    "given_names": [
+      "Břetislav"
+    ],
+    "family_names": [
+      "Riger"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ostravak",
+        "classification": "group",
+        "name": "Ostravak",
+        "since": "2023-05-24"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:dagmar-machackova",
+    "rebelity_total": 2,
+    "rebelity_possible": 2115,
+    "rebelity": 0.000946,
+    "name": "Dagmar Macháčková",
+    "given_names": [
+      "Dagmar"
+    ],
+    "family_names": [
+      "Macháčková"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:david-witosz",
+    "rebelity_total": 0,
+    "rebelity_possible": 2103,
+    "rebelity": 0.0,
+    "name": "David Witosz",
+    "given_names": [
+      "David"
+    ],
+    "family_names": [
+      "Witosz"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:pirati",
+        "classification": "group",
+        "name": "Piráti",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:filip-cmiel",
+    "rebelity_total": 2,
+    "rebelity_possible": 2115,
+    "rebelity": 0.000946,
+    "name": "Filip Čmiel",
+    "given_names": [
+      "Filip"
+    ],
+    "family_names": [
+      "Čmiel"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:frantisek-kolarik",
+    "rebelity_total": 0,
+    "rebelity_possible": 2114,
+    "rebelity": 0.0,
+    "name": "František Kolařík",
+    "given_names": [
+      "František"
+    ],
+    "family_names": [
+      "Kolařík"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ods-top09",
+        "classification": "group",
+        "name": "ODS + TOP09",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:gabriela-postulkova",
+    "rebelity_total": 2,
+    "rebelity_possible": 2115,
+    "rebelity": 0.000946,
+    "name": "Gabriela Poštulková",
+    "given_names": [
+      "Gabriela"
+    ],
+    "family_names": [
+      "Poštulková"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:hana-tichankova",
+    "rebelity_total": 2,
+    "rebelity_possible": 2115,
+    "rebelity": 0.000946,
+    "name": "Hana Tichánková",
+    "given_names": [
+      "Hana"
+    ],
+    "family_names": [
+      "Tichánková"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:iveta-voznakova",
+    "rebelity_total": 1,
+    "rebelity_possible": 2111,
+    "rebelity": 0.000474,
+    "name": "Iveta Vozňáková",
+    "given_names": [
+      "Iveta"
+    ],
+    "family_names": [
+      "Vozňáková"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ostravak",
+        "classification": "group",
+        "name": "Ostravak",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:jan-dohnal",
+    "rebelity_total": 15,
+    "rebelity_possible": 2114,
+    "rebelity": 0.007096,
+    "name": "Jan Dohnal",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Dohnal"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ods-top09",
+        "classification": "group",
+        "name": "ODS + TOP09",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:jan-sila",
+    "rebelity_total": 1,
+    "rebelity_possible": 1296,
+    "rebelity": 0.000772,
+    "name": "Jan Síla",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Síla"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2022-10-19",
+        "until": "2024-12-04"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:jaroslav-trnovec",
+    "rebelity_total": 1,
+    "rebelity_possible": 2115,
+    "rebelity": 0.000473,
+    "name": "Jaroslav Trnovec",
+    "given_names": [
+      "Jaroslav"
+    ],
+    "family_names": [
+      "Trnovec"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:jiri-jurecek",
+    "rebelity_total": 2,
+    "rebelity_possible": 2110,
+    "rebelity": 0.000948,
+    "name": "Jiří Jureček",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Jureček"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:starostove-pro-ostravu",
+        "classification": "group",
+        "name": "STAROSTOVÉ pro OSTRAVU",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:jiri-vavra",
+    "rebelity_total": 2,
+    "rebelity_possible": 2115,
+    "rebelity": 0.000946,
+    "name": "Jiří Vávra",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Vávra"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:josef-babka",
+    "rebelity_total": 3,
+    "rebelity_possible": 2052,
+    "rebelity": 0.001462,
+    "name": "Josef Babka",
+    "given_names": [
+      "Josef"
+    ],
+    "family_names": [
+      "Babka"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ostravska-levice",
+        "classification": "group",
+        "name": "Ostravská levice",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:karel-malik",
+    "rebelity_total": 6,
+    "rebelity_possible": 2110,
+    "rebelity": 0.002844,
+    "name": "Karel Malík",
+    "given_names": [
+      "Karel"
+    ],
+    "family_names": [
+      "Malík"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19",
+        "until": "2023-04-26"
+      },
+      {
+        "id": "ostrava:org:group:jdeto",
+        "classification": "group",
+        "name": "JDETO!!!",
+        "since": "2023-04-26"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:katerina-sebestova",
+    "rebelity_total": 5,
+    "rebelity_possible": 2110,
+    "rebelity": 0.00237,
+    "name": "Kateřina Šebestová",
+    "given_names": [
+      "Kateřina"
+    ],
+    "family_names": [
+      "Šebestová"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19",
+        "until": "2023-03-22"
+      },
+      {
+        "id": "ostrava:org:group:jdeto",
+        "classification": "group",
+        "name": "JDETO!!!",
+        "since": "2023-04-26"
+      },
+      {
+        "id": "ostrava:org:group:nezarazeni",
+        "classification": "group",
+        "name": "Nezařazení",
+        "since": "2023-03-22",
+        "until": "2023-04-26"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:libor-pavel",
+    "rebelity_total": 9,
+    "rebelity_possible": 2115,
+    "rebelity": 0.004255,
+    "name": "Libor Pavel",
+    "given_names": [
+      "Libor"
+    ],
+    "family_names": [
+      "Pavel"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:lucie-barankova",
+    "rebelity_total": 2,
+    "rebelity_possible": 2115,
+    "rebelity": 0.000946,
+    "name": "Lucie Baránková",
+    "given_names": [
+      "Lucie"
+    ],
+    "family_names": [
+      "Baránková"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:lukas-semerak",
+    "rebelity_total": 1,
+    "rebelity_possible": 2111,
+    "rebelity": 0.000474,
+    "name": "Lukáš Semerák",
+    "given_names": [
+      "Lukáš"
+    ],
+    "family_names": [
+      "Semerák"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ostravak",
+        "classification": "group",
+        "name": "Ostravak",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:margareta-michopulu",
+    "rebelity_total": 0,
+    "rebelity_possible": 2115,
+    "rebelity": 0.0,
+    "name": "Margareta Michopulu",
+    "given_names": [
+      "Margareta"
+    ],
+    "family_names": [
+      "Michopulu"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:marie-malcharova",
+    "rebelity_total": 3,
+    "rebelity_possible": 2115,
+    "rebelity": 0.001418,
+    "name": "Marie Malcharová",
+    "given_names": [
+      "Marie"
+    ],
+    "family_names": [
+      "Malcharová"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:marketa-langrova",
+    "rebelity_total": 0,
+    "rebelity_possible": 2115,
+    "rebelity": 0.0,
+    "name": "Markéta Langrová",
+    "given_names": [
+      "Markéta"
+    ],
+    "family_names": [
+      "Langrová"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:martin-bednar",
+    "rebelity_total": 1,
+    "rebelity_possible": 2115,
+    "rebelity": 0.000473,
+    "name": "Martin Bednář",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Bednář"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:martin-drastich",
+    "rebelity_total": 1,
+    "rebelity_possible": 359,
+    "rebelity": 0.002786,
+    "name": "Martin Drastich, Ph.D., MBA",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Drastich"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ostravak",
+        "classification": "group",
+        "name": "Ostravak",
+        "since": "2022-10-19",
+        "until": "2023-05-24"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:martin-juroska",
+    "rebelity_total": 7,
+    "rebelity_possible": 2052,
+    "rebelity": 0.003411,
+    "name": "Martin Juroška",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Juroška"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ostravska-levice",
+        "classification": "group",
+        "name": "Ostravská levice",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:martin-kret",
+    "rebelity_total": 1,
+    "rebelity_possible": 2115,
+    "rebelity": 0.000473,
+    "name": "Martin Kret",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Kret"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:maxim-pachomov",
+    "rebelity_total": 22,
+    "rebelity_possible": 2110,
+    "rebelity": 0.010427,
+    "name": "Maxim Pachomov",
+    "given_names": [
+      "Maxim"
+    ],
+    "family_names": [
+      "Pachomov"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19",
+        "until": "2023-04-26"
+      },
+      {
+        "id": "ostrava:org:group:jdeto",
+        "classification": "group",
+        "name": "JDETO!!!",
+        "since": "2023-04-26"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:michal-horinek",
+    "rebelity_total": 3,
+    "rebelity_possible": 2113,
+    "rebelity": 0.00142,
+    "name": "Michal Hořínek",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Hořínek"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:kdu-csl",
+        "classification": "group",
+        "name": "KDU-ČSL",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:michal-marianek",
+    "rebelity_total": 4,
+    "rebelity_possible": 2111,
+    "rebelity": 0.001895,
+    "name": "Michal Mariánek",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Mariánek"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ostravak",
+        "classification": "group",
+        "name": "Ostravak",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:miroslav-otisk",
+    "rebelity_total": 2,
+    "rebelity_possible": 2110,
+    "rebelity": 0.000948,
+    "name": "Miroslav Otisk",
+    "given_names": [
+      "Miroslav"
+    ],
+    "family_names": [
+      "Otisk"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19",
+        "until": "2023-04-26"
+      },
+      {
+        "id": "ostrava:org:group:jdeto",
+        "classification": "group",
+        "name": "JDETO!!!",
+        "since": "2023-04-26"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:miroslav-svozil",
+    "rebelity_total": 6,
+    "rebelity_possible": 2114,
+    "rebelity": 0.002838,
+    "name": "Miroslav Svozil",
+    "given_names": [
+      "Miroslav"
+    ],
+    "family_names": [
+      "Svozil"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ods-top09",
+        "classification": "group",
+        "name": "ODS + TOP09",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:ondrej-nemecek",
+    "rebelity_total": 3,
+    "rebelity_possible": 2110,
+    "rebelity": 0.001422,
+    "name": "Ondřej Němeček",
+    "given_names": [
+      "Ondřej"
+    ],
+    "family_names": [
+      "Němeček"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19",
+        "until": "2023-04-26"
+      },
+      {
+        "id": "ostrava:org:group:jdeto",
+        "classification": "group",
+        "name": "JDETO!!!",
+        "since": "2023-04-26"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:ondrej-sliva",
+    "rebelity_total": 1,
+    "rebelity_possible": 2115,
+    "rebelity": 0.000473,
+    "name": "Ondřej Slíva",
+    "given_names": [
+      "Ondřej"
+    ],
+    "family_names": [
+      "Slíva"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:patrik-hujdus",
+    "rebelity_total": 2,
+    "rebelity_possible": 2110,
+    "rebelity": 0.000948,
+    "name": "Patrik Hujdus",
+    "given_names": [
+      "Patrik"
+    ],
+    "family_names": [
+      "Hujdus"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:starostove-pro-ostravu",
+        "classification": "group",
+        "name": "STAROSTOVÉ pro OSTRAVU",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:peter-harvanek",
+    "rebelity_total": 2,
+    "rebelity_possible": 2115,
+    "rebelity": 0.000946,
+    "name": "Peter Harvánek",
+    "given_names": [
+      "Peter"
+    ],
+    "family_names": [
+      "Harvánek"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:petr-mika",
+    "rebelity_total": 3,
+    "rebelity_possible": 2111,
+    "rebelity": 0.001421,
+    "name": "Petr Mika",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Mika"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ostravak",
+        "classification": "group",
+        "name": "Ostravak",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:petr-psotka",
+    "rebelity_total": 2,
+    "rebelity_possible": 2114,
+    "rebelity": 0.000946,
+    "name": "Petr Psotka",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Psotka"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ods-top09",
+        "classification": "group",
+        "name": "ODS + TOP09",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:petr-veselka",
+    "rebelity_total": 0,
+    "rebelity_possible": 2115,
+    "rebelity": 0.0,
+    "name": "Petr Veselka",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Veselka"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:radana-zapletalova",
+    "rebelity_total": 3,
+    "rebelity_possible": 2114,
+    "rebelity": 0.001419,
+    "name": "Radana Zapletalová",
+    "given_names": [
+      "Radana"
+    ],
+    "family_names": [
+      "Zapletalová"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ods-top09",
+        "classification": "group",
+        "name": "ODS + TOP09",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:radim-michna",
+    "rebelity_total": 3,
+    "rebelity_possible": 900,
+    "rebelity": 0.003333,
+    "name": "Radim Michna",
+    "given_names": [
+      "Radim"
+    ],
+    "family_names": [
+      "Michna"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2024-12-04"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:regina-gogelova",
+    "rebelity_total": 1,
+    "rebelity_possible": 2113,
+    "rebelity": 0.000473,
+    "name": "Regina Gogelová",
+    "given_names": [
+      "Regina"
+    ],
+    "family_names": [
+      "Gogelová"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:kdu-csl",
+        "classification": "group",
+        "name": "KDU-ČSL",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:richard-veres",
+    "rebelity_total": 1,
+    "rebelity_possible": 172,
+    "rebelity": 0.005814,
+    "name": "Richard Vereš",
+    "given_names": [
+      "Richard"
+    ],
+    "family_names": [
+      "Vereš"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19",
+        "until": "2023-01-25"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:robert-cep",
+    "rebelity_total": 11,
+    "rebelity_possible": 1980,
+    "rebelity": 0.005556,
+    "name": "Robert Čep",
+    "given_names": [
+      "Robert"
+    ],
+    "family_names": [
+      "Čep"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2023-01-25",
+        "until": "2023-03-22"
+      },
+      {
+        "id": "ostrava:org:group:jdeto",
+        "classification": "group",
+        "name": "JDETO!!!",
+        "since": "2023-04-26"
+      },
+      {
+        "id": "ostrava:org:group:nezarazeni",
+        "classification": "group",
+        "name": "Nezařazení",
+        "since": "2023-03-22",
+        "until": "2023-04-26"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:robert-stary",
+    "rebelity_total": 4,
+    "rebelity_possible": 2115,
+    "rebelity": 0.001891,
+    "name": "Robert Starý",
+    "given_names": [
+      "Robert"
+    ],
+    "family_names": [
+      "Starý"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:rostislav-reha",
+    "rebelity_total": 1,
+    "rebelity_possible": 2103,
+    "rebelity": 0.000476,
+    "name": "Rostislav Řeha",
+    "given_names": [
+      "Rostislav"
+    ],
+    "family_names": [
+      "Řeha"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:pirati",
+        "classification": "group",
+        "name": "Piráti",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:tomas-gemela",
+    "rebelity_total": 3,
+    "rebelity_possible": 2115,
+    "rebelity": 0.001418,
+    "name": "Tomáš Gemela",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Gemela"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:tomas-macura",
+    "rebelity_total": 4,
+    "rebelity_possible": 2110,
+    "rebelity": 0.001896,
+    "name": "Tomáš Macura",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Macura"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19",
+        "until": "2023-03-22"
+      },
+      {
+        "id": "ostrava:org:group:jdeto",
+        "classification": "group",
+        "name": "JDETO!!!",
+        "since": "2023-04-26"
+      },
+      {
+        "id": "ostrava:org:group:nezarazeni",
+        "classification": "group",
+        "name": "Nezařazení",
+        "since": "2023-03-22",
+        "until": "2023-04-26"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:tomas-malek",
+    "rebelity_total": 2,
+    "rebelity_possible": 2111,
+    "rebelity": 0.000947,
+    "name": "Tomáš Málek",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Málek"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ostravak",
+        "classification": "group",
+        "name": "Ostravak",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:tomas-pavliska",
+    "rebelity_total": 1,
+    "rebelity_possible": 2111,
+    "rebelity": 0.000474,
+    "name": "Tomáš Pavliska",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Pavliska"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ostravak",
+        "classification": "group",
+        "name": "Ostravak",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:tomas-vytisk",
+    "rebelity_total": 2,
+    "rebelity_possible": 2110,
+    "rebelity": 0.000948,
+    "name": "Tomáš Výtisk",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Výtisk"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:starostove-pro-ostravu",
+        "classification": "group",
+        "name": "STAROSTOVÉ pro OSTRAVU",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:vit-machacek",
+    "rebelity_total": 3,
+    "rebelity_possible": 2052,
+    "rebelity": 0.001462,
+    "name": "Vít Macháček",
+    "given_names": [
+      "Vít"
+    ],
+    "family_names": [
+      "Macháček"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ostravska-levice",
+        "classification": "group",
+        "name": "Ostravská levice",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:vladimir-ciganek",
+    "rebelity_total": 2,
+    "rebelity_possible": 1429,
+    "rebelity": 0.0014,
+    "name": "Vladimír Cigánek",
+    "given_names": [
+      "Vladimír"
+    ],
+    "family_names": [
+      "Cigánek"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ods-top09",
+        "classification": "group",
+        "name": "ODS + TOP09",
+        "since": "2022-10-19",
+        "until": "2025-03-26"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:vladimir-polak",
+    "rebelity_total": 3,
+    "rebelity_possible": 2111,
+    "rebelity": 0.001421,
+    "name": "Vladimír Polák",
+    "given_names": [
+      "Vladimír"
+    ],
+    "family_names": [
+      "Polák"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ostravak",
+        "classification": "group",
+        "name": "Ostravak",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:zbynek-prazak",
+    "rebelity_total": 1,
+    "rebelity_possible": 2113,
+    "rebelity": 0.000473,
+    "name": "Zbyněk Pražák",
+    "given_names": [
+      "Zbyněk"
+    ],
+    "family_names": [
+      "Pražák"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:kdu-csl",
+        "classification": "group",
+        "name": "KDU-ČSL",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:zdenek-rodek",
+    "rebelity_total": 0,
+    "rebelity_possible": 2115,
+    "rebelity": 0.0,
+    "name": "Zdeněk Rodek",
+    "given_names": [
+      "Zdeněk"
+    ],
+    "family_names": [
+      "Rodek"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:zuzana-bajgarova",
+    "rebelity_total": 4,
+    "rebelity_possible": 2110,
+    "rebelity": 0.001896,
+    "name": "Zuzana Bajgarová",
+    "given_names": [
+      "Zuzana"
+    ],
+    "family_names": [
+      "Bajgarová"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19",
+        "until": "2023-03-22"
+      },
+      {
+        "id": "ostrava:org:group:jdeto",
+        "classification": "group",
+        "name": "JDETO!!!",
+        "since": "2023-04-26"
+      },
+      {
+        "id": "ostrava:org:group:nezarazeni",
+        "classification": "group",
+        "name": "Nezařazení",
+        "since": "2023-03-22",
+        "until": "2023-04-26"
+      }
+    ],
+    "since": "2022-10-19"
+  }
+]

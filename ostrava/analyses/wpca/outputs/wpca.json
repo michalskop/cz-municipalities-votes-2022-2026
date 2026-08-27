@@ -1,0 +1,2096 @@
+[
+  {
+    "person_id": "ostrava:person:ales-bohac",
+    "dims": [
+      0.3415814307559414,
+      -0.5227279668199515,
+      -0.19751409738403336
+    ],
+    "weight": 0.8400170648464164,
+    "included": true,
+    "name": "Aleš Boháč",
+    "given_names": [
+      "Aleš"
+    ],
+    "family_names": [
+      "Boháč"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:zastupitelstvo-mesta-ostravy",
+        "name": "Zastupitelstvo města Ostravy",
+        "classification": "parliament",
+        "since": "2022-10-19",
+        "until": null
+      },
+      {
+        "id": "ostrava:org:group:starostove-pro-ostravu",
+        "name": "STAROSTOVÉ pro OSTRAVU",
+        "classification": "groups",
+        "since": "2022-10-19",
+        "until": null
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:ales-linhart",
+    "dims": [
+      0.5014106784114104,
+      -0.17115164733606733,
+      0.14441318155125832
+    ],
+    "weight": 0.1706484641638225,
+    "included": true,
+    "name": "Aleš Linhart",
+    "given_names": [
+      "Aleš"
+    ],
+    "family_names": [
+      "Linhart"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:zastupitelstvo-mesta-ostravy",
+        "name": "Zastupitelstvo města Ostravy",
+        "classification": "parliament",
+        "since": "2025-03-26",
+        "until": null
+      },
+      {
+        "id": "ostrava:org:group:ods-top09",
+        "name": "ODS + TOP09",
+        "classification": "groups",
+        "since": "2025-03-26",
+        "until": null
+      }
+    ],
+    "since": "2025-03-26"
+  },
+  {
+    "person_id": "ostrava:person:andrea-hoffmannova",
+    "dims": [
+      0.32880686088732697,
+      0.18577142648835934,
+      0.03802197407430399
+    ],
+    "weight": 0.9223549488054609,
+    "included": true,
+    "name": "Andrea Hoffmannová",
+    "given_names": [
+      "Andrea"
+    ],
+    "family_names": [
+      "Hoffmannová"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:zastupitelstvo-mesta-ostravy",
+        "name": "Zastupitelstvo města Ostravy",
+        "classification": "parliament",
+        "since": "2022-10-19",
+        "until": null
+      },
+      {
+        "id": "ostrava:org:group:pirati",
+        "name": "Piráti",
+        "classification": "groups",
+        "since": "2022-10-19",
+        "until": null
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:bretislav-riger",
+    "dims": [
+      0.4293640706565466,
+      -0.13355362019080058,
+      -0.12332112254671147
+    ],
+    "weight": 0.5784982935153583,
+    "included": true,
+    "name": "Břetislav Riger",
+    "given_names": [
+      "Břetislav"
+    ],
+    "family_names": [
+      "Riger"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:zastupitelstvo-mesta-ostravy",
+        "name": "Zastupitelstvo města Ostravy",
+        "classification": "parliament",
+        "since": "2023-05-24",
+        "until": null
+      },
+      {
+        "id": "ostrava:org:group:ostravak",
+        "name": "Ostravak",
+        "classification": "groups",
+        "since": "2023-05-24",
+        "until": null
+      }
+    ],
+    "since": "2023-05-24"
+  },
+  {
+    "person_id": "ostrava:person:dagmar-machackova",
+    "dims": [
+      0.544309394052001,
+      0.21468557231998622,
+      0.16718852937258918
+    ],
+    "weight": 0.9317406143344709,
+    "included": true,
+    "name": "Dagmar Macháčková",
+    "given_names": [
+      "Dagmar"
+    ],
+    "family_names": [
+      "Macháčková"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:zastupitelstvo-mesta-ostravy",
+        "name": "Zastupitelstvo města Ostravy",
+        "classification": "parliament",
+        "since": "2022-10-19",
+        "until": null
+      },
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-10-19",
+        "until": null
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:david-witosz",
+    "dims": [
+      0.30183639920466104,
+      0.237897704461902,
+      -0.01559908118032986
+    ],
+    "weight": 0.9151023890784983,
+    "included": true,
+    "name": "David Witosz",
+    "given_names": [
+      "David"
+    ],
+    "family_names": [
+      "Witosz"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:zastupitelstvo-mesta-ostravy",
+        "name": "Zastupitelstvo města Ostravy",
+        "classification": "parliament",
+        "since": "2022-10-19",
+        "until": null
+      },
+      {
+        "id": "ostrava:org:group:pirati",
+        "name": "Piráti",
+        "classification": "groups",
+        "since": "2022-10-19",
+        "until": null
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:filip-cmiel",
+    "dims": [
+      -1.16242604132499,
+      -0.41914008477225506,
+      0.41783634834737476
+    ],
+    "weight": 0.9530716723549488,
+    "included": true,
+    "name": "Filip Čmiel",
+    "given_names": [
+      "Filip"
+    ],
+    "family_names": [
+      "Čmiel"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:zastupitelstvo-mesta-ostravy",
+        "name": "Zastupitelstvo města Ostravy",
+        "classification": "parliament",
+        "since": "2022-10-19",
+        "until": null
+      },
+      {
+        "id": "ostrava:org:group:spd",
+        "name": "SPD",
+        "classification": "groups",
+        "since": "2022-10-19",
+        "until": null
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:frantisek-kolarik",
+    "dims": [
+      0.5560478350454902,
+      0.20294181730179278,
+      0.09969524007327298
+    ],
+    "weight": 0.863481228668942,
+    "included": true,
+    "name": "František Kolařík",
+    "given_names": [
+      "František"
+    ],
+    "family_names": [
+      "Kolařík"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:zastupitelstvo-mesta-ostravy",
+        "name": "Zastupitelstvo města Ostravy",
+        "classification": "parliament",
+        "since": "2022-10-19",
+        "until": null
+      },
+      {
+        "id": "ostrava:org:group:ods-top09",
+        "name": "ODS + TOP09",
+        "classification": "groups",
+        "since": "2022-10-19",
+        "until": null
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:gabriela-postulkova",
+    "dims": [
+      -1.1713745935360376,
+      -0.4222456901150862,
+      0.4428719010308061
+    ],
+    "weight": 0.9820819112627988,
+    "included": true,
+    "name": "Gabriela Poštulková",
+    "given_names": [
+      "Gabriela"
+    ],
+    "family_names": [
+      "Poštulková"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:zastupitelstvo-mesta-ostravy",
+        "name": "Zastupitelstvo města Ostravy",
+        "classification": "parliament",
+        "since": "2022-10-19",
+        "until": null
+      },
+      {
+        "id": "ostrava:org:group:spd",
+        "name": "SPD",
+        "classification": "groups",
+        "since": "2022-10-19",
+        "until": null
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:hana-tichankova",
+    "dims": [
+      0.5258332789645971,
+      0.2046133129895305,
+      0.21014633102661348
+    ],
+    "weight": 0.863481228668942,
+    "included": true,
+    "name": "Hana Tichánková",
+    "given_names": [
+      "Hana"
+    ],
+    "family_names": [
+      "Tichánková"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:zastupitelstvo-mesta-ostravy",
+        "name": "Zastupitelstvo města Ostravy",
+        "classification": "parliament",
+        "since": "2022-10-19",
+        "until": null
+      },
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-10-19",
+        "until": null
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:iveta-voznakova",
+    "dims": [
+      0.26377369292702035,
+      -0.7042265477307367,
+      -0.3283505157844271
+    ],
+    "weight": 0.8630546075085325,
+    "included": true,
+    "name": "Iveta Vozňáková",
+    "given_names": [
+      "Iveta"
+    ],
+    "family_names": [
+      "Vozňáková"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:zastupitelstvo-mesta-ostravy",
+        "name": "Zastupitelstvo města Ostravy",
+        "classification": "parliament",
+        "since": "2022-10-19",
+        "until": null
+      },
+      {
+        "id": "ostrava:org:group:ostravak",
+        "name": "Ostravak",
+        "classification": "groups",
+        "since": "2022-10-19",
+        "until": null
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:jan-dohnal",
+    "dims": [
+      0.5208201161621133,
+      0.19475413653241458,
+      0.10230732936310719
+    ],
+    "weight": 0.9931740614334471,
+    "included": true,
+    "name": "Jan Dohnal",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Dohnal"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:zastupitelstvo-mesta-ostravy",
+        "name": "Zastupitelstvo města Ostravy",
+        "classification": "parliament",
+        "since": "2022-10-19",
+        "until": null
+      },
+      {
+        "id": "ostrava:org:group:ods-top09",
+        "name": "ODS + TOP09",
+        "classification": "groups",
+        "since": "2022-10-19",
+        "until": null
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:jan-sila",
+    "dims": [
+      -0.9859495508969341,
+      -0.6844468353812717,
+      0.32741853459784953
+    ],
+    "weight": 0.39462457337883966,
+    "included": true,
+    "name": "Jan Síla",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Síla"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:zastupitelstvo-mesta-ostravy",
+        "name": "Zastupitelstvo města Ostravy",
+        "classification": "parliament",
+        "since": "2022-10-19",
+        "until": "2024-11-06"
+      },
+      {
+        "id": "ostrava:org:group:spd",
+        "name": "SPD",
+        "classification": "groups",
+        "since": "2022-10-19",
+        "until": "2024-12-04"
+      }
+    ],
+    "since": "2022-10-19",
+    "until": "2024-11-06"
+  },
+  {
+    "person_id": "ostrava:person:jaroslav-trnovec",
+    "dims": [
+      0.534263397103884,
+      0.22069413904979035,
+      0.16807372378126653
+    ],
+    "weight": 0.9206484641638225,
+    "included": true,
+    "name": "Jaroslav Trnovec",
+    "given_names": [
+      "Jaroslav"
+    ],
+    "family_names": [
+      "Trnovec"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:zastupitelstvo-mesta-ostravy",
+        "name": "Zastupitelstvo města Ostravy",
+        "classification": "parliament",
+        "since": "2022-10-19",
+        "until": null
+      },
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-10-19",
+        "until": null
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:jiri-jurecek",
+    "dims": [
+      0.39398357726786787,
+      -0.49131152413534784,
+      -0.21440345482834655
+    ],
+    "weight": 0.7619453924914675,
+    "included": true,
+    "name": "Jiří Jureček",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Jureček"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:zastupitelstvo-mesta-ostravy",
+        "name": "Zastupitelstvo města Ostravy",
+        "classification": "parliament",
+        "since": "2022-10-19",
+        "until": null
+      },
+      {
+        "id": "ostrava:org:group:starostove-pro-ostravu",
+        "name": "STAROSTOVÉ pro OSTRAVU",
+        "classification": "groups",
+        "since": "2022-10-19",
+        "until": null
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:jiri-vavra",
+    "dims": [
+      0.5250341475756818,
+      0.17506630578761218,
+      0.15474511153942969
+    ],
+    "weight": 0.981655290102389,
+    "included": true,
+    "name": "Jiří Vávra",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Vávra"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:zastupitelstvo-mesta-ostravy",
+        "name": "Zastupitelstvo města Ostravy",
+        "classification": "parliament",
+        "since": "2022-10-19",
+        "until": null
+      },
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-10-19",
+        "until": null
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:josef-babka",
+    "dims": [
+      -0.9057482452013514,
+      -0.34386736135128426,
+      -0.2985193110887417
+    ],
+    "weight": 0.8314846416382253,
+    "included": true,
+    "name": "Josef Babka",
+    "given_names": [
+      "Josef"
+    ],
+    "family_names": [
+      "Babka"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:zastupitelstvo-mesta-ostravy",
+        "name": "Zastupitelstvo města Ostravy",
+        "classification": "parliament",
+        "since": "2022-10-19",
+        "until": null
+      },
+      {
+        "id": "ostrava:org:group:ostravska-levice",
+        "name": "Ostravská levice",
+        "classification": "groups",
+        "since": "2022-10-19",
+        "until": null
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:karel-malik",
+    "dims": [
+      -0.8185762495892203,
+      0.7425817374886727,
+      -0.385133128791865
+    ],
+    "weight": 0.8882252559726964,
+    "included": true,
+    "name": "Karel Malík",
+    "given_names": [
+      "Karel"
+    ],
+    "family_names": [
+      "Malík"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:zastupitelstvo-mesta-ostravy",
+        "name": "Zastupitelstvo města Ostravy",
+        "classification": "parliament",
+        "since": "2022-10-19",
+        "until": null
+      },
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-10-19",
+        "until": "2023-04-26"
+      },
+      {
+        "id": "ostrava:org:group:jdeto",
+        "name": "JDETO!!!",
+        "classification": "groups",
+        "since": "2023-04-26",
+        "until": null
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:katerina-sebestova",
+    "dims": [
+      -0.8405251634024542,
+      0.7094452081377834,
+      -0.36859805612414287
+    ],
+    "weight": 0.8694539249146758,
+    "included": true,
+    "name": "Kateřina Šebestová",
+    "given_names": [
+      "Kateřina"
+    ],
+    "family_names": [
+      "Šebestová"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:zastupitelstvo-mesta-ostravy",
+        "name": "Zastupitelstvo města Ostravy",
+        "classification": "parliament",
+        "since": "2022-10-19",
+        "until": null
+      },
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-10-19",
+        "until": "2023-03-22"
+      },
+      {
+        "id": "ostrava:org:group:jdeto",
+        "name": "JDETO!!!",
+        "classification": "groups",
+        "since": "2023-04-26",
+        "until": null
+      },
+      {
+        "id": "ostrava:org:group:nezarazeni",
+        "name": "Nezařazení",
+        "classification": "groups",
+        "since": "2023-03-22",
+        "until": "2023-04-26"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:libor-pavel",
+    "dims": [
+      -1.0329925930577608,
+      -0.3699843315291673,
+      0.5173309831177785
+    ],
+    "weight": 0.8694539249146758,
+    "included": true,
+    "name": "Libor Pavel",
+    "given_names": [
+      "Libor"
+    ],
+    "family_names": [
+      "Pavel"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:zastupitelstvo-mesta-ostravy",
+        "name": "Zastupitelstvo města Ostravy",
+        "classification": "parliament",
+        "since": "2022-10-19",
+        "until": null
+      },
+      {
+        "id": "ostrava:org:group:spd",
+        "name": "SPD",
+        "classification": "groups",
+        "since": "2022-10-19",
+        "until": null
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:lucie-barankova",
+    "dims": [
+      0.5175912501080664,
+      0.24345392877269467,
+      0.1519789466579874
+    ],
+    "weight": 0.8306313993174061,
+    "included": true,
+    "name": "Lucie Baránková",
+    "given_names": [
+      "Lucie"
+    ],
+    "family_names": [
+      "Baránková"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:zastupitelstvo-mesta-ostravy",
+        "name": "Zastupitelstvo města Ostravy",
+        "classification": "parliament",
+        "since": "2022-10-19",
+        "until": null
+      },
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-10-19",
+        "until": null
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:lukas-semerak",
+    "dims": [
+      0.3206186505505646,
+      -0.7504118425257404,
+      -0.30196723360225936
+    ],
+    "weight": 0.8408703071672355,
+    "included": true,
+    "name": "Lukáš Semerák",
+    "given_names": [
+      "Lukáš"
+    ],
+    "family_names": [
+      "Semerák"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:zastupitelstvo-mesta-ostravy",
+        "name": "Zastupitelstvo města Ostravy",
+        "classification": "parliament",
+        "since": "2022-10-19",
+        "until": null
+      },
+      {
+        "id": "ostrava:org:group:ostravak",
+        "name": "Ostravak",
+        "classification": "groups",
+        "since": "2022-10-19",
+        "until": null
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:margareta-michopulu",
+    "dims": [
+      0.50629991997445,
+      0.2444258736577903,
+      0.17844108057390107
+    ],
+    "weight": 0.7619453924914675,
+    "included": true,
+    "name": "Margareta Michopulu",
+    "given_names": [
+      "Margareta"
+    ],
+    "family_names": [
+      "Michopulu"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:zastupitelstvo-mesta-ostravy",
+        "name": "Zastupitelstvo města Ostravy",
+        "classification": "parliament",
+        "since": "2022-10-19",
+        "until": null
+      },
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-10-19",
+        "until": null
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:marie-malcharova",
+    "dims": [
+      -1.1317518499471833,
+      -0.482486336828197,
+      0.4392379365804264
+    ],
+    "weight": 0.8319112627986348,
+    "included": true,
+    "name": "Marie Malcharová",
+    "given_names": [
+      "Marie"
+    ],
+    "family_names": [
+      "Malcharová"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:zastupitelstvo-mesta-ostravy",
+        "name": "Zastupitelstvo města Ostravy",
+        "classification": "parliament",
+        "since": "2022-10-19",
+        "until": null
+      },
+      {
+        "id": "ostrava:org:group:spd",
+        "name": "SPD",
+        "classification": "groups",
+        "since": "2022-10-19",
+        "until": null
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:marketa-langrova",
+    "dims": [
+      0.5584925093997729,
+      0.19744690860039354,
+      0.13834122169984195
+    ],
+    "weight": 0.8959044368600684,
+    "included": true,
+    "name": "Markéta Langrová",
+    "given_names": [
+      "Markéta"
+    ],
+    "family_names": [
+      "Langrová"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:zastupitelstvo-mesta-ostravy",
+        "name": "Zastupitelstvo města Ostravy",
+        "classification": "parliament",
+        "since": "2022-10-19",
+        "until": null
+      },
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-10-19",
+        "until": null
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:martin-bednar",
+    "dims": [
+      0.5307981570828492,
+      0.2513041601979452,
+      0.1736351238851417
+    ],
+    "weight": 0.8191126279863482,
+    "included": true,
+    "name": "Martin Bednář",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Bednář"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:zastupitelstvo-mesta-ostravy",
+        "name": "Zastupitelstvo města Ostravy",
+        "classification": "parliament",
+        "since": "2022-10-19",
+        "until": null
+      },
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-10-19",
+        "until": null
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:martin-drastich",
+    "dims": [
+      0.03018139581261401,
+      -1.108023996184884,
+      -0.3169906374979626
+    ],
+    "weight": 0.30204778156996587,
+    "included": true,
+    "name": "Martin Drastich, Ph.D., MBA",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Drastich"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:zastupitelstvo-mesta-ostravy",
+        "name": "Zastupitelstvo města Ostravy",
+        "classification": "parliament",
+        "since": "2022-10-19",
+        "until": "2023-04-26"
+      },
+      {
+        "id": "ostrava:org:group:ostravak",
+        "name": "Ostravak",
+        "classification": "groups",
+        "since": "2022-10-19",
+        "until": "2023-05-24"
+      }
+    ],
+    "since": "2022-10-19",
+    "until": "2023-04-26"
+  },
+  {
+    "person_id": "ostrava:person:martin-juroska",
+    "dims": [
+      -0.5233159384113907,
+      -0.4351438420029678,
+      -0.0009522638770476117
+    ],
+    "weight": 0.5584470989761091,
+    "included": true,
+    "name": "Martin Juroška",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Juroška"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:zastupitelstvo-mesta-ostravy",
+        "name": "Zastupitelstvo města Ostravy",
+        "classification": "parliament",
+        "since": "2022-10-19",
+        "until": null
+      },
+      {
+        "id": "ostrava:org:group:ostravska-levice",
+        "name": "Ostravská levice",
+        "classification": "groups",
+        "since": "2022-10-19",
+        "until": null
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:martin-kret",
+    "dims": [
+      0.5482979841830145,
+      0.20041123769706073,
+      0.16843025846741394
+    ],
+    "weight": 0.9462457337883959,
+    "included": true,
+    "name": "Martin Kret",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Kret"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:zastupitelstvo-mesta-ostravy",
+        "name": "Zastupitelstvo města Ostravy",
+        "classification": "parliament",
+        "since": "2022-10-19",
+        "until": null
+      },
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-10-19",
+        "until": null
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:maxim-pachomov",
+    "dims": [
+      -0.7443077001014752,
+      0.647119150354695,
+      -0.24800371784441402
+    ],
+    "weight": 0.9458191126279862,
+    "included": true,
+    "name": "Maxim Pachomov",
+    "given_names": [
+      "Maxim"
+    ],
+    "family_names": [
+      "Pachomov"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:zastupitelstvo-mesta-ostravy",
+        "name": "Zastupitelstvo města Ostravy",
+        "classification": "parliament",
+        "since": "2022-10-19",
+        "until": null
+      },
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-10-19",
+        "until": "2023-04-26"
+      },
+      {
+        "id": "ostrava:org:group:jdeto",
+        "name": "JDETO!!!",
+        "classification": "groups",
+        "since": "2023-04-26",
+        "until": null
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:michal-horinek",
+    "dims": [
+      0.47476528443876725,
+      0.2093922404934579,
+      0.1139451087384107
+    ],
+    "weight": 0.9151023890784983,
+    "included": true,
+    "name": "Michal Hořínek",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Hořínek"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:zastupitelstvo-mesta-ostravy",
+        "name": "Zastupitelstvo města Ostravy",
+        "classification": "parliament",
+        "since": "2022-10-19",
+        "until": null
+      },
+      {
+        "id": "ostrava:org:group:kdu-csl",
+        "name": "KDU-ČSL",
+        "classification": "groups",
+        "since": "2022-10-19",
+        "until": null
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:michal-marianek",
+    "dims": [
+      0.316040595161166,
+      -0.7098253066786461,
+      -0.32364012630100447
+    ],
+    "weight": 0.8511092150170647,
+    "included": true,
+    "name": "Michal Mariánek",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Mariánek"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:zastupitelstvo-mesta-ostravy",
+        "name": "Zastupitelstvo města Ostravy",
+        "classification": "parliament",
+        "since": "2022-10-19",
+        "until": null
+      },
+      {
+        "id": "ostrava:org:group:ostravak",
+        "name": "Ostravak",
+        "classification": "groups",
+        "since": "2022-10-19",
+        "until": null
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:miroslav-otisk",
+    "dims": [
+      -0.8424191199854322,
+      0.7392111009111808,
+      -0.3287943103544587
+    ],
+    "weight": 0.8792662116040955,
+    "included": true,
+    "name": "Miroslav Otisk",
+    "given_names": [
+      "Miroslav"
+    ],
+    "family_names": [
+      "Otisk"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:zastupitelstvo-mesta-ostravy",
+        "name": "Zastupitelstvo města Ostravy",
+        "classification": "parliament",
+        "since": "2022-10-19",
+        "until": null
+      },
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-10-19",
+        "until": "2023-04-26"
+      },
+      {
+        "id": "ostrava:org:group:jdeto",
+        "name": "JDETO!!!",
+        "classification": "groups",
+        "since": "2023-04-26",
+        "until": null
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:miroslav-svozil",
+    "dims": [
+      0.4125441316824397,
+      0.2651839433555016,
+      0.10543328358930214
+    ],
+    "weight": 0.9108361774744026,
+    "included": true,
+    "name": "Miroslav Svozil",
+    "given_names": [
+      "Miroslav"
+    ],
+    "family_names": [
+      "Svozil"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:zastupitelstvo-mesta-ostravy",
+        "name": "Zastupitelstvo města Ostravy",
+        "classification": "parliament",
+        "since": "2022-10-19",
+        "until": null
+      },
+      {
+        "id": "ostrava:org:group:ods-top09",
+        "name": "ODS + TOP09",
+        "classification": "groups",
+        "since": "2022-10-19",
+        "until": null
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:ondrej-nemecek",
+    "dims": [
+      -0.8408808339137651,
+      0.753278813225002,
+      -0.3306974259384775
+    ],
+    "weight": 0.8801194539249149,
+    "included": true,
+    "name": "Ondřej Němeček",
+    "given_names": [
+      "Ondřej"
+    ],
+    "family_names": [
+      "Němeček"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:zastupitelstvo-mesta-ostravy",
+        "name": "Zastupitelstvo města Ostravy",
+        "classification": "parliament",
+        "since": "2022-10-19",
+        "until": null
+      },
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-10-19",
+        "until": "2023-04-26"
+      },
+      {
+        "id": "ostrava:org:group:jdeto",
+        "name": "JDETO!!!",
+        "classification": "groups",
+        "since": "2023-04-26",
+        "until": null
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:ondrej-sliva",
+    "dims": [
+      0.5496418381018311,
+      0.21797301527844898,
+      0.1866984065612232
+    ],
+    "weight": 0.8993174061433445,
+    "included": true,
+    "name": "Ondřej Slíva",
+    "given_names": [
+      "Ondřej"
+    ],
+    "family_names": [
+      "Slíva"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:zastupitelstvo-mesta-ostravy",
+        "name": "Zastupitelstvo města Ostravy",
+        "classification": "parliament",
+        "since": "2022-10-19",
+        "until": null
+      },
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-10-19",
+        "until": null
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:patrik-hujdus",
+    "dims": [
+      0.37315232022092676,
+      -0.5225284775883564,
+      -0.24028404433277936
+    ],
+    "weight": 0.8993174061433448,
+    "included": true,
+    "name": "Patrik Hujdus",
+    "given_names": [
+      "Patrik"
+    ],
+    "family_names": [
+      "Hujdus"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:zastupitelstvo-mesta-ostravy",
+        "name": "Zastupitelstvo města Ostravy",
+        "classification": "parliament",
+        "since": "2022-10-19",
+        "until": null
+      },
+      {
+        "id": "ostrava:org:group:starostove-pro-ostravu",
+        "name": "STAROSTOVÉ pro OSTRAVU",
+        "classification": "groups",
+        "since": "2022-10-19",
+        "until": null
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:peter-harvanek",
+    "dims": [
+      -1.1115995581273213,
+      -0.5091763374263493,
+      0.4547696556709369
+    ],
+    "weight": 0.8161262798634812,
+    "included": true,
+    "name": "Peter Harvánek",
+    "given_names": [
+      "Peter"
+    ],
+    "family_names": [
+      "Harvánek"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:zastupitelstvo-mesta-ostravy",
+        "name": "Zastupitelstvo města Ostravy",
+        "classification": "parliament",
+        "since": "2022-10-19",
+        "until": null
+      },
+      {
+        "id": "ostrava:org:group:spd",
+        "name": "SPD",
+        "classification": "groups",
+        "since": "2022-10-19",
+        "until": null
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:petr-mika",
+    "dims": [
+      0.09020885725203642,
+      -0.8477740672082835,
+      -0.3529324837269901
+    ],
+    "weight": 0.6143344709897611,
+    "included": true,
+    "name": "Petr Mika",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Mika"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:zastupitelstvo-mesta-ostravy",
+        "name": "Zastupitelstvo města Ostravy",
+        "classification": "parliament",
+        "since": "2022-10-19",
+        "until": null
+      },
+      {
+        "id": "ostrava:org:group:ostravak",
+        "name": "Ostravak",
+        "classification": "groups",
+        "since": "2022-10-19",
+        "until": null
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:petr-psotka",
+    "dims": [
+      0.4753498593552732,
+      0.21982704820355406,
+      0.1890821047232162
+    ],
+    "weight": 0.8984641638225256,
+    "included": true,
+    "name": "Petr Psotka",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Psotka"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:zastupitelstvo-mesta-ostravy",
+        "name": "Zastupitelstvo města Ostravy",
+        "classification": "parliament",
+        "since": "2022-10-19",
+        "until": null
+      },
+      {
+        "id": "ostrava:org:group:ods-top09",
+        "name": "ODS + TOP09",
+        "classification": "groups",
+        "since": "2022-10-19",
+        "until": null
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:petr-veselka",
+    "dims": [
+      0.5296033272262791,
+      0.19947141363186488,
+      0.1646952748981294
+    ],
+    "weight": 0.9607508532423208,
+    "included": true,
+    "name": "Petr Veselka",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Veselka"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:zastupitelstvo-mesta-ostravy",
+        "name": "Zastupitelstvo města Ostravy",
+        "classification": "parliament",
+        "since": "2022-10-19",
+        "until": null
+      },
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-10-19",
+        "until": null
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:radana-zapletalova",
+    "dims": [
+      0.5187936446004502,
+      0.19021658705304473,
+      0.1162246987054056
+    ],
+    "weight": 0.9616040955631399,
+    "included": true,
+    "name": "Radana Zapletalová",
+    "given_names": [
+      "Radana"
+    ],
+    "family_names": [
+      "Zapletalová"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:zastupitelstvo-mesta-ostravy",
+        "name": "Zastupitelstvo města Ostravy",
+        "classification": "parliament",
+        "since": "2022-10-19",
+        "until": null
+      },
+      {
+        "id": "ostrava:org:group:ods-top09",
+        "name": "ODS + TOP09",
+        "classification": "groups",
+        "since": "2022-10-19",
+        "until": null
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:radim-michna",
+    "dims": [
+      -1.0346396019685786,
+      -0.03654000892592158,
+      0.519501897196203
+    ],
+    "weight": 0.2120307167235495,
+    "included": true,
+    "name": "Radim Michna",
+    "given_names": [
+      "Radim"
+    ],
+    "family_names": [
+      "Michna"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:zastupitelstvo-mesta-ostravy",
+        "name": "Zastupitelstvo města Ostravy",
+        "classification": "parliament",
+        "since": "2024-12-04",
+        "until": null
+      },
+      {
+        "id": "ostrava:org:group:spd",
+        "name": "SPD",
+        "classification": "groups",
+        "since": "2024-12-04",
+        "until": null
+      }
+    ],
+    "since": "2024-12-04"
+  },
+  {
+    "person_id": "ostrava:person:regina-gogelova",
+    "dims": [
+      0.5359748904538828,
+      0.21686198700791084,
+      0.10728621136136621
+    ],
+    "weight": 0.9441126279863481,
+    "included": true,
+    "name": "Regina Gogelová",
+    "given_names": [
+      "Regina"
+    ],
+    "family_names": [
+      "Gogelová"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:zastupitelstvo-mesta-ostravy",
+        "name": "Zastupitelstvo města Ostravy",
+        "classification": "parliament",
+        "since": "2022-10-19",
+        "until": null
+      },
+      {
+        "id": "ostrava:org:group:kdu-csl",
+        "name": "KDU-ČSL",
+        "classification": "groups",
+        "since": "2022-10-19",
+        "until": null
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:richard-veres",
+    "dims": [
+      0.28359138130345984,
+      0.9231862059468561,
+      0.11502909031218508
+    ],
+    "weight": 0.16510238907849828,
+    "included": true,
+    "name": "Richard Vereš",
+    "given_names": [
+      "Richard"
+    ],
+    "family_names": [
+      "Vereš"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:zastupitelstvo-mesta-ostravy",
+        "name": "Zastupitelstvo města Ostravy",
+        "classification": "parliament",
+        "since": "2022-10-19",
+        "until": "2022-12-07"
+      },
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-10-19",
+        "until": "2023-01-25"
+      }
+    ],
+    "since": "2022-10-19",
+    "until": "2022-12-07"
+  },
+  {
+    "person_id": "ostrava:person:robert-cep",
+    "dims": [
+      -1.13187446249071,
+      0.5779062658427452,
+      -0.5784126219150201
+    ],
+    "weight": 0.5533276450511946,
+    "included": true,
+    "name": "Robert Čep",
+    "given_names": [
+      "Robert"
+    ],
+    "family_names": [
+      "Čep"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:zastupitelstvo-mesta-ostravy",
+        "name": "Zastupitelstvo města Ostravy",
+        "classification": "parliament",
+        "since": "2023-01-25",
+        "until": null
+      },
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2023-01-25",
+        "until": "2023-03-22"
+      },
+      {
+        "id": "ostrava:org:group:jdeto",
+        "name": "JDETO!!!",
+        "classification": "groups",
+        "since": "2023-04-26",
+        "until": null
+      },
+      {
+        "id": "ostrava:org:group:nezarazeni",
+        "name": "Nezařazení",
+        "classification": "groups",
+        "since": "2023-03-22",
+        "until": "2023-04-26"
+      }
+    ],
+    "since": "2023-01-25"
+  },
+  {
+    "person_id": "ostrava:person:robert-stary",
+    "dims": [
+      -1.283309667501219,
+      -0.023012060442035076,
+      0.6006928779975013
+    ],
+    "weight": 0.7145904436860068,
+    "included": true,
+    "name": "Robert Starý",
+    "given_names": [
+      "Robert"
+    ],
+    "family_names": [
+      "Starý"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:zastupitelstvo-mesta-ostravy",
+        "name": "Zastupitelstvo města Ostravy",
+        "classification": "parliament",
+        "since": "2022-10-19",
+        "until": null
+      },
+      {
+        "id": "ostrava:org:group:spd",
+        "name": "SPD",
+        "classification": "groups",
+        "since": "2022-10-19",
+        "until": null
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:rostislav-reha",
+    "dims": [
+      0.27050022019567815,
+      0.2678140835747095,
+      0.006481454250328985
+    ],
+    "weight": 0.8562286689419794,
+    "included": true,
+    "name": "Rostislav Řeha",
+    "given_names": [
+      "Rostislav"
+    ],
+    "family_names": [
+      "Řeha"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:zastupitelstvo-mesta-ostravy",
+        "name": "Zastupitelstvo města Ostravy",
+        "classification": "parliament",
+        "since": "2022-10-19",
+        "until": null
+      },
+      {
+        "id": "ostrava:org:group:pirati",
+        "name": "Piráti",
+        "classification": "groups",
+        "since": "2022-10-19",
+        "until": null
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:tomas-gemela",
+    "dims": [
+      0.5369096773708071,
+      0.19315688744211998,
+      0.16943117733564864
+    ],
+    "weight": 0.9872013651877133,
+    "included": true,
+    "name": "Tomáš Gemela",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Gemela"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:zastupitelstvo-mesta-ostravy",
+        "name": "Zastupitelstvo města Ostravy",
+        "classification": "parliament",
+        "since": "2022-10-19",
+        "until": null
+      },
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-10-19",
+        "until": null
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:tomas-macura",
+    "dims": [
+      -0.8583767044180347,
+      0.708612828430512,
+      -0.42709646681419877
+    ],
+    "weight": 0.9099829351535836,
+    "included": true,
+    "name": "Tomáš Macura",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Macura"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:zastupitelstvo-mesta-ostravy",
+        "name": "Zastupitelstvo města Ostravy",
+        "classification": "parliament",
+        "since": "2022-10-19",
+        "until": null
+      },
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-10-19",
+        "until": "2023-03-22"
+      },
+      {
+        "id": "ostrava:org:group:jdeto",
+        "name": "JDETO!!!",
+        "classification": "groups",
+        "since": "2023-04-26",
+        "until": null
+      },
+      {
+        "id": "ostrava:org:group:nezarazeni",
+        "name": "Nezařazení",
+        "classification": "groups",
+        "since": "2023-03-22",
+        "until": "2023-04-26"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:tomas-malek",
+    "dims": [
+      0.3214271514922877,
+      -0.7094264562038795,
+      -0.2987932988339575
+    ],
+    "weight": 0.7738907849829352,
+    "included": true,
+    "name": "Tomáš Málek",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Málek"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:zastupitelstvo-mesta-ostravy",
+        "name": "Zastupitelstvo města Ostravy",
+        "classification": "parliament",
+        "since": "2022-10-19",
+        "until": null
+      },
+      {
+        "id": "ostrava:org:group:ostravak",
+        "name": "Ostravak",
+        "classification": "groups",
+        "since": "2022-10-19",
+        "until": null
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:tomas-pavliska",
+    "dims": [
+      0.3209420204197505,
+      -0.7450115158769041,
+      -0.2916111288687732
+    ],
+    "weight": 0.8361774744027305,
+    "included": true,
+    "name": "Tomáš Pavliska",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Pavliska"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:zastupitelstvo-mesta-ostravy",
+        "name": "Zastupitelstvo města Ostravy",
+        "classification": "parliament",
+        "since": "2022-10-19",
+        "until": null
+      },
+      {
+        "id": "ostrava:org:group:ostravak",
+        "name": "Ostravak",
+        "classification": "groups",
+        "since": "2022-10-19",
+        "until": null
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:tomas-vytisk",
+    "dims": [
+      0.3771397910158668,
+      -0.4096964443570714,
+      -0.1215951388673947
+    ],
+    "weight": 0.9368600682593856,
+    "included": true,
+    "name": "Tomáš Výtisk",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Výtisk"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:zastupitelstvo-mesta-ostravy",
+        "name": "Zastupitelstvo města Ostravy",
+        "classification": "parliament",
+        "since": "2022-10-19",
+        "until": null
+      },
+      {
+        "id": "ostrava:org:group:starostove-pro-ostravu",
+        "name": "STAROSTOVÉ pro OSTRAVU",
+        "classification": "groups",
+        "since": "2022-10-19",
+        "until": null
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:vit-machacek",
+    "dims": [
+      -0.8249458027568154,
+      -0.49822582745252925,
+      -0.3178584785419204
+    ],
+    "weight": 0.7162969283276451,
+    "included": true,
+    "name": "Vít Macháček",
+    "given_names": [
+      "Vít"
+    ],
+    "family_names": [
+      "Macháček"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:zastupitelstvo-mesta-ostravy",
+        "name": "Zastupitelstvo města Ostravy",
+        "classification": "parliament",
+        "since": "2022-10-19",
+        "until": null
+      },
+      {
+        "id": "ostrava:org:group:ostravska-levice",
+        "name": "Ostravská levice",
+        "classification": "groups",
+        "since": "2022-10-19",
+        "until": null
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:vladimir-ciganek",
+    "dims": [
+      0.5057417736270163,
+      0.22519546476401153,
+      0.03373670938039135
+    ],
+    "weight": 0.719283276450512,
+    "included": true,
+    "name": "Vladimír Cigánek",
+    "given_names": [
+      "Vladimír"
+    ],
+    "family_names": [
+      "Cigánek"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:zastupitelstvo-mesta-ostravy",
+        "name": "Zastupitelstvo města Ostravy",
+        "classification": "parliament",
+        "since": "2022-10-19",
+        "until": "2025-01-29"
+      },
+      {
+        "id": "ostrava:org:group:ods-top09",
+        "name": "ODS + TOP09",
+        "classification": "groups",
+        "since": "2022-10-19",
+        "until": "2025-03-26"
+      }
+    ],
+    "since": "2022-10-19",
+    "until": "2025-01-29"
+  },
+  {
+    "person_id": "ostrava:person:vladimir-polak",
+    "dims": [
+      0.18435418764891842,
+      -0.7207294330735067,
+      -0.31966885542943557
+    ],
+    "weight": 0.8988907849829353,
+    "included": true,
+    "name": "Vladimír Polák",
+    "given_names": [
+      "Vladimír"
+    ],
+    "family_names": [
+      "Polák"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:zastupitelstvo-mesta-ostravy",
+        "name": "Zastupitelstvo města Ostravy",
+        "classification": "parliament",
+        "since": "2022-10-19",
+        "until": null
+      },
+      {
+        "id": "ostrava:org:group:ostravak",
+        "name": "Ostravak",
+        "classification": "groups",
+        "since": "2022-10-19",
+        "until": null
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:zbynek-prazak",
+    "dims": [
+      0.5452683407566201,
+      0.17881792840258703,
+      0.12106699564310289
+    ],
+    "weight": 0.9436860068259386,
+    "included": true,
+    "name": "Zbyněk Pražák",
+    "given_names": [
+      "Zbyněk"
+    ],
+    "family_names": [
+      "Pražák"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:zastupitelstvo-mesta-ostravy",
+        "name": "Zastupitelstvo města Ostravy",
+        "classification": "parliament",
+        "since": "2022-10-19",
+        "until": null
+      },
+      {
+        "id": "ostrava:org:group:kdu-csl",
+        "name": "KDU-ČSL",
+        "classification": "groups",
+        "since": "2022-10-19",
+        "until": null
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:zdenek-rodek",
+    "dims": [
+      0.5528586312656777,
+      0.18426132700589676,
+      0.1820063219936142
+    ],
+    "weight": 0.9684300341296928,
+    "included": true,
+    "name": "Zdeněk Rodek",
+    "given_names": [
+      "Zdeněk"
+    ],
+    "family_names": [
+      "Rodek"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:zastupitelstvo-mesta-ostravy",
+        "name": "Zastupitelstvo města Ostravy",
+        "classification": "parliament",
+        "since": "2022-10-19",
+        "until": null
+      },
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-10-19",
+        "until": null
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:zuzana-bajgarova",
+    "dims": [
+      -0.8411928271752078,
+      0.7469675277711285,
+      -0.44370630689069923
+    ],
+    "weight": 0.9330204778156997,
+    "included": true,
+    "name": "Zuzana Bajgarová",
+    "given_names": [
+      "Zuzana"
+    ],
+    "family_names": [
+      "Bajgarová"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:zastupitelstvo-mesta-ostravy",
+        "name": "Zastupitelstvo města Ostravy",
+        "classification": "parliament",
+        "since": "2022-10-19",
+        "until": null
+      },
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-10-19",
+        "until": "2023-03-22"
+      },
+      {
+        "id": "ostrava:org:group:jdeto",
+        "name": "JDETO!!!",
+        "classification": "groups",
+        "since": "2023-04-26",
+        "until": null
+      },
+      {
+        "id": "ostrava:org:group:nezarazeni",
+        "name": "Nezařazení",
+        "classification": "groups",
+        "since": "2023-03-22",
+        "until": "2023-04-26"
+      }
+    ],
+    "since": "2022-10-19"
+  }
+]

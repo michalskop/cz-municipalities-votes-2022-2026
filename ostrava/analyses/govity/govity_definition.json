@@ -1,0 +1,51 @@
+{
+  "since": "2022-10-19",
+  "until": null,
+  "present_options": ["yes", "no", "abstain"],
+  "absent_options": ["absent", "not voting"],
+  "yes_options": ["yes"],
+  "no_options": ["no"],
+  "government_groups": [
+    "ostrava:org:group:ano-2011",
+    "ostrava:org:group:ods-top09",
+    "ostrava:org:group:kdu-csl",
+    "ostrava:org:group:pirati",
+    "ostrava:org:group:ostravak",
+    "ostrava:org:group:starostove-pro-ostravu"
+  ],
+  "government_members": [],
+  "extras": {
+    "approval_status": "PENDING PROJECT OWNER SIGN-OFF (D7) — draft only, NOT yet approved for publish. See government_groups_citation for the well-cited core facts (all 6 listed klubs confirmed in coalition from 2023-04-25 onward), and open_questions_for_owner for one specific, genuinely ambiguous edge (whether 2 of the 6 klubs were ALSO in the coalition for the first ~6 months of the term) that needs an explicit owner decision before this can ship.",
+    "government_groups_citation": [
+      {
+        "claim": "Original 2022 coalition (from the term's 2022-10-19 constituting session): ANO 2011 + 'Koalice SPOLU' (which fields two separate assembly klubs, 'ODS + TOP09' and 'KDU-ČSL' — confirmed as two distinct registered klubs directly from vote-page data, not just the election-list label) + Piráti. Tomáš Macura (ANO 2011) continued as mayor.",
+        "sources": [
+          "https://www.irozhlas.cz/volby/koalice-ostrava-primator-macura_2210201021_cen",
+          "https://ct24.ceskatelevize.cz/regiony/3532288-v-ostrave-chce-pokracovat-koalice-hnuti-ano-spolu-a-piratu-ostravak-se-asi-neprida"
+        ]
+      },
+      {
+        "claim": "December 2022-February 2023: part of ANO 2011's own klub left after an internal dispute, reducing the coalition's seat count. Confirmed directly from primary vote-page data (not just news): meeting 202302 (2023-02-22) still shows the original 8-klub structure with ANO 2011 intact; meeting 202303 (2023-03-22) shows a new transitional klub 'Nezařazení' (unaffiliated) appear for the first time, containing the departing members.",
+        "sources": [
+          "ostrava.cz vysledky_hlasovani vote pages themselves (see ostrava/scripts/party_affiliation.py's module docstring for the exact dated evidence trail) — a primary-source citation, not an external news claim"
+        ]
+      },
+      {
+        "claim": "2023-04-25: a NEW, broadened coalition agreement was signed — ANO 2011 + ODS+TOP09 + KDU-ČSL + Ostravak + STAROSTOVÉ pro OSTRAVU + Piráti (37/55 seats), with Jan Dohnal (ODS, of the 'ODS + TOP09' klub) replacing Macura as mayor. Confirmed both by news AND primary vote data: meeting 202304 (2023-04-26, the very next meeting after this agreement) shows the departing ANO members' transitional 'Nezařazení' klub replaced by a new klub, 'JDETO!!!' — and this 6-klub coalition set (ANO 2011/ODS+TOP09/KDU-ČSL/Ostravak/STAROSTOVÉ pro OSTRAVU/Piráti) is the one that persists, unchanged, through the last dated klub snapshot (meeting 202505, 2025-06-18) — see party_affiliation.py's klub history.",
+        "sources": [
+          "https://www.irozhlas.cz/zpravy-domov/ostrava-koalice-zastupitelstvo-ostravy-zpravy_2304252036_kth",
+          "https://moravskoslezsky.denik.cz/zpravy_region/ostrava-koalicni-smlouva-primator-jan-dohnal-202304.html",
+          "https://polar.cz/zpravy/ostrava/ostrava-mesto/11000036909/clanek",
+          "https://ct24.ceskatelevize.cz/regiony/3579128-koalici-v-ostrave-mohli-vytvorit-ano-spolu-ostravak-starostove-a-pirati-shoda-na"
+        ]
+      }
+    ],
+    "open_questions_for_owner": [
+      {
+        "question": "Were Ostravak and STAROSTOVÉ pro OSTRAVU ALSO part of the ORIGINAL 2022-10-19 coalition (making the 6-klub government_groups list above correct for the WHOLE term), or did they only join when the coalition was broadened on 2023-04-25 (meaning, for the ~6 months before that, government_groups should be the narrower 4-klub set: ANO 2011 + ODS+TOP09 + KDU-ČSL + Piráti, with Ostravak/STAROSTOVÉ pro OSTRAVU/their members correctly scored as OPPOSITION during that window)? Sources genuinely conflict: one 2022-10-20 iROZHLAS piece frames the initial coalition as ANO+SPOLU+Piráti with 'Ostravak se asi nepřidá' ('Ostravak probably won't join'), and a Patriot Magazín headline from the same period reads 'Ostravak je i tentokrát z kola ven' ('Ostravak is out of the running again this time') — both suggesting Ostravak (and by extension possibly STAROSTOVÉ pro OSTRAVU, negotiated alongside it) were NOT in the original coalition. But I could not find a piece that explicitly confirms Ostravak/STAROSTOVÉ pro OSTRAVU were excluded for the full ~6 months, only that they were uncertain/contested at the time of the initial agreement.",
+        "recommendation": "The govity-definition.dt.analyses schema (like govity_definition.json's own single `government_groups` array) has no since/until per org — it cannot natively encode 'these 2 klubs joined partway through' as one file. If the answer is 'they joined later,' the clean fix is splitting this into two definition files with different `since`/`until` windows (mirroring how a coalition realignment would be handled anywhere the schema can't express per-org dates) — not attempted here pending your answer, since it's real engineering work I don't want to do twice. If the answer is 'they were in from the start,' the current single-window 6-klub list is already correct and no further change is needed."
+      }
+    ],
+    "not_investigated": "Whether SPOLU's own internal ODS/TOP09/KDU-ČSL composition, or any of the other 4 coalition klubs, had further internal changes not visible as a klub-level event is out of scope — this repo models each feed-reported klub as one org, no sub-party split available, same scope boundary as Praha's SPOLU pro Prahu and Brno's precedent."
+  }
+}

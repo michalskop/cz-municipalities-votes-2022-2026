@@ -1,0 +1,1447 @@
+[
+  {
+    "person_id": "ostrava:person:ales-bohac",
+    "vote_events_total": 2116,
+    "present": 1928,
+    "absent": 188,
+    "name": "Aleš Boháč",
+    "given_names": [
+      "Aleš"
+    ],
+    "family_names": [
+      "Boháč"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:starostove-pro-ostravu",
+        "classification": "group",
+        "name": "STAROSTOVÉ pro OSTRAVU",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19",
+    "present_share": 0.9111531191
+  },
+  {
+    "person_id": "ostrava:person:ales-linhart",
+    "vote_events_total": 754,
+    "present": 663,
+    "absent": 91,
+    "name": "Aleš Linhart",
+    "given_names": [
+      "Aleš"
+    ],
+    "family_names": [
+      "Linhart"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ods-top09",
+        "classification": "group",
+        "name": "ODS + TOP09",
+        "since": "2025-03-26"
+      }
+    ],
+    "since": "2022-10-19",
+    "present_share": 0.8793103448
+  },
+  {
+    "person_id": "ostrava:person:andrea-hoffmannova",
+    "vote_events_total": 2116,
+    "present": 1896,
+    "absent": 220,
+    "name": "Andrea Hoffmannová",
+    "given_names": [
+      "Andrea"
+    ],
+    "family_names": [
+      "Hoffmannová"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:pirati",
+        "classification": "group",
+        "name": "Piráti",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19",
+    "present_share": 0.8960302457
+  },
+  {
+    "person_id": "ostrava:person:bretislav-riger",
+    "vote_events_total": 1802,
+    "present": 1703,
+    "absent": 99,
+    "name": "Břetislav Riger",
+    "given_names": [
+      "Břetislav"
+    ],
+    "family_names": [
+      "Riger"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ostravak",
+        "classification": "group",
+        "name": "Ostravak",
+        "since": "2023-05-24"
+      }
+    ],
+    "since": "2022-10-19",
+    "present_share": 0.9450610433
+  },
+  {
+    "person_id": "ostrava:person:dagmar-machackova",
+    "vote_events_total": 2116,
+    "present": 2025,
+    "absent": 91,
+    "name": "Dagmar Macháčková",
+    "given_names": [
+      "Dagmar"
+    ],
+    "family_names": [
+      "Macháčková"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19",
+    "present_share": 0.9569943289
+  },
+  {
+    "person_id": "ostrava:person:david-witosz",
+    "vote_events_total": 2116,
+    "present": 2023,
+    "absent": 93,
+    "name": "David Witosz",
+    "given_names": [
+      "David"
+    ],
+    "family_names": [
+      "Witosz"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:pirati",
+        "classification": "group",
+        "name": "Piráti",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19",
+    "present_share": 0.9560491493
+  },
+  {
+    "person_id": "ostrava:person:filip-cmiel",
+    "vote_events_total": 2116,
+    "present": 1950,
+    "absent": 166,
+    "name": "Filip Čmiel",
+    "given_names": [
+      "Filip"
+    ],
+    "family_names": [
+      "Čmiel"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19",
+    "present_share": 0.9215500945
+  },
+  {
+    "person_id": "ostrava:person:frantisek-kolarik",
+    "vote_events_total": 2116,
+    "present": 1739,
+    "absent": 377,
+    "name": "František Kolařík",
+    "given_names": [
+      "František"
+    ],
+    "family_names": [
+      "Kolařík"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ods-top09",
+        "classification": "group",
+        "name": "ODS + TOP09",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19",
+    "present_share": 0.8218336484
+  },
+  {
+    "person_id": "ostrava:person:gabriela-postulkova",
+    "vote_events_total": 2116,
+    "present": 2103,
+    "absent": 13,
+    "name": "Gabriela Poštulková",
+    "given_names": [
+      "Gabriela"
+    ],
+    "family_names": [
+      "Poštulková"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19",
+    "present_share": 0.9938563327
+  },
+  {
+    "person_id": "ostrava:person:hana-tichankova",
+    "vote_events_total": 2116,
+    "present": 1764,
+    "absent": 352,
+    "name": "Hana Tichánková",
+    "given_names": [
+      "Hana"
+    ],
+    "family_names": [
+      "Tichánková"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19",
+    "present_share": 0.8336483932
+  },
+  {
+    "person_id": "ostrava:person:iveta-voznakova",
+    "vote_events_total": 2116,
+    "present": 1787,
+    "absent": 329,
+    "name": "Iveta Vozňáková",
+    "given_names": [
+      "Iveta"
+    ],
+    "family_names": [
+      "Vozňáková"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ostravak",
+        "classification": "group",
+        "name": "Ostravak",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19",
+    "present_share": 0.8445179584
+  },
+  {
+    "person_id": "ostrava:person:jan-dohnal",
+    "vote_events_total": 2116,
+    "present": 2087,
+    "absent": 29,
+    "name": "Jan Dohnal",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Dohnal"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ods-top09",
+        "classification": "group",
+        "name": "ODS + TOP09",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19",
+    "present_share": 0.986294896
+  },
+  {
+    "person_id": "ostrava:person:jan-sila",
+    "vote_events_total": 1216,
+    "present": 450,
+    "absent": 766,
+    "name": "Jan Síla",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Síla"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2022-10-19",
+        "until": "2024-12-04"
+      }
+    ],
+    "since": "2022-10-19",
+    "present_share": 0.3700657895
+  },
+  {
+    "person_id": "ostrava:person:jaroslav-trnovec",
+    "vote_events_total": 2116,
+    "present": 1938,
+    "absent": 178,
+    "name": "Jaroslav Trnovec",
+    "given_names": [
+      "Jaroslav"
+    ],
+    "family_names": [
+      "Trnovec"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19",
+    "present_share": 0.915879017
+  },
+  {
+    "person_id": "ostrava:person:jiri-jurecek",
+    "vote_events_total": 2116,
+    "present": 1579,
+    "absent": 537,
+    "name": "Jiří Jureček",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Jureček"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:starostove-pro-ostravu",
+        "classification": "group",
+        "name": "STAROSTOVÉ pro OSTRAVU",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19",
+    "present_share": 0.7462192817
+  },
+  {
+    "person_id": "ostrava:person:jiri-vavra",
+    "vote_events_total": 2116,
+    "present": 2072,
+    "absent": 44,
+    "name": "Jiří Vávra",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Vávra"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19",
+    "present_share": 0.9792060491
+  },
+  {
+    "person_id": "ostrava:person:josef-babka",
+    "vote_events_total": 2116,
+    "present": 1875,
+    "absent": 241,
+    "name": "Josef Babka",
+    "given_names": [
+      "Josef"
+    ],
+    "family_names": [
+      "Babka"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ostravska-levice",
+        "classification": "group",
+        "name": "Ostravská levice",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19",
+    "present_share": 0.8861058601
+  },
+  {
+    "person_id": "ostrava:person:karel-malik",
+    "vote_events_total": 2116,
+    "present": 1858,
+    "absent": 258,
+    "name": "Karel Malík",
+    "given_names": [
+      "Karel"
+    ],
+    "family_names": [
+      "Malík"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19",
+        "until": "2023-04-26"
+      },
+      {
+        "id": "ostrava:org:group:jdeto",
+        "classification": "group",
+        "name": "JDETO!!!",
+        "since": "2023-04-26"
+      }
+    ],
+    "since": "2022-10-19",
+    "present_share": 0.8780718336
+  },
+  {
+    "person_id": "ostrava:person:katerina-sebestova",
+    "vote_events_total": 2116,
+    "present": 1753,
+    "absent": 363,
+    "name": "Kateřina Šebestová",
+    "given_names": [
+      "Kateřina"
+    ],
+    "family_names": [
+      "Šebestová"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19",
+        "until": "2023-03-22"
+      },
+      {
+        "id": "ostrava:org:group:jdeto",
+        "classification": "group",
+        "name": "JDETO!!!",
+        "since": "2023-04-26"
+      },
+      {
+        "id": "ostrava:org:group:nezarazeni",
+        "classification": "group",
+        "name": "Nezařazení",
+        "since": "2023-03-22",
+        "until": "2023-04-26"
+      }
+    ],
+    "since": "2022-10-19",
+    "present_share": 0.8284499055
+  },
+  {
+    "person_id": "ostrava:person:libor-pavel",
+    "vote_events_total": 2116,
+    "present": 1765,
+    "absent": 351,
+    "name": "Libor Pavel",
+    "given_names": [
+      "Libor"
+    ],
+    "family_names": [
+      "Pavel"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19",
+    "present_share": 0.834120983
+  },
+  {
+    "person_id": "ostrava:person:lucie-barankova",
+    "vote_events_total": 2116,
+    "present": 1892,
+    "absent": 224,
+    "name": "Lucie Baránková",
+    "given_names": [
+      "Lucie"
+    ],
+    "family_names": [
+      "Baránková"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19",
+    "present_share": 0.8941398866
+  },
+  {
+    "person_id": "ostrava:person:lukas-semerak",
+    "vote_events_total": 2116,
+    "present": 1841,
+    "absent": 275,
+    "name": "Lukáš Semerák",
+    "given_names": [
+      "Lukáš"
+    ],
+    "family_names": [
+      "Semerák"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ostravak",
+        "classification": "group",
+        "name": "Ostravak",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19",
+    "present_share": 0.8700378072
+  },
+  {
+    "person_id": "ostrava:person:margareta-michopulu",
+    "vote_events_total": 2116,
+    "present": 1439,
+    "absent": 677,
+    "name": "Margareta Michopulu",
+    "given_names": [
+      "Margareta"
+    ],
+    "family_names": [
+      "Michopulu"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19",
+    "present_share": 0.6800567108
+  },
+  {
+    "person_id": "ostrava:person:marie-malcharova",
+    "vote_events_total": 2116,
+    "present": 1708,
+    "absent": 408,
+    "name": "Marie Malcharová",
+    "given_names": [
+      "Marie"
+    ],
+    "family_names": [
+      "Malcharová"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19",
+    "present_share": 0.8071833648
+  },
+  {
+    "person_id": "ostrava:person:marketa-langrova",
+    "vote_events_total": 2116,
+    "present": 1893,
+    "absent": 223,
+    "name": "Markéta Langrová",
+    "given_names": [
+      "Markéta"
+    ],
+    "family_names": [
+      "Langrová"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19",
+    "present_share": 0.8946124764
+  },
+  {
+    "person_id": "ostrava:person:martin-bednar",
+    "vote_events_total": 2116,
+    "present": 1878,
+    "absent": 238,
+    "name": "Martin Bednář",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Bednář"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19",
+    "present_share": 0.8875236295
+  },
+  {
+    "person_id": "ostrava:person:martin-drastich",
+    "vote_events_total": 314,
+    "present": 280,
+    "absent": 34,
+    "name": "Martin Drastich, Ph.D., MBA",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Drastich"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ostravak",
+        "classification": "group",
+        "name": "Ostravak",
+        "since": "2022-10-19",
+        "until": "2023-05-24"
+      }
+    ],
+    "since": "2022-10-19",
+    "present_share": 0.8917197452
+  },
+  {
+    "person_id": "ostrava:person:martin-juroska",
+    "vote_events_total": 2116,
+    "present": 1233,
+    "absent": 883,
+    "name": "Martin Juroška",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Juroška"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ostravska-levice",
+        "classification": "group",
+        "name": "Ostravská levice",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19",
+    "present_share": 0.5827032136
+  },
+  {
+    "person_id": "ostrava:person:martin-kret",
+    "vote_events_total": 2116,
+    "present": 2087,
+    "absent": 29,
+    "name": "Martin Kret",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Kret"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19",
+    "present_share": 0.986294896
+  },
+  {
+    "person_id": "ostrava:person:maxim-pachomov",
+    "vote_events_total": 2116,
+    "present": 2011,
+    "absent": 105,
+    "name": "Maxim Pachomov",
+    "given_names": [
+      "Maxim"
+    ],
+    "family_names": [
+      "Pachomov"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19",
+        "until": "2023-04-26"
+      },
+      {
+        "id": "ostrava:org:group:jdeto",
+        "classification": "group",
+        "name": "JDETO!!!",
+        "since": "2023-04-26"
+      }
+    ],
+    "since": "2022-10-19",
+    "present_share": 0.9503780718
+  },
+  {
+    "person_id": "ostrava:person:michal-horinek",
+    "vote_events_total": 2116,
+    "present": 2057,
+    "absent": 59,
+    "name": "Michal Hořínek",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Hořínek"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:kdu-csl",
+        "classification": "group",
+        "name": "KDU-ČSL",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19",
+    "present_share": 0.9721172023
+  },
+  {
+    "person_id": "ostrava:person:michal-marianek",
+    "vote_events_total": 2116,
+    "present": 1933,
+    "absent": 183,
+    "name": "Michal Mariánek",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Mariánek"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ostravak",
+        "classification": "group",
+        "name": "Ostravak",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19",
+    "present_share": 0.9135160681
+  },
+  {
+    "person_id": "ostrava:person:miroslav-otisk",
+    "vote_events_total": 2116,
+    "present": 1940,
+    "absent": 176,
+    "name": "Miroslav Otisk",
+    "given_names": [
+      "Miroslav"
+    ],
+    "family_names": [
+      "Otisk"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19",
+        "until": "2023-04-26"
+      },
+      {
+        "id": "ostrava:org:group:jdeto",
+        "classification": "group",
+        "name": "JDETO!!!",
+        "since": "2023-04-26"
+      }
+    ],
+    "since": "2022-10-19",
+    "present_share": 0.9168241966
+  },
+  {
+    "person_id": "ostrava:person:miroslav-svozil",
+    "vote_events_total": 2116,
+    "present": 2076,
+    "absent": 40,
+    "name": "Miroslav Svozil",
+    "given_names": [
+      "Miroslav"
+    ],
+    "family_names": [
+      "Svozil"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ods-top09",
+        "classification": "group",
+        "name": "ODS + TOP09",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19",
+    "present_share": 0.9810964083
+  },
+  {
+    "person_id": "ostrava:person:ondrej-nemecek",
+    "vote_events_total": 2116,
+    "present": 1882,
+    "absent": 234,
+    "name": "Ondřej Němeček",
+    "given_names": [
+      "Ondřej"
+    ],
+    "family_names": [
+      "Němeček"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19",
+        "until": "2023-04-26"
+      },
+      {
+        "id": "ostrava:org:group:jdeto",
+        "classification": "group",
+        "name": "JDETO!!!",
+        "since": "2023-04-26"
+      }
+    ],
+    "since": "2022-10-19",
+    "present_share": 0.8894139887
+  },
+  {
+    "person_id": "ostrava:person:ondrej-sliva",
+    "vote_events_total": 2116,
+    "present": 1924,
+    "absent": 192,
+    "name": "Ondřej Slíva",
+    "given_names": [
+      "Ondřej"
+    ],
+    "family_names": [
+      "Slíva"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19",
+    "present_share": 0.9092627599
+  },
+  {
+    "person_id": "ostrava:person:patrik-hujdus",
+    "vote_events_total": 2116,
+    "present": 1816,
+    "absent": 300,
+    "name": "Patrik Hujdus",
+    "given_names": [
+      "Patrik"
+    ],
+    "family_names": [
+      "Hujdus"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:starostove-pro-ostravu",
+        "classification": "group",
+        "name": "STAROSTOVÉ pro OSTRAVU",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19",
+    "present_share": 0.8582230624
+  },
+  {
+    "person_id": "ostrava:person:peter-harvanek",
+    "vote_events_total": 2116,
+    "present": 1652,
+    "absent": 464,
+    "name": "Peter Harvánek",
+    "given_names": [
+      "Peter"
+    ],
+    "family_names": [
+      "Harvánek"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19",
+    "present_share": 0.7807183365
+  },
+  {
+    "person_id": "ostrava:person:petr-mika",
+    "vote_events_total": 2116,
+    "present": 1736,
+    "absent": 380,
+    "name": "Petr Mika",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Mika"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ostravak",
+        "classification": "group",
+        "name": "Ostravak",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19",
+    "present_share": 0.820415879
+  },
+  {
+    "person_id": "ostrava:person:petr-psotka",
+    "vote_events_total": 2116,
+    "present": 1895,
+    "absent": 221,
+    "name": "Petr Psotka",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Psotka"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ods-top09",
+        "classification": "group",
+        "name": "ODS + TOP09",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19",
+    "present_share": 0.895557656
+  },
+  {
+    "person_id": "ostrava:person:petr-veselka",
+    "vote_events_total": 2116,
+    "present": 2044,
+    "absent": 72,
+    "name": "Petr Veselka",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Veselka"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19",
+    "present_share": 0.965973535
+  },
+  {
+    "person_id": "ostrava:person:radana-zapletalova",
+    "vote_events_total": 2116,
+    "present": 2012,
+    "absent": 104,
+    "name": "Radana Zapletalová",
+    "given_names": [
+      "Radana"
+    ],
+    "family_names": [
+      "Zapletalová"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ods-top09",
+        "classification": "group",
+        "name": "ODS + TOP09",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19",
+    "present_share": 0.9508506616
+  },
+  {
+    "person_id": "ostrava:person:radim-michna",
+    "vote_events_total": 900,
+    "present": 791,
+    "absent": 109,
+    "name": "Radim Michna",
+    "given_names": [
+      "Radim"
+    ],
+    "family_names": [
+      "Michna"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2024-12-04"
+      }
+    ],
+    "since": "2022-10-19",
+    "present_share": 0.8788888889
+  },
+  {
+    "person_id": "ostrava:person:regina-gogelova",
+    "vote_events_total": 2116,
+    "present": 2101,
+    "absent": 15,
+    "name": "Regina Gogelová",
+    "given_names": [
+      "Regina"
+    ],
+    "family_names": [
+      "Gogelová"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:kdu-csl",
+        "classification": "group",
+        "name": "KDU-ČSL",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19",
+    "present_share": 0.9929111531
+  },
+  {
+    "person_id": "ostrava:person:richard-veres",
+    "vote_events_total": 130,
+    "present": 130,
+    "absent": 0,
+    "name": "Richard Vereš",
+    "given_names": [
+      "Richard"
+    ],
+    "family_names": [
+      "Vereš"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19",
+        "until": "2023-01-25"
+      }
+    ],
+    "since": "2022-10-19",
+    "present_share": 1.0
+  },
+  {
+    "person_id": "ostrava:person:robert-cep",
+    "vote_events_total": 1986,
+    "present": 1371,
+    "absent": 615,
+    "name": "Robert Čep",
+    "given_names": [
+      "Robert"
+    ],
+    "family_names": [
+      "Čep"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2023-01-25",
+        "until": "2023-03-22"
+      },
+      {
+        "id": "ostrava:org:group:jdeto",
+        "classification": "group",
+        "name": "JDETO!!!",
+        "since": "2023-04-26"
+      },
+      {
+        "id": "ostrava:org:group:nezarazeni",
+        "classification": "group",
+        "name": "Nezařazení",
+        "since": "2023-03-22",
+        "until": "2023-04-26"
+      }
+    ],
+    "since": "2022-10-19",
+    "present_share": 0.6903323263
+  },
+  {
+    "person_id": "ostrava:person:robert-stary",
+    "vote_events_total": 2116,
+    "present": 1648,
+    "absent": 468,
+    "name": "Robert Starý",
+    "given_names": [
+      "Robert"
+    ],
+    "family_names": [
+      "Starý"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19",
+    "present_share": 0.7788279773
+  },
+  {
+    "person_id": "ostrava:person:rostislav-reha",
+    "vote_events_total": 2116,
+    "present": 1816,
+    "absent": 300,
+    "name": "Rostislav Řeha",
+    "given_names": [
+      "Rostislav"
+    ],
+    "family_names": [
+      "Řeha"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:pirati",
+        "classification": "group",
+        "name": "Piráti",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19",
+    "present_share": 0.8582230624
+  },
+  {
+    "person_id": "ostrava:person:tomas-gemela",
+    "vote_events_total": 2116,
+    "present": 2111,
+    "absent": 5,
+    "name": "Tomáš Gemela",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Gemela"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19",
+    "present_share": 0.997637051
+  },
+  {
+    "person_id": "ostrava:person:tomas-macura",
+    "vote_events_total": 2116,
+    "present": 1789,
+    "absent": 327,
+    "name": "Tomáš Macura",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Macura"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19",
+        "until": "2023-03-22"
+      },
+      {
+        "id": "ostrava:org:group:jdeto",
+        "classification": "group",
+        "name": "JDETO!!!",
+        "since": "2023-04-26"
+      },
+      {
+        "id": "ostrava:org:group:nezarazeni",
+        "classification": "group",
+        "name": "Nezařazení",
+        "since": "2023-03-22",
+        "until": "2023-04-26"
+      }
+    ],
+    "since": "2022-10-19",
+    "present_share": 0.845463138
+  },
+  {
+    "person_id": "ostrava:person:tomas-malek",
+    "vote_events_total": 2116,
+    "present": 1706,
+    "absent": 410,
+    "name": "Tomáš Málek",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Málek"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ostravak",
+        "classification": "group",
+        "name": "Ostravak",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19",
+    "present_share": 0.8062381853
+  },
+  {
+    "person_id": "ostrava:person:tomas-pavliska",
+    "vote_events_total": 2116,
+    "present": 1783,
+    "absent": 333,
+    "name": "Tomáš Pavliska",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Pavliska"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ostravak",
+        "classification": "group",
+        "name": "Ostravak",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19",
+    "present_share": 0.8426275992
+  },
+  {
+    "person_id": "ostrava:person:tomas-vytisk",
+    "vote_events_total": 2116,
+    "present": 2080,
+    "absent": 36,
+    "name": "Tomáš Výtisk",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Výtisk"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:starostove-pro-ostravu",
+        "classification": "group",
+        "name": "STAROSTOVÉ pro OSTRAVU",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19",
+    "present_share": 0.9829867675
+  },
+  {
+    "person_id": "ostrava:person:vit-machacek",
+    "vote_events_total": 2116,
+    "present": 1467,
+    "absent": 649,
+    "name": "Vít Macháček",
+    "given_names": [
+      "Vít"
+    ],
+    "family_names": [
+      "Macháček"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ostravska-levice",
+        "classification": "group",
+        "name": "Ostravská levice",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19",
+    "present_share": 0.693289225
+  },
+  {
+    "person_id": "ostrava:person:vladimir-ciganek",
+    "vote_events_total": 1362,
+    "present": 1290,
+    "absent": 72,
+    "name": "Vladimír Cigánek",
+    "given_names": [
+      "Vladimír"
+    ],
+    "family_names": [
+      "Cigánek"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ods-top09",
+        "classification": "group",
+        "name": "ODS + TOP09",
+        "since": "2022-10-19",
+        "until": "2025-03-26"
+      }
+    ],
+    "since": "2022-10-19",
+    "present_share": 0.9471365639
+  },
+  {
+    "person_id": "ostrava:person:vladimir-polak",
+    "vote_events_total": 2116,
+    "present": 1776,
+    "absent": 340,
+    "name": "Vladimír Polák",
+    "given_names": [
+      "Vladimír"
+    ],
+    "family_names": [
+      "Polák"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ostravak",
+        "classification": "group",
+        "name": "Ostravak",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19",
+    "present_share": 0.8393194707
+  },
+  {
+    "person_id": "ostrava:person:zbynek-prazak",
+    "vote_events_total": 2116,
+    "present": 2093,
+    "absent": 23,
+    "name": "Zbyněk Pražák",
+    "given_names": [
+      "Zbyněk"
+    ],
+    "family_names": [
+      "Pražák"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:kdu-csl",
+        "classification": "group",
+        "name": "KDU-ČSL",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19",
+    "present_share": 0.9891304348
+  },
+  {
+    "person_id": "ostrava:person:zdenek-rodek",
+    "vote_events_total": 2116,
+    "present": 2033,
+    "absent": 83,
+    "name": "Zdeněk Rodek",
+    "given_names": [
+      "Zdeněk"
+    ],
+    "family_names": [
+      "Rodek"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19",
+    "present_share": 0.9607750473
+  },
+  {
+    "person_id": "ostrava:person:zuzana-bajgarova",
+    "vote_events_total": 2116,
+    "present": 2048,
+    "absent": 68,
+    "name": "Zuzana Bajgarová",
+    "given_names": [
+      "Zuzana"
+    ],
+    "family_names": [
+      "Bajgarová"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19",
+        "until": "2023-03-22"
+      },
+      {
+        "id": "ostrava:org:group:jdeto",
+        "classification": "group",
+        "name": "JDETO!!!",
+        "since": "2023-04-26"
+      },
+      {
+        "id": "ostrava:org:group:nezarazeni",
+        "classification": "group",
+        "name": "Nezařazení",
+        "since": "2023-03-22",
+        "until": "2023-04-26"
+      }
+    ],
+    "since": "2022-10-19",
+    "present_share": 0.9678638941
+  }
+]

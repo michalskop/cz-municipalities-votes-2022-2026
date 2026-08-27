@@ -1,0 +1,14 @@
+{
+  "since": "2022-10-19",
+  "until": null,
+  "present_options": ["yes", "no", "abstain"],
+  "absent_options": ["absent", "not voting"],
+  "yes_options": ["yes"],
+  "no_options": ["no"],
+  "extras": {
+    "approval_status": "DRAFT — measures alignment with each person's own REAL klub (brno:org:group:* rows from ostrava/scripts/party_affiliation.py, sourced from dated per-vote klub groupings — D7's preferred live-group case). Does not depend on which groups form the government, so it does not require the same D7 sign-off as govity/wpca's government_groups — ready to use as-is.",
+    "vocabulary_source": "Same vocabulary mapping as attendance_definition.json (see that file's extras.vocabulary_source).",
+    "note": "Rebelity requires each person's group membership at each vote-event date, sourced from data/memberships.csv's ostrava:org:group:* rows via ostrava/scripts/build_all_members.py's 'groups' field.",
+    "known_gap": "Klub data is only available for the first vote of 24/31 meetings (2022-10-19 through 2025-06-18) — see ostrava/scripts/party_affiliation.py's module docstring and ostrava/scripts/check_klub_staleness.py. No klub grouping has been published by the source since 2025-06-18 (already 400+ days stale as of this writing). Memberships are left open-ended past the last confirmed date (standard 'last verified, presumed ongoing' semantics), so rebelity scores for votes after that date use each person's last-confirmed klub — genuinely current klub composition beyond 2025-06-18 is NOT independently verified and could be stale for any individual member. This is a real, acknowledged limitation, not silently smoothed over."
+  }
+}

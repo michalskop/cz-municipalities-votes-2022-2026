@@ -21,10 +21,10 @@ only adds city-specific *sources* and *definition files*, never forked analysis 
   — real party/klub data, coalition (`government_groups`) owner-approved, nightly-automated,
   wired into the dashboard at `mesta.datatimes.cz/brno` (C2/C3/C4/D7/C5/C6 done)
 - **Ostrava** — [`ostrava/`](./ostrava/) · source: HTML scrape (no API) · status: pipeline +
-  golden sample done, G1/G2/G3 pass, 2,116 votes across the full term (C9 done); party/klub data
-  + coalition sign-off + nightly automation + dashboard not yet done (C4/D7/C5/C6 pending — see
-  [`ostrava/README.md`](./ostrava/README.md) for the mid-term coalition-change complexity that
-  makes C4 non-trivial here)
+  golden sample + real dated klub data + analysis definitions done, G1/G2/G3 pass, 2,116 votes
+  across the full term (C9/C4-mechanical done); coalition (`government_groups`) drafted with one
+  open question, pending owner sign-off (D7); nightly automation + dashboard not yet done (C5/C6
+  pending — see [`ostrava/README.md`](./ostrava/README.md) for the coalition question)
 
 Coverage may extend to more cities later (top-20 by population); a city is only added if it has
 recorded roll-call votes.

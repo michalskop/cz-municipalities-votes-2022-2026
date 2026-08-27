@@ -1,2 +1,12 @@
 id,name,classification,identifiers,sources
 ostrava:org:zastupitelstvo-mesta-ostravy,Zastupitelstvo města Ostravy,assembly,[],"[{""url"": ""https://ostrava.cz/cs/urad/mesto-a-jeho-organy/zastupitelstvo-mesta"", ""note"": ""official council page""}]"
+ostrava:org:group:ano-2011,ANO 2011,group,[],"[{""url"": ""https://www.ostrava.cz/uloziste/zastupitelstvo/vysledky_hlasovani/vo2226/"", ""note"": ""ostrava.cz vysledky_hlasovani per-vote klub grouping, klub 'ANO 2011'""}]"
+ostrava:org:group:jdeto,JDETO!!!,group,[],"[{""url"": ""https://www.ostrava.cz/uloziste/zastupitelstvo/vysledky_hlasovani/vo2226/"", ""note"": ""ostrava.cz vysledky_hlasovani per-vote klub grouping, klub 'JDETO!!!'""}]"
+ostrava:org:group:kdu-csl,KDU-ČSL,group,[],"[{""url"": ""https://www.ostrava.cz/uloziste/zastupitelstvo/vysledky_hlasovani/vo2226/"", ""note"": ""ostrava.cz vysledky_hlasovani per-vote klub grouping, klub 'KDU-ČSL'""}]"
+ostrava:org:group:nezarazeni,Nezařazení,group,[],"[{""url"": ""https://www.ostrava.cz/uloziste/zastupitelstvo/vysledky_hlasovani/vo2226/"", ""note"": ""ostrava.cz vysledky_hlasovani per-vote klub grouping, klub 'Nezařazení'""}]"
+ostrava:org:group:ods-top09,ODS + TOP09,group,[],"[{""url"": ""https://www.ostrava.cz/uloziste/zastupitelstvo/vysledky_hlasovani/vo2226/"", ""note"": ""ostrava.cz vysledky_hlasovani per-vote klub grouping, klub 'ODS + TOP09'""}]"
+ostrava:org:group:ostravak,Ostravak,group,[],"[{""url"": ""https://www.ostrava.cz/uloziste/zastupitelstvo/vysledky_hlasovani/vo2226/"", ""note"": ""ostrava.cz vysledky_hlasovani per-vote klub grouping, klub 'Ostravak'""}]"
+ostrava:org:group:ostravska-levice,Ostravská levice,group,[],"[{""url"": ""https://www.ostrava.cz/uloziste/zastupitelstvo/vysledky_hlasovani/vo2226/"", ""note"": ""ostrava.cz vysledky_hlasovani per-vote klub grouping, klub 'Ostravská levice'""}]"
+ostrava:org:group:pirati,Piráti,group,[],"[{""url"": ""https://www.ostrava.cz/uloziste/zastupitelstvo/vysledky_hlasovani/vo2226/"", ""note"": ""ostrava.cz vysledky_hlasovani per-vote klub grouping, klub 'Piráti'""}]"
+ostrava:org:group:spd,SPD,group,[],"[{""url"": ""https://www.ostrava.cz/uloziste/zastupitelstvo/vysledky_hlasovani/vo2226/"", ""note"": ""ostrava.cz vysledky_hlasovani per-vote klub grouping, klub 'SPD'""}]"
+ostrava:org:group:starostove-pro-ostravu,STAROSTOVÉ pro OSTRAVU,group,[],"[{""url"": ""https://www.ostrava.cz/uloziste/zastupitelstvo/vysledky_hlasovani/vo2226/"", ""note"": ""ostrava.cz vysledky_hlasovani per-vote klub grouping, klub 'STAROSTOVÉ pro OSTRAVU'""}]"

@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-08-27T19:26:18.010221+00:00",
+  "method": "point_biserial_correlation",
+  "n_dims": 3,
+  "n_included_people": 59,
+  "government_groups": [
+    "ostrava:org:group:ano-2011",
+    "ostrava:org:group:ods-top09",
+    "ostrava:org:group:kdu-csl",
+    "ostrava:org:group:pirati",
+    "ostrava:org:group:ostravak",
+    "ostrava:org:group:starostove-pro-ostravu"
+  ],
+  "government_person_count": 48,
+  "opposition_person_count": 11,
+  "correlations": [
+    {
+      "dim_index": 0,
+      "correlation": 0.7221241026119112
+    },
+    {
+      "dim_index": 1,
+      "correlation": 0.36173313720471767
+    },
+    {
+      "dim_index": 2,
+      "correlation": -0.47391270532444973
+    }
+  ],
+  "detected_dim_index": 0,
+  "override_dim_index": null,
+  "overridden": false,
+  "effective_dim_index": 0,
+  "government_mean": 0.2090833251799731,
+  "opposition_mean": -1.0152775857026892,
+  "government_sign": 1,
+  "sources": {
+    "wpca_output": "ostrava/analyses/wpca/outputs/wpca.json",
+    "wpca_definition": "ostrava/analyses/wpca/wpca_definition.json",
+    "govity_definition": "ostrava/analyses/govity/govity_definition.json",
+    "memberships": "ostrava/data/memberships.csv"
+  }
+}

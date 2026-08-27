@@ -1,0 +1,11 @@
+{
+  "since": "2022-10-19",
+  "until": null,
+  "present_options": ["yes", "no", "abstain"],
+  "absent_options": ["absent", "not voting"],
+  "extras": {
+    "approval_status": "DRAFT — no political judgment involved (pure vote-option vocabulary + term dates), does not require D7 sign-off the way govity/wpca's government_groups does. Ready to use as-is.",
+    "vocabulary_source": "ostrava/config/sources.yml + ostrava/scripts/standardize.py: single-word cast values, 'Pro' -> yes, 'Proti' -> no, 'Zdržel se' -> abstain, 'Nepřítomen' -> absent, 'Nehlasoval' -> not voting. Confirmed 2026-08-27 against the full 2,116-vote corpus (all five values observed, none unmapped).",
+    "since_rationale": "2022-10-19 = start_date of the assembly term per ostrava/data/memberships.csv (first session, meeting 202201). until=null: the term has not ended as of this file's creation (2026-08-27); the scraped corpus's last observed session is 2026-06-24 (meeting 202604)."
+  }
+}

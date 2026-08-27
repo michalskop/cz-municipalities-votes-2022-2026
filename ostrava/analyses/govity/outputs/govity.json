@@ -1,0 +1,1388 @@
+[
+  {
+    "person_id": "ostrava:person:ales-bohac",
+    "govity_total": 1923,
+    "govity_possible": 1928,
+    "govity": 0.997407,
+    "name": "Aleš Boháč",
+    "given_names": [
+      "Aleš"
+    ],
+    "family_names": [
+      "Boháč"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:starostove-pro-ostravu",
+        "classification": "group",
+        "name": "STAROSTOVÉ pro OSTRAVU",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:ales-linhart",
+    "govity_total": 663,
+    "govity_possible": 663,
+    "govity": 1.0,
+    "name": "Aleš Linhart",
+    "given_names": [
+      "Aleš"
+    ],
+    "family_names": [
+      "Linhart"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ods-top09",
+        "classification": "group",
+        "name": "ODS + TOP09",
+        "since": "2025-03-26"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:andrea-hoffmannova",
+    "govity_total": 1880,
+    "govity_possible": 1896,
+    "govity": 0.991561,
+    "name": "Andrea Hoffmannová",
+    "given_names": [
+      "Andrea"
+    ],
+    "family_names": [
+      "Hoffmannová"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:pirati",
+        "classification": "group",
+        "name": "Piráti",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:bretislav-riger",
+    "govity_total": 1692,
+    "govity_possible": 1703,
+    "govity": 0.993541,
+    "name": "Břetislav Riger",
+    "given_names": [
+      "Břetislav"
+    ],
+    "family_names": [
+      "Riger"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ostravak",
+        "classification": "group",
+        "name": "Ostravak",
+        "since": "2023-05-24"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:dagmar-machackova",
+    "govity_total": 2022,
+    "govity_possible": 2025,
+    "govity": 0.998519,
+    "name": "Dagmar Macháčková",
+    "given_names": [
+      "Dagmar"
+    ],
+    "family_names": [
+      "Macháčková"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:david-witosz",
+    "govity_total": 2003,
+    "govity_possible": 2023,
+    "govity": 0.990114,
+    "name": "David Witosz",
+    "given_names": [
+      "David"
+    ],
+    "family_names": [
+      "Witosz"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:pirati",
+        "classification": "group",
+        "name": "Piráti",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:filip-cmiel",
+    "govity_total": 1902,
+    "govity_possible": 1950,
+    "govity": 0.975385,
+    "name": "Filip Čmiel",
+    "given_names": [
+      "Filip"
+    ],
+    "family_names": [
+      "Čmiel"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:frantisek-kolarik",
+    "govity_total": 1739,
+    "govity_possible": 1739,
+    "govity": 1.0,
+    "name": "František Kolařík",
+    "given_names": [
+      "František"
+    ],
+    "family_names": [
+      "Kolařík"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ods-top09",
+        "classification": "group",
+        "name": "ODS + TOP09",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:gabriela-postulkova",
+    "govity_total": 2056,
+    "govity_possible": 2103,
+    "govity": 0.977651,
+    "name": "Gabriela Poštulková",
+    "given_names": [
+      "Gabriela"
+    ],
+    "family_names": [
+      "Poštulková"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:hana-tichankova",
+    "govity_total": 1760,
+    "govity_possible": 1764,
+    "govity": 0.997732,
+    "name": "Hana Tichánková",
+    "given_names": [
+      "Hana"
+    ],
+    "family_names": [
+      "Tichánková"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:iveta-voznakova",
+    "govity_total": 1782,
+    "govity_possible": 1787,
+    "govity": 0.997202,
+    "name": "Iveta Vozňáková",
+    "given_names": [
+      "Iveta"
+    ],
+    "family_names": [
+      "Vozňáková"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ostravak",
+        "classification": "group",
+        "name": "Ostravak",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:jan-dohnal",
+    "govity_total": 2074,
+    "govity_possible": 2087,
+    "govity": 0.993771,
+    "name": "Jan Dohnal",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Dohnal"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ods-top09",
+        "classification": "group",
+        "name": "ODS + TOP09",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:jan-sila",
+    "govity_total": 436,
+    "govity_possible": 450,
+    "govity": 0.968889,
+    "name": "Jan Síla",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Síla"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2022-10-19",
+        "until": "2024-12-04"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:jaroslav-trnovec",
+    "govity_total": 1936,
+    "govity_possible": 1938,
+    "govity": 0.998968,
+    "name": "Jaroslav Trnovec",
+    "given_names": [
+      "Jaroslav"
+    ],
+    "family_names": [
+      "Trnovec"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:jiri-jurecek",
+    "govity_total": 1575,
+    "govity_possible": 1579,
+    "govity": 0.997467,
+    "name": "Jiří Jureček",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Jureček"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:starostove-pro-ostravu",
+        "classification": "group",
+        "name": "STAROSTOVÉ pro OSTRAVU",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:jiri-vavra",
+    "govity_total": 2069,
+    "govity_possible": 2072,
+    "govity": 0.998552,
+    "name": "Jiří Vávra",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Vávra"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:josef-babka",
+    "govity_total": 1850,
+    "govity_possible": 1875,
+    "govity": 0.986667,
+    "name": "Josef Babka",
+    "given_names": [
+      "Josef"
+    ],
+    "family_names": [
+      "Babka"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ostravska-levice",
+        "classification": "group",
+        "name": "Ostravská levice",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:karel-malik",
+    "govity_total": 1792,
+    "govity_possible": 1858,
+    "govity": 0.964478,
+    "name": "Karel Malík",
+    "given_names": [
+      "Karel"
+    ],
+    "family_names": [
+      "Malík"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19",
+        "until": "2023-04-26"
+      },
+      {
+        "id": "ostrava:org:group:jdeto",
+        "classification": "group",
+        "name": "JDETO!!!",
+        "since": "2023-04-26"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:katerina-sebestova",
+    "govity_total": 1688,
+    "govity_possible": 1753,
+    "govity": 0.962921,
+    "name": "Kateřina Šebestová",
+    "given_names": [
+      "Kateřina"
+    ],
+    "family_names": [
+      "Šebestová"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19",
+        "until": "2023-03-22"
+      },
+      {
+        "id": "ostrava:org:group:jdeto",
+        "classification": "group",
+        "name": "JDETO!!!",
+        "since": "2023-04-26"
+      },
+      {
+        "id": "ostrava:org:group:nezarazeni",
+        "classification": "group",
+        "name": "Nezařazení",
+        "since": "2023-03-22",
+        "until": "2023-04-26"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:libor-pavel",
+    "govity_total": 1728,
+    "govity_possible": 1765,
+    "govity": 0.979037,
+    "name": "Libor Pavel",
+    "given_names": [
+      "Libor"
+    ],
+    "family_names": [
+      "Pavel"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:lucie-barankova",
+    "govity_total": 1890,
+    "govity_possible": 1892,
+    "govity": 0.998943,
+    "name": "Lucie Baránková",
+    "given_names": [
+      "Lucie"
+    ],
+    "family_names": [
+      "Baránková"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:lukas-semerak",
+    "govity_total": 1837,
+    "govity_possible": 1841,
+    "govity": 0.997827,
+    "name": "Lukáš Semerák",
+    "given_names": [
+      "Lukáš"
+    ],
+    "family_names": [
+      "Semerák"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ostravak",
+        "classification": "group",
+        "name": "Ostravak",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:margareta-michopulu",
+    "govity_total": 1438,
+    "govity_possible": 1439,
+    "govity": 0.999305,
+    "name": "Margareta Michopulu",
+    "given_names": [
+      "Margareta"
+    ],
+    "family_names": [
+      "Michopulu"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:marie-malcharova",
+    "govity_total": 1671,
+    "govity_possible": 1708,
+    "govity": 0.978337,
+    "name": "Marie Malcharová",
+    "given_names": [
+      "Marie"
+    ],
+    "family_names": [
+      "Malcharová"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:marketa-langrova",
+    "govity_total": 1893,
+    "govity_possible": 1893,
+    "govity": 1.0,
+    "name": "Markéta Langrová",
+    "given_names": [
+      "Markéta"
+    ],
+    "family_names": [
+      "Langrová"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:martin-bednar",
+    "govity_total": 1876,
+    "govity_possible": 1878,
+    "govity": 0.998935,
+    "name": "Martin Bednář",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Bednář"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:martin-drastich",
+    "govity_total": 280,
+    "govity_possible": 280,
+    "govity": 1.0,
+    "name": "Martin Drastich, Ph.D., MBA",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Drastich"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ostravak",
+        "classification": "group",
+        "name": "Ostravak",
+        "since": "2022-10-19",
+        "until": "2023-05-24"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:martin-juroska",
+    "govity_total": 1213,
+    "govity_possible": 1233,
+    "govity": 0.983779,
+    "name": "Martin Juroška",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Juroška"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ostravska-levice",
+        "classification": "group",
+        "name": "Ostravská levice",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:martin-kret",
+    "govity_total": 2085,
+    "govity_possible": 2087,
+    "govity": 0.999042,
+    "name": "Martin Kret",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Kret"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:maxim-pachomov",
+    "govity_total": 1949,
+    "govity_possible": 2011,
+    "govity": 0.96917,
+    "name": "Maxim Pachomov",
+    "given_names": [
+      "Maxim"
+    ],
+    "family_names": [
+      "Pachomov"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19",
+        "until": "2023-04-26"
+      },
+      {
+        "id": "ostrava:org:group:jdeto",
+        "classification": "group",
+        "name": "JDETO!!!",
+        "since": "2023-04-26"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:michal-horinek",
+    "govity_total": 2052,
+    "govity_possible": 2057,
+    "govity": 0.997569,
+    "name": "Michal Hořínek",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Hořínek"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:kdu-csl",
+        "classification": "group",
+        "name": "KDU-ČSL",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:michal-marianek",
+    "govity_total": 1926,
+    "govity_possible": 1933,
+    "govity": 0.996379,
+    "name": "Michal Mariánek",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Mariánek"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ostravak",
+        "classification": "group",
+        "name": "Ostravak",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:miroslav-otisk",
+    "govity_total": 1877,
+    "govity_possible": 1940,
+    "govity": 0.967526,
+    "name": "Miroslav Otisk",
+    "given_names": [
+      "Miroslav"
+    ],
+    "family_names": [
+      "Otisk"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19",
+        "until": "2023-04-26"
+      },
+      {
+        "id": "ostrava:org:group:jdeto",
+        "classification": "group",
+        "name": "JDETO!!!",
+        "since": "2023-04-26"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:miroslav-svozil",
+    "govity_total": 2070,
+    "govity_possible": 2076,
+    "govity": 0.99711,
+    "name": "Miroslav Svozil",
+    "given_names": [
+      "Miroslav"
+    ],
+    "family_names": [
+      "Svozil"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ods-top09",
+        "classification": "group",
+        "name": "ODS + TOP09",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:ondrej-nemecek",
+    "govity_total": 1825,
+    "govity_possible": 1882,
+    "govity": 0.969713,
+    "name": "Ondřej Němeček",
+    "given_names": [
+      "Ondřej"
+    ],
+    "family_names": [
+      "Němeček"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19",
+        "until": "2023-04-26"
+      },
+      {
+        "id": "ostrava:org:group:jdeto",
+        "classification": "group",
+        "name": "JDETO!!!",
+        "since": "2023-04-26"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:ondrej-sliva",
+    "govity_total": 1922,
+    "govity_possible": 1924,
+    "govity": 0.99896,
+    "name": "Ondřej Slíva",
+    "given_names": [
+      "Ondřej"
+    ],
+    "family_names": [
+      "Slíva"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:patrik-hujdus",
+    "govity_total": 1812,
+    "govity_possible": 1816,
+    "govity": 0.997797,
+    "name": "Patrik Hujdus",
+    "given_names": [
+      "Patrik"
+    ],
+    "family_names": [
+      "Hujdus"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:starostove-pro-ostravu",
+        "classification": "group",
+        "name": "STAROSTOVÉ pro OSTRAVU",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:peter-harvanek",
+    "govity_total": 1610,
+    "govity_possible": 1652,
+    "govity": 0.974576,
+    "name": "Peter Harvánek",
+    "given_names": [
+      "Peter"
+    ],
+    "family_names": [
+      "Harvánek"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:petr-mika",
+    "govity_total": 1731,
+    "govity_possible": 1736,
+    "govity": 0.99712,
+    "name": "Petr Mika",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Mika"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ostravak",
+        "classification": "group",
+        "name": "Ostravak",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:petr-psotka",
+    "govity_total": 1892,
+    "govity_possible": 1895,
+    "govity": 0.998417,
+    "name": "Petr Psotka",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Psotka"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ods-top09",
+        "classification": "group",
+        "name": "ODS + TOP09",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:petr-veselka",
+    "govity_total": 2042,
+    "govity_possible": 2044,
+    "govity": 0.999022,
+    "name": "Petr Veselka",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Veselka"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:radana-zapletalova",
+    "govity_total": 2009,
+    "govity_possible": 2012,
+    "govity": 0.998509,
+    "name": "Radana Zapletalová",
+    "given_names": [
+      "Radana"
+    ],
+    "family_names": [
+      "Zapletalová"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ods-top09",
+        "classification": "group",
+        "name": "ODS + TOP09",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:radim-michna",
+    "govity_total": 782,
+    "govity_possible": 791,
+    "govity": 0.988622,
+    "name": "Radim Michna",
+    "given_names": [
+      "Radim"
+    ],
+    "family_names": [
+      "Michna"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2024-12-04"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:regina-gogelova",
+    "govity_total": 2099,
+    "govity_possible": 2101,
+    "govity": 0.999048,
+    "name": "Regina Gogelová",
+    "given_names": [
+      "Regina"
+    ],
+    "family_names": [
+      "Gogelová"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:kdu-csl",
+        "classification": "group",
+        "name": "KDU-ČSL",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:richard-veres",
+    "govity_total": 129,
+    "govity_possible": 130,
+    "govity": 0.992308,
+    "name": "Richard Vereš",
+    "given_names": [
+      "Richard"
+    ],
+    "family_names": [
+      "Vereš"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19",
+        "until": "2023-01-25"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:robert-cep",
+    "govity_total": 1320,
+    "govity_possible": 1371,
+    "govity": 0.962801,
+    "name": "Robert Čep",
+    "given_names": [
+      "Robert"
+    ],
+    "family_names": [
+      "Čep"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2023-01-25",
+        "until": "2023-03-22"
+      },
+      {
+        "id": "ostrava:org:group:jdeto",
+        "classification": "group",
+        "name": "JDETO!!!",
+        "since": "2023-04-26"
+      },
+      {
+        "id": "ostrava:org:group:nezarazeni",
+        "classification": "group",
+        "name": "Nezařazení",
+        "since": "2023-03-22",
+        "until": "2023-04-26"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:robert-stary",
+    "govity_total": 1606,
+    "govity_possible": 1648,
+    "govity": 0.974515,
+    "name": "Robert Starý",
+    "given_names": [
+      "Robert"
+    ],
+    "family_names": [
+      "Starý"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:rostislav-reha",
+    "govity_total": 1797,
+    "govity_possible": 1816,
+    "govity": 0.989537,
+    "name": "Rostislav Řeha",
+    "given_names": [
+      "Rostislav"
+    ],
+    "family_names": [
+      "Řeha"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:pirati",
+        "classification": "group",
+        "name": "Piráti",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:tomas-gemela",
+    "govity_total": 2106,
+    "govity_possible": 2111,
+    "govity": 0.997631,
+    "name": "Tomáš Gemela",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Gemela"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:tomas-macura",
+    "govity_total": 1725,
+    "govity_possible": 1789,
+    "govity": 0.964226,
+    "name": "Tomáš Macura",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Macura"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19",
+        "until": "2023-03-22"
+      },
+      {
+        "id": "ostrava:org:group:jdeto",
+        "classification": "group",
+        "name": "JDETO!!!",
+        "since": "2023-04-26"
+      },
+      {
+        "id": "ostrava:org:group:nezarazeni",
+        "classification": "group",
+        "name": "Nezařazení",
+        "since": "2023-03-22",
+        "until": "2023-04-26"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:tomas-malek",
+    "govity_total": 1704,
+    "govity_possible": 1706,
+    "govity": 0.998828,
+    "name": "Tomáš Málek",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Málek"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ostravak",
+        "classification": "group",
+        "name": "Ostravak",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:tomas-pavliska",
+    "govity_total": 1779,
+    "govity_possible": 1783,
+    "govity": 0.997757,
+    "name": "Tomáš Pavliska",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Pavliska"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ostravak",
+        "classification": "group",
+        "name": "Ostravak",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:tomas-vytisk",
+    "govity_total": 2074,
+    "govity_possible": 2080,
+    "govity": 0.997115,
+    "name": "Tomáš Výtisk",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Výtisk"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:starostove-pro-ostravu",
+        "classification": "group",
+        "name": "STAROSTOVÉ pro OSTRAVU",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:vit-machacek",
+    "govity_total": 1442,
+    "govity_possible": 1467,
+    "govity": 0.982958,
+    "name": "Vít Macháček",
+    "given_names": [
+      "Vít"
+    ],
+    "family_names": [
+      "Macháček"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ostravska-levice",
+        "classification": "group",
+        "name": "Ostravská levice",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:vladimir-ciganek",
+    "govity_total": 1288,
+    "govity_possible": 1290,
+    "govity": 0.99845,
+    "name": "Vladimír Cigánek",
+    "given_names": [
+      "Vladimír"
+    ],
+    "family_names": [
+      "Cigánek"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ods-top09",
+        "classification": "group",
+        "name": "ODS + TOP09",
+        "since": "2022-10-19",
+        "until": "2025-03-26"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:vladimir-polak",
+    "govity_total": 1769,
+    "govity_possible": 1776,
+    "govity": 0.996059,
+    "name": "Vladimír Polák",
+    "given_names": [
+      "Vladimír"
+    ],
+    "family_names": [
+      "Polák"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ostravak",
+        "classification": "group",
+        "name": "Ostravak",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:zbynek-prazak",
+    "govity_total": 2092,
+    "govity_possible": 2093,
+    "govity": 0.999522,
+    "name": "Zbyněk Pražák",
+    "given_names": [
+      "Zbyněk"
+    ],
+    "family_names": [
+      "Pražák"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:kdu-csl",
+        "classification": "group",
+        "name": "KDU-ČSL",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:zdenek-rodek",
+    "govity_total": 2032,
+    "govity_possible": 2033,
+    "govity": 0.999508,
+    "name": "Zdeněk Rodek",
+    "given_names": [
+      "Zdeněk"
+    ],
+    "family_names": [
+      "Rodek"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19"
+      }
+    ],
+    "since": "2022-10-19"
+  },
+  {
+    "person_id": "ostrava:person:zuzana-bajgarova",
+    "govity_total": 1981,
+    "govity_possible": 2048,
+    "govity": 0.967285,
+    "name": "Zuzana Bajgarová",
+    "given_names": [
+      "Zuzana"
+    ],
+    "family_names": [
+      "Bajgarová"
+    ],
+    "organizations": [
+      {
+        "id": "ostrava:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-19",
+        "until": "2023-03-22"
+      },
+      {
+        "id": "ostrava:org:group:jdeto",
+        "classification": "group",
+        "name": "JDETO!!!",
+        "since": "2023-04-26"
+      },
+      {
+        "id": "ostrava:org:group:nezarazeni",
+        "classification": "group",
+        "name": "Nezařazení",
+        "since": "2023-03-22",
+        "until": "2023-04-26"
+      }
+    ],
+    "since": "2022-10-19"
+  }
+]
