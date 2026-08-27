@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T22:24:39.640456+00:00",
+  "generated_at": "2026-08-27T23:04:37.877677+00:00",
   "method": "point_biserial_correlation",
   "n_dims": 3,
   "n_included_people": 48,
@@ -12,15 +12,15 @@
   "correlations": [
     {
       "dim_index": 0,
-      "correlation": 0.7946579954912011
+      "correlation": 0.7946579954912014
     },
     {
       "dim_index": 1,
-      "correlation": 0.202874049272305
+      "correlation": 0.20287404927230476
     },
     {
       "dim_index": 2,
-      "correlation": 0.3443384886248301
+      "correlation": 0.3443384886248304
     }
   ],
   "detected_dim_index": 0,
@@ -28,7 +28,7 @@
   "overridden": false,
   "effective_dim_index": 0,
   "government_mean": 0.3815683514776769,
-  "opposition_mean": -0.8065257113232402,
+  "opposition_mean": -0.8065257113232401,
   "government_sign": 1,
   "sources": {
     "wpca_output": "most/analyses/wpca/outputs/wpca.json",
