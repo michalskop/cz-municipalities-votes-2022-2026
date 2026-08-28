@@ -11,7 +11,7 @@
   ],
   "government_members": [],
   "extras": {
-    "approval_status": "DRAFT — awaiting project owner sign-off per plan.md decision D7, same process as every other city, even though the fact itself is close to trivial here (see below).",
+    "approval_status": "APPROVED by project owner 2026-08-29, per plan.md decision D7 — as drafted. Owner also confirmed (separate question) that govity/wpca should be published for this body despite every member being government by definition.",
     "government_groups_citation": [
       {
         "claim": "Rada města Mostu (the executive council) is BY DEFINITION formed by the governing coalition — every one of its 10 members (current and former) belongs to one of Most's two coalition parties (ANO 2011, ProMOST), the same government_groups already D7-approved for most/'s zastupitelstvo pipeline (2026-08-27/28). No opposition party has ever held a rada seat in this term's data. This is a structural/mechanical fact confirmed directly from the corpus (most-rada/data/organizations.csv lists only these 2 klubs, ever), not an external claim needing a news citation.",
@@ -21,11 +21,12 @@
         ]
       }
     ],
-    "resolved_questions": [],
-    "open_questions_for_owner": [
+    "resolved_questions": [
       {
-        "question": "Because ALL rada members are government by construction, govity's 'coalition alignment' metric will show every current member near 100% and has no real opposition comparison group — is this analysis still worth publishing for this body, or should it be skipped/hidden on the dashboard even though the underlying data supports it?"
+        "question": "Because ALL rada members are government by construction, govity's 'coalition alignment' metric will show every current member near 100% and has no real opposition comparison group — is this analysis still worth publishing for this body, or should it be skipped/hidden on the dashboard even though the underlying data supports it?",
+        "resolution": "RESOLVED 2026-08-29 by project owner: publish anyway, for consistency with every other city/body — the data is real even if the government-axis framing is less interesting for an all-government body."
       }
-    ]
+    ],
+    "open_questions_for_owner": []
   }
 }

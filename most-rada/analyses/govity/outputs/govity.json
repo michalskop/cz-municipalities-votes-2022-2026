@@ -1,0 +1,223 @@
+[
+  {
+    "person_id": "most-rada:person:jana-falterova-zudova",
+    "govity_total": 2292,
+    "govity_possible": 2293,
+    "govity": 0.999564,
+    "name": "Jana Falterová Zudová",
+    "given_names": [
+      "Jana"
+    ],
+    "family_names": [
+      "Falterová Zudová"
+    ],
+    "organizations": [
+      {
+        "id": "most-rada:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-25"
+      }
+    ],
+    "since": "2022-10-25"
+  },
+  {
+    "person_id": "most-rada:person:marek-hrvol",
+    "govity_total": 2166,
+    "govity_possible": 2166,
+    "govity": 1.0,
+    "name": "Marek Hrvol",
+    "given_names": [
+      "Marek"
+    ],
+    "family_names": [
+      "Hrvol"
+    ],
+    "organizations": [
+      {
+        "id": "most-rada:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2022-10-25"
+      }
+    ],
+    "since": "2022-10-25"
+  },
+  {
+    "person_id": "most-rada:person:ivana-hvezdova",
+    "govity_total": 2086,
+    "govity_possible": 2087,
+    "govity": 0.999521,
+    "name": "Ivana Hvězdová",
+    "given_names": [
+      "Ivana"
+    ],
+    "family_names": [
+      "Hvězdová"
+    ],
+    "organizations": [
+      {
+        "id": "most-rada:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-25"
+      }
+    ],
+    "since": "2022-10-25"
+  },
+  {
+    "person_id": "most-rada:person:vladimir-kubik",
+    "govity_total": 2059,
+    "govity_possible": 2060,
+    "govity": 0.999515,
+    "name": "Vladimír Kubík",
+    "given_names": [
+      "Vladimír"
+    ],
+    "family_names": [
+      "Kubík"
+    ],
+    "organizations": [
+      {
+        "id": "most-rada:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2022-10-25"
+      }
+    ],
+    "since": "2022-10-25"
+  },
+  {
+    "person_id": "most-rada:person:jan-paparega",
+    "govity_total": 1888,
+    "govity_possible": 1888,
+    "govity": 1.0,
+    "name": "Jan Paparega",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Paparega"
+    ],
+    "organizations": [
+      {
+        "id": "most-rada:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2022-10-25"
+      }
+    ],
+    "since": "2022-10-25"
+  },
+  {
+    "person_id": "most-rada:person:patricie-prokesova",
+    "govity_total": 2124,
+    "govity_possible": 2125,
+    "govity": 0.999529,
+    "name": "Patricie Prokešová",
+    "given_names": [
+      "Patricie"
+    ],
+    "family_names": [
+      "Prokešová"
+    ],
+    "organizations": [
+      {
+        "id": "most-rada:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-25"
+      }
+    ],
+    "since": "2022-10-25"
+  },
+  {
+    "person_id": "most-rada:person:marketa-stara",
+    "govity_total": 2338,
+    "govity_possible": 2338,
+    "govity": 1.0,
+    "name": "Markéta Stará",
+    "given_names": [
+      "Markéta"
+    ],
+    "family_names": [
+      "Stará"
+    ],
+    "organizations": [
+      {
+        "id": "most-rada:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2022-10-25"
+      }
+    ],
+    "since": "2022-10-25"
+  },
+  {
+    "person_id": "most-rada:person:vlastimil-vozka",
+    "govity_total": 2129,
+    "govity_possible": 2133,
+    "govity": 0.998125,
+    "name": "Vlastimil Vozka",
+    "given_names": [
+      "Vlastimil"
+    ],
+    "family_names": [
+      "Vozka"
+    ],
+    "organizations": [
+      {
+        "id": "most-rada:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2022-10-25"
+      }
+    ],
+    "since": "2022-10-25"
+  },
+  {
+    "person_id": "most-rada:person:vaclav-zahradnicek",
+    "govity_total": 2053,
+    "govity_possible": 2054,
+    "govity": 0.999513,
+    "name": "Václav Zahradníček",
+    "given_names": [
+      "Václav"
+    ],
+    "family_names": [
+      "Zahradníček"
+    ],
+    "organizations": [
+      {
+        "id": "most-rada:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2023-01-12"
+      }
+    ],
+    "since": "2022-10-25"
+  },
+  {
+    "person_id": "most-rada:person:ondrej-malek",
+    "govity_total": 122,
+    "govity_possible": 122,
+    "govity": 1.0,
+    "name": "Ondřej Málek",
+    "given_names": [
+      "Ondřej"
+    ],
+    "family_names": [
+      "Málek"
+    ],
+    "organizations": [
+      {
+        "id": "most-rada:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2022-10-25",
+        "until": "2022-12-08"
+      }
+    ],
+    "since": "2022-10-25"
+  }
+]

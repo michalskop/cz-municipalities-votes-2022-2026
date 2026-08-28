@@ -12,7 +12,7 @@
   "time_interval": "half-year",
   "n_dims": 3,
   "extras": {
-    "approval_status": "DRAFT — inherits govity_definition.json's (currently also draft) government_groups facts. lo_limit/n_dims/rotate are technical defaults, already ready to use independent of that sign-off. Still blocked on a purely technical gap, not a D7 one: no detect_government_axis.py-equivalent script or wpca-runner scripts existed for most-rada before this draft.",
+    "approval_status": "APPROVED by project owner 2026-08-29, per plan.md decision D7 — inherits govity_definition.json's now-approved government_groups facts, including the confirmed decision to publish despite the all-government composition.",
     "vocabulary_and_thresholds": "yes/no/abstain/absent/not-voting grouping and lo_limit=0.1/n_dims=3 copied as untuned defaults from most/'s own wpca_definition.json — not independently tuned for this 10-member body.",
     "rotate_choice": "most-rada:person:marek-hrvol (mayor, ProMOST, per most/analyses/govity/govity_definition.json's citations) chosen as the PCA rotation anchor purely to fix output-axis sign/orientation for readability — an arbitrary technical choice, not a factual claim. He is also a current rada member (start_date 2022-10-25, still active), confirmed directly in most-rada/data/memberships.csv.",
     "government_axis_override": null,

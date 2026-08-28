@@ -1,0 +1,1055 @@
+[
+  {
+    "person_id": "most-rada:person:ivana-hvezdova",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.3429977985418206,
+      0.34450998976256125,
+      0.4195857227425895
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:jan-paparega",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.3429977985418206,
+      0.34450998976256125,
+      0.4195857227425895
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:jana-falterova-zudova",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.3429977985418206,
+      0.34450998976256125,
+      0.4195857227425895
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:marek-hrvol",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.3429977985418206,
+      0.34450998976256125,
+      0.4195857227425895
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:marketa-stara",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.3429977985418206,
+      0.34450998976256125,
+      0.4195857227425895
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:patricie-prokesova",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.3429977985418206,
+      0.34450998976256125,
+      0.4195857227425895
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:vaclav-zahradnicek",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "most-rada:person:vladimir-kubik",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.3429977985418206,
+      0.34450998976256125,
+      0.4195857227425895
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:vlastimil-vozka",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -2.743982388334565,
+      -2.75607991810049,
+      -3.356685781940716
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:ivana-hvezdova",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -0.04820408742563834,
+      0.18480090021050205,
+      -0.3733856970953936
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:jan-paparega",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      0.7197619798958547,
+      -1.363347983479095,
+      2.1367233550108016
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:jana-falterova-zudova",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -0.04820408742563834,
+      0.18480090021050205,
+      -0.3733856970953936
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:marek-hrvol",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      1.3295538733618686,
+      0.6082827994547474,
+      2.3303039642840027
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:marketa-stara",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -0.04820408742563834,
+      0.18480090021050205,
+      -0.3733856970953936
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:patricie-prokesova",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -0.04820408742563834,
+      0.18480090021050205,
+      -0.3733856970953936
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:vaclav-zahradnicek",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -0.3469299927675821,
+      0.4962373524232965,
+      -0.17855326368107835
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:vladimir-kubik",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      0.018132286388443948,
+      0.09139442877411391,
+      -0.656038444679623
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:vlastimil-vozka",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -1.045332564811593,
+      -1.05993103265363,
+      -0.35610678008753094
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:ivana-hvezdova",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -0.03933677044131924,
+      -0.2854822265361105,
+      -1.0195320301304274
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:jan-paparega",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      1.333977688777177,
+      1.2367786073314435,
+      3.598728272533345
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:jana-falterova-zudova",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -0.03933677044131924,
+      -0.2854822265361105,
+      -1.0195320301304274
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:marek-hrvol",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      1.146011981311578,
+      0.5829026381756726,
+      1.6967745668025402
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:marketa-stara",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -0.30815184678590807,
+      -1.001710097890552,
+      0.8113240639228297
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:patricie-prokesova",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -0.16648081135069476,
+      -0.2967610088956487,
+      -1.0709811872168689
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:vaclav-zahradnicek",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -0.24423473550760644,
+      -0.37326769991383757,
+      -0.9394314491901744
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:vladimir-kubik",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -0.16648081135069476,
+      -0.2967610088956487,
+      -1.0709811872168689
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:vlastimil-vozka",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -1.5912230962654623,
+      0.6387076021829616,
+      -1.088731734019606
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:ivana-hvezdova",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      1.1568300010737913,
+      -2.404159251523091,
+      -3.143167919133393
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:jan-paparega",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -0.18528969190537062,
+      -1.895367394963525,
+      -0.8202302730197336
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:jana-falterova-zudova",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      0.35932717512024304,
+      1.7700586681234343,
+      0.21876794592503215
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:marek-hrvol",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      1.9091650722738562,
+      2.3849345389268395,
+      2.6710439829216552
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:marketa-stara",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -0.448946906410362,
+      1.8122041863069398,
+      0.27917888802681035
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:patricie-prokesova",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      0.40722233935165736,
+      -2.1665142270318207,
+      -1.3655002860668124
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:vaclav-zahradnicek",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -1.6955494500001995,
+      1.2869052306226803,
+      1.830313536884697
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:vladimir-kubik",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -0.8309789508988967,
+      -0.45978784702779907,
+      -0.2533325435462909
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:vlastimil-vozka",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -2.755464308444205,
+      -3.391187073591924,
+      -2.505413903044226
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:ivana-hvezdova",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      2.378376353936097,
+      -0.3468359685034351,
+      -3.204861153956367
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:jan-paparega",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      0.9697386175413729,
+      3.1842320102321464,
+      2.3084289450078623
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:jana-falterova-zudova",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -1.2694192334854522,
+      -3.451589732746789,
+      -2.823675202449911
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:marek-hrvol",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      2.48715060818417,
+      1.2130042898956086,
+      1.5323594175910165
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:marketa-stara",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -1.9492719576982824,
+      -2.026653275245753,
+      0.5332311790499554
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:patricie-prokesova",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      2.1339223245454857,
+      2.885737782690483,
+      1.100109848825799
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:vaclav-zahradnicek",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -3.2698981110759147,
+      -0.13097022901830652,
+      1.770794359257835
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:vladimir-kubik",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      2.378376353936097,
+      -0.3468359685034351,
+      -3.204861153956367
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:vlastimil-vozka",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -3.2698981110759147,
+      -0.13097022901830652,
+      1.770794359257835
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:ivana-hvezdova",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.3076734361618119,
+      0.319360917002532,
+      0.2048800666708327
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:jan-paparega",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.47594772056691903,
+      -0.8177987653465776,
+      -1.3627725257444323
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:jana-falterova-zudova",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.21506424164020205,
+      0.273581500739009,
+      0.14771162623488593
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:marek-hrvol",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.16576923458219403,
+      0.3621667567688555,
+      0.047983092051874614
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:marketa-stara",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.21506424164020205,
+      0.273581500739009,
+      0.14771162623488593
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:patricie-prokesova",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.5299407648913661,
+      -0.567185985466265,
+      1.3832024681755666
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:vaclav-zahradnicek",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -0.16907558529031808,
+      0.6081809817031889,
+      -0.5058954425531688
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:vladimir-kubik",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      0.16576923458219403,
+      0.3621667567688555,
+      0.047983092051874614
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:vlastimil-vozka",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -1.7826292948743292,
+      -1.8041963511714791,
+      -0.19005209108423118
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:ivana-hvezdova",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      1.0910717657379077,
+      -0.6292276398132297,
+      -2.8902734622847746
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:jan-paparega",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.06365845706224142,
+      0.1552760597231744,
+      0.34195352866998796
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:jana-falterova-zudova",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -0.0413487807715089,
+      0.18201631661773732,
+      0.4170885104201614
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:marek-hrvol",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.027857903603902993,
+      0.1264531548844201,
+      0.40283428116871856
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:marketa-stara",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -0.27465375356954574,
+      0.9453861966197313,
+      0.631455090697785
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:patricie-prokesova",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.811227543540891,
+      -1.0566510744563293,
+      -1.0183296476521722
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:vaclav-zahradnicek",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.009873658015649647,
+      0.17394326673727767,
+      0.3938503912815509
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:vladimir-kubik",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -0.0413487807715089,
+      0.18201631661773732,
+      0.4170885104201614
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:vlastimil-vozka",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -1.3503941513006812,
+      -0.5017831429119568,
+      0.41051403290446115
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:ivana-hvezdova",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.02194534654970209,
+      0.167403523967777,
+      0.009339896901973867
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:jan-paparega",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.6122633641408799,
+      -0.8934618725569049,
+      1.531125764432422
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:jana-falterova-zudova",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.02194534654970209,
+      0.167403523967777,
+      0.009339896901973867
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:marek-hrvol",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.02194534654970209,
+      0.167403523967777,
+      0.009339896901973867
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:marketa-stara",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -0.4646546397353041,
+      0.9273745627170548,
+      0.8411958872487512
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:patricie-prokesova",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      1.1514859339163275,
+      -1.1355666199516607,
+      -1.9078450513053842
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:vaclav-zahradnicek",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.02194534654970209,
+      0.167403523967777,
+      0.009339896901973867
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:vladimir-kubik",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.02194534654970209,
+      0.167403523967777,
+      0.009339896901973867
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:vlastimil-vozka",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -1.0125397489711578,
+      -0.21939137865319625,
+      0.11550167905842249
+    ],
+    "included": true
+  },
+  {
+    "person_id": "most-rada:person:ivana-hvezdova",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "most-rada:person:jan-paparega",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "most-rada:person:jana-falterova-zudova",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "most-rada:person:marek-hrvol",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "most-rada:person:marketa-stara",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "most-rada:person:patricie-prokesova",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "most-rada:person:vaclav-zahradnicek",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "most-rada:person:vladimir-kubik",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "most-rada:person:vlastimil-vozka",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  }
+]
