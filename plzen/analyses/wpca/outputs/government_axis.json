@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T13:47:57.671874+00:00",
+  "generated_at": "2026-08-28T16:01:33.099595+00:00",
   "method": "point_biserial_correlation",
   "n_dims": 3,
   "n_included_people": 48,
@@ -14,15 +14,15 @@
   "correlations": [
     {
       "dim_index": 0,
-      "correlation": 0.8925615491305036
+      "correlation": 0.892561549130503
     },
     {
       "dim_index": 1,
-      "correlation": 0.41047059178955214
+      "correlation": 0.41047059178955225
     },
     {
       "dim_index": 2,
-      "correlation": -0.05063327330944948
+      "correlation": -0.050633273309449486
     }
   ],
   "detected_dim_index": 0,
