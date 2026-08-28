@@ -12,7 +12,7 @@
   "time_interval": "half-year",
   "n_dims": 3,
   "extras": {
-    "approval_status": "DRAFT — inherits govity_definition.json's (currently also draft) government_groups facts; wpca's government-axis detection will depend on them once both are signed off. lo_limit/n_dims/rotate are technical defaults, already ready to use independent of that sign-off. Still blocked on a purely technical gap, not a D7 one: no detect_government_axis.py-equivalent script or wpca-runner scripts exist for Plzeň yet.",
+    "approval_status": "APPROVED by project owner 2026-08-28, per plan.md decision D7 — inherits govity_definition.json's now-approved government_groups facts. lo_limit/n_dims/rotate are technical defaults, already ready to use independent of that sign-off.",
     "vocabulary_and_thresholds": "yes/no/abstain/absent/not-voting grouping and lo_limit=0.1/n_dims=3 copied as untuned defaults from every prior city's wpca_definition.json — not independently tuned for Plzeň's 47-member assembly.",
     "rotate_choice": "plzen:person:roman-zarzycky (primátor/mayor since 2022-10-18, ANO 2011 a nezávislí, per govity_definition.json's citations) chosen as the PCA rotation anchor purely to fix output-axis sign/orientation for readability — an arbitrary technical choice, not a factual claim.",
     "government_axis_override": null,

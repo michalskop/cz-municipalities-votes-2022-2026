@@ -1,0 +1,41 @@
+{
+  "generated_at": "2026-08-28T13:08:51.647180+00:00",
+  "method": "point_biserial_correlation",
+  "n_dims": 3,
+  "n_included_people": 48,
+  "government_groups": [
+    "plzen:org:group:ano-2011-a-nezavisli",
+    "plzen:org:group:ceska-piratska-strana",
+    "plzen:org:group:stan",
+    "plzen:org:group:pro-plzen"
+  ],
+  "government_person_count": 29,
+  "opposition_person_count": 19,
+  "correlations": [
+    {
+      "dim_index": 0,
+      "correlation": 0.8925615491305036
+    },
+    {
+      "dim_index": 1,
+      "correlation": 0.41047059178955214
+    },
+    {
+      "dim_index": 2,
+      "correlation": -0.05063327330944948
+    }
+  ],
+  "detected_dim_index": 0,
+  "override_dim_index": null,
+  "overridden": false,
+  "effective_dim_index": 0,
+  "government_mean": 0.5865405020194768,
+  "opposition_mean": -0.9707199415187607,
+  "government_sign": 1,
+  "sources": {
+    "wpca_output": "plzen/analyses/wpca/outputs/wpca.json",
+    "wpca_definition": "plzen/analyses/wpca/wpca_definition.json",
+    "govity_definition": "plzen/analyses/govity/govity_definition.json",
+    "memberships": "plzen/data/memberships.csv"
+  }
+}
