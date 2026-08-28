@@ -1,0 +1,39 @@
+# Source config for "most-rada" — the executive council (Rada města Mostu) of Most, modeled as a
+# separate pseudo-city per the owner's 2026-08-28 decision (see most/config/sources.yml's
+# rada_note and this repo's memory: most-source-research). Rada meetings are usually closed/
+# private for Czech municipalities — Most publishing named roll-call votes for it is a genuine
+# rarity worth the separate build.
+
+zastupko_current:
+  status: "LIVE, VERIFIED 2026-08-29 — re-checked fresh (not assumed from the 2026-08-27 research
+    note), same shared FIT VUT zastupko.cz backend most/'s zastupitelstvo pipeline already uses."
+  type: json
+  url: "https://zastupko.fit.vutbr.cz/flask/most/rada/8/dataset"
+  platform: >
+    Same shared FIT VUT backend and dataset id (8 = the 2022-2026 term) as most/'s own
+    zastupitelstvo config — just a different "organ" segment in the URL ("rada" instead of
+    "zastupitelstvo"). Confirmed byte-for-byte the SAME top-level JSON schema
+    (municipalita/politickeSubjekty/zastupitele/zastupitelstva) as zastupitelstvo's feed, so
+    most/scripts/standardize.py's parsing logic ports directly with no format-detection changes
+    needed — only ORG_ID/ORG_NAME and the source URL differ.
+  schema: "Same as most/'s zastupitelstvo feed: datum_od/datum_do session-date variant, same
+    5-value vote vocabulary (A/N/Z/–/X). Not re-verified independently here beyond a direct read
+    of the raw JSON — inherits the parsing logic that already handles it."
+  scale: "10 members, 60 sessions, 2022-10-25 through 2026-07-23 (re-confirmed 2026-08-29 — MORE
+    current than zastupitelstvo's own last-processed session at the time of this check)."
+  known_data_quality_findings:
+    - "Only 2 political subjects appear (ANO 2011, ProMOST) — every single rada member belongs to
+      one of Most's two governing-coalition parties (already D7-approved as government_groups for
+      most/'s zastupitelstvo). This is expected, not a data-quality issue: rada is the executive
+      council formed BY the governing coalition, so no opposition party is ever represented on it.
+      Real consequence for D7 here: govity's 'opposition' side will be structurally empty/
+      meaningless for this body (there's no non-government member to compare against) — worth
+      flagging explicitly in govity_definition.json rather than silently running the analysis as
+      if it were a normal contested body."
+    - "One membership change observed directly in the roster: Ondřej Málek (id 10) left
+      2022-12-08, replaced in effect by Václav Zahradníček (id 9) starting 2023-01-12 — both under
+      ProMOST, consistent with a routine mid-term substitution, not a coalition change."
+  not_yet_verified: "Full vote-vocabulary scan, G5 collision check, and platne/urlProtokol fields
+    across the whole 2,427-vote corpus — deferred to the actual standardize.py build/run, same as
+    every other city's practice of verifying against the full corpus during the real pipeline run
+    rather than a pre-build sample scan alone."

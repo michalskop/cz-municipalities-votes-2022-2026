@@ -1,0 +1,2 @@
+id,name,classification,identifiers,sources
+most-rada:org:rada-mesta-mostu,Rada města Mostu,assembly,"[{""scheme"": ""most-rada:org_abbr"", ""identifier"": ""RMM""}]","[{""url"": ""https://zastupko.fit.vutbr.cz/flask/most/rada/8/dataset"", ""note"": ""zastupko.cz rada feed, dataset id 8, term 2022-2026""}]"
