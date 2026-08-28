@@ -213,14 +213,7 @@
         "id": "plzen:org:group:spd",
         "classification": "group",
         "name": "SPD",
-        "since": "2024-09-19"
-      },
-      {
-        "id": "plzen:org:group:svoboda-a-prima-demokracie",
-        "classification": "group",
-        "name": "Svoboda a přímá demokracie",
-        "since": "2022-10-18",
-        "until": "2024-09-19"
+        "since": "2022-10-18"
       }
     ],
     "since": "2022-10-18"
@@ -242,14 +235,7 @@
         "id": "plzen:org:group:spd",
         "classification": "group",
         "name": "SPD",
-        "since": "2024-09-19"
-      },
-      {
-        "id": "plzen:org:group:svoboda-a-prima-demokracie",
-        "classification": "group",
-        "name": "Svoboda a přímá demokracie",
-        "since": "2022-10-18",
-        "until": "2024-09-19"
+        "since": "2022-10-18"
       }
     ],
     "since": "2022-10-18"
@@ -644,14 +630,7 @@
         "id": "plzen:org:group:spd",
         "classification": "group",
         "name": "SPD",
-        "since": "2024-09-19"
-      },
-      {
-        "id": "plzen:org:group:svoboda-a-prima-demokracie",
-        "classification": "group",
-        "name": "Svoboda a přímá demokracie",
-        "since": "2022-10-18",
-        "until": "2024-09-19"
+        "since": "2022-10-18"
       }
     ],
     "since": "2022-10-18"
@@ -885,14 +864,7 @@
         "id": "plzen:org:group:spd",
         "classification": "group",
         "name": "SPD",
-        "since": "2024-09-19"
-      },
-      {
-        "id": "plzen:org:group:svoboda-a-prima-demokracie",
-        "classification": "group",
-        "name": "Svoboda a přímá demokracie",
-        "since": "2022-10-18",
-        "until": "2024-09-19"
+        "since": "2022-10-18"
       }
     ],
     "since": "2022-10-18"

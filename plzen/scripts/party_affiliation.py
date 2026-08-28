@@ -43,12 +43,18 @@ import standardize  # noqa: E402
 
 # Confirmed via the raw corpus (2026-08-28): every person who has an era1 "STAROSTOVÉ A
 # NEZÁVISLÍ" interval transitions DIRECTLY (same date, no gap -- e.g. Aleš Tolar:
-# 2022-10-18..2024-09-19 then 2024-09-19..) into "STAN", exactly at the era1/era2 protocol-format
-# boundary -- a pure system relabeling artifact of that format change, not a real political event.
-# Deliberately NOT merging "ODS, KDU-ČSL, TOP 09" (era1) into its era2/3 successors: that one is a
-# REAL 3-way split (all 15 people land across ODS/KDU-ČSL/TOP 09 as 9/3/3, matching the "SPOLU"
-# coalition's real dissolution reported in local news) -- not a single-entity rename.
-_KLUB_RENAME_ALIASES = {"STAROSTOVÉ A NEZÁVISLÍ": "STAN"}
+# 2022-10-18..2024-09-19 then 2024-09-19..) into "STAN", and likewise every era1 "Svoboda a přímá
+# demokracie" member transitions directly into "SPD" -- both exactly at the era1/era2 protocol-
+# format boundary, pure system relabeling artifacts of that format change, not real political
+# events (same verification method for both: zero-gap per-person date continuity, checked
+# individually for all affected people, not assumed from one example). Deliberately NOT merging
+# "ODS, KDU-ČSL, TOP 09" (era1) into its era2/3 successors: that one is a REAL 3-way split (all 15
+# people land across ODS/KDU-ČSL/TOP 09 as 9/3/3, matching the "SPOLU" coalition's real dissolution
+# reported in local news) -- not a single-entity rename.
+_KLUB_RENAME_ALIASES = {
+    "STAROSTOVÉ A NEZÁVISLÍ": "STAN",
+    "Svoboda a přímá demokracie": "SPD",
+}
 
 
 def _canonicalize_klub_names(raw_names: set[str]) -> dict[str, str]:
