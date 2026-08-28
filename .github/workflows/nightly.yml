@@ -1,7 +1,8 @@
-# Nightly automation for the Praha, Brno, Ostrava and Most pipelines (plan.md tasks C6/C6-equivalent).
+# Nightly automation for the Praha, Brno, Ostrava, Most and Plzeň pipelines (plan.md tasks
+# C6/C6-equivalent).
 #
-# LIVE since 2026-08-25 (Praha) / 2026-08-27 (Brno, Ostrava) / 2026-08-28 (Most) — pushed to
-# origin/main; runs on the schedule below plus workflow_dispatch.
+# LIVE since 2026-08-25 (Praha) / 2026-08-27 (Brno, Ostrava) / 2026-08-28 (Most, Plzeň) — pushed
+# to origin/main; runs on the schedule below plus workflow_dispatch.
 #
 # Shape per city: checkout -> install deps -> run the pipeline (download -> standardize -> G1 -> G2)
 # -> city-specific re-apply step(s) for data the standardizer can't retain on its own (Praha:
@@ -13,10 +14,11 @@
 # (GitHub Actions' default behavior: a failing step stops the job before later steps, including the
 # commit step, ever run — no extra plumbing needed for that).
 #
-# FOUR SEQUENTIAL jobs (brno needs: praha, ostrava needs: brno, most needs: ostrava), not a matrix
-# and not parallel: (1) each city's re-apply step sequence genuinely differs (Praha has 3 such
-# steps, Brno and Most have 1, Ostrava has 2) — a matrix would need per-city conditional steps
-# anyway, no real simplification over four job bodies; (2) every job ends with `git pull --rebase
+# FIVE SEQUENTIAL jobs (brno needs: praha, ostrava needs: brno, most needs: ostrava, plzen needs:
+# most), not a matrix and not parallel: (1) each city's re-apply step sequence genuinely differs
+# (Praha has 3 such steps, Brno and Most have 1, Ostrava has 2, Plzeň has 1 but a much longer
+# download/standardize step of its own) — a matrix would need per-city conditional steps anyway,
+# no real simplification over five job bodies; (2) every job ends with `git pull --rebase
 # && git push` against the same branch — running them in parallel would race (job B's rebase can go stale between its own pull
 # and push if job A pushes in between, failing job B's push non-fast-forward). Sequential via
 # `needs:` avoids that whole class of failure at the cost of extra total runtime, which a
@@ -417,5 +419,102 @@ jobs:
             exit 0
           fi
           git commit -m "Nightly Most data + analysis update"
+          git pull --rebase
+          git push
+
+  plzen:
+    name: Plzeň nightly pipeline
+    needs: most
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          sudo apt-get update && sudo apt-get install -y poppler-utils
+
+      - name: Restore Plzeň raw-corpus cache
+        # A much bigger scrape than any other city's per-run cost (33 meetings, ~1700 agenda
+        # points, each needing its own point-page + protocol fetch — took ~15 minutes for a full
+        # cold run locally). downloader.py's fetch_point_and_protocol() already skips any point
+        # whose files are already cached on disk (protocols never change once a meeting is
+        # finalized), so persisting plzen/work/raw/ across runs the same way Ostrava's raw-page
+        # cache works turns every normal night into "fetch whatever's new" (typically 0-1
+        # meeting's worth of points) instead of a ~2000-request re-scrape — both faster and more
+        # polite to a small municipal server.
+        uses: actions/cache@v4
+        with:
+          path: plzen/work/raw
+          key: plzen-raw-${{ github.run_id }}
+          restore-keys: |
+            plzen-raw-
+
+      - name: Run Plzeň pipeline (download -> standardize -> G1 schema gate -> G2 cross-check)
+        run: python plzen/pipelines/run_pipeline.py
+
+      - name: Re-apply real klub data (D7 preferred case, derived per meeting)
+        # standardize.py rewrites organizations.csv/memberships.csv from scratch every run, which
+        # would silently drop the plzen:org:group:* rows this script adds — same class of gap as
+        # every other city's party_affiliation.py step. Reads the same cached protocols
+        # standardize.py just used, no separate fetch.
+        run: python plzen/scripts/party_affiliation.py
+
+      - name: G4 monotonicity guard
+        run: python scripts/monotonicity_guard.py --data-dir plzen/data
+
+      - name: Clone legislature-data-analyses
+        run: |
+          git clone --depth=1 https://github.com/michalskop/legislature-data-analyses.git /tmp/legislature-data-analyses
+
+      - name: Run attendance analysis
+        run: |
+          python plzen/scripts/analyses/run_attendance.py \
+            --script /tmp/legislature-data-analyses/attendance/attendance.py
+
+      - name: Run rebelity analysis
+        run: |
+          python plzen/scripts/analyses/run_rebelity.py \
+            --script /tmp/legislature-data-analyses/rebelity/rebelity.py
+
+      - name: Run govity analysis
+        run: |
+          python plzen/scripts/analyses/run_govity.py \
+            --script /tmp/legislature-data-analyses/govity/govity.py
+
+      - name: Run wpca analysis
+        run: |
+          python plzen/scripts/analyses/run_wpca.py \
+            --script /tmp/legislature-data-analyses/wpca/wpca.py
+
+      - name: Detect government/opposition WPCA axis
+        run: python plzen/scripts/detect_government_axis.py
+
+      - name: G7 range sanity check on analysis outputs
+        run: |
+          python scripts/g7_sanity_check.py --output-file plzen/analyses/attendance/outputs/attendance.json
+          python scripts/g7_sanity_check.py --output-file plzen/analyses/rebelity/outputs/rebelity.json
+          python scripts/g7_sanity_check.py --output-file plzen/analyses/govity/outputs/govity.json
+          python scripts/g7_sanity_check.py --output-file plzen/analyses/wpca/outputs/wpca.json
+          python scripts/g7_sanity_check.py --output-file plzen/analyses/wpca/outputs/wpca_time.json
+          python scripts/g7_sanity_check.py --output-file plzen/analyses/wpca/outputs/government_axis.json
+
+      - name: Commit and push updated data + analysis outputs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add plzen/data/ plzen/analyses/*/outputs/
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "Nightly Plzeň data + analysis update"
           git pull --rebase
           git push
