@@ -1,0 +1,1288 @@
+[
+  {
+    "person_id": "plzen:person:ales-tolar",
+    "vote_events_total": 1602,
+    "present": 1567,
+    "absent": 35,
+    "name": "Aleš Tolar",
+    "given_names": [
+      "Aleš"
+    ],
+    "family_names": [
+      "Tolar"
+    ],
+    "organizations": [
+      {
+        "id": "plzen:org:group:stan",
+        "classification": "group",
+        "name": "STAN",
+        "since": "2022-10-18"
+      }
+    ],
+    "since": "2022-10-18",
+    "present_share": 0.9781523096
+  },
+  {
+    "person_id": "plzen:person:daniel-kus",
+    "vote_events_total": 1602,
+    "present": 1502,
+    "absent": 100,
+    "name": "Daniel Kůs",
+    "given_names": [
+      "Daniel"
+    ],
+    "family_names": [
+      "Kůs"
+    ],
+    "organizations": [
+      {
+        "id": "plzen:org:group:ceska-piratska-strana",
+        "classification": "group",
+        "name": "Česká pirátská strana",
+        "since": "2022-10-18"
+      }
+    ],
+    "since": "2022-10-18",
+    "present_share": 0.9375780275
+  },
+  {
+    "person_id": "plzen:person:david-prochazka",
+    "vote_events_total": 1602,
+    "present": 1288,
+    "absent": 314,
+    "name": "David Procházka",
+    "given_names": [
+      "David"
+    ],
+    "family_names": [
+      "Procházka"
+    ],
+    "organizations": [
+      {
+        "id": "plzen:org:group:ano-2011-a-nezavisli",
+        "classification": "group",
+        "name": "ANO 2011 a nezávislí",
+        "since": "2022-10-18"
+      }
+    ],
+    "since": "2022-10-18",
+    "present_share": 0.8039950062
+  },
+  {
+    "person_id": "plzen:person:david-slouf",
+    "vote_events_total": 1602,
+    "present": 1191,
+    "absent": 411,
+    "name": "David Šlouf",
+    "given_names": [
+      "David"
+    ],
+    "family_names": [
+      "Šlouf"
+    ],
+    "organizations": [
+      {
+        "id": "plzen:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2024-09-19"
+      },
+      {
+        "id": "plzen:org:group:ods-kdu-csl-top-09",
+        "classification": "group",
+        "name": "ODS, KDU-ČSL, TOP 09",
+        "since": "2022-10-18",
+        "until": "2024-09-19"
+      }
+    ],
+    "since": "2022-10-18",
+    "present_share": 0.7434456929
+  },
+  {
+    "person_id": "plzen:person:eliska-bartakova",
+    "vote_events_total": 1602,
+    "present": 1491,
+    "absent": 111,
+    "name": "Eliška Bartáková",
+    "given_names": [
+      "Eliška"
+    ],
+    "family_names": [
+      "Bartáková"
+    ],
+    "organizations": [
+      {
+        "id": "plzen:org:group:ano-2011-a-nezavisli",
+        "classification": "group",
+        "name": "ANO 2011 a nezávislí",
+        "since": "2022-10-18"
+      }
+    ],
+    "since": "2022-10-18",
+    "present_share": 0.9307116105
+  },
+  {
+    "person_id": "plzen:person:helena-rezabova",
+    "vote_events_total": 1602,
+    "present": 749,
+    "absent": 853,
+    "name": "Helena Řežábová",
+    "given_names": [
+      "Helena"
+    ],
+    "family_names": [
+      "Řežábová"
+    ],
+    "organizations": [
+      {
+        "id": "plzen:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2024-09-19"
+      },
+      {
+        "id": "plzen:org:group:ods-kdu-csl-top-09",
+        "classification": "group",
+        "name": "ODS, KDU-ČSL, TOP 09",
+        "since": "2022-10-18",
+        "until": "2024-09-19"
+      }
+    ],
+    "since": "2022-10-18",
+    "present_share": 0.4675405743
+  },
+  {
+    "person_id": "plzen:person:jan-kakes",
+    "vote_events_total": 1602,
+    "present": 1455,
+    "absent": 147,
+    "name": "Jan Kakeš",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Kakeš"
+    ],
+    "organizations": [
+      {
+        "id": "plzen:org:group:ano-2011-a-nezavisli",
+        "classification": "group",
+        "name": "ANO 2011 a nezávislí",
+        "since": "2022-10-18"
+      }
+    ],
+    "since": "2022-10-18",
+    "present_share": 0.9082397004
+  },
+  {
+    "person_id": "plzen:person:jan-kalian",
+    "vote_events_total": 1602,
+    "present": 1123,
+    "absent": 479,
+    "name": "Jan Kalián",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Kalián"
+    ],
+    "organizations": [
+      {
+        "id": "plzen:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2024-09-19"
+      },
+      {
+        "id": "plzen:org:group:ods-kdu-csl-top-09",
+        "classification": "group",
+        "name": "ODS, KDU-ČSL, TOP 09",
+        "since": "2022-10-18",
+        "until": "2024-09-19"
+      }
+    ],
+    "since": "2022-10-18",
+    "present_share": 0.7009987516
+  },
+  {
+    "person_id": "plzen:person:jan-kurka",
+    "vote_events_total": 1602,
+    "present": 1253,
+    "absent": 349,
+    "name": "Jan Kůrka",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Kůrka"
+    ],
+    "organizations": [
+      {
+        "id": "plzen:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2024-09-19"
+      },
+      {
+        "id": "plzen:org:group:svoboda-a-prima-demokracie",
+        "classification": "group",
+        "name": "Svoboda a přímá demokracie",
+        "since": "2022-10-18",
+        "until": "2024-09-19"
+      }
+    ],
+    "since": "2022-10-18",
+    "present_share": 0.7821473159
+  },
+  {
+    "person_id": "plzen:person:jaroslav-kubalik",
+    "vote_events_total": 1602,
+    "present": 1232,
+    "absent": 370,
+    "name": "Jaroslav Kubalík",
+    "given_names": [
+      "Jaroslav"
+    ],
+    "family_names": [
+      "Kubalík"
+    ],
+    "organizations": [
+      {
+        "id": "plzen:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2024-09-19"
+      },
+      {
+        "id": "plzen:org:group:svoboda-a-prima-demokracie",
+        "classification": "group",
+        "name": "Svoboda a přímá demokracie",
+        "since": "2022-10-18",
+        "until": "2024-09-19"
+      }
+    ],
+    "since": "2022-10-18",
+    "present_share": 0.7690387016
+  },
+  {
+    "person_id": "plzen:person:jindrich-blazek",
+    "vote_events_total": 1602,
+    "present": 1498,
+    "absent": 104,
+    "name": "Jindřich Blažek",
+    "given_names": [
+      "Jindřich"
+    ],
+    "family_names": [
+      "Blažek"
+    ],
+    "organizations": [
+      {
+        "id": "plzen:org:group:ano-2011-a-nezavisli",
+        "classification": "group",
+        "name": "ANO 2011 a nezávislí",
+        "since": "2022-10-18"
+      }
+    ],
+    "since": "2022-10-18",
+    "present_share": 0.9350811486
+  },
+  {
+    "person_id": "plzen:person:jiri-klecka",
+    "vote_events_total": 1602,
+    "present": 731,
+    "absent": 871,
+    "name": "Jiří Klečka",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Klečka"
+    ],
+    "organizations": [
+      {
+        "id": "plzen:org:group:pro-plzen",
+        "classification": "group",
+        "name": "PRO PLZEŇ",
+        "since": "2022-10-18"
+      }
+    ],
+    "since": "2022-10-18",
+    "present_share": 0.4563046192
+  },
+  {
+    "person_id": "plzen:person:jiri-lodr",
+    "vote_events_total": 1602,
+    "present": 1243,
+    "absent": 359,
+    "name": "JIří Lodr",
+    "given_names": [
+      "JIří"
+    ],
+    "family_names": [
+      "Lodr"
+    ],
+    "organizations": [
+      {
+        "id": "plzen:org:group:kdu-csl",
+        "classification": "group",
+        "name": "KDU-ČSL",
+        "since": "2024-09-19"
+      },
+      {
+        "id": "plzen:org:group:ods-kdu-csl-top-09",
+        "classification": "group",
+        "name": "ODS, KDU-ČSL, TOP 09",
+        "since": "2022-10-18",
+        "until": "2024-09-19"
+      }
+    ],
+    "since": "2022-10-18",
+    "present_share": 0.7759051186
+  },
+  {
+    "person_id": "plzen:person:jiri-novak",
+    "vote_events_total": 1602,
+    "present": 1473,
+    "absent": 129,
+    "name": "Jiří Novák",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Novák"
+    ],
+    "organizations": [
+      {
+        "id": "plzen:org:group:ano-2011-a-nezavisli",
+        "classification": "group",
+        "name": "ANO 2011 a nezávislí",
+        "since": "2022-10-18"
+      }
+    ],
+    "since": "2022-10-18",
+    "present_share": 0.9194756554
+  },
+  {
+    "person_id": "plzen:person:jiri-rezek",
+    "vote_events_total": 1602,
+    "present": 1417,
+    "absent": 185,
+    "name": "Jiří Rezek",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Rezek"
+    ],
+    "organizations": [
+      {
+        "id": "plzen:org:group:ceska-piratska-strana",
+        "classification": "group",
+        "name": "Česká pirátská strana",
+        "since": "2022-10-18"
+      }
+    ],
+    "since": "2022-10-18",
+    "present_share": 0.8845193508
+  },
+  {
+    "person_id": "plzen:person:jiri-sladek",
+    "vote_events_total": 1571,
+    "present": 1482,
+    "absent": 89,
+    "name": "Jiří Sládek",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Sládek"
+    ],
+    "organizations": [
+      {
+        "id": "plzen:org:group:ano-2011-a-nezavisli",
+        "classification": "group",
+        "name": "ANO 2011 a nezávislí",
+        "since": "2022-12-12"
+      }
+    ],
+    "since": "2022-10-18",
+    "present_share": 0.9433481859
+  },
+  {
+    "person_id": "plzen:person:jiri-sramek",
+    "vote_events_total": 1602,
+    "present": 1428,
+    "absent": 174,
+    "name": "Jiří Šrámek",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Šrámek"
+    ],
+    "organizations": [
+      {
+        "id": "plzen:org:group:ano-2011-a-nezavisli",
+        "classification": "group",
+        "name": "ANO 2011 a nezávislí",
+        "since": "2022-10-18"
+      }
+    ],
+    "since": "2022-10-18",
+    "present_share": 0.8913857678
+  },
+  {
+    "person_id": "plzen:person:jiri-uhlik",
+    "vote_events_total": 1602,
+    "present": 1437,
+    "absent": 165,
+    "name": "Jiří Uhlík",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Uhlík"
+    ],
+    "organizations": [
+      {
+        "id": "plzen:org:group:pro-plzen",
+        "classification": "group",
+        "name": "PRO PLZEŇ",
+        "since": "2022-10-18"
+      }
+    ],
+    "since": "2022-10-18",
+    "present_share": 0.8970037453
+  },
+  {
+    "person_id": "plzen:person:jiri-winkelhofer",
+    "vote_events_total": 720,
+    "present": 629,
+    "absent": 91,
+    "name": "Jiří Winkelhöfer",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Winkelhöfer"
+    ],
+    "organizations": [
+      {
+        "id": "plzen:org:group:pro-plzen",
+        "classification": "group",
+        "name": "PRO PLZEŇ",
+        "since": "2022-10-18",
+        "until": "2024-09-19"
+      }
+    ],
+    "since": "2022-10-18",
+    "present_share": 0.8736111111
+  },
+  {
+    "person_id": "plzen:person:kristyna-nachtmann-svedova",
+    "vote_events_total": 1602,
+    "present": 815,
+    "absent": 787,
+    "name": "Kristýna Nachtmann Švédová",
+    "given_names": [
+      "Kristýna"
+    ],
+    "family_names": [
+      "Nachtmann Švédová"
+    ],
+    "organizations": [
+      {
+        "id": "plzen:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2024-09-19"
+      },
+      {
+        "id": "plzen:org:group:ods-kdu-csl-top-09",
+        "classification": "group",
+        "name": "ODS, KDU-ČSL, TOP 09",
+        "since": "2022-10-18",
+        "until": "2024-09-19"
+      }
+    ],
+    "since": "2022-10-18",
+    "present_share": 0.5087390762
+  },
+  {
+    "person_id": "plzen:person:libuse-hubackova",
+    "vote_events_total": 1602,
+    "present": 976,
+    "absent": 626,
+    "name": "Libuše Hubáčková",
+    "given_names": [
+      "Libuše"
+    ],
+    "family_names": [
+      "Hubáčková"
+    ],
+    "organizations": [
+      {
+        "id": "plzen:org:group:kdu-csl",
+        "classification": "group",
+        "name": "KDU-ČSL",
+        "since": "2024-09-19"
+      },
+      {
+        "id": "plzen:org:group:ods-kdu-csl-top-09",
+        "classification": "group",
+        "name": "ODS, KDU-ČSL, TOP 09",
+        "since": "2022-10-18",
+        "until": "2024-09-19"
+      }
+    ],
+    "since": "2022-10-18",
+    "present_share": 0.6092384519
+  },
+  {
+    "person_id": "plzen:person:lucie-kantorova",
+    "vote_events_total": 1602,
+    "present": 1474,
+    "absent": 128,
+    "name": "Lucie Kantorová",
+    "given_names": [
+      "Lucie"
+    ],
+    "family_names": [
+      "Kantorová"
+    ],
+    "organizations": [
+      {
+        "id": "plzen:org:group:ano-2011-a-nezavisli",
+        "classification": "group",
+        "name": "ANO 2011 a nezávislí",
+        "since": "2022-10-18"
+      }
+    ],
+    "since": "2022-10-18",
+    "present_share": 0.9200998752
+  },
+  {
+    "person_id": "plzen:person:lukas-hegner",
+    "vote_events_total": 1602,
+    "present": 1191,
+    "absent": 411,
+    "name": "Lukáš Hegner",
+    "given_names": [
+      "Lukáš"
+    ],
+    "family_names": [
+      "Hegner"
+    ],
+    "organizations": [
+      {
+        "id": "plzen:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2024-09-19"
+      },
+      {
+        "id": "plzen:org:group:ods-kdu-csl-top-09",
+        "classification": "group",
+        "name": "ODS, KDU-ČSL, TOP 09",
+        "since": "2022-10-18",
+        "until": "2024-09-19"
+      }
+    ],
+    "since": "2022-10-18",
+    "present_share": 0.7434456929
+  },
+  {
+    "person_id": "plzen:person:lumir-aschenbrenner",
+    "vote_events_total": 1602,
+    "present": 863,
+    "absent": 739,
+    "name": "Lumír Aschenbrenner",
+    "given_names": [
+      "Lumír"
+    ],
+    "family_names": [
+      "Aschenbrenner"
+    ],
+    "organizations": [
+      {
+        "id": "plzen:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2024-09-19"
+      },
+      {
+        "id": "plzen:org:group:ods-kdu-csl-top-09",
+        "classification": "group",
+        "name": "ODS, KDU-ČSL, TOP 09",
+        "since": "2022-10-18",
+        "until": "2024-09-19"
+      }
+    ],
+    "since": "2022-10-18",
+    "present_share": 0.538701623
+  },
+  {
+    "person_id": "plzen:person:martin-baxa",
+    "vote_events_total": 1602,
+    "present": 361,
+    "absent": 1241,
+    "name": "Martin Baxa",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Baxa"
+    ],
+    "organizations": [
+      {
+        "id": "plzen:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2024-09-19"
+      },
+      {
+        "id": "plzen:org:group:ods-kdu-csl-top-09",
+        "classification": "group",
+        "name": "ODS, KDU-ČSL, TOP 09",
+        "since": "2022-10-18",
+        "until": "2024-09-19"
+      }
+    ],
+    "since": "2022-10-18",
+    "present_share": 0.2253433208
+  },
+  {
+    "person_id": "plzen:person:martin-dittrich",
+    "vote_events_total": 1602,
+    "present": 1228,
+    "absent": 374,
+    "name": "Martin Dittrich",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Dittrich"
+    ],
+    "organizations": [
+      {
+        "id": "plzen:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2024-09-19"
+      },
+      {
+        "id": "plzen:org:group:svoboda-a-prima-demokracie",
+        "classification": "group",
+        "name": "Svoboda a přímá demokracie",
+        "since": "2022-10-18",
+        "until": "2024-09-19"
+      }
+    ],
+    "since": "2022-10-18",
+    "present_share": 0.7665418227
+  },
+  {
+    "person_id": "plzen:person:martin-slozil",
+    "vote_events_total": 1602,
+    "present": 1560,
+    "absent": 42,
+    "name": "Martin Složil",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Složil"
+    ],
+    "organizations": [
+      {
+        "id": "plzen:org:group:ano-2011-a-nezavisli",
+        "classification": "group",
+        "name": "ANO 2011 a nezávislí",
+        "since": "2022-10-18"
+      }
+    ],
+    "since": "2022-10-18",
+    "present_share": 0.9737827715
+  },
+  {
+    "person_id": "plzen:person:michal-hausner",
+    "vote_events_total": 1602,
+    "present": 1476,
+    "absent": 126,
+    "name": "Michal Hausner",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Hausner"
+    ],
+    "organizations": [
+      {
+        "id": "plzen:org:group:ano-2011-a-nezavisli",
+        "classification": "group",
+        "name": "ANO 2011 a nezávislí",
+        "since": "2022-10-18"
+      }
+    ],
+    "since": "2022-10-18",
+    "present_share": 0.9213483146
+  },
+  {
+    "person_id": "plzen:person:michal-vozobule",
+    "vote_events_total": 1602,
+    "present": 1103,
+    "absent": 499,
+    "name": "Michal Vozobule",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Vozobule"
+    ],
+    "organizations": [
+      {
+        "id": "plzen:org:group:ods-kdu-csl-top-09",
+        "classification": "group",
+        "name": "ODS, KDU-ČSL, TOP 09",
+        "since": "2022-10-18",
+        "until": "2024-09-19"
+      },
+      {
+        "id": "plzen:org:group:top-09",
+        "classification": "group",
+        "name": "TOP 09",
+        "since": "2024-09-19"
+      }
+    ],
+    "since": "2022-10-18",
+    "present_share": 0.6885143571
+  },
+  {
+    "person_id": "plzen:person:milan-chaloupka",
+    "vote_events_total": 1602,
+    "present": 1397,
+    "absent": 205,
+    "name": "Milan Chaloupka",
+    "given_names": [
+      "Milan"
+    ],
+    "family_names": [
+      "Chaloupka"
+    ],
+    "organizations": [
+      {
+        "id": "plzen:org:group:ceska-piratska-strana",
+        "classification": "group",
+        "name": "Česká pirátská strana",
+        "since": "2022-10-18"
+      }
+    ],
+    "since": "2022-10-18",
+    "present_share": 0.8720349563
+  },
+  {
+    "person_id": "plzen:person:nikola-simlova",
+    "vote_events_total": 882,
+    "present": 796,
+    "absent": 86,
+    "name": "Nikola Šimlová",
+    "given_names": [
+      "Nikola"
+    ],
+    "family_names": [
+      "Šimlová"
+    ],
+    "organizations": [
+      {
+        "id": "plzen:org:group:pro-plzen",
+        "classification": "group",
+        "name": "PRO PLZEŇ",
+        "since": "2024-09-19"
+      }
+    ],
+    "since": "2022-10-18",
+    "present_share": 0.9024943311
+  },
+  {
+    "person_id": "plzen:person:pavel-bosak",
+    "vote_events_total": 1602,
+    "present": 1577,
+    "absent": 25,
+    "name": "Pavel Bosák",
+    "given_names": [
+      "Pavel"
+    ],
+    "family_names": [
+      "Bosák"
+    ],
+    "organizations": [
+      {
+        "id": "plzen:org:group:ceska-piratska-strana",
+        "classification": "group",
+        "name": "Česká pirátská strana",
+        "since": "2022-10-18"
+      }
+    ],
+    "since": "2022-10-18",
+    "present_share": 0.9843945069
+  },
+  {
+    "person_id": "plzen:person:pavel-sindelar",
+    "vote_events_total": 1602,
+    "present": 762,
+    "absent": 840,
+    "name": "Pavel Šindelář",
+    "given_names": [
+      "Pavel"
+    ],
+    "family_names": [
+      "Šindelář"
+    ],
+    "organizations": [
+      {
+        "id": "plzen:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2024-09-19"
+      },
+      {
+        "id": "plzen:org:group:ods-kdu-csl-top-09",
+        "classification": "group",
+        "name": "ODS, KDU-ČSL, TOP 09",
+        "since": "2022-10-18",
+        "until": "2024-09-19"
+      }
+    ],
+    "since": "2022-10-18",
+    "present_share": 0.4756554307
+  },
+  {
+    "person_id": "plzen:person:petr-fiser",
+    "vote_events_total": 1602,
+    "present": 1115,
+    "absent": 487,
+    "name": "Petr Fišer",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Fišer"
+    ],
+    "organizations": [
+      {
+        "id": "plzen:org:group:ano-2011-a-nezavisli",
+        "classification": "group",
+        "name": "ANO 2011 a nezávislí",
+        "since": "2022-10-18"
+      }
+    ],
+    "since": "2022-10-18",
+    "present_share": 0.6960049938
+  },
+  {
+    "person_id": "plzen:person:petr-nahlik",
+    "vote_events_total": 1602,
+    "present": 1454,
+    "absent": 148,
+    "name": "Petr Náhlík",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Náhlík"
+    ],
+    "organizations": [
+      {
+        "id": "plzen:org:group:stan",
+        "classification": "group",
+        "name": "STAN",
+        "since": "2022-10-18"
+      }
+    ],
+    "since": "2022-10-18",
+    "present_share": 0.9076154806
+  },
+  {
+    "person_id": "plzen:person:petr-pinkas",
+    "vote_events_total": 1602,
+    "present": 1528,
+    "absent": 74,
+    "name": "Petr Pinkas",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Pinkas"
+    ],
+    "organizations": [
+      {
+        "id": "plzen:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2024-09-19"
+      },
+      {
+        "id": "plzen:org:group:svoboda-a-prima-demokracie",
+        "classification": "group",
+        "name": "Svoboda a přímá demokracie",
+        "since": "2022-10-18",
+        "until": "2024-09-19"
+      }
+    ],
+    "since": "2022-10-18",
+    "present_share": 0.9538077403
+  },
+  {
+    "person_id": "plzen:person:petr-suchy",
+    "vote_events_total": 1602,
+    "present": 961,
+    "absent": 641,
+    "name": "Petr Suchý",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Suchý"
+    ],
+    "organizations": [
+      {
+        "id": "plzen:org:group:ods-kdu-csl-top-09",
+        "classification": "group",
+        "name": "ODS, KDU-ČSL, TOP 09",
+        "since": "2022-10-18",
+        "until": "2024-09-19"
+      },
+      {
+        "id": "plzen:org:group:top-09",
+        "classification": "group",
+        "name": "TOP 09",
+        "since": "2024-09-19"
+      }
+    ],
+    "since": "2022-10-18",
+    "present_share": 0.5998751561
+  },
+  {
+    "person_id": "plzen:person:radoslav-skarda",
+    "vote_events_total": 1602,
+    "present": 1021,
+    "absent": 581,
+    "name": "Radoslav Škarda",
+    "given_names": [
+      "Radoslav"
+    ],
+    "family_names": [
+      "Škarda"
+    ],
+    "organizations": [
+      {
+        "id": "plzen:org:group:ods-kdu-csl-top-09",
+        "classification": "group",
+        "name": "ODS, KDU-ČSL, TOP 09",
+        "since": "2022-10-18",
+        "until": "2024-09-19"
+      },
+      {
+        "id": "plzen:org:group:top-09",
+        "classification": "group",
+        "name": "TOP 09",
+        "since": "2024-09-19"
+      }
+    ],
+    "since": "2022-10-18",
+    "present_share": 0.6373283396
+  },
+  {
+    "person_id": "plzen:person:roman-zarzycky",
+    "vote_events_total": 1602,
+    "present": 1507,
+    "absent": 95,
+    "name": "Roman Zarzycký",
+    "given_names": [
+      "Roman"
+    ],
+    "family_names": [
+      "Zarzycký"
+    ],
+    "organizations": [
+      {
+        "id": "plzen:org:group:ano-2011-a-nezavisli",
+        "classification": "group",
+        "name": "ANO 2011 a nezávislí",
+        "since": "2022-10-18"
+      }
+    ],
+    "since": "2022-10-18",
+    "present_share": 0.9406991261
+  },
+  {
+    "person_id": "plzen:person:stanislava-cerna",
+    "vote_events_total": 31,
+    "present": 31,
+    "absent": 0,
+    "name": "Stanislava Černá",
+    "given_names": [
+      "Stanislava"
+    ],
+    "family_names": [
+      "Černá"
+    ],
+    "organizations": [
+      {
+        "id": "plzen:org:group:ano-2011-a-nezavisli",
+        "classification": "group",
+        "name": "ANO 2011 a nezávislí",
+        "since": "2022-10-18",
+        "until": "2022-12-12"
+      }
+    ],
+    "since": "2022-10-18",
+    "present_share": 1.0
+  },
+  {
+    "person_id": "plzen:person:stepan-krnoul",
+    "vote_events_total": 1602,
+    "present": 1090,
+    "absent": 512,
+    "name": "Štěpán Krňoul",
+    "given_names": [
+      "Štěpán"
+    ],
+    "family_names": [
+      "Krňoul"
+    ],
+    "organizations": [
+      {
+        "id": "plzen:org:group:kdu-csl",
+        "classification": "group",
+        "name": "KDU-ČSL",
+        "since": "2024-09-19"
+      },
+      {
+        "id": "plzen:org:group:ods-kdu-csl-top-09",
+        "classification": "group",
+        "name": "ODS, KDU-ČSL, TOP 09",
+        "since": "2022-10-18",
+        "until": "2024-09-19"
+      }
+    ],
+    "since": "2022-10-18",
+    "present_share": 0.6803995006
+  },
+  {
+    "person_id": "plzen:person:svetlana-budkova",
+    "vote_events_total": 1602,
+    "present": 1563,
+    "absent": 39,
+    "name": "Světlana Budková",
+    "given_names": [
+      "Světlana"
+    ],
+    "family_names": [
+      "Budková"
+    ],
+    "organizations": [
+      {
+        "id": "plzen:org:group:stan",
+        "classification": "group",
+        "name": "STAN",
+        "since": "2022-10-18"
+      }
+    ],
+    "since": "2022-10-18",
+    "present_share": 0.9756554307
+  },
+  {
+    "person_id": "plzen:person:tomas-kotora",
+    "vote_events_total": 1602,
+    "present": 1475,
+    "absent": 127,
+    "name": "Tomáš Kotora",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Kotora"
+    ],
+    "organizations": [
+      {
+        "id": "plzen:org:group:pro-plzen",
+        "classification": "group",
+        "name": "PRO PLZEŇ",
+        "since": "2022-10-18"
+      }
+    ],
+    "since": "2022-10-18",
+    "present_share": 0.9207240949
+  },
+  {
+    "person_id": "plzen:person:tomas-moravek",
+    "vote_events_total": 1602,
+    "present": 1523,
+    "absent": 79,
+    "name": "Tomáš Morávek",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Morávek"
+    ],
+    "organizations": [
+      {
+        "id": "plzen:org:group:pro-plzen",
+        "classification": "group",
+        "name": "PRO PLZEŇ",
+        "since": "2022-10-18"
+      }
+    ],
+    "since": "2022-10-18",
+    "present_share": 0.9506866417
+  },
+  {
+    "person_id": "plzen:person:tomas-soukup",
+    "vote_events_total": 1602,
+    "present": 1244,
+    "absent": 358,
+    "name": "Tomáš Soukup",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Soukup"
+    ],
+    "organizations": [
+      {
+        "id": "plzen:org:group:ano-2011-a-nezavisli",
+        "classification": "group",
+        "name": "ANO 2011 a nezávislí",
+        "since": "2022-10-18"
+      }
+    ],
+    "since": "2022-10-18",
+    "present_share": 0.7765293383
+  },
+  {
+    "person_id": "plzen:person:vaclav-chaloupek",
+    "vote_events_total": 3,
+    "present": 0,
+    "absent": 3,
+    "name": "Václav Chaloupek",
+    "given_names": [
+      "Václav"
+    ],
+    "family_names": [
+      "Chaloupek"
+    ],
+    "organizations": [
+      {
+        "id": "plzen:org:group:stan",
+        "classification": "group",
+        "name": "STAN",
+        "since": "2022-10-18",
+        "until": "2022-11-24"
+      }
+    ],
+    "since": "2022-10-18",
+    "present_share": 0.0
+  },
+  {
+    "person_id": "plzen:person:vaclav-cinadr",
+    "vote_events_total": 1599,
+    "present": 1520,
+    "absent": 79,
+    "name": "Václav Cinádr",
+    "given_names": [
+      "Václav"
+    ],
+    "family_names": [
+      "Cinádr"
+    ],
+    "organizations": [
+      {
+        "id": "plzen:org:group:stan",
+        "classification": "group",
+        "name": "STAN",
+        "since": "2022-11-24"
+      }
+    ],
+    "since": "2022-10-18",
+    "present_share": 0.9505941213
+  },
+  {
+    "person_id": "plzen:person:veronika-jilichova-nova",
+    "vote_events_total": 1602,
+    "present": 797,
+    "absent": 805,
+    "name": "Veronika Jilichová Nová",
+    "given_names": [
+      "Veronika"
+    ],
+    "family_names": [
+      "Jilichová Nová"
+    ],
+    "organizations": [
+      {
+        "id": "plzen:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2024-09-19"
+      },
+      {
+        "id": "plzen:org:group:ods-kdu-csl-top-09",
+        "classification": "group",
+        "name": "ODS, KDU-ČSL, TOP 09",
+        "since": "2022-10-18",
+        "until": "2024-09-19"
+      }
+    ],
+    "since": "2022-10-18",
+    "present_share": 0.4975031211
+  },
+  {
+    "person_id": "plzen:person:vladimir-krakora",
+    "vote_events_total": 1602,
+    "present": 1562,
+    "absent": 40,
+    "name": "Vladimír Krákora",
+    "given_names": [
+      "Vladimír"
+    ],
+    "family_names": [
+      "Krákora"
+    ],
+    "organizations": [
+      {
+        "id": "plzen:org:group:ano-2011-a-nezavisli",
+        "classification": "group",
+        "name": "ANO 2011 a nezávislí",
+        "since": "2022-10-18"
+      }
+    ],
+    "since": "2022-10-18",
+    "present_share": 0.975031211
+  },
+  {
+    "person_id": "plzen:person:vlastimil-gola",
+    "vote_events_total": 1602,
+    "present": 1503,
+    "absent": 99,
+    "name": "Vlastimil Gola",
+    "given_names": [
+      "Vlastimil"
+    ],
+    "family_names": [
+      "Gola"
+    ],
+    "organizations": [
+      {
+        "id": "plzen:org:group:ano-2011-a-nezavisli",
+        "classification": "group",
+        "name": "ANO 2011 a nezávislí",
+        "since": "2022-10-18"
+      }
+    ],
+    "since": "2022-10-18",
+    "present_share": 0.9382022472
+  }
+]

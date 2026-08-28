@@ -1,0 +1,11 @@
+{
+  "since": "2022-10-18",
+  "until": null,
+  "present_options": ["yes", "no", "abstain"],
+  "absent_options": ["absent", "not voting"],
+  "extras": {
+    "approval_status": "DRAFT — no political judgment involved (pure vote-option vocabulary + term dates), does not require D7 sign-off the way govity/wpca's government_groups does. Ready to use as-is.",
+    "vocabulary_source": "plzen/config/sources.yml + standardize.py's module docstring: THREE distinct source vocabularies across the term's three protocol-format eras (Pro/Proti/Zdržel se/Nehlasoval/omluven+nepřít. for era1; PRO/PROTI/ZDRŽEL SE/NEHLASOVAL/NEPŘÍTOMEN for era2/3), all mapped onto this project's standard yes/no/abstain/absent/'not voting' model.",
+    "since_rationale": "2022-10-18 = the term's first ZMP meeting (constitutive session, mayor election) per plzen/data/memberships.csv. until=null: the term has not ended as of this file's creation (2026-08-28); the source's last processed meeting is 2026-06-11, with meetings scheduled further ahead."
+  }
+}

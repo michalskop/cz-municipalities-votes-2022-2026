@@ -1,0 +1,36 @@
+{
+  "since": "2022-10-18",
+  "until": null,
+  "present_options": ["yes", "no", "abstain"],
+  "absent_options": ["absent", "not voting"],
+  "yes_options": ["yes"],
+  "no_options": ["no"],
+  "government_groups": [
+    "plzen:org:group:ano-2011-a-nezavisli",
+    "plzen:org:group:ceska-piratska-strana",
+    "plzen:org:group:stan",
+    "plzen:org:group:pro-plzen"
+  ],
+  "government_members": [],
+  "extras": {
+    "approval_status": "DRAFT — awaiting project owner sign-off per plan.md decision D7, same process as every prior city.",
+    "government_groups_citation": [
+      {
+        "claim": "Plzeň's 2022-2026 governing coalition, formed after the Oct 2022 election, is ANO 2011 a nezávislí (2nd place, 15/47 seats) + Piráti/Česká pirátská strana (4/47) + STAN (4/47) + PRO PLZEŇ (5/47) — 28/47 seats, a clear majority. The 'Spolu' coalition list (ODS+KDU-ČSL+TOP09) won the most seats (15/47) but sits in OPPOSITION, not government. Roman Zarzycký (ANO) became primátor (mayor); first deputy mayor for technical affairs is Pavel Bosák (Piráti), deputy for school/tourism is Lucie Kantorová (ANO), deputy for transport/environment is Aleš Tolar (STAN). The new 11-member Rada města Plzně was presented 2022-10-11 and elected at the constitutive ZMP session 2022-10-18.",
+        "sources": [
+          "https://www.irozhlas.cz/volby/komunalni-volby-2022/plzen-554791",
+          "https://cs.wikipedia.org/wiki/Rada_m%C4%9Bsta_Plzn%C4%9B"
+        ]
+      },
+      {
+        "claim": "Corroborated directly by the vote data itself: the term's very first roll-call vote (2022-10-18, point 98555, 'Volba primátora města Plzně...') shows exactly this same set of people voting together, and the current (2026-08-28) headcount per klub from plzen/data/memberships.csv matches the reported election seat counts almost exactly (ANO 15, ODS 9, PRO PLZEŇ 5, SPD 4, Česká pirátská strana 4, STAN 4, KDU-ČSL 3, TOP 09 3 = 47 total), after 4 years of term churn — a strong internal-consistency signal, same kind of cross-check used for every prior city.",
+        "sources": [
+          "plzen/data/memberships.csv (this repo's own derived data) — internal source-data citation, not an external news claim"
+        ]
+      }
+    ],
+    "resolved_questions": [],
+    "open_questions_for_owner": [],
+    "not_investigated": "Whether ANO/Piráti/STAN/PRO PLZEŇ's own internal composition changed (e.g. a faction split) is out of scope, matching every prior city's equivalent note — this repo models each source-reported klub as one org, no sub-party split available. Also not investigated: whether the 'Spolu' list's 3-way split (era1 -> era2/3) reflects a real change in coalition/opposition alignment for those 15 people, or just a labeling change within the SAME opposition status — treated here as still-opposition throughout, since no citation suggests otherwise."
+  }
+}

@@ -1,0 +1,131 @@
+# Source config for Plzeň. Investigated 2026-08-28 (see this repo's memory: plzen-source-research)
+# — the hardest source of the 5 cities built so far: no JSON API, session-cookie-gated downloads,
+# UTF-16LE-encoded vote files, and a real dead end (the official minutes/zápis PDF download is
+# SSO-gated at kdojsem.plzen.eu — never retry that path) before finding the real one.
+
+system:
+  name: "usneseni.plzen.eu"
+  note: >
+    A separate Nette-PHP portal from the main plzen.eu site. Covers ZMP (city council — our
+    target), RMP (city government/rada), and 10 district councils' ZMO/RMO bodies.
+    administrative_authority=0 in its resolution search form is ZMP; organisation_list[]=1 in its
+    dashboard filter form is also ZMP ("Zastupitelstvo MP") — confirmed two INDEPENDENT id spaces
+    for the same body, don't assume they're interchangeable.
+  robots_txt: "Disallow: / for all user-agents — noted for completeness; this is a public-records
+    transparency portal for a public body (city council voting), not scraped for any purpose
+    robots.txt is meant to guard against, and the same practice (fetching public government
+    open-records pages) is already used for every other city in this project."
+
+meeting_enumeration:
+  status: "SOLVED 2026-08-28 — see plzen-source-research memory for the full discovery trail."
+  method: >
+    1) POST https://usneseni.plzen.eu/ground/ground/dashboard with header
+    X-Requested-With: XMLHttpRequest and form fields organisation_list[]=1, showall_input=1,
+    sort=DESC, _do=groundDashboardFilter-form-submit (+ the "showall"/Archiv submit button field)
+    — sets a server-side filter tied to the session cookie; returns JSON with a `redirect` field
+    that can be ignored (a red herring, do not follow it for content).
+    2) GET https://usneseni.plzen.eu/ground/ground/dashboard?showall=1&order=DESC with the SAME
+    cookie jar — returns one `<div class="card-header"><h2>ZMP</h2>` card listing EVERY ZMP
+    meeting from Jan 2012 through the latest scheduled future date as flat
+    `<a href="/ground/ground/detail/N"><u>DD.MM.YYYY</u></a>` entries, no pagination.
+    3) Filter to date >= 2022-10-18 (this term's first ZMP meeting) for the 2022-2026 term.
+  term_start_date: "2022-10-18"
+  confirmed_count: >
+    33 meetings from 2022-10-18 (detail id 3683) through 2026-06-11 (detail id 4205, scheduled/
+    future) as of the 2026-08-28 check. Counting only meetings on/before 2026-02-05 gives exactly
+    29, independently matching the "29. ZMP" self-reported meeting number found on a live point
+    page — strong cross-check that the list is complete and correctly ordered.
+  future_meetings_caveat: "The last few entries in the list are scheduled but not yet held (no
+    votes yet) — downloader must skip these gracefully (no protocol data, not an error), not
+    treat a future meeting as a fetch failure."
+
+meeting_and_point_pages:
+  meeting_detail: "GET /ground/ground/detail/<meeting_id> — plain server-rendered HTML (NOT the
+    JS SPA the main plzen.eu-linked pages use), unauthenticated. Contains one
+    /ground/ground/point/<point_id> link per agenda item (confirmed: 99 on one real meeting)."
+  agenda_point: "GET /ground/ground/point/<point_id> — also plain unauthenticated HTML. Shows
+    agenda item title/proposer/materials, and — only for items that had a roll-call vote — a
+    'Protokol o hlasování' link with its own groundPoint-fileId query param."
+  protocol_download: >
+    GET /ground/ground/point/<point_id>?groundPoint-fileId=<protocol_id>&do=groundPoint-downloadProtocol
+    — requires ONLY a session cookie (obtained by GETing the point page first with a
+    requests.Session() — NOT a real login). CRITICAL FAILURE MODE: without the cookie, this
+    silently returns HTTP 200 with the WRAPPER PAGE HTML instead of the protocol file — always
+    check the response's Content-Disposition header (expect
+    `attachment; filename="....html"`) or the UTF-16 BOM, never just the status code.
+  session_record_download: "SSO-GATED, CONFIRMED DEAD END — /ground/ground/download-session-record/<id>
+    redirects to kdojsem.plzen.eu (SAML login). Never needed anyway: per-vote data comes from the
+    protocol download above, not the full zápis PDF."
+
+protocol_file_format:
+  status: >
+    THREE DIFFERENT FORMATS across the single 2022-2026 term, discovered 2026-08-28 while testing
+    the downloader against real data (the original research pass only sampled one meeting and
+    missed this). Confirmed via direct bisection across all 33 term meetings using the real
+    guarded fetch_point_and_protocol (a naive test WITHOUT the Content-Disposition check produced
+    misleading results once — see downloader.py's docstring on that failure mode). standardize.py
+    MUST detect format per-file (don't assume a fixed date cutoff maps cleanly — detect via the
+    byte signature: UTF-16 BOM -> era 2, "%PDF" magic -> era 3, else -> era 1).
+  era_1_cp1250_html:
+    meetings: "2022-10-18 (id 3683) through 2024-06-20 (id 3847) — 21 meetings"
+    encoding: "cp1250 (Windows Czech), NO BOM. Confirmed by trial decode — UTF-16 decode fails
+      with an illegal-surrogate error on these files; cp1250 decodes cleanly."
+    layout: >
+      Header line: '<N>. zasedání Zastupitelstva města Plzně ze dne DD.MM.YYYY - HH:MM:SS', then
+      '<N>. hlasování', 'Předkladatel: <name>', the agenda item title and press number line
+      (e.g. '6. PRIM/1 Návrh byl přijat Přítomno: 45 Pro: 31 Proti: 4 Zdržel se: 5' — note: NO
+      separate NEHLASOVAL/NEPŘÍTOMEN counts in this era's totals line, only Přítomno/Pro/Proti/
+      Zdrželo). Then repeated per-klub blocks: klub name, '(Pro: N, Proti: N, Zdrželo se: N)',
+      then inline 'FamilyName GivenName: <vote>' pairs (NOT one-per-line — several per line,
+      whitespace-separated, need careful regex, not naive line-splitting).
+  era_2_utf16_html:
+    meetings: "2024-09-19 (id 3849) through 2026-03-26 (id 4202) — 10 meetings. NOTE: id 3848
+      (2024-06-01, between era 1 and era 2 chronologically) had no protocol in an initial partial
+      check — re-verify its exact era when this meeting is actually processed, don't assume."
+    encoding: "UTF-16LE with BOM. Python: open(path, encoding='utf-16') auto-detects correctly."
+    layout: >
+      Already fully documented from the original research pass: title 'Výsledek hlasování',
+      header block (meeting number/date 'Zasedání č. YYYYMM - N. ZMP D. M. YYYY', exact
+      timestamp 'Dne DD.MM.YYYY HH:MM:SS', 'Výsledek hlasování č. N - bod č. N. - tisk č. X/N -
+      <title>', proposer note), then a real HTML TABLE: Řádek | Karta | Titul Jméno Příjmení |
+      Strana | Hlasoval(a), one row per member. Totals block:
+      PŘÍTOMNÝCH/NEPŘÍTOMNÝCH/PRO/PROTI/ZDRŽELO SE/NEHLASOVALO/ČLENŮ ZASTUPITELSTVA. Footer:
+      "Zastoupení v ČR: BitEST Kutná Hora" / "H.E.R. Systém (c) A.S.Partner, s.r.o., Košice" (a
+      Slovak vendor's council system — note in case a future city uses the same vendor).
+  era_3_pdf:
+    meetings: "2026-05-14 (id 4203) onward — CURRENT/ONGOING as of this writing (2026-08-28), NOT
+      a one-off historical anomaly. Every future meeting will land in this format until the
+      vendor changes again — nightly automation cannot skip this era."
+    encoding: "Real PDF (`%PDF-1.3` magic, FlateDecode streams — a genuine vector/text PDF, not a
+      scanned image). `pdftotext -layout` extracts real structured text (poppler-utils, already
+      installed in this sandbox; must be added as a system dependency for CI)."
+    layout: "SAME table shape as era 2 (Řádek/Karta/Zastupitel/Strana/Hlasoval(a) columns, same
+      totals block) — this is the same underlying report, just rendered to PDF instead of HTML."
+    known_bug: >
+      Font-encoding defect: pdftotext renders some uppercase words as garbage — confirmed
+      deterministic and reproducible: 'NEPŘÍTOMEN' -> '1(3ěË720(1' every time (not random
+      per-file noise). Likely a missing/broken ToUnicode CMap for a bold/caps text run in the
+      PDF's embedded font subset. Also seen in header/title text ('Město Plzeň' ->
+      '0ČVWR3O]HĖ'). PRO/PROTI/ZDRŽEL SE/NEHLASOVAL and all sampled person names rendered
+      correctly — only this one specific corrupted string pattern observed so far. Workaround:
+      a hardcoded string-remap table (map the exact garbled byte sequence back to 'NEPŘÍTOMEN')
+      is viable given the corruption is deterministic, but VERIFY across more PDF samples before
+      committing to that single fixed mapping — a different bold-run word elsewhere in a
+      different PDF may corrupt differently and needs its own confirmed mapping, don't assume
+      this one example generalizes to every garbled string.
+  vote_option_vocabulary: >
+    PRO (yes), PROTI (no), ZDRŽEL SE (abstain), NEHLASOVAL (not voting — present, chose not to),
+    NEPŘÍTOMEN (absent). 5-way, maps directly onto this project's standard yes/no/abstain/absent/
+    "not voting" model — same shape as every prior city. Confirmed consistent across eras 2 and 3;
+    era 1's totals line doesn't show NEHLASOVAL/NEPŘÍTOMEN as separate counts (only Přítomno/Pro/
+    Proti/Zdrželo) — re-verify era 1's actual per-person vote values include all 5, or whether
+    that era's vocabulary is narrower, when era 1 parsing is actually built.
+  council_size: "47 (ČLENŮ ZASTUPITELSTVA), confirmed 2026-02-05 (era 2) vote."
+
+klubs_sampled_2026_02_05: "ODS, ANO 2011 a nezávislí, Česká pirátská strana, STAN, SPD, KDU-ČSL —
+  not exhaustive, the full klub list will emerge from the full corpus scan."
+
+not_investigated:
+  rada: "RMP (rada/city government) not investigated — per this project's standing default
+    (assembly only unless a city is explicitly confirmed otherwise, see Most's rada precedent),
+    not pursued unless asked."

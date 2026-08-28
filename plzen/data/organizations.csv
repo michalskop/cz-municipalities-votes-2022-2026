@@ -1,0 +1,12 @@
+id,name,classification,identifiers,sources
+plzen:org:zastupitelstvo-mesta-plzne,Zastupitelstvo města Plzně,assembly,[],"[{""url"": ""https://usneseni.plzen.eu/"", ""note"": ""usneseni.plzen.eu""}]"
+plzen:org:group:ano-2011-a-nezavisli,ANO 2011 a nezávislí,group,[],"[{""url"": ""https://usneseni.plzen.eu/"", ""note"": ""usneseni.plzen.eu per-vote klub grouping (mode per meeting), klub 'ANO 2011 a nezávislí'""}]"
+plzen:org:group:kdu-csl,KDU-ČSL,group,[],"[{""url"": ""https://usneseni.plzen.eu/"", ""note"": ""usneseni.plzen.eu per-vote klub grouping (mode per meeting), klub 'KDU-ČSL'""}]"
+plzen:org:group:ods,ODS,group,[],"[{""url"": ""https://usneseni.plzen.eu/"", ""note"": ""usneseni.plzen.eu per-vote klub grouping (mode per meeting), klub 'ODS'""}]"
+plzen:org:group:ods-kdu-csl-top-09,"ODS, KDU-ČSL, TOP 09",group,[],"[{""url"": ""https://usneseni.plzen.eu/"", ""note"": ""usneseni.plzen.eu per-vote klub grouping (mode per meeting), klub 'ODS, KDU-ČSL, TOP 09'""}]"
+plzen:org:group:pro-plzen,PRO PLZEŇ,group,[],"[{""url"": ""https://usneseni.plzen.eu/"", ""note"": ""usneseni.plzen.eu per-vote klub grouping (mode per meeting), klub 'PRO PLZEŇ'""}]"
+plzen:org:group:spd,SPD,group,[],"[{""url"": ""https://usneseni.plzen.eu/"", ""note"": ""usneseni.plzen.eu per-vote klub grouping (mode per meeting), klub 'SPD'""}]"
+plzen:org:group:stan,STAN,group,[],"[{""url"": ""https://usneseni.plzen.eu/"", ""note"": ""usneseni.plzen.eu per-vote klub grouping (mode per meeting), klub 'STAN'""}]"
+plzen:org:group:svoboda-a-prima-demokracie,Svoboda a přímá demokracie,group,[],"[{""url"": ""https://usneseni.plzen.eu/"", ""note"": ""usneseni.plzen.eu per-vote klub grouping (mode per meeting), klub 'Svoboda a přímá demokracie'""}]"
+plzen:org:group:top-09,TOP 09,group,[],"[{""url"": ""https://usneseni.plzen.eu/"", ""note"": ""usneseni.plzen.eu per-vote klub grouping (mode per meeting), klub 'TOP 09'""}]"
+plzen:org:group:ceska-piratska-strana,Česká pirátská strana,group,[],"[{""url"": ""https://usneseni.plzen.eu/"", ""note"": ""usneseni.plzen.eu per-vote klub grouping (mode per meeting), klub 'Česká pirátská strana'""}]"
