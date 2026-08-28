@@ -1,0 +1,21 @@
+{
+  "since": "2022-10-25",
+  "until": null,
+  "lo_limit": 0.1,
+  "yes_options": ["yes"],
+  "no_options": ["no", "abstain"],
+  "absent_options": ["absent", "not voting"],
+  "rotate": {
+    "voter_id": "most-rada:person:marek-hrvol",
+    "dims": [1, 1, 1]
+  },
+  "time_interval": "half-year",
+  "n_dims": 3,
+  "extras": {
+    "approval_status": "DRAFT — inherits govity_definition.json's (currently also draft) government_groups facts. lo_limit/n_dims/rotate are technical defaults, already ready to use independent of that sign-off. Still blocked on a purely technical gap, not a D7 one: no detect_government_axis.py-equivalent script or wpca-runner scripts existed for most-rada before this draft.",
+    "vocabulary_and_thresholds": "yes/no/abstain/absent/not-voting grouping and lo_limit=0.1/n_dims=3 copied as untuned defaults from most/'s own wpca_definition.json — not independently tuned for this 10-member body.",
+    "rotate_choice": "most-rada:person:marek-hrvol (mayor, ProMOST, per most/analyses/govity/govity_definition.json's citations) chosen as the PCA rotation anchor purely to fix output-axis sign/orientation for readability — an arbitrary technical choice, not a factual claim. He is also a current rada member (start_date 2022-10-25, still active), confirmed directly in most-rada/data/memberships.csv.",
+    "government_axis_override": null,
+    "government_axis_override_note": "Given ALL rada members are government by construction (see govity_definition.json's citation), the WPCA government-axis correlation signal is expected to be weak or meaningless here — there's no opposition cluster to separate from. Worth checking the real detect_government_axis.py output before deciding whether this analysis is meaningful to publish for this body at all, same open question raised in govity_definition.json."
+  }
+}

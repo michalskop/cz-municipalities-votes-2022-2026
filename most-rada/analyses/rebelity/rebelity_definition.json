@@ -1,0 +1,13 @@
+{
+  "since": "2022-10-25",
+  "until": null,
+  "present_options": ["yes", "no", "abstain"],
+  "absent_options": ["absent", "not voting"],
+  "yes_options": ["yes"],
+  "no_options": ["no"],
+  "extras": {
+    "approval_status": "DRAFT — measures alignment with each person's own REAL klub (most-rada:org:group:* rows from most-rada/scripts/party_affiliation.py, sourced directly from the feed's dated politickeSubjekty intervals — D7's preferred live-group case). Does not depend on which groups form the government, so it does not require the same D7 sign-off as govity/wpca's government_groups — ready to use as-is.",
+    "vocabulary_source": "Same vocabulary mapping as attendance_definition.json.",
+    "note": "Rebelity measures alignment with klub, which is meaningful here even though BOTH of rada's klubs are coalition partners — a rada member can still vote against their own party's line on a given item, that's a different question from whether the vote aligns with the wider coalition (govity's question)."
+  }
+}

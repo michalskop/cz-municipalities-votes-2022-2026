@@ -1,0 +1,11 @@
+{
+  "since": "2022-10-25",
+  "until": null,
+  "present_options": ["yes", "no", "abstain"],
+  "absent_options": ["absent", "not voting"],
+  "extras": {
+    "approval_status": "DRAFT — no political judgment involved (pure vote-option vocabulary + term dates), does not require D7 sign-off the way govity/wpca's government_groups does. Ready to use as-is.",
+    "vocabulary_source": "most-rada/config/sources.yml: same 5-value single-letter codes as most/'s zastupitelstvo feed (A/N/Z/–/X), same shared zastupko.cz backend.",
+    "since_rationale": "2022-10-25 = the term's first rada session per most-rada/data/memberships.csv. until=null: the term has not ended as of this file's creation (2026-08-29); the source's last processed session is 2026-07-23."
+  }
+}

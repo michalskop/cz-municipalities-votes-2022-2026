@@ -1,0 +1,223 @@
+[
+  {
+    "person_id": "most-rada:person:jana-falterova-zudova",
+    "rebelity_total": 1,
+    "rebelity_possible": 2366,
+    "rebelity": 0.000423,
+    "name": "Jana Falterová Zudová",
+    "given_names": [
+      "Jana"
+    ],
+    "family_names": [
+      "Falterová Zudová"
+    ],
+    "organizations": [
+      {
+        "id": "most-rada:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-25"
+      }
+    ],
+    "since": "2022-10-25"
+  },
+  {
+    "person_id": "most-rada:person:marek-hrvol",
+    "rebelity_total": 1,
+    "rebelity_possible": 2423,
+    "rebelity": 0.000413,
+    "name": "Marek Hrvol",
+    "given_names": [
+      "Marek"
+    ],
+    "family_names": [
+      "Hrvol"
+    ],
+    "organizations": [
+      {
+        "id": "most-rada:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2022-10-25"
+      }
+    ],
+    "since": "2022-10-25"
+  },
+  {
+    "person_id": "most-rada:person:ivana-hvezdova",
+    "rebelity_total": 0,
+    "rebelity_possible": 2366,
+    "rebelity": 0.0,
+    "name": "Ivana Hvězdová",
+    "given_names": [
+      "Ivana"
+    ],
+    "family_names": [
+      "Hvězdová"
+    ],
+    "organizations": [
+      {
+        "id": "most-rada:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-25"
+      }
+    ],
+    "since": "2022-10-25"
+  },
+  {
+    "person_id": "most-rada:person:vladimir-kubik",
+    "rebelity_total": 1,
+    "rebelity_possible": 2423,
+    "rebelity": 0.000413,
+    "name": "Vladimír Kubík",
+    "given_names": [
+      "Vladimír"
+    ],
+    "family_names": [
+      "Kubík"
+    ],
+    "organizations": [
+      {
+        "id": "most-rada:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2022-10-25"
+      }
+    ],
+    "since": "2022-10-25"
+  },
+  {
+    "person_id": "most-rada:person:jan-paparega",
+    "rebelity_total": 0,
+    "rebelity_possible": 2423,
+    "rebelity": 0.0,
+    "name": "Jan Paparega",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Paparega"
+    ],
+    "organizations": [
+      {
+        "id": "most-rada:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2022-10-25"
+      }
+    ],
+    "since": "2022-10-25"
+  },
+  {
+    "person_id": "most-rada:person:patricie-prokesova",
+    "rebelity_total": 0,
+    "rebelity_possible": 2366,
+    "rebelity": 0.0,
+    "name": "Patricie Prokešová",
+    "given_names": [
+      "Patricie"
+    ],
+    "family_names": [
+      "Prokešová"
+    ],
+    "organizations": [
+      {
+        "id": "most-rada:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-25"
+      }
+    ],
+    "since": "2022-10-25"
+  },
+  {
+    "person_id": "most-rada:person:marketa-stara",
+    "rebelity_total": 0,
+    "rebelity_possible": 2423,
+    "rebelity": 0.0,
+    "name": "Markéta Stará",
+    "given_names": [
+      "Markéta"
+    ],
+    "family_names": [
+      "Stará"
+    ],
+    "organizations": [
+      {
+        "id": "most-rada:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2022-10-25"
+      }
+    ],
+    "since": "2022-10-25"
+  },
+  {
+    "person_id": "most-rada:person:vlastimil-vozka",
+    "rebelity_total": 1,
+    "rebelity_possible": 2423,
+    "rebelity": 0.000413,
+    "name": "Vlastimil Vozka",
+    "given_names": [
+      "Vlastimil"
+    ],
+    "family_names": [
+      "Vozka"
+    ],
+    "organizations": [
+      {
+        "id": "most-rada:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2022-10-25"
+      }
+    ],
+    "since": "2022-10-25"
+  },
+  {
+    "person_id": "most-rada:person:vaclav-zahradnicek",
+    "rebelity_total": 1,
+    "rebelity_possible": 2290,
+    "rebelity": 0.000437,
+    "name": "Václav Zahradníček",
+    "given_names": [
+      "Václav"
+    ],
+    "family_names": [
+      "Zahradníček"
+    ],
+    "organizations": [
+      {
+        "id": "most-rada:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2023-01-12"
+      }
+    ],
+    "since": "2022-10-25"
+  },
+  {
+    "person_id": "most-rada:person:ondrej-malek",
+    "rebelity_total": 0,
+    "rebelity_possible": 133,
+    "rebelity": 0.0,
+    "name": "Ondřej Málek",
+    "given_names": [
+      "Ondřej"
+    ],
+    "family_names": [
+      "Málek"
+    ],
+    "organizations": [
+      {
+        "id": "most-rada:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2022-10-25",
+        "until": "2022-12-08"
+      }
+    ],
+    "since": "2022-10-25"
+  }
+]

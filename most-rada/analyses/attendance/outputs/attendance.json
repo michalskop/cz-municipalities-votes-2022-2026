@@ -1,0 +1,233 @@
+[
+  {
+    "person_id": "most-rada:person:jana-falterova-zudova",
+    "vote_events_total": 2427,
+    "present": 2294,
+    "absent": 133,
+    "name": "Jana Falterová Zudová",
+    "given_names": [
+      "Jana"
+    ],
+    "family_names": [
+      "Falterová Zudová"
+    ],
+    "organizations": [
+      {
+        "id": "most-rada:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-25"
+      }
+    ],
+    "since": "2022-10-25",
+    "present_share": 0.9451998352
+  },
+  {
+    "person_id": "most-rada:person:marek-hrvol",
+    "vote_events_total": 2427,
+    "present": 2167,
+    "absent": 260,
+    "name": "Marek Hrvol",
+    "given_names": [
+      "Marek"
+    ],
+    "family_names": [
+      "Hrvol"
+    ],
+    "organizations": [
+      {
+        "id": "most-rada:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2022-10-25"
+      }
+    ],
+    "since": "2022-10-25",
+    "present_share": 0.8928718583
+  },
+  {
+    "person_id": "most-rada:person:ivana-hvezdova",
+    "vote_events_total": 2427,
+    "present": 2087,
+    "absent": 340,
+    "name": "Ivana Hvězdová",
+    "given_names": [
+      "Ivana"
+    ],
+    "family_names": [
+      "Hvězdová"
+    ],
+    "organizations": [
+      {
+        "id": "most-rada:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-25"
+      }
+    ],
+    "since": "2022-10-25",
+    "present_share": 0.8599093531
+  },
+  {
+    "person_id": "most-rada:person:vladimir-kubik",
+    "vote_events_total": 2427,
+    "present": 2061,
+    "absent": 366,
+    "name": "Vladimír Kubík",
+    "given_names": [
+      "Vladimír"
+    ],
+    "family_names": [
+      "Kubík"
+    ],
+    "organizations": [
+      {
+        "id": "most-rada:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2022-10-25"
+      }
+    ],
+    "since": "2022-10-25",
+    "present_share": 0.8491965389
+  },
+  {
+    "person_id": "most-rada:person:jan-paparega",
+    "vote_events_total": 2427,
+    "present": 1889,
+    "absent": 538,
+    "name": "Jan Paparega",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Paparega"
+    ],
+    "organizations": [
+      {
+        "id": "most-rada:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2022-10-25"
+      }
+    ],
+    "since": "2022-10-25",
+    "present_share": 0.7783271529
+  },
+  {
+    "person_id": "most-rada:person:patricie-prokesova",
+    "vote_events_total": 2427,
+    "present": 2126,
+    "absent": 301,
+    "name": "Patricie Prokešová",
+    "given_names": [
+      "Patricie"
+    ],
+    "family_names": [
+      "Prokešová"
+    ],
+    "organizations": [
+      {
+        "id": "most-rada:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-25"
+      }
+    ],
+    "since": "2022-10-25",
+    "present_share": 0.8759785744
+  },
+  {
+    "person_id": "most-rada:person:marketa-stara",
+    "vote_events_total": 2427,
+    "present": 2339,
+    "absent": 88,
+    "name": "Markéta Stará",
+    "given_names": [
+      "Markéta"
+    ],
+    "family_names": [
+      "Stará"
+    ],
+    "organizations": [
+      {
+        "id": "most-rada:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2022-10-25"
+      }
+    ],
+    "since": "2022-10-25",
+    "present_share": 0.9637412443
+  },
+  {
+    "person_id": "most-rada:person:vlastimil-vozka",
+    "vote_events_total": 2427,
+    "present": 2133,
+    "absent": 294,
+    "name": "Vlastimil Vozka",
+    "given_names": [
+      "Vlastimil"
+    ],
+    "family_names": [
+      "Vozka"
+    ],
+    "organizations": [
+      {
+        "id": "most-rada:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2022-10-25"
+      }
+    ],
+    "since": "2022-10-25",
+    "present_share": 0.8788627936
+  },
+  {
+    "person_id": "most-rada:person:vaclav-zahradnicek",
+    "vote_events_total": 2294,
+    "present": 2054,
+    "absent": 240,
+    "name": "Václav Zahradníček",
+    "given_names": [
+      "Václav"
+    ],
+    "family_names": [
+      "Zahradníček"
+    ],
+    "organizations": [
+      {
+        "id": "most-rada:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2023-01-12"
+      }
+    ],
+    "since": "2022-10-25",
+    "present_share": 0.8953792502
+  },
+  {
+    "person_id": "most-rada:person:ondrej-malek",
+    "vote_events_total": 133,
+    "present": 122,
+    "absent": 11,
+    "name": "Ondřej Málek",
+    "given_names": [
+      "Ondřej"
+    ],
+    "family_names": [
+      "Málek"
+    ],
+    "organizations": [
+      {
+        "id": "most-rada:org:group:promost",
+        "classification": "group",
+        "name": "ProMOST",
+        "since": "2022-10-25",
+        "until": "2022-12-08"
+      }
+    ],
+    "since": "2022-10-25",
+    "present_share": 0.9172932331
+  }
+]
