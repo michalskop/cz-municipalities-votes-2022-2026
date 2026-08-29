@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T22:49:25.828290+00:00",
+  "generated_at": "2026-08-29T09:00:58.655023+00:00",
   "method": "point_biserial_correlation",
   "n_dims": 3,
   "n_included_people": 9,
@@ -27,7 +27,7 @@
   "override_dim_index": null,
   "overridden": false,
   "effective_dim_index": 0,
-  "government_mean": -0.003188233623797712,
+  "government_mean": -0.0031882336237977326,
   "opposition_mean": 0.0,
   "government_sign": -1,
   "sources": {
