@@ -1,0 +1,77 @@
+# Source config for Ústí nad Labem. Investigated 2026-08-29 (see this repo's memory:
+# usti-nad-labem-source-research). The cleanest source found across all 7 cities so far — no
+# login, no session cookies, no format drift, no font-encoding corruption.
+
+system:
+  listing_page: "https://www.usti.cz/cz/uredni-portal/sprava-mesta/mesto-jeho-organy/zastupitelstvo-mesta/zapisy-z-jednani-zm.html"
+  note: >
+    Lists every ZM (Zastupitelstvo města) meeting of the CURRENT term directly, one row per
+    meeting, each with a "Hlasování N. ZM (date)" PDF link. No pagination, no login, no session
+    state — a single GET of this page gives the complete term enumeration. An "Archiv >>>" link
+    exists for older terms, not used here.
+
+pdf_url_pattern:
+  pattern: "https://www.usti.cz/files/rm-zm/h{NN}zm{YYYY}.pdf"
+  note: >
+    NN = 2-digit sequential meeting number WITHIN THE CURRENT TERM (01-24 confirmed as of
+    2026-08-29, i.e. per-term numbering like Plzeň's, not a running total across terms). YYYY =
+    calendar year the meeting was held in (not the term's start year) — confirmed from the
+    listing page's own links, e.g. h01zm2022.pdf (2022-10-24) through h24zm2026.pdf
+    (2026-06-15). No auth, no cookies — a plain unauthenticated GET works (confirmed via curl).
+  term_coverage: "h01zm2022 (2022-10-24, constitutive session) through h24zm2026 (2026-06-15, the
+    latest at time of writing) — 24 meetings total for the whole term so far."
+
+protocol_file_format:
+  type: "Real text-layer PDF (%PDF magic, FlateDecode streams) — NOT scanned/image-based."
+  encoding: "Clean UTF-8-equivalent text extraction via `pdftotext -layout` (poppler-utils) —
+    confirmed NO font-encoding corruption (unlike Plzeň's era3 PDFs), verified across 5 samples
+    spread through the whole term (meetings 1, 8, 13, 18, 24) with correct diacritics throughout
+    (e.g. 'Fialová', 'Nedvědický', 'Pinkasová') — never assume a clean sample generalizes without
+    checking more than one, per the Plzeň lesson, and this DID generalize."
+  bundling: >
+    ONE PDF per MEETING (not per vote, unlike Plzeň) — every "Hlasování č.N" block for that
+    meeting is concatenated in one file (37 vote blocks / 37 pages in the h24 sample). This means
+    the whole term's ~24 meetings need only ~24 downloads total, a far smaller scrape than any
+    other city's.
+  layout: >
+    Per meeting-file header: "Magistrát Ústí nad Labem" / "ZASTUPITELSTVO města Ústí nad Labem" /
+    "N. zasedání Zastupitelstva města Ústí nad Labem ze dne DD.MM.YYYY". Per vote block:
+    "Hlasování č.N", "Bod X: <title>", result line ("Přijato usnesení" / "Nepřijato usnesení" —
+    both confirmed present in the corpus, a real binary result signal for G2), totals line
+    ("Hlasoval: N   Pro: N   Proti: N   Zdržel se: N   Nehlasoval: N"), then repeated per-klub
+    blocks: klub name + "(Pro: N, Proti: N, Zdržel se: N)", then "FamilyName GivenName: <vote>"
+    pairs (3 per visual row, no HTML/structural markup at all — plain PDF text layout, columns
+    must be reconstructed from whitespace/position, similar in spirit to Plzeň's era3 PDFs but
+    without the font-corruption complication).
+  vote_option_vocabulary: >
+    Confirmed from the corpus: "Pro" (yes), "Proti" (no), "Zdržel se" (abstain), and a BLANK
+    value after the colon for people listed under a klub but with no vote recorded (confirmed via
+    roster-count cross-check to mean ABSENT: e.g. meeting 24 has 37 total named people across all
+    klubs but "Hlasoval: 34" present-count, matching exactly 3 blank-vote names found in the
+    text). "Nehlasoval" (not voting) appears as a NAMED FIELD in every totals line but was NEVER
+    observed to be > 0 across the 5 samples checked — its exact per-person string format is NOT
+    yet confirmed from a real example; assume the literal "Nehlasoval" string (matching every
+    other city's convention) until/unless the real corpus scan during standardize.py's build
+    finds a counterexample.
+  council_size: "37 total named council members (confirmed by counting every distinct name across
+    all klub blocks in the meeting-24 sample, cross-checked against the roster staying consistent
+    across the 5 samples checked)."
+  klub_history_note: >
+    Meeting 24's sample (2026-06-15) shows 7 klubs: ANO2011, PRO!Ústí, SPD, ODS, VašeÚstí, UFO,
+    and "nezařazení" (unaffiliated). Earlier samples (meetings 1, 8, 13, 18) show only 6 — NO
+    "nezařazení" klub present. This is a REAL klub-history event (someone became unaffiliated
+    partway through the term), not a format inconsistency — needs proper dated-interval handling
+    in the eventual C4 phase, not silently ignored. Exact date of the change not yet pinned down
+    (needs a bisection scan across meetings 19-23 during the actual build).
+
+not_yet_verified:
+  - "Full vote-vocabulary scan across the ENTIRE 24-meeting corpus (only 5 of 24 meetings sampled
+    during research) — in particular, a confirmed real 'Nehlasoval' example, and any unmapped/
+    corrupted vote value."
+  - "G5 namesake collision check across the full 37-member (or larger, once substitute members
+    across the term are counted) roster."
+  - "Exact date the 'nezařazení' klub first appears (bisect meetings 19-23)."
+  - "Whether rada (executive council) publishes named votes — a quick guess at a rada minutes URL
+    found no voting PDFs, but this was NOT a thorough check (unlike Most's rada investigation) and
+    should not be treated as a confirmed 'no'. Not pursued further per the standing default
+    (assembly first, rada only if asked)."
