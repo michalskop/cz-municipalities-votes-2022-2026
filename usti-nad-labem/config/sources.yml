@@ -57,12 +57,18 @@ protocol_file_format:
     all klub blocks in the meeting-24 sample, cross-checked against the roster staying consistent
     across the 5 samples checked)."
   klub_history_note: >
-    Meeting 24's sample (2026-06-15) shows 7 klubs: ANO2011, PRO!Ústí, SPD, ODS, VašeÚstí, UFO,
-    and "nezařazení" (unaffiliated). Earlier samples (meetings 1, 8, 13, 18) show only 6 — NO
-    "nezařazení" klub present. This is a REAL klub-history event (someone became unaffiliated
-    partway through the term), not a format inconsistency — needs proper dated-interval handling
-    in the eventual C4 phase, not silently ignored. Exact date of the change not yet pinned down
-    (needs a bisection scan across meetings 19-23 during the actual build).
+    CORRECTED 2026-08-29 (the original research-phase finding below was based on a buggy ad-hoc
+    grep that missed indented klub headers -- see standardize.py's _KLUB_RE fix for the same
+    underlying leading-whitespace bug): "nezařazení" (unaffiliated) is present in EVERY meeting
+    from meeting 2 onward, confirmed via a full 24-meeting scan -- NOT a mid-term appearance
+    needing dated-interval bisection. Only meeting 1 (the constitutive session) lacks it, which
+    makes sense (no one is unaffiliated before any klub assignment has happened yet). 7 klubs
+    total across the term: ANO2011, PRO!Ústí, SPD, ODS, VašeÚstí, UFO, nezařazení.
+  klub_history_note_original_2026_08_29: >
+    [SUPERSEDED, kept for the record] Original research-phase sample check (meetings 1, 8, 13, 18)
+    appeared to show only 6 klubs with no "nezařazení" -- turned out to be a false negative from
+    an unanchored grep, not a real absence. Lesson: re-verify a "missing" finding with the same
+    rigor as a "present" one before writing it up as fact.
 
 not_yet_verified:
   - "Full vote-vocabulary scan across the ENTIRE 24-meeting corpus (only 5 of 24 meetings sampled
