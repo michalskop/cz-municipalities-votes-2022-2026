@@ -1,0 +1,49 @@
+{
+  "since": "2022-10-24",
+  "until": null,
+  "present_options": ["yes", "no", "abstain"],
+  "absent_options": ["absent", "not voting"],
+  "yes_options": ["yes"],
+  "no_options": ["no"],
+  "government_groups": [
+    "usti-nad-labem:org:group:ano2011",
+    "usti-nad-labem:org:group:spd"
+  ],
+  "government_members": [
+    "usti-nad-labem:person:vera-nechybova",
+    "usti-nad-labem:person:pavel-tosovsky"
+  ],
+  "extras": {
+    "approval_status": "APPROVED by project owner 2026-08-29, per plan.md decision D7 — as drafted.",
+    "government_groups_citation": [
+      {
+        "claim": "Ústí nad Labem's 2022-2026 governing coalition, formed after the Oct 2022 election, is ANO2011 + SPD + 'přeběhlíci z UFO a ODS' (defectors from UFO and ODS) per Ústecký deník's headline coverage. Mayor (primátor) is Petr Nedvědický (ANO2011).",
+        "sources": [
+          "https://ustecky.denik.cz/volby-2022-komunalni/volby-vlada-usti-magistrat-primator-petr-nedvedicky-20221024.html (headline/summary only — full article fetch returned HTTP 403, not independently re-verified in full text)"
+        ]
+      },
+      {
+        "claim": "Corroborated and made PRECISE by cross-referencing this repo's own derived data: the official current Rada města Ústí nad Labem member list (usti.cz, fetched 2026-08-29) gives 9 names (primátor Petr Nedvědický + 3 náměstci Tomáš Vlach/Michal Mohr/Věra Nechybová + 5 more members: Pavel Tošovský, Eva Fialová, Jiří Horák, Bohumil Ježek, Eva Nováková). Matched against usti-nad-labem/data/memberships.csv's own derived klub data (built mechanically in C4, before this D7 research began, so not tailored to fit the news claim): 5 are ANO2011 (Nedvědický, Vlach, Fialová, Horák, Nováková), 2 are SPD (Mohr, Ježek), and exactly 2 are formally 'nezařazení' (Nechybová, Tošovský) — both have been nezařazení since the term's SECOND meeting (2022-11-21, i.e. immediately after the constitutive session), consistent with being the 'defectors' the news headline references. No current rada member belongs to UFO or ODS, matching the 'defectors left their klub' framing. A third nezařazení person (Petr Krause, nezařazení only since 2025-12-01) is NOT a rada member and is unrelated to the original 2022 coalition formation, so is deliberately excluded from government_members.",
+        "sources": [
+          "https://www.usti.cz/cz/uredni-portal/sprava-mesta/mesto-jeho-organy/rada-mesta/ (official current rada roster)",
+          "usti-nad-labem/data/memberships.csv (this repo's own derived data) — internal source-data citation, not an external news claim"
+        ]
+      },
+      {
+        "claim": "govity.py's own output (usti-nad-labem/analyses/govity/outputs/govity.json), generated AFTER this definition was drafted, independently confirms the exact originating klub of each defector: Pavel Tošovský's `organizations` history is ODS (2022-10-24 to 2022-11-21) then nezařazení (2022-11-21 onward); Věra Nechybová's is UFO (2022-10-24 to 2022-11-21) then nezařazení (2022-11-21 onward). This exactly matches the news headline's 'přeběhlíci z UFO a ODS' — one defector from each of the two named parties, both switching at the identical date (the term's 2nd meeting) — a level of precision this repo's own mechanically-derived data reached independently of the news text.",
+        "sources": [
+          "usti-nad-labem/analyses/govity/outputs/govity.json (this repo's own generated output) — internal, generated after and independent of this definition file's drafting"
+        ]
+      }
+    ],
+    "resolved_questions": [
+      {
+        "question": "Nechybová and Tošovský are formally listed under 'nezařazení' (unaffiliated), not a named coalition party — should they be treated as government via a whole-group membership, or excluded, or named individually?",
+        "resolution": "RESOLVED 2026-08-29 by project owner: named individually via government_members, since 'nezařazení' as a whole klub also includes an unrelated 3rd person (Krause) not part of the original coalition and not a rada member — a whole-group inclusion would have wrongly counted Krause as government too."
+      }
+    ],
+    "open_questions_for_owner": [
+      "Exact identities/dates of the 'defectors' were not independently confirmed from full news-article text (the Ústecký deník article itself returned HTTP 403) — the Nechybová/Tošovský identification rests on the rada-roster + memberships.csv cross-reference, corroborated by their per-klub history in govity.json (see the citation above), not a direct textual citation naming them. Considered solid given the precise, matching klub-origin + klub-timing match, but flagging the news-text gap for the record."
+    ]
+  }
+}

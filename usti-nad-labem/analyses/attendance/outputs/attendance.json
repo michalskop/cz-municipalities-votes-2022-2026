@@ -1,0 +1,953 @@
+[
+  {
+    "person_id": "usti-nad-labem:person:alena-pinkasova",
+    "vote_events_total": 562,
+    "present": 518,
+    "absent": 44,
+    "name": "Alena Pinkasová",
+    "given_names": [
+      "Alena"
+    ],
+    "family_names": [
+      "Pinkasová"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ano2011",
+        "classification": "group",
+        "name": "ANO2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9217081851
+  },
+  {
+    "person_id": "usti-nad-labem:person:bohumil-jezek",
+    "vote_events_total": 562,
+    "present": 562,
+    "absent": 0,
+    "name": "Bohumil Ježek",
+    "given_names": [
+      "Bohumil"
+    ],
+    "family_names": [
+      "Ježek"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 1.0
+  },
+  {
+    "person_id": "usti-nad-labem:person:dusan-oslej",
+    "vote_events_total": 562,
+    "present": 546,
+    "absent": 16,
+    "name": "Dušan Oslej",
+    "given_names": [
+      "Dušan"
+    ],
+    "family_names": [
+      "Oslej"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:pro-usti",
+        "classification": "group",
+        "name": "PRO!Ústí",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9715302491
+  },
+  {
+    "person_id": "usti-nad-labem:person:eva-fialova",
+    "vote_events_total": 562,
+    "present": 558,
+    "absent": 4,
+    "name": "Eva Fialová",
+    "given_names": [
+      "Eva"
+    ],
+    "family_names": [
+      "Fialová"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ano2011",
+        "classification": "group",
+        "name": "ANO2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9928825623
+  },
+  {
+    "person_id": "usti-nad-labem:person:eva-novakova",
+    "vote_events_total": 562,
+    "present": 562,
+    "absent": 0,
+    "name": "Eva Nováková",
+    "given_names": [
+      "Eva"
+    ],
+    "family_names": [
+      "Nováková"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ano2011",
+        "classification": "group",
+        "name": "ANO2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 1.0
+  },
+  {
+    "person_id": "usti-nad-labem:person:jan-bartonicek",
+    "vote_events_total": 562,
+    "present": 544,
+    "absent": 18,
+    "name": "Jan Bartoníček",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Bartoníček"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:pro-usti",
+        "classification": "group",
+        "name": "PRO!Ústí",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9679715302
+  },
+  {
+    "person_id": "usti-nad-labem:person:jan-hrouda",
+    "vote_events_total": 562,
+    "present": 489,
+    "absent": 73,
+    "name": "Jan Hrouda",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Hrouda"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:pro-usti",
+        "classification": "group",
+        "name": "PRO!Ústí",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.8701067616
+  },
+  {
+    "person_id": "usti-nad-labem:person:jana-kocarkova-maredova",
+    "vote_events_total": 562,
+    "present": 510,
+    "absent": 52,
+    "name": "Jana Kočárková Maredová",
+    "given_names": [
+      "Jana"
+    ],
+    "family_names": [
+      "Kočárková Maredová"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:pro-usti",
+        "classification": "group",
+        "name": "PRO!Ústí",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9074733096
+  },
+  {
+    "person_id": "usti-nad-labem:person:jaromir-hula",
+    "vote_events_total": 562,
+    "present": 518,
+    "absent": 44,
+    "name": "Jaromír Hůla",
+    "given_names": [
+      "Jaromír"
+    ],
+    "family_names": [
+      "Hůla"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9217081851
+  },
+  {
+    "person_id": "usti-nad-labem:person:jaroslav-pem",
+    "vote_events_total": 562,
+    "present": 523,
+    "absent": 39,
+    "name": "Jaroslav Pém",
+    "given_names": [
+      "Jaroslav"
+    ],
+    "family_names": [
+      "Pém"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ano2011",
+        "classification": "group",
+        "name": "ANO2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9306049822
+  },
+  {
+    "person_id": "usti-nad-labem:person:jiri-horak",
+    "vote_events_total": 562,
+    "present": 560,
+    "absent": 2,
+    "name": "Jiří Horák",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Horák"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ano2011",
+        "classification": "group",
+        "name": "ANO2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9964412811
+  },
+  {
+    "person_id": "usti-nad-labem:person:jiri-krois",
+    "vote_events_total": 562,
+    "present": 560,
+    "absent": 2,
+    "name": "Jiří Krois",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Krois"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ano2011",
+        "classification": "group",
+        "name": "ANO2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9964412811
+  },
+  {
+    "person_id": "usti-nad-labem:person:jiri-madar",
+    "vote_events_total": 562,
+    "present": 352,
+    "absent": 210,
+    "name": "Jiří Madar",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Madar"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ufo",
+        "classification": "group",
+        "name": "UFO",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.6263345196
+  },
+  {
+    "person_id": "usti-nad-labem:person:jiri-valenta",
+    "vote_events_total": 562,
+    "present": 526,
+    "absent": 36,
+    "name": "Jiří Valenta",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Valenta"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ano2011",
+        "classification": "group",
+        "name": "ANO2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9359430605
+  },
+  {
+    "person_id": "usti-nad-labem:person:josef-holub",
+    "vote_events_total": 562,
+    "present": 555,
+    "absent": 7,
+    "name": "Josef Holub",
+    "given_names": [
+      "Josef"
+    ],
+    "family_names": [
+      "Holub"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ano2011",
+        "classification": "group",
+        "name": "ANO2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.987544484
+  },
+  {
+    "person_id": "usti-nad-labem:person:karolina-zakovska",
+    "vote_events_total": 562,
+    "present": 508,
+    "absent": 54,
+    "name": "Karolína Žákovská",
+    "given_names": [
+      "Karolína"
+    ],
+    "family_names": [
+      "Žákovská"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:pro-usti",
+        "classification": "group",
+        "name": "PRO!Ústí",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9039145907
+  },
+  {
+    "person_id": "usti-nad-labem:person:katerina-pejznochova",
+    "vote_events_total": 288,
+    "present": 274,
+    "absent": 14,
+    "name": "Kateřina Pejznochová",
+    "given_names": [
+      "Kateřina"
+    ],
+    "family_names": [
+      "Pejznochová"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2022-10-24",
+        "until": "2024-10-02"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9513888889
+  },
+  {
+    "person_id": "usti-nad-labem:person:lenka-vonka-cerna",
+    "vote_events_total": 562,
+    "present": 491,
+    "absent": 71,
+    "name": "Lenka Vonka Černá",
+    "given_names": [
+      "Lenka"
+    ],
+    "family_names": [
+      "Vonka Černá"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:vaseusti",
+        "classification": "group",
+        "name": "VašeÚstí",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.8736654804
+  },
+  {
+    "person_id": "usti-nad-labem:person:lukas-blazej",
+    "vote_events_total": 562,
+    "present": 515,
+    "absent": 47,
+    "name": "Lukáš Blažej",
+    "given_names": [
+      "Lukáš"
+    ],
+    "family_names": [
+      "Blažej"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:pro-usti",
+        "classification": "group",
+        "name": "PRO!Ústí",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9163701068
+  },
+  {
+    "person_id": "usti-nad-labem:person:lukas-sinu",
+    "vote_events_total": 562,
+    "present": 543,
+    "absent": 19,
+    "name": "Lukáš Sinu",
+    "given_names": [
+      "Lukáš"
+    ],
+    "family_names": [
+      "Sinu"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ano2011",
+        "classification": "group",
+        "name": "ANO2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9661921708
+  },
+  {
+    "person_id": "usti-nad-labem:person:marie-capova",
+    "vote_events_total": 562,
+    "present": 391,
+    "absent": 171,
+    "name": "Marie Čápová",
+    "given_names": [
+      "Marie"
+    ],
+    "family_names": [
+      "Čápová"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:vaseusti",
+        "classification": "group",
+        "name": "VašeÚstí",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.6957295374
+  },
+  {
+    "person_id": "usti-nad-labem:person:martin-balej",
+    "vote_events_total": 319,
+    "present": 189,
+    "absent": 130,
+    "name": "Martin Balej",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Balej"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2022-10-24",
+        "until": "2024-03-18"
+      },
+      {
+        "id": "usti-nad-labem:org:group:nezarazeni",
+        "classification": "group",
+        "name": "nezařazení",
+        "since": "2024-03-18",
+        "until": "2024-12-02"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.592476489
+  },
+  {
+    "person_id": "usti-nad-labem:person:martin-krsek",
+    "vote_events_total": 562,
+    "present": 502,
+    "absent": 60,
+    "name": "Martin Krsek",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Krsek"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:pro-usti",
+        "classification": "group",
+        "name": "PRO!Ústí",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.8932384342
+  },
+  {
+    "person_id": "usti-nad-labem:person:michal-mohr",
+    "vote_events_total": 562,
+    "present": 562,
+    "absent": 0,
+    "name": "Michal Mohr",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Mohr"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 1.0
+  },
+  {
+    "person_id": "usti-nad-labem:person:michal-sidak",
+    "vote_events_total": 562,
+    "present": 388,
+    "absent": 174,
+    "name": "Michal Šidák",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Šidák"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.6903914591
+  },
+  {
+    "person_id": "usti-nad-labem:person:patricie-junkova",
+    "vote_events_total": 333,
+    "present": 333,
+    "absent": 0,
+    "name": "Patricie Junková",
+    "given_names": [
+      "Patricie"
+    ],
+    "family_names": [
+      "Junková"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2024-03-18"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 1.0
+  },
+  {
+    "person_id": "usti-nad-labem:person:patricie-sejnohova",
+    "vote_events_total": 229,
+    "present": 207,
+    "absent": 22,
+    "name": "Patricie Šejnohová",
+    "given_names": [
+      "Patricie"
+    ],
+    "family_names": [
+      "Šejnohová"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2022-10-24",
+        "until": "2024-03-18"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.903930131
+  },
+  {
+    "person_id": "usti-nad-labem:person:pavel-peterka",
+    "vote_events_total": 562,
+    "present": 553,
+    "absent": 9,
+    "name": "Pavel Peterka",
+    "given_names": [
+      "Pavel"
+    ],
+    "family_names": [
+      "Peterka"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ano2011",
+        "classification": "group",
+        "name": "ANO2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9839857651
+  },
+  {
+    "person_id": "usti-nad-labem:person:pavel-tosovsky",
+    "vote_events_total": 562,
+    "present": 562,
+    "absent": 0,
+    "name": "Pavel Tošovský",
+    "given_names": [
+      "Pavel"
+    ],
+    "family_names": [
+      "Tošovský"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2022-10-24",
+        "until": "2022-11-21"
+      },
+      {
+        "id": "usti-nad-labem:org:group:nezarazeni",
+        "classification": "group",
+        "name": "nezařazení",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 1.0
+  },
+  {
+    "person_id": "usti-nad-labem:person:petr-krause",
+    "vote_events_total": 562,
+    "present": 554,
+    "absent": 8,
+    "name": "Petr Krause",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Krause"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2022-10-24",
+        "until": "2025-12-01"
+      },
+      {
+        "id": "usti-nad-labem:org:group:nezarazeni",
+        "classification": "group",
+        "name": "nezařazení",
+        "since": "2025-12-01"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9857651246
+  },
+  {
+    "person_id": "usti-nad-labem:person:petr-krivan",
+    "vote_events_total": 562,
+    "present": 457,
+    "absent": 105,
+    "name": "Petr Křivan",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Křivan"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ufo",
+        "classification": "group",
+        "name": "UFO",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.8131672598
+  },
+  {
+    "person_id": "usti-nad-labem:person:petr-nedvedicky",
+    "vote_events_total": 562,
+    "present": 557,
+    "absent": 5,
+    "name": "Petr Nedvědický",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Nedvědický"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ano2011",
+        "classification": "group",
+        "name": "ANO2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9911032028
+  },
+  {
+    "person_id": "usti-nad-labem:person:radek-weber",
+    "vote_events_total": 243,
+    "present": 233,
+    "absent": 10,
+    "name": "Radek Weber",
+    "given_names": [
+      "Radek"
+    ],
+    "family_names": [
+      "Weber"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2024-12-02"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9588477366
+  },
+  {
+    "person_id": "usti-nad-labem:person:radim-bzura",
+    "vote_events_total": 274,
+    "present": 232,
+    "absent": 42,
+    "name": "Radim Bzura",
+    "given_names": [
+      "Radim"
+    ],
+    "family_names": [
+      "Bzura"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2024-10-02"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.8467153285
+  },
+  {
+    "person_id": "usti-nad-labem:person:richard-loskot",
+    "vote_events_total": 562,
+    "present": 480,
+    "absent": 82,
+    "name": "Richard Loskot",
+    "given_names": [
+      "Richard"
+    ],
+    "family_names": [
+      "Loskot"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:pro-usti",
+        "classification": "group",
+        "name": "PRO!Ústí",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.8540925267
+  },
+  {
+    "person_id": "usti-nad-labem:person:tomas-kirbs",
+    "vote_events_total": 562,
+    "present": 555,
+    "absent": 7,
+    "name": "Tomáš Kirbs",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Kirbs"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ano2011",
+        "classification": "group",
+        "name": "ANO2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.987544484
+  },
+  {
+    "person_id": "usti-nad-labem:person:tomas-vlach",
+    "vote_events_total": 562,
+    "present": 562,
+    "absent": 0,
+    "name": "Tomáš Vlach",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Vlach"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ano2011",
+        "classification": "group",
+        "name": "ANO2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 1.0
+  },
+  {
+    "person_id": "usti-nad-labem:person:vera-nechybova",
+    "vote_events_total": 562,
+    "present": 559,
+    "absent": 3,
+    "name": "Věra Nechybová",
+    "given_names": [
+      "Věra"
+    ],
+    "family_names": [
+      "Nechybová"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ufo",
+        "classification": "group",
+        "name": "UFO",
+        "since": "2022-10-24",
+        "until": "2022-11-21"
+      },
+      {
+        "id": "usti-nad-labem:org:group:nezarazeni",
+        "classification": "group",
+        "name": "nezařazení",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9946619217
+  },
+  {
+    "person_id": "usti-nad-labem:person:yveta-tomkova",
+    "vote_events_total": 562,
+    "present": 492,
+    "absent": 70,
+    "name": "Yveta Tomková",
+    "given_names": [
+      "Yveta"
+    ],
+    "family_names": [
+      "Tomková"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:vaseusti",
+        "classification": "group",
+        "name": "VašeÚstí",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.8754448399
+  },
+  {
+    "person_id": "usti-nad-labem:person:zdenek-grus",
+    "vote_events_total": 562,
+    "present": 447,
+    "absent": 115,
+    "name": "Zdeněk Grus",
+    "given_names": [
+      "Zdeněk"
+    ],
+    "family_names": [
+      "Grus"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:vaseusti",
+        "classification": "group",
+        "name": "VašeÚstí",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.7953736655
+  }
+]

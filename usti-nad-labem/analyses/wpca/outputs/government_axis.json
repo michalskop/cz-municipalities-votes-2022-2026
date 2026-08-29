@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-08-29T19:08:41.634421+00:00",
+  "method": "point_biserial_correlation",
+  "n_dims": 3,
+  "n_included_people": 40,
+  "government_groups": [
+    "usti-nad-labem:org:group:ano2011",
+    "usti-nad-labem:org:group:spd"
+  ],
+  "government_members": [
+    "usti-nad-labem:person:vera-nechybova",
+    "usti-nad-labem:person:pavel-tosovsky"
+  ],
+  "government_person_count": 21,
+  "opposition_person_count": 19,
+  "correlations": [
+    {
+      "dim_index": 0,
+      "correlation": 0.9743747191433039
+    },
+    {
+      "dim_index": 1,
+      "correlation": 0.10974797621758413
+    },
+    {
+      "dim_index": 2,
+      "correlation": 0.17569553765073298
+    }
+  ],
+  "detected_dim_index": 0,
+  "override_dim_index": null,
+  "overridden": false,
+  "effective_dim_index": 0,
+  "government_mean": 0.7113046759996428,
+  "opposition_mean": -0.9017776822922512,
+  "government_sign": 1,
+  "sources": {
+    "wpca_output": "usti-nad-labem/analyses/wpca/outputs/wpca.json",
+    "wpca_definition": "usti-nad-labem/analyses/wpca/wpca_definition.json",
+    "govity_definition": "usti-nad-labem/analyses/govity/govity_definition.json",
+    "memberships": "usti-nad-labem/data/memberships.csv"
+  }
+}

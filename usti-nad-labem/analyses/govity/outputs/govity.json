@@ -1,0 +1,913 @@
+[
+  {
+    "person_id": "usti-nad-labem:person:alena-pinkasova",
+    "govity_total": 514,
+    "govity_possible": 516,
+    "govity": 0.996124,
+    "name": "Alena Pinkasová",
+    "given_names": [
+      "Alena"
+    ],
+    "family_names": [
+      "Pinkasová"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ano2011",
+        "classification": "group",
+        "name": "ANO2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:bohumil-jezek",
+    "govity_total": 559,
+    "govity_possible": 560,
+    "govity": 0.998214,
+    "name": "Bohumil Ježek",
+    "given_names": [
+      "Bohumil"
+    ],
+    "family_names": [
+      "Ježek"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:dusan-oslej",
+    "govity_total": 409,
+    "govity_possible": 544,
+    "govity": 0.751838,
+    "name": "Dušan Oslej",
+    "given_names": [
+      "Dušan"
+    ],
+    "family_names": [
+      "Oslej"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:pro-usti",
+        "classification": "group",
+        "name": "PRO!Ústí",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:eva-fialova",
+    "govity_total": 553,
+    "govity_possible": 556,
+    "govity": 0.994604,
+    "name": "Eva Fialová",
+    "given_names": [
+      "Eva"
+    ],
+    "family_names": [
+      "Fialová"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ano2011",
+        "classification": "group",
+        "name": "ANO2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:eva-novakova",
+    "govity_total": 559,
+    "govity_possible": 560,
+    "govity": 0.998214,
+    "name": "Eva Nováková",
+    "given_names": [
+      "Eva"
+    ],
+    "family_names": [
+      "Nováková"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ano2011",
+        "classification": "group",
+        "name": "ANO2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:jan-bartonicek",
+    "govity_total": 422,
+    "govity_possible": 542,
+    "govity": 0.778598,
+    "name": "Jan Bartoníček",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Bartoníček"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:pro-usti",
+        "classification": "group",
+        "name": "PRO!Ústí",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:jan-hrouda",
+    "govity_total": 383,
+    "govity_possible": 487,
+    "govity": 0.786448,
+    "name": "Jan Hrouda",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Hrouda"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:pro-usti",
+        "classification": "group",
+        "name": "PRO!Ústí",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:jana-kocarkova-maredova",
+    "govity_total": 393,
+    "govity_possible": 510,
+    "govity": 0.770588,
+    "name": "Jana Kočárková Maredová",
+    "given_names": [
+      "Jana"
+    ],
+    "family_names": [
+      "Kočárková Maredová"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:pro-usti",
+        "classification": "group",
+        "name": "PRO!Ústí",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:jaromir-hula",
+    "govity_total": 517,
+    "govity_possible": 518,
+    "govity": 0.998069,
+    "name": "Jaromír Hůla",
+    "given_names": [
+      "Jaromír"
+    ],
+    "family_names": [
+      "Hůla"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:jaroslav-pem",
+    "govity_total": 519,
+    "govity_possible": 521,
+    "govity": 0.996161,
+    "name": "Jaroslav Pém",
+    "given_names": [
+      "Jaroslav"
+    ],
+    "family_names": [
+      "Pém"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ano2011",
+        "classification": "group",
+        "name": "ANO2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:jiri-horak",
+    "govity_total": 553,
+    "govity_possible": 558,
+    "govity": 0.991039,
+    "name": "Jiří Horák",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Horák"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ano2011",
+        "classification": "group",
+        "name": "ANO2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:jiri-krois",
+    "govity_total": 551,
+    "govity_possible": 558,
+    "govity": 0.987455,
+    "name": "Jiří Krois",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Krois"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ano2011",
+        "classification": "group",
+        "name": "ANO2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:jiri-madar",
+    "govity_total": 298,
+    "govity_possible": 350,
+    "govity": 0.851429,
+    "name": "Jiří Madar",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Madar"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ufo",
+        "classification": "group",
+        "name": "UFO",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:jiri-valenta",
+    "govity_total": 524,
+    "govity_possible": 524,
+    "govity": 1.0,
+    "name": "Jiří Valenta",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Valenta"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ano2011",
+        "classification": "group",
+        "name": "ANO2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:josef-holub",
+    "govity_total": 551,
+    "govity_possible": 553,
+    "govity": 0.996383,
+    "name": "Josef Holub",
+    "given_names": [
+      "Josef"
+    ],
+    "family_names": [
+      "Holub"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ano2011",
+        "classification": "group",
+        "name": "ANO2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:karolina-zakovska",
+    "govity_total": 392,
+    "govity_possible": 506,
+    "govity": 0.774704,
+    "name": "Karolína Žákovská",
+    "given_names": [
+      "Karolína"
+    ],
+    "family_names": [
+      "Žákovská"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:pro-usti",
+        "classification": "group",
+        "name": "PRO!Ústí",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:katerina-pejznochova",
+    "govity_total": 230,
+    "govity_possible": 274,
+    "govity": 0.839416,
+    "name": "Kateřina Pejznochová",
+    "given_names": [
+      "Kateřina"
+    ],
+    "family_names": [
+      "Pejznochová"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2022-10-24",
+        "until": "2024-10-02"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:lenka-vonka-cerna",
+    "govity_total": 456,
+    "govity_possible": 489,
+    "govity": 0.932515,
+    "name": "Lenka Vonka Černá",
+    "given_names": [
+      "Lenka"
+    ],
+    "family_names": [
+      "Vonka Černá"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:vaseusti",
+        "classification": "group",
+        "name": "VašeÚstí",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:lukas-blazej",
+    "govity_total": 391,
+    "govity_possible": 515,
+    "govity": 0.759223,
+    "name": "Lukáš Blažej",
+    "given_names": [
+      "Lukáš"
+    ],
+    "family_names": [
+      "Blažej"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:pro-usti",
+        "classification": "group",
+        "name": "PRO!Ústí",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:lukas-sinu",
+    "govity_total": 540,
+    "govity_possible": 541,
+    "govity": 0.998152,
+    "name": "Lukáš Sinu",
+    "given_names": [
+      "Lukáš"
+    ],
+    "family_names": [
+      "Sinu"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ano2011",
+        "classification": "group",
+        "name": "ANO2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:marie-capova",
+    "govity_total": 363,
+    "govity_possible": 389,
+    "govity": 0.933162,
+    "name": "Marie Čápová",
+    "given_names": [
+      "Marie"
+    ],
+    "family_names": [
+      "Čápová"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:vaseusti",
+        "classification": "group",
+        "name": "VašeÚstí",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:martin-balej",
+    "govity_total": 154,
+    "govity_possible": 189,
+    "govity": 0.814815,
+    "name": "Martin Balej",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Balej"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2022-10-24",
+        "until": "2024-03-18"
+      },
+      {
+        "id": "usti-nad-labem:org:group:nezarazeni",
+        "classification": "group",
+        "name": "nezařazení",
+        "since": "2024-03-18",
+        "until": "2024-12-02"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:martin-krsek",
+    "govity_total": 381,
+    "govity_possible": 502,
+    "govity": 0.758964,
+    "name": "Martin Krsek",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Krsek"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:pro-usti",
+        "classification": "group",
+        "name": "PRO!Ústí",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:michal-mohr",
+    "govity_total": 556,
+    "govity_possible": 560,
+    "govity": 0.992857,
+    "name": "Michal Mohr",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Mohr"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:michal-sidak",
+    "govity_total": 353,
+    "govity_possible": 388,
+    "govity": 0.909794,
+    "name": "Michal Šidák",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Šidák"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:patricie-junkova",
+    "govity_total": 329,
+    "govity_possible": 331,
+    "govity": 0.993958,
+    "name": "Patricie Junková",
+    "given_names": [
+      "Patricie"
+    ],
+    "family_names": [
+      "Junková"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2024-03-18"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:patricie-sejnohova",
+    "govity_total": 206,
+    "govity_possible": 207,
+    "govity": 0.995169,
+    "name": "Patricie Šejnohová",
+    "given_names": [
+      "Patricie"
+    ],
+    "family_names": [
+      "Šejnohová"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2022-10-24",
+        "until": "2024-03-18"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:pavel-peterka",
+    "govity_total": 543,
+    "govity_possible": 551,
+    "govity": 0.985481,
+    "name": "Pavel Peterka",
+    "given_names": [
+      "Pavel"
+    ],
+    "family_names": [
+      "Peterka"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ano2011",
+        "classification": "group",
+        "name": "ANO2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:pavel-tosovsky",
+    "govity_total": 553,
+    "govity_possible": 560,
+    "govity": 0.9875,
+    "name": "Pavel Tošovský",
+    "given_names": [
+      "Pavel"
+    ],
+    "family_names": [
+      "Tošovský"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2022-10-24",
+        "until": "2022-11-21"
+      },
+      {
+        "id": "usti-nad-labem:org:group:nezarazeni",
+        "classification": "group",
+        "name": "nezařazení",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:petr-krause",
+    "govity_total": 548,
+    "govity_possible": 552,
+    "govity": 0.992754,
+    "name": "Petr Krause",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Krause"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2022-10-24",
+        "until": "2025-12-01"
+      },
+      {
+        "id": "usti-nad-labem:org:group:nezarazeni",
+        "classification": "group",
+        "name": "nezařazení",
+        "since": "2025-12-01"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:petr-krivan",
+    "govity_total": 371,
+    "govity_possible": 455,
+    "govity": 0.815385,
+    "name": "Petr Křivan",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Křivan"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ufo",
+        "classification": "group",
+        "name": "UFO",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:petr-nedvedicky",
+    "govity_total": 553,
+    "govity_possible": 555,
+    "govity": 0.996396,
+    "name": "Petr Nedvědický",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Nedvědický"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ano2011",
+        "classification": "group",
+        "name": "ANO2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:radek-weber",
+    "govity_total": 212,
+    "govity_possible": 231,
+    "govity": 0.917749,
+    "name": "Radek Weber",
+    "given_names": [
+      "Radek"
+    ],
+    "family_names": [
+      "Weber"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2024-12-02"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:radim-bzura",
+    "govity_total": 208,
+    "govity_possible": 230,
+    "govity": 0.904348,
+    "name": "Radim Bzura",
+    "given_names": [
+      "Radim"
+    ],
+    "family_names": [
+      "Bzura"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2024-10-02"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:richard-loskot",
+    "govity_total": 367,
+    "govity_possible": 478,
+    "govity": 0.767782,
+    "name": "Richard Loskot",
+    "given_names": [
+      "Richard"
+    ],
+    "family_names": [
+      "Loskot"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:pro-usti",
+        "classification": "group",
+        "name": "PRO!Ústí",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:tomas-kirbs",
+    "govity_total": 551,
+    "govity_possible": 553,
+    "govity": 0.996383,
+    "name": "Tomáš Kirbs",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Kirbs"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ano2011",
+        "classification": "group",
+        "name": "ANO2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:tomas-vlach",
+    "govity_total": 558,
+    "govity_possible": 560,
+    "govity": 0.996429,
+    "name": "Tomáš Vlach",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Vlach"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ano2011",
+        "classification": "group",
+        "name": "ANO2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:vera-nechybova",
+    "govity_total": 552,
+    "govity_possible": 557,
+    "govity": 0.991023,
+    "name": "Věra Nechybová",
+    "given_names": [
+      "Věra"
+    ],
+    "family_names": [
+      "Nechybová"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ufo",
+        "classification": "group",
+        "name": "UFO",
+        "since": "2022-10-24",
+        "until": "2022-11-21"
+      },
+      {
+        "id": "usti-nad-labem:org:group:nezarazeni",
+        "classification": "group",
+        "name": "nezařazení",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:yveta-tomkova",
+    "govity_total": 454,
+    "govity_possible": 490,
+    "govity": 0.926531,
+    "name": "Yveta Tomková",
+    "given_names": [
+      "Yveta"
+    ],
+    "family_names": [
+      "Tomková"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:vaseusti",
+        "classification": "group",
+        "name": "VašeÚstí",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:zdenek-grus",
+    "govity_total": 418,
+    "govity_possible": 447,
+    "govity": 0.935123,
+    "name": "Zdeněk Grus",
+    "given_names": [
+      "Zdeněk"
+    ],
+    "family_names": [
+      "Grus"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:vaseusti",
+        "classification": "group",
+        "name": "VašeÚstí",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  }
+]

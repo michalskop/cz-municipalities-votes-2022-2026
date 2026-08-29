@@ -1,0 +1,913 @@
+[
+  {
+    "person_id": "usti-nad-labem:person:alena-pinkasova",
+    "rebelity_total": 3,
+    "rebelity_possible": 562,
+    "rebelity": 0.005338,
+    "name": "Alena Pinkasová",
+    "given_names": [
+      "Alena"
+    ],
+    "family_names": [
+      "Pinkasová"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ano2011",
+        "classification": "group",
+        "name": "ANO2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:bohumil-jezek",
+    "rebelity_total": 4,
+    "rebelity_possible": 562,
+    "rebelity": 0.007117,
+    "name": "Bohumil Ježek",
+    "given_names": [
+      "Bohumil"
+    ],
+    "family_names": [
+      "Ježek"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:dusan-oslej",
+    "rebelity_total": 10,
+    "rebelity_possible": 556,
+    "rebelity": 0.017986,
+    "name": "Dušan Oslej",
+    "given_names": [
+      "Dušan"
+    ],
+    "family_names": [
+      "Oslej"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:pro-usti",
+        "classification": "group",
+        "name": "PRO!Ústí",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:eva-fialova",
+    "rebelity_total": 3,
+    "rebelity_possible": 562,
+    "rebelity": 0.005338,
+    "name": "Eva Fialová",
+    "given_names": [
+      "Eva"
+    ],
+    "family_names": [
+      "Fialová"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ano2011",
+        "classification": "group",
+        "name": "ANO2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:eva-novakova",
+    "rebelity_total": 2,
+    "rebelity_possible": 562,
+    "rebelity": 0.003559,
+    "name": "Eva Nováková",
+    "given_names": [
+      "Eva"
+    ],
+    "family_names": [
+      "Nováková"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ano2011",
+        "classification": "group",
+        "name": "ANO2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:jan-bartonicek",
+    "rebelity_total": 12,
+    "rebelity_possible": 556,
+    "rebelity": 0.021583,
+    "name": "Jan Bartoníček",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Bartoníček"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:pro-usti",
+        "classification": "group",
+        "name": "PRO!Ústí",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:jan-hrouda",
+    "rebelity_total": 11,
+    "rebelity_possible": 556,
+    "rebelity": 0.019784,
+    "name": "Jan Hrouda",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Hrouda"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:pro-usti",
+        "classification": "group",
+        "name": "PRO!Ústí",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:jana-kocarkova-maredova",
+    "rebelity_total": 3,
+    "rebelity_possible": 556,
+    "rebelity": 0.005396,
+    "name": "Jana Kočárková Maredová",
+    "given_names": [
+      "Jana"
+    ],
+    "family_names": [
+      "Kočárková Maredová"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:pro-usti",
+        "classification": "group",
+        "name": "PRO!Ústí",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:jaromir-hula",
+    "rebelity_total": 4,
+    "rebelity_possible": 562,
+    "rebelity": 0.007117,
+    "name": "Jaromír Hůla",
+    "given_names": [
+      "Jaromír"
+    ],
+    "family_names": [
+      "Hůla"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:jaroslav-pem",
+    "rebelity_total": 2,
+    "rebelity_possible": 562,
+    "rebelity": 0.003559,
+    "name": "Jaroslav Pém",
+    "given_names": [
+      "Jaroslav"
+    ],
+    "family_names": [
+      "Pém"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ano2011",
+        "classification": "group",
+        "name": "ANO2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:jiri-horak",
+    "rebelity_total": 5,
+    "rebelity_possible": 562,
+    "rebelity": 0.008897,
+    "name": "Jiří Horák",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Horák"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ano2011",
+        "classification": "group",
+        "name": "ANO2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:jiri-krois",
+    "rebelity_total": 7,
+    "rebelity_possible": 562,
+    "rebelity": 0.012456,
+    "name": "Jiří Krois",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Krois"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ano2011",
+        "classification": "group",
+        "name": "ANO2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:jiri-madar",
+    "rebelity_total": 0,
+    "rebelity_possible": 458,
+    "rebelity": 0.0,
+    "name": "Jiří Madar",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Madar"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ufo",
+        "classification": "group",
+        "name": "UFO",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:jiri-valenta",
+    "rebelity_total": 0,
+    "rebelity_possible": 562,
+    "rebelity": 0.0,
+    "name": "Jiří Valenta",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Valenta"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ano2011",
+        "classification": "group",
+        "name": "ANO2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:josef-holub",
+    "rebelity_total": 3,
+    "rebelity_possible": 562,
+    "rebelity": 0.005338,
+    "name": "Josef Holub",
+    "given_names": [
+      "Josef"
+    ],
+    "family_names": [
+      "Holub"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ano2011",
+        "classification": "group",
+        "name": "ANO2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:karolina-zakovska",
+    "rebelity_total": 9,
+    "rebelity_possible": 556,
+    "rebelity": 0.016187,
+    "name": "Karolína Žákovská",
+    "given_names": [
+      "Karolína"
+    ],
+    "family_names": [
+      "Žákovská"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:pro-usti",
+        "classification": "group",
+        "name": "PRO!Ústí",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:katerina-pejznochova",
+    "rebelity_total": 0,
+    "rebelity_possible": 303,
+    "rebelity": 0.0,
+    "name": "Kateřina Pejznochová",
+    "given_names": [
+      "Kateřina"
+    ],
+    "family_names": [
+      "Pejznochová"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2022-10-24",
+        "until": "2024-10-02"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:lenka-vonka-cerna",
+    "rebelity_total": 5,
+    "rebelity_possible": 522,
+    "rebelity": 0.009579,
+    "name": "Lenka Vonka Černá",
+    "given_names": [
+      "Lenka"
+    ],
+    "family_names": [
+      "Vonka Černá"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:vaseusti",
+        "classification": "group",
+        "name": "VašeÚstí",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:lukas-blazej",
+    "rebelity_total": 2,
+    "rebelity_possible": 556,
+    "rebelity": 0.003597,
+    "name": "Lukáš Blažej",
+    "given_names": [
+      "Lukáš"
+    ],
+    "family_names": [
+      "Blažej"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:pro-usti",
+        "classification": "group",
+        "name": "PRO!Ústí",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:lukas-sinu",
+    "rebelity_total": 1,
+    "rebelity_possible": 562,
+    "rebelity": 0.001779,
+    "name": "Lukáš Sinu",
+    "given_names": [
+      "Lukáš"
+    ],
+    "family_names": [
+      "Sinu"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ano2011",
+        "classification": "group",
+        "name": "ANO2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:marie-capova",
+    "rebelity_total": 1,
+    "rebelity_possible": 522,
+    "rebelity": 0.001916,
+    "name": "Marie Čápová",
+    "given_names": [
+      "Marie"
+    ],
+    "family_names": [
+      "Čápová"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:vaseusti",
+        "classification": "group",
+        "name": "VašeÚstí",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:martin-balej",
+    "rebelity_total": 7,
+    "rebelity_possible": 347,
+    "rebelity": 0.020173,
+    "name": "Martin Balej",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Balej"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2022-10-24",
+        "until": "2024-03-18"
+      },
+      {
+        "id": "usti-nad-labem:org:group:nezarazeni",
+        "classification": "group",
+        "name": "nezařazení",
+        "since": "2024-03-18",
+        "until": "2024-12-02"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:martin-krsek",
+    "rebelity_total": 7,
+    "rebelity_possible": 556,
+    "rebelity": 0.01259,
+    "name": "Martin Krsek",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Krsek"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:pro-usti",
+        "classification": "group",
+        "name": "PRO!Ústí",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:michal-mohr",
+    "rebelity_total": 3,
+    "rebelity_possible": 562,
+    "rebelity": 0.005338,
+    "name": "Michal Mohr",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Mohr"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:michal-sidak",
+    "rebelity_total": 1,
+    "rebelity_possible": 529,
+    "rebelity": 0.00189,
+    "name": "Michal Šidák",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Šidák"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:patricie-junkova",
+    "rebelity_total": 3,
+    "rebelity_possible": 333,
+    "rebelity": 0.009009,
+    "name": "Patricie Junková",
+    "given_names": [
+      "Patricie"
+    ],
+    "family_names": [
+      "Junková"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2024-03-18"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:patricie-sejnohova",
+    "rebelity_total": 1,
+    "rebelity_possible": 254,
+    "rebelity": 0.003937,
+    "name": "Patricie Šejnohová",
+    "given_names": [
+      "Patricie"
+    ],
+    "family_names": [
+      "Šejnohová"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2022-10-24",
+        "until": "2024-03-18"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:pavel-peterka",
+    "rebelity_total": 8,
+    "rebelity_possible": 562,
+    "rebelity": 0.014235,
+    "name": "Pavel Peterka",
+    "given_names": [
+      "Pavel"
+    ],
+    "family_names": [
+      "Peterka"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ano2011",
+        "classification": "group",
+        "name": "ANO2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:pavel-tosovsky",
+    "rebelity_total": 13,
+    "rebelity_possible": 558,
+    "rebelity": 0.023297,
+    "name": "Pavel Tošovský",
+    "given_names": [
+      "Pavel"
+    ],
+    "family_names": [
+      "Tošovský"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2022-10-24",
+        "until": "2022-11-21"
+      },
+      {
+        "id": "usti-nad-labem:org:group:nezarazeni",
+        "classification": "group",
+        "name": "nezařazení",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:petr-krause",
+    "rebelity_total": 6,
+    "rebelity_possible": 562,
+    "rebelity": 0.010676,
+    "name": "Petr Krause",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Krause"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2022-10-24",
+        "until": "2025-12-01"
+      },
+      {
+        "id": "usti-nad-labem:org:group:nezarazeni",
+        "classification": "group",
+        "name": "nezařazení",
+        "since": "2025-12-01"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:petr-krivan",
+    "rebelity_total": 0,
+    "rebelity_possible": 458,
+    "rebelity": 0.0,
+    "name": "Petr Křivan",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Křivan"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ufo",
+        "classification": "group",
+        "name": "UFO",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:petr-nedvedicky",
+    "rebelity_total": 3,
+    "rebelity_possible": 562,
+    "rebelity": 0.005338,
+    "name": "Petr Nedvědický",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Nedvědický"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ano2011",
+        "classification": "group",
+        "name": "ANO2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:radek-weber",
+    "rebelity_total": 6,
+    "rebelity_possible": 226,
+    "rebelity": 0.026549,
+    "name": "Radek Weber",
+    "given_names": [
+      "Radek"
+    ],
+    "family_names": [
+      "Weber"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2024-12-02"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:radim-bzura",
+    "rebelity_total": 3,
+    "rebelity_possible": 252,
+    "rebelity": 0.011905,
+    "name": "Radim Bzura",
+    "given_names": [
+      "Radim"
+    ],
+    "family_names": [
+      "Bzura"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2024-10-02"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:richard-loskot",
+    "rebelity_total": 6,
+    "rebelity_possible": 556,
+    "rebelity": 0.010791,
+    "name": "Richard Loskot",
+    "given_names": [
+      "Richard"
+    ],
+    "family_names": [
+      "Loskot"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:pro-usti",
+        "classification": "group",
+        "name": "PRO!Ústí",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:tomas-kirbs",
+    "rebelity_total": 2,
+    "rebelity_possible": 562,
+    "rebelity": 0.003559,
+    "name": "Tomáš Kirbs",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Kirbs"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ano2011",
+        "classification": "group",
+        "name": "ANO2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:tomas-vlach",
+    "rebelity_total": 2,
+    "rebelity_possible": 562,
+    "rebelity": 0.003559,
+    "name": "Tomáš Vlach",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Vlach"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ano2011",
+        "classification": "group",
+        "name": "ANO2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:vera-nechybova",
+    "rebelity_total": 7,
+    "rebelity_possible": 556,
+    "rebelity": 0.01259,
+    "name": "Věra Nechybová",
+    "given_names": [
+      "Věra"
+    ],
+    "family_names": [
+      "Nechybová"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:ufo",
+        "classification": "group",
+        "name": "UFO",
+        "since": "2022-10-24",
+        "until": "2022-11-21"
+      },
+      {
+        "id": "usti-nad-labem:org:group:nezarazeni",
+        "classification": "group",
+        "name": "nezařazení",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:yveta-tomkova",
+    "rebelity_total": 3,
+    "rebelity_possible": 522,
+    "rebelity": 0.005747,
+    "name": "Yveta Tomková",
+    "given_names": [
+      "Yveta"
+    ],
+    "family_names": [
+      "Tomková"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:vaseusti",
+        "classification": "group",
+        "name": "VašeÚstí",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "usti-nad-labem:person:zdenek-grus",
+    "rebelity_total": 4,
+    "rebelity_possible": 522,
+    "rebelity": 0.007663,
+    "name": "Zdeněk Grus",
+    "given_names": [
+      "Zdeněk"
+    ],
+    "family_names": [
+      "Grus"
+    ],
+    "organizations": [
+      {
+        "id": "usti-nad-labem:org:group:vaseusti",
+        "classification": "group",
+        "name": "VašeÚstí",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  }
+]
