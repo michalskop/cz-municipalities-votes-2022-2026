@@ -63,9 +63,17 @@ def download(
     sources_path: Path = _DEFAULT_SOURCES,
     out_path: Path = _DEFAULT_OUT,
     timeout: int = 120,
-    retries: int = 3,
+    retries: int = 5,
 ) -> Path:
-    """Fetch the source JSON named in sources.yml and save it verbatim."""
+    """Fetch the source JSON named in sources.yml and save it verbatim.
+
+    retries=5 with a 15s*attempt backoff (was 3/10s): zastupko.fit.vutbr.cz's GitHub-Actions-
+    specific connect-timeout flakiness (see this repo's memory: scraper-resilience-practices)
+    became frequent enough in practice (5 failures across Brno/Most in one 2026-08-28/29 session,
+    up from the occasional single blip originally observed) that the old 3-attempt/~30s-total
+    window wasn't reliably outlasting the outage. 5 attempts/15s*attempt gives ~185s of total wait
+    across retries, on top of each attempt's own 120s connect timeout.
+    """
     cfg = yaml.safe_load(sources_path.read_text(encoding="utf-8"))
     url = cfg["zastupko_current"]["url"]
 
@@ -80,7 +88,7 @@ def download(
         except requests.exceptions.RequestException as exc:
             last_exc = exc
             if attempt < retries:
-                wait = 10 * attempt
+                wait = 15 * attempt
                 logging.warning("Download failed (attempt %d/%d): %s — retrying in %ds", attempt, retries, exc, wait)
                 time.sleep(wait)
     else:
