@@ -1,0 +1,71 @@
+# Source config for Hradec Králové. Investigated 2026-08-30 as part of a 3-city roadmap batch
+# (Hradec Králové, Pardubice, České Budějovice — owner-named after Liberec/Olomouc turned out
+# no-go, see this repo's memory: project-status). Building in that order, easiest first — this
+# city reuses the SAME `zastupko.fit.vutbr.cz` backend as Brno/Most/most-rada, discovered via that
+# backend's own `/flask/municipalities` endpoint (lists every registered org; hk is registered
+# with `typ_code: statutarni_mesto`, unlike Liberec/Olomouc which only have their surrounding
+# REGION registered, not the city).
+
+zastupko_current:
+  status: "LIVE, VERIFIED 2026-08-30 — structurally identical to Brno's/Most's origin-server feed
+    (same municipalita/politickeSubjekty/zastupitele/zastupitelstva shape, same
+    datum_od/datum_do session fields, same A/N/Z/–/X vote vocabulary, zero G5 namesake
+    collisions). ONE OPEN CAVEAT (see known_staleness_gap below) not yet resolved — proceeding
+    with this as primary source anyway since it's a proven, structurally-validated shape (same
+    pipeline as Brno/Most), same judgment call as using an imperfect-but-real source elsewhere in
+    this project."
+  type: json
+  url: "https://zastupko.fit.vutbr.cz/flask/hk/zastupitelstvo/9/dataset"
+  discovered_via: >
+    `https://zastupko.fit.vutbr.cz/flask/municipalities` (no auth, one request) — lists every
+    registered organization with its `text_id`/`typ_code`. hk's entry: `{"text_id": "hk",
+    "typ_code": "statutarni_mesto", "id": 19, "organy": {"zastupitelstvo": {"id": 20,
+    "pocet_zastupitelu": 37}}, "url": "https://www.hradeckralove.org/"}`. This same endpoint
+    conclusively confirmed Liberec's and Olomouc's LACK of city-level coverage (only their
+    surrounding kraj/region is registered) — checking this endpoint FIRST is now the standard
+    first step for any future zastupko-backend candidate city, much faster than manual zápis-PDF
+    sampling.
+  schema: >
+    Same nested structure as brno/config/sources.yml's documented schema (see that file for the
+    full field-by-field breakdown — not re-derived here, this feed matches it exactly):
+    municipalita -> politickeSubjekty (8 klubs: PIRÁTI, ANO 2011, HDK/TOP09, RH, ODS, ZPHZ, SPD,
+    NEZ) -> zastupitele (40 council members, real per-party membership intervals via
+    politickeSubjekty[] with od/do) -> zastupitelstva[0] (poradiZastupitelstva=9, od=2022,
+    do=2026) -> koalice[]/lidr[] (real coalition + mayor intervals, same shape as Brno/Most) ->
+    zasedani[] (30 meetings, `datum_od`/`datum_do` fields — the origin-server shape, not the
+    documented-spec `datum` field, exactly like Brno's origin drift) -> hlasovani[] (1627 vote
+    events total, `zastupiteleHlasy[]` per-person votes, `sumarizace` never populated — 0/1627,
+    same as Brno, so G2 needs the same self-consistency-vs-`prijato` approach, not an independent
+    aggregate cross-check).
+  vote_option_vocabulary: >
+    Confirmed via a full scan of all 30 sessions' hlas values: {"A", "N", "Z", "–", "X"} only —
+    the clean 5-value vocabulary (yes/no/abstain/absent/not-voting), no "O"/"T" anomalies found
+    (unlike Brno's one documented anomalous event). 60,199 total per-person vote records scanned.
+  known_staleness_gap: >
+    NOT YET RESOLVED — the feed's last meeting is 2025-08-26 (30th session), but Hradec Králové's
+    own official site confirms REAL meetings continued at least through 2026-06-22 (searched
+    2026-08-30) — a genuine ~1-year gap, not a "no meetings held" false alarm. This is the SAME
+    CLASS of problem Brno's `brno.zastupko.cz` mirror had (see brno/config/sources.yml's UPDATE
+    note) — that case was resolved by finding a fresher ORIGIN server; here, `zastupko.fit.vutbr.cz`
+    already IS the origin (confirmed via the same `/flask/municipalities` discovery, not a
+    separate mirror-vs-origin distinction), so there is no known fresher zastupko copy to switch
+    to — the gap may be a real lag in hk's own data submission to the shared FIT VUT platform, not
+    a wrong-server problem. Investigated one alternative during research: hk's own native
+    resolutions portal `eusneseni.mmhk.cz` (a completely different system, "Portál usnesení") IS
+    current through the 38th session (2026-08-25) and has an advanced-search UI with per-person
+    "Hlasující"/"Výsledek hlasování" filters suggesting real per-person vote data — but a test
+    query (`/usneseni/hledat?SearchForm[idHlasovaniVysledekOsoba]=1&SearchForm[vysledekHlasovani]=1`)
+    returned zero results (inconclusive: either that specific person id was wrong, or the feature
+    doesn't actually have data behind it — not resolved either way). NOT investigated further at
+    C9 time given effort/reward (would need reverse-engineering an unfamiliar vendor system with
+    no confirmed payoff, vs. reusing the already-proven zastupko pipeline). Proceeding with the
+    zastupko feed as primary for the initial build (partial coverage — 2022-10 through 2025-08 — is
+    still real, useful data), flagging this gap for future re-investigation, same as this project's
+    standing practice of not letting an imperfect-but-real source block progress (see e.g. Most's
+    deferred rada dataset, Brno's originally-undiagnosed mirror lag before it was fixed).
+  not_yet_verified:
+    - "Whether the ~1-year gap is fixable (e.g. hk resuming submission to the FIT VUT platform, or
+      eusneseni.mmhk.cz turning out to have real per-person data after all) — re-check
+      periodically, same as Most's rada dataset re-check practice."
+    - "G5 namesake collision check: none found in the 40-person roster fetched so far, but the
+      standard full-corpus re-check during standardize.py's build should still run."

@@ -1,0 +1,2 @@
+id,name,classification,identifiers,sources
+hradec-kralove:org:zastupitelstvo-mesta-hradec-kralove,Zastupitelstvo města Hradec Králové,assembly,"[{""scheme"": ""hradec-kralove:org_abbr"", ""identifier"": ""ZM HK""}]","[{""url"": ""https://zastupko.fit.vutbr.cz/flask/hk/zastupitelstvo/9/dataset"", ""note"": ""zastupko.fit.vutbr.cz feed, dataset id 9, term 2022-2026""}]"
