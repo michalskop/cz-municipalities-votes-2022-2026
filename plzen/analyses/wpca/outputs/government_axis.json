@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T09:00:20.228858+00:00",
+  "generated_at": "2026-08-30T08:24:14.123636+00:00",
   "method": "point_biserial_correlation",
   "n_dims": 3,
   "n_included_people": 48,
@@ -14,15 +14,15 @@
   "correlations": [
     {
       "dim_index": 0,
-      "correlation": 0.892561549130503
+      "correlation": 0.8925615491305031
     },
     {
       "dim_index": 1,
-      "correlation": 0.41047059178955225
+      "correlation": 0.4104705917895521
     },
     {
       "dim_index": 2,
-      "correlation": -0.050633273309449486
+      "correlation": -0.050633273309449806
     }
   ],
   "detected_dim_index": 0,
@@ -30,7 +30,7 @@
   "overridden": false,
   "effective_dim_index": 0,
   "government_mean": 0.5865405020194768,
-  "opposition_mean": -0.9707199415187607,
+  "opposition_mean": -0.970719941518761,
   "government_sign": 1,
   "sources": {
     "wpca_output": "plzen/analyses/wpca/outputs/wpca.json",
