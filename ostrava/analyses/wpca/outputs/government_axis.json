@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T08:22:16.638864+00:00",
+  "generated_at": "2026-08-30T20:04:55.763186+00:00",
   "method": "point_biserial_correlation",
   "n_dims": 3,
   "n_included_people": 59,
@@ -16,23 +16,23 @@
   "correlations": [
     {
       "dim_index": 0,
-      "correlation": 0.7221241026119112
+      "correlation": 0.7221241026119114
     },
     {
       "dim_index": 1,
-      "correlation": 0.36173313720471767
+      "correlation": 0.36173313720471717
     },
     {
       "dim_index": 2,
-      "correlation": -0.47391270532444985
+      "correlation": -0.47391270532445007
     }
   ],
   "detected_dim_index": 0,
   "override_dim_index": null,
   "overridden": false,
   "effective_dim_index": 0,
-  "government_mean": 0.2090833251799731,
-  "opposition_mean": -1.0152775857026892,
+  "government_mean": 0.20908332517997316,
+  "opposition_mean": -1.0152775857026894,
   "government_sign": 1,
   "sources": {
     "wpca_output": "ostrava/analyses/wpca/outputs/wpca.json",
