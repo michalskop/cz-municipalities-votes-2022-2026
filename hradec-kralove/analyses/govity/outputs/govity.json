@@ -1,0 +1,906 @@
+[
+  {
+    "person_id": "hradec-kralove:person:ales-dohnal",
+    "govity_total": 1570,
+    "govity_possible": 1587,
+    "govity": 0.989288,
+    "name": "Aleš Dohnal",
+    "given_names": [
+      "Aleš"
+    ],
+    "family_names": [
+      "Dohnal"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:pirati",
+        "classification": "group",
+        "name": "PIRÁTI",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:denis-doksansky",
+    "govity_total": 937,
+    "govity_possible": 1023,
+    "govity": 0.915934,
+    "name": "Denis Doksanský",
+    "given_names": [
+      "Denis"
+    ],
+    "family_names": [
+      "Doksanský"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:romana-durrerova",
+    "govity_total": 1532,
+    "govity_possible": 1536,
+    "govity": 0.997396,
+    "name": "Romana Dürrerová",
+    "given_names": [
+      "Romana"
+    ],
+    "family_names": [
+      "Dürrerová"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:hdk-top09",
+        "classification": "group",
+        "name": "HDK/TOP09",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:ilona-dvorakova",
+    "govity_total": 1579,
+    "govity_possible": 1582,
+    "govity": 0.998104,
+    "name": "Ilona Dvořáková",
+    "given_names": [
+      "Ilona"
+    ],
+    "family_names": [
+      "Dvořáková"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:rh",
+        "classification": "group",
+        "name": "RH",
+        "since": "2022-10-24",
+        "until": "2023-11-07"
+      },
+      {
+        "id": "hradec-kralove:org:group:nez",
+        "classification": "group",
+        "name": "NEZ",
+        "since": "2023-12-12"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:jan-fajfr",
+    "govity_total": 1325,
+    "govity_possible": 1388,
+    "govity": 0.954611,
+    "name": "Jan Fajfr",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Fajfr"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:lukas-fiedler",
+    "govity_total": 1095,
+    "govity_possible": 1143,
+    "govity": 0.958005,
+    "name": "Lukáš Fiedler",
+    "given_names": [
+      "Lukáš"
+    ],
+    "family_names": [
+      "Fiedler"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:zdenek-fink",
+    "govity_total": 1152,
+    "govity_possible": 1161,
+    "govity": 0.992248,
+    "name": "Zdeněk Fink",
+    "given_names": [
+      "Zdeněk"
+    ],
+    "family_names": [
+      "Fink"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:hdk-top09",
+        "classification": "group",
+        "name": "HDK/TOP09",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:jiri-gelbic",
+    "govity_total": 1397,
+    "govity_possible": 1458,
+    "govity": 0.958162,
+    "name": "Jiří Gelbič",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Gelbič"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:jan-groh",
+    "govity_total": 1111,
+    "govity_possible": 1162,
+    "govity": 0.95611,
+    "name": "Jan Groh",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Groh"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:miroslav-hlousek",
+    "govity_total": 1543,
+    "govity_possible": 1548,
+    "govity": 0.99677,
+    "name": "Miroslav Hloušek",
+    "given_names": [
+      "Miroslav"
+    ],
+    "family_names": [
+      "Hloušek"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:jan-holasek",
+    "govity_total": 1249,
+    "govity_possible": 1294,
+    "govity": 0.965224,
+    "name": "Jan Holásek",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Holásek"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:rh",
+        "classification": "group",
+        "name": "RH",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:alexandr-hrabalek",
+    "govity_total": 1455,
+    "govity_possible": 1471,
+    "govity": 0.989123,
+    "name": "Alexandr Hrabálek",
+    "given_names": [
+      "Alexandr"
+    ],
+    "family_names": [
+      "Hrabálek"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:roman-chlibek",
+    "govity_total": 1435,
+    "govity_possible": 1448,
+    "govity": 0.991022,
+    "name": "Roman Chlíbek",
+    "given_names": [
+      "Roman"
+    ],
+    "family_names": [
+      "Chlíbek"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:jiri-kos",
+    "govity_total": 1033,
+    "govity_possible": 1077,
+    "govity": 0.959146,
+    "name": "Jiří Kos",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Kos"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:ivo-kralicek",
+    "govity_total": 1379,
+    "govity_possible": 1381,
+    "govity": 0.998552,
+    "name": "Ivo Králíček",
+    "given_names": [
+      "Ivo"
+    ],
+    "family_names": [
+      "Králíček"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:zphz",
+        "classification": "group",
+        "name": "ZPHZ",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:jan-kriz",
+    "govity_total": 1494,
+    "govity_possible": 1507,
+    "govity": 0.991374,
+    "name": "Jan Kříž",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Kříž"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:pavel-marek",
+    "govity_total": 1040,
+    "govity_possible": 1090,
+    "govity": 0.954128,
+    "name": "Pavel Marek",
+    "given_names": [
+      "Pavel"
+    ],
+    "family_names": [
+      "Marek"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:jiri-masek",
+    "govity_total": 734,
+    "govity_possible": 769,
+    "govity": 0.954486,
+    "name": "Jiří Mašek",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Mašek"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:petr-nebesky",
+    "govity_total": 1493,
+    "govity_possible": 1537,
+    "govity": 0.971373,
+    "name": "Petr Nebeský",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Nebeský"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:rh",
+        "classification": "group",
+        "name": "RH",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:miloslav-nejedly",
+    "govity_total": 1460,
+    "govity_possible": 1529,
+    "govity": 0.954872,
+    "name": "Miloslav Nejedlý",
+    "given_names": [
+      "Miloslav"
+    ],
+    "family_names": [
+      "Nejedlý"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:irena-nemcova",
+    "govity_total": 1129,
+    "govity_possible": 1192,
+    "govity": 0.947148,
+    "name": "Irena Němcová",
+    "given_names": [
+      "Irena"
+    ],
+    "family_names": [
+      "Němcová"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:jindrich-outly",
+    "govity_total": 1503,
+    "govity_possible": 1506,
+    "govity": 0.998008,
+    "name": "Jindřich Outlý",
+    "given_names": [
+      "Jindřich"
+    ],
+    "family_names": [
+      "Outlý"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-24",
+        "until": "2023-04-25"
+      },
+      {
+        "id": "hradec-kralove:org:group:nez",
+        "classification": "group",
+        "name": "NEZ",
+        "since": "2023-05-30"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:ivan-picek",
+    "govity_total": 1496,
+    "govity_possible": 1571,
+    "govity": 0.95226,
+    "name": "Ivan Picek",
+    "given_names": [
+      "Ivan"
+    ],
+    "family_names": [
+      "Picek"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:martin-piskac",
+    "govity_total": 1067,
+    "govity_possible": 1123,
+    "govity": 0.950134,
+    "name": "Martin Piskač",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Piskač"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:kamil-podrouzek",
+    "govity_total": 1598,
+    "govity_possible": 1613,
+    "govity": 0.990701,
+    "name": "Kamil Podroužek",
+    "given_names": [
+      "Kamil"
+    ],
+    "family_names": [
+      "Podroužek"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:hdk-top09",
+        "classification": "group",
+        "name": "HDK/TOP09",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:lukas-radek",
+    "govity_total": 1499,
+    "govity_possible": 1503,
+    "govity": 0.997339,
+    "name": "Lukáš Řádek",
+    "given_names": [
+      "Lukáš"
+    ],
+    "family_names": [
+      "Řádek"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:hdk-top09",
+        "classification": "group",
+        "name": "HDK/TOP09",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:jakub-sofka",
+    "govity_total": 1535,
+    "govity_possible": 1543,
+    "govity": 0.994815,
+    "name": "Jakub Sofka",
+    "given_names": [
+      "Jakub"
+    ],
+    "family_names": [
+      "Sofka"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:hdk-top09",
+        "classification": "group",
+        "name": "HDK/TOP09",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:pavlina-springerova",
+    "govity_total": 1560,
+    "govity_possible": 1562,
+    "govity": 0.99872,
+    "name": "Pavlína Springerová",
+    "given_names": [
+      "Pavlína"
+    ],
+    "family_names": [
+      "Springerová"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:hdk-top09",
+        "classification": "group",
+        "name": "HDK/TOP09",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:jana-sandova",
+    "govity_total": 735,
+    "govity_possible": 757,
+    "govity": 0.970938,
+    "name": "Jana Šandová",
+    "given_names": [
+      "Jana"
+    ],
+    "family_names": [
+      "Šandová"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-24",
+        "until": "2024-08-27"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:monika-stayrova",
+    "govity_total": 1539,
+    "govity_possible": 1544,
+    "govity": 0.996762,
+    "name": "Monika Štayrová",
+    "given_names": [
+      "Monika"
+    ],
+    "family_names": [
+      "Štayrová"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-24",
+        "until": "2023-04-25"
+      },
+      {
+        "id": "hradec-kralove:org:group:nez",
+        "classification": "group",
+        "name": "NEZ",
+        "since": "2023-05-30"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:andrea-turkova",
+    "govity_total": 214,
+    "govity_possible": 221,
+    "govity": 0.968326,
+    "name": "Andrea Turková",
+    "given_names": [
+      "Andrea"
+    ],
+    "family_names": [
+      "Turková"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-24",
+        "until": "2023-05-30"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:arnost-urban",
+    "govity_total": 1408,
+    "govity_possible": 1416,
+    "govity": 0.99435,
+    "name": "Arnošt Urban",
+    "given_names": [
+      "Arnošt"
+    ],
+    "family_names": [
+      "Urban"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:hdk-top09",
+        "classification": "group",
+        "name": "HDK/TOP09",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:pavel-vacek",
+    "govity_total": 1510,
+    "govity_possible": 1514,
+    "govity": 0.997358,
+    "name": "Pavel Vacek",
+    "given_names": [
+      "Pavel"
+    ],
+    "family_names": [
+      "Vacek"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:pirati",
+        "classification": "group",
+        "name": "PIRÁTI",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:oldrich-vlasak",
+    "govity_total": 1058,
+    "govity_possible": 1063,
+    "govity": 0.995296,
+    "name": "Oldřich Vlasák",
+    "given_names": [
+      "Oldřich"
+    ],
+    "family_names": [
+      "Vlasák"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2022-10-24",
+        "until": "2024-10-01"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:pavel-vrbicky",
+    "govity_total": 1563,
+    "govity_possible": 1572,
+    "govity": 0.994275,
+    "name": "Pavel Vrbický",
+    "given_names": [
+      "Pavel"
+    ],
+    "family_names": [
+      "Vrbický"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:pirati",
+        "classification": "group",
+        "name": "PIRÁTI",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:adam-zaruba",
+    "govity_total": 1562,
+    "govity_possible": 1566,
+    "govity": 0.997446,
+    "name": "Adam Záruba",
+    "given_names": [
+      "Adam"
+    ],
+    "family_names": [
+      "Záruba"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:zphz",
+        "classification": "group",
+        "name": "ZPHZ",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:jan-zeman",
+    "govity_total": 1354,
+    "govity_possible": 1368,
+    "govity": 0.989766,
+    "name": "Jan Zeman",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Zeman"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:pirati",
+        "classification": "group",
+        "name": "PIRÁTI",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:libuse-friedlova",
+    "govity_total": 983,
+    "govity_possible": 1031,
+    "govity": 0.953443,
+    "name": "Libuše Friedlová",
+    "given_names": [
+      "Libuše"
+    ],
+    "family_names": [
+      "Friedlová"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2023-06-20"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:jana-hulkova",
+    "govity_total": 105,
+    "govity_possible": 119,
+    "govity": 0.882353,
+    "name": "Jana Hůlková",
+    "given_names": [
+      "Jana"
+    ],
+    "family_names": [
+      "Hůlková"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2024-10-01"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:martin-soukup",
+    "govity_total": 386,
+    "govity_possible": 398,
+    "govity": 0.969849,
+    "name": "Martin Soukup",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Soukup"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2024-11-05"
+      }
+    ],
+    "since": "2022-10-24"
+  }
+]

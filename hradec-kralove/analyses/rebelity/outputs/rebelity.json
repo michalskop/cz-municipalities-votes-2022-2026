@@ -1,0 +1,906 @@
+[
+  {
+    "person_id": "hradec-kralove:person:ales-dohnal",
+    "rebelity_total": 3,
+    "rebelity_possible": 1607,
+    "rebelity": 0.001867,
+    "name": "Aleš Dohnal",
+    "given_names": [
+      "Aleš"
+    ],
+    "family_names": [
+      "Dohnal"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:pirati",
+        "classification": "group",
+        "name": "PIRÁTI",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:denis-doksansky",
+    "rebelity_total": 32,
+    "rebelity_possible": 1571,
+    "rebelity": 0.020369,
+    "name": "Denis Doksanský",
+    "given_names": [
+      "Denis"
+    ],
+    "family_names": [
+      "Doksanský"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:romana-durrerova",
+    "rebelity_total": 5,
+    "rebelity_possible": 1614,
+    "rebelity": 0.003098,
+    "name": "Romana Dürrerová",
+    "given_names": [
+      "Romana"
+    ],
+    "family_names": [
+      "Dürrerová"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:hdk-top09",
+        "classification": "group",
+        "name": "HDK/TOP09",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:ilona-dvorakova",
+    "rebelity_total": 33,
+    "rebelity_possible": 1607,
+    "rebelity": 0.020535,
+    "name": "Ilona Dvořáková",
+    "given_names": [
+      "Ilona"
+    ],
+    "family_names": [
+      "Dvořáková"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:rh",
+        "classification": "group",
+        "name": "RH",
+        "since": "2022-10-24",
+        "until": "2023-11-07"
+      },
+      {
+        "id": "hradec-kralove:org:group:nez",
+        "classification": "group",
+        "name": "NEZ",
+        "since": "2023-12-12"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:jan-fajfr",
+    "rebelity_total": 11,
+    "rebelity_possible": 1571,
+    "rebelity": 0.007002,
+    "name": "Jan Fajfr",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Fajfr"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:lukas-fiedler",
+    "rebelity_total": 11,
+    "rebelity_possible": 1571,
+    "rebelity": 0.007002,
+    "name": "Lukáš Fiedler",
+    "given_names": [
+      "Lukáš"
+    ],
+    "family_names": [
+      "Fiedler"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:zdenek-fink",
+    "rebelity_total": 13,
+    "rebelity_possible": 1614,
+    "rebelity": 0.008055,
+    "name": "Zdeněk Fink",
+    "given_names": [
+      "Zdeněk"
+    ],
+    "family_names": [
+      "Fink"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:hdk-top09",
+        "classification": "group",
+        "name": "HDK/TOP09",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:jiri-gelbic",
+    "rebelity_total": 50,
+    "rebelity_possible": 1571,
+    "rebelity": 0.031827,
+    "name": "Jiří Gelbič",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Gelbič"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:jan-groh",
+    "rebelity_total": 16,
+    "rebelity_possible": 1571,
+    "rebelity": 0.010185,
+    "name": "Jan Groh",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Groh"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:miroslav-hlousek",
+    "rebelity_total": 3,
+    "rebelity_possible": 1611,
+    "rebelity": 0.001862,
+    "name": "Miroslav Hloušek",
+    "given_names": [
+      "Miroslav"
+    ],
+    "family_names": [
+      "Hloušek"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:jan-holasek",
+    "rebelity_total": 5,
+    "rebelity_possible": 1420,
+    "rebelity": 0.003521,
+    "name": "Jan Holásek",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Holásek"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:rh",
+        "classification": "group",
+        "name": "RH",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:alexandr-hrabalek",
+    "rebelity_total": 9,
+    "rebelity_possible": 1611,
+    "rebelity": 0.005587,
+    "name": "Alexandr Hrabálek",
+    "given_names": [
+      "Alexandr"
+    ],
+    "family_names": [
+      "Hrabálek"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:roman-chlibek",
+    "rebelity_total": 6,
+    "rebelity_possible": 1611,
+    "rebelity": 0.003724,
+    "name": "Roman Chlíbek",
+    "given_names": [
+      "Roman"
+    ],
+    "family_names": [
+      "Chlíbek"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:jiri-kos",
+    "rebelity_total": 28,
+    "rebelity_possible": 1571,
+    "rebelity": 0.017823,
+    "name": "Jiří Kos",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Kos"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:ivo-kralicek",
+    "rebelity_total": 0,
+    "rebelity_possible": 1585,
+    "rebelity": 0.0,
+    "name": "Ivo Králíček",
+    "given_names": [
+      "Ivo"
+    ],
+    "family_names": [
+      "Králíček"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:zphz",
+        "classification": "group",
+        "name": "ZPHZ",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:jan-kriz",
+    "rebelity_total": 11,
+    "rebelity_possible": 1611,
+    "rebelity": 0.006828,
+    "name": "Jan Kříž",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Kříž"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:pavel-marek",
+    "rebelity_total": 35,
+    "rebelity_possible": 1571,
+    "rebelity": 0.022279,
+    "name": "Pavel Marek",
+    "given_names": [
+      "Pavel"
+    ],
+    "family_names": [
+      "Marek"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:jiri-masek",
+    "rebelity_total": 12,
+    "rebelity_possible": 1571,
+    "rebelity": 0.007638,
+    "name": "Jiří Mašek",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Mašek"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:petr-nebesky",
+    "rebelity_total": 1,
+    "rebelity_possible": 1420,
+    "rebelity": 0.000704,
+    "name": "Petr Nebeský",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Nebeský"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:rh",
+        "classification": "group",
+        "name": "RH",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:miloslav-nejedly",
+    "rebelity_total": 61,
+    "rebelity_possible": 1571,
+    "rebelity": 0.038829,
+    "name": "Miloslav Nejedlý",
+    "given_names": [
+      "Miloslav"
+    ],
+    "family_names": [
+      "Nejedlý"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:irena-nemcova",
+    "rebelity_total": 3,
+    "rebelity_possible": 1564,
+    "rebelity": 0.001918,
+    "name": "Irena Němcová",
+    "given_names": [
+      "Irena"
+    ],
+    "family_names": [
+      "Němcová"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:jindrich-outly",
+    "rebelity_total": 32,
+    "rebelity_possible": 1604,
+    "rebelity": 0.01995,
+    "name": "Jindřich Outlý",
+    "given_names": [
+      "Jindřich"
+    ],
+    "family_names": [
+      "Outlý"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-24",
+        "until": "2023-04-25"
+      },
+      {
+        "id": "hradec-kralove:org:group:nez",
+        "classification": "group",
+        "name": "NEZ",
+        "since": "2023-05-30"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:ivan-picek",
+    "rebelity_total": 10,
+    "rebelity_possible": 1564,
+    "rebelity": 0.006394,
+    "name": "Ivan Picek",
+    "given_names": [
+      "Ivan"
+    ],
+    "family_names": [
+      "Picek"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:martin-piskac",
+    "rebelity_total": 1,
+    "rebelity_possible": 1564,
+    "rebelity": 0.000639,
+    "name": "Martin Piskač",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Piskač"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:kamil-podrouzek",
+    "rebelity_total": 6,
+    "rebelity_possible": 1614,
+    "rebelity": 0.003717,
+    "name": "Kamil Podroužek",
+    "given_names": [
+      "Kamil"
+    ],
+    "family_names": [
+      "Podroužek"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:hdk-top09",
+        "classification": "group",
+        "name": "HDK/TOP09",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:lukas-radek",
+    "rebelity_total": 3,
+    "rebelity_possible": 1614,
+    "rebelity": 0.001859,
+    "name": "Lukáš Řádek",
+    "given_names": [
+      "Lukáš"
+    ],
+    "family_names": [
+      "Řádek"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:hdk-top09",
+        "classification": "group",
+        "name": "HDK/TOP09",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:jakub-sofka",
+    "rebelity_total": 1,
+    "rebelity_possible": 1614,
+    "rebelity": 0.00062,
+    "name": "Jakub Sofka",
+    "given_names": [
+      "Jakub"
+    ],
+    "family_names": [
+      "Sofka"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:hdk-top09",
+        "classification": "group",
+        "name": "HDK/TOP09",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:pavlina-springerova",
+    "rebelity_total": 2,
+    "rebelity_possible": 1614,
+    "rebelity": 0.001239,
+    "name": "Pavlína Springerová",
+    "given_names": [
+      "Pavlína"
+    ],
+    "family_names": [
+      "Springerová"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:hdk-top09",
+        "classification": "group",
+        "name": "HDK/TOP09",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:jana-sandova",
+    "rebelity_total": 16,
+    "rebelity_possible": 1025,
+    "rebelity": 0.01561,
+    "name": "Jana Šandová",
+    "given_names": [
+      "Jana"
+    ],
+    "family_names": [
+      "Šandová"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-24",
+        "until": "2024-08-27"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:monika-stayrova",
+    "rebelity_total": 33,
+    "rebelity_possible": 1604,
+    "rebelity": 0.020574,
+    "name": "Monika Štayrová",
+    "given_names": [
+      "Monika"
+    ],
+    "family_names": [
+      "Štayrová"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-24",
+        "until": "2023-04-25"
+      },
+      {
+        "id": "hradec-kralove:org:group:nez",
+        "classification": "group",
+        "name": "NEZ",
+        "since": "2023-05-30"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:andrea-turkova",
+    "rebelity_total": 7,
+    "rebelity_possible": 328,
+    "rebelity": 0.021341,
+    "name": "Andrea Turková",
+    "given_names": [
+      "Andrea"
+    ],
+    "family_names": [
+      "Turková"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-24",
+        "until": "2023-05-30"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:arnost-urban",
+    "rebelity_total": 4,
+    "rebelity_possible": 1614,
+    "rebelity": 0.002478,
+    "name": "Arnošt Urban",
+    "given_names": [
+      "Arnošt"
+    ],
+    "family_names": [
+      "Urban"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:hdk-top09",
+        "classification": "group",
+        "name": "HDK/TOP09",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:pavel-vacek",
+    "rebelity_total": 5,
+    "rebelity_possible": 1607,
+    "rebelity": 0.003111,
+    "name": "Pavel Vacek",
+    "given_names": [
+      "Pavel"
+    ],
+    "family_names": [
+      "Vacek"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:pirati",
+        "classification": "group",
+        "name": "PIRÁTI",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:oldrich-vlasak",
+    "rebelity_total": 3,
+    "rebelity_possible": 1089,
+    "rebelity": 0.002755,
+    "name": "Oldřich Vlasák",
+    "given_names": [
+      "Oldřich"
+    ],
+    "family_names": [
+      "Vlasák"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2022-10-24",
+        "until": "2024-10-01"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:pavel-vrbicky",
+    "rebelity_total": 2,
+    "rebelity_possible": 1607,
+    "rebelity": 0.001245,
+    "name": "Pavel Vrbický",
+    "given_names": [
+      "Pavel"
+    ],
+    "family_names": [
+      "Vrbický"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:pirati",
+        "classification": "group",
+        "name": "PIRÁTI",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:adam-zaruba",
+    "rebelity_total": 0,
+    "rebelity_possible": 1585,
+    "rebelity": 0.0,
+    "name": "Adam Záruba",
+    "given_names": [
+      "Adam"
+    ],
+    "family_names": [
+      "Záruba"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:zphz",
+        "classification": "group",
+        "name": "ZPHZ",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:jan-zeman",
+    "rebelity_total": 1,
+    "rebelity_possible": 1607,
+    "rebelity": 0.000622,
+    "name": "Jan Zeman",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Zeman"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:pirati",
+        "classification": "group",
+        "name": "PIRÁTI",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:libuse-friedlova",
+    "rebelity_total": 9,
+    "rebelity_possible": 1243,
+    "rebelity": 0.007241,
+    "name": "Libuše Friedlová",
+    "given_names": [
+      "Libuše"
+    ],
+    "family_names": [
+      "Friedlová"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2023-06-20"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:jana-hulkova",
+    "rebelity_total": 2,
+    "rebelity_possible": 546,
+    "rebelity": 0.003663,
+    "name": "Jana Hůlková",
+    "given_names": [
+      "Jana"
+    ],
+    "family_names": [
+      "Hůlková"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2024-10-01"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:martin-soukup",
+    "rebelity_total": 9,
+    "rebelity_possible": 522,
+    "rebelity": 0.017241,
+    "name": "Martin Soukup",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Soukup"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2024-11-05"
+      }
+    ],
+    "since": "2022-10-24"
+  }
+]

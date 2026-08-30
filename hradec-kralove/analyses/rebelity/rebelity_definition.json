@@ -1,0 +1,14 @@
+{
+  "since": "2022-10-24",
+  "until": null,
+  "present_options": ["yes", "no", "abstain"],
+  "absent_options": ["absent", "not voting"],
+  "yes_options": ["yes"],
+  "no_options": ["no"],
+  "extras": {
+    "approval_status": "DRAFT — measures alignment with each person's own REAL klub (hradec-kralove:org:group:* rows from hradec-kralove/scripts/party_affiliation.py, sourced directly from the feed's dated politickeSubjekty intervals — D7's preferred live-group case). Does not depend on which groups form the government, so it does not require the same D7 sign-off as govity/wpca's government_groups — ready to use as-is.",
+    "vocabulary_source": "Same vocabulary mapping as attendance_definition.json.",
+    "note": "Rebelity requires each person's group membership at each vote-event date, sourced from data/memberships.csv's hradec-kralove:org:group:* rows via the all-members-shaped persons file the runner builds. No incomplete-history gap found for this city at C9/C4 time (unlike Brno's 7-person gap) — party_affiliation.py's run logged zero incomplete_history entries.",
+    "known_data_quality_notes": "8 klubs total (PIRÁTI, ANO 2011, HDK/TOP09, RH, ODS, ZPHZ, SPD, NEZ). 'NEZ' currently has exactly 3 members — the 3 named coalition defectors documented in govity_definition.json's citations, all with clean, complete politickeSubjekty histories (their original klub through a defection date, then NEZ)."
+  }
+}

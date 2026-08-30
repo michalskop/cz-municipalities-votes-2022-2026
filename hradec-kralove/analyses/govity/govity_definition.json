@@ -1,0 +1,54 @@
+{
+  "since": "2022-10-24",
+  "until": null,
+  "present_options": ["yes", "no", "abstain"],
+  "absent_options": ["absent", "not voting"],
+  "yes_options": ["yes"],
+  "no_options": ["no"],
+  "government_groups": [
+    "hradec-kralove:org:group:pirati",
+    "hradec-kralove:org:group:hdk-top09",
+    "hradec-kralove:org:group:ods",
+    "hradec-kralove:org:group:zphz"
+  ],
+  "government_members": [
+    "hradec-kralove:person:ilona-dvorakova",
+    "hradec-kralove:person:jindrich-outly",
+    "hradec-kralove:person:monika-stayrova"
+  ],
+  "extras": {
+    "approval_status": "APPROVED by project owner 2026-08-30, per plan.md decision D7 — as drafted (excludes RH for the whole term, per the open_questions_for_owner tradeoff explanation; owner explicitly chose this over including RH for the whole term).",
+    "government_groups_citation": [
+      {
+        "claim": "Hradec Králové's 2022-2026 governing coalition, formed after the Oct 2022 election, was originally a 5-party 'pětikoalice': Hradecký demokratický klub + TOP 09 ('HDK/TOP09' joint list) + ODS + Piráti + Rozvíjíme Hradec (RH) + Změna pro Hradec a Zelení (ZPHZ) — despite ANO 2011 winning the most seats (13/37), it went into opposition with SPD. Pavlína Springerová (HDK) became primátorka (mayor), the city's first woman in that role.",
+        "sources": [
+          "https://hradecky.denik.cz/zpravy_region/hradec-ma-poprve-v-historii-primatorku-ano-necekane-navrhlo-hrabalka-20221115.html",
+          "https://cs.wikipedia.org/wiki/Volby_do_Zastupitelstva_m%C4%9Bsta_Hradec_Kr%C3%A1lov%C3%A9_2022"
+        ]
+      },
+      {
+        "claim": "The coalition later narrowed: the other 4 partners (HDK/TOP09, ODS, Piráti, ZPHZ) terminated their coalition agreement with Rozvíjíme Hradec over its leader Jan Holásek's conduct, pushing RH out. The narrowed 4-party coalition (18 mandates at the time) continued in office, joined by 3 individual defectors originally elected for ANO 2011 (x2) and Rozvíjíme Hradec (x1), who left their own klub and began voting with the coalition without formally joining any of the 4 remaining coalition parties.",
+        "sources": [
+          "https://hradec.rozhlas.cz/v-hradci-kralove-se-rozpadla-koalice-na-radnici-ctyri-z-peti-uskupeni-vypovedely-8984718",
+          "https://www.novinky.cz/clanek/domaci-rozpad-koalice-v-hradci-kralove-40430414",
+          "https://ct24.ceskatelevize.cz/clanek/regiony/zuzena-koalice-v-hradci-kralove-pokracuje-podpori-ji-prebehlici-5891"
+        ]
+      },
+      {
+        "claim": "Corroborated and made PRECISE by this repo's own feed data (hradec-kralove/data/memberships.csv, built mechanically by party_affiliation.py before this D7 research began, so not tailored to fit the news claim): exactly 3 people currently show 'NEZ' (nezařazení) as their klub, and their dated history matches the news account exactly — Jindřich Outlý and Monika Štayrová both flip from 'ANO 2011' to 'NEZ' on the identical dates (2023-04-25 → 2023-05-30), matching the news description of them leaving together; Ilona Dvořáková flips from 'RH' to 'NEZ' later (2023-11-07 → 2023-12-12), matching the later, separate full RH-coalition breakup. RH's remaining 2 members (Jan Holásek — the leader the other parties explicitly wanted removed — and Petr Nebeský) show continuous RH membership for the whole term with no defection, consistent with RH itself (not just Holásek personally) being pushed into opposition.",
+        "sources": [
+          "hradec-kralove/data/memberships.csv (this repo's own derived data) — internal source-data citation, not an external news claim"
+        ]
+      }
+    ],
+    "resolved_questions": [
+      {
+        "question": "RH was a genuine, formal coalition partner for roughly the first 13 months of the term (2022-10-24 to the Holásek breakup) before being pushed out — but this project's govity/wpca schema only supports ONE static government_groups list per definition file, not a dated mid-term change. Include RH for the whole term (wrong for the ~33 post-breakup months) or exclude it for the whole term (wrong for the ~13 pre-breakup months)?",
+        "resolution": "RESOLVED 2026-08-30 by project owner: exclude RH (hradec-kralove:org:group:rh) entirely, as drafted — the lesser inaccuracy given RH spent much longer out of government than in it. No prior city in this project had a genuine mid-term WHOLE-PARTY coalition exit before (as opposed to individual defections, which government_members already models) — flagged as a candidate for a future 'dated government_groups' schema enhancement if this recurs elsewhere."
+      }
+    ],
+    "open_questions_for_owner": [
+      "The feed's own `lidr` (mayor) field points to Aleš Dohnal (a Piráti councilor), which is WRONG — the real mayor is Pavlína Springerová (HDK), confirmed by news and by the grammatically feminine 'primátorka' label the feed's own `lidr.funkce` text uses (inconsistent with 'Aleš', a male name — the field's ID pointer is unreliable, same caveat already documented for this same `lidr` field on Brno's and Most's feeds). Not used anywhere in this definition, flagging for the record in case a future wpca_definition.json rotation-anchor choice is tempted to trust it."
+    ]
+  }
+}

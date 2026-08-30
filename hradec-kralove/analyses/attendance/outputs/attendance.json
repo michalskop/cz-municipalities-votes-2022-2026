@@ -1,0 +1,946 @@
+[
+  {
+    "person_id": "hradec-kralove:person:ales-dohnal",
+    "vote_events_total": 1627,
+    "present": 1593,
+    "absent": 34,
+    "name": "Aleš Dohnal",
+    "given_names": [
+      "Aleš"
+    ],
+    "family_names": [
+      "Dohnal"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:pirati",
+        "classification": "group",
+        "name": "PIRÁTI",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9791026429
+  },
+  {
+    "person_id": "hradec-kralove:person:denis-doksansky",
+    "vote_events_total": 1627,
+    "present": 1027,
+    "absent": 600,
+    "name": "Denis Doksanský",
+    "given_names": [
+      "Denis"
+    ],
+    "family_names": [
+      "Doksanský"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.63122311
+  },
+  {
+    "person_id": "hradec-kralove:person:romana-durrerova",
+    "vote_events_total": 1627,
+    "present": 1537,
+    "absent": 90,
+    "name": "Romana Dürrerová",
+    "given_names": [
+      "Romana"
+    ],
+    "family_names": [
+      "Dürrerová"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:hdk-top09",
+        "classification": "group",
+        "name": "HDK/TOP09",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9446834665
+  },
+  {
+    "person_id": "hradec-kralove:person:ilona-dvorakova",
+    "vote_events_total": 1627,
+    "present": 1585,
+    "absent": 42,
+    "name": "Ilona Dvořáková",
+    "given_names": [
+      "Ilona"
+    ],
+    "family_names": [
+      "Dvořáková"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:rh",
+        "classification": "group",
+        "name": "RH",
+        "since": "2022-10-24",
+        "until": "2023-11-07"
+      },
+      {
+        "id": "hradec-kralove:org:group:nez",
+        "classification": "group",
+        "name": "NEZ",
+        "since": "2023-12-12"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9741856177
+  },
+  {
+    "person_id": "hradec-kralove:person:jan-fajfr",
+    "vote_events_total": 1627,
+    "present": 1393,
+    "absent": 234,
+    "name": "Jan Fajfr",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Fajfr"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.8561770129
+  },
+  {
+    "person_id": "hradec-kralove:person:lukas-fiedler",
+    "vote_events_total": 1627,
+    "present": 1149,
+    "absent": 478,
+    "name": "Lukáš Fiedler",
+    "given_names": [
+      "Lukáš"
+    ],
+    "family_names": [
+      "Fiedler"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.7062077443
+  },
+  {
+    "person_id": "hradec-kralove:person:zdenek-fink",
+    "vote_events_total": 1627,
+    "present": 1161,
+    "absent": 466,
+    "name": "Zdeněk Fink",
+    "given_names": [
+      "Zdeněk"
+    ],
+    "family_names": [
+      "Fink"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:hdk-top09",
+        "classification": "group",
+        "name": "HDK/TOP09",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.7135832821
+  },
+  {
+    "person_id": "hradec-kralove:person:jiri-gelbic",
+    "vote_events_total": 1627,
+    "present": 1461,
+    "absent": 166,
+    "name": "Jiří Gelbič",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Gelbič"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.8979717271
+  },
+  {
+    "person_id": "hradec-kralove:person:jan-groh",
+    "vote_events_total": 1627,
+    "present": 1165,
+    "absent": 462,
+    "name": "Jan Groh",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Groh"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.7160417947
+  },
+  {
+    "person_id": "hradec-kralove:person:miroslav-hlousek",
+    "vote_events_total": 1627,
+    "present": 1553,
+    "absent": 74,
+    "name": "Miroslav Hloušek",
+    "given_names": [
+      "Miroslav"
+    ],
+    "family_names": [
+      "Hloušek"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9545175169
+  },
+  {
+    "person_id": "hradec-kralove:person:jan-holasek",
+    "vote_events_total": 1627,
+    "present": 1295,
+    "absent": 332,
+    "name": "Jan Holásek",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Holásek"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:rh",
+        "classification": "group",
+        "name": "RH",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.7959434542
+  },
+  {
+    "person_id": "hradec-kralove:person:alexandr-hrabalek",
+    "vote_events_total": 1627,
+    "present": 1476,
+    "absent": 151,
+    "name": "Alexandr Hrabálek",
+    "given_names": [
+      "Alexandr"
+    ],
+    "family_names": [
+      "Hrabálek"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9071911494
+  },
+  {
+    "person_id": "hradec-kralove:person:roman-chlibek",
+    "vote_events_total": 1627,
+    "present": 1453,
+    "absent": 174,
+    "name": "Roman Chlíbek",
+    "given_names": [
+      "Roman"
+    ],
+    "family_names": [
+      "Chlíbek"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.8930547019
+  },
+  {
+    "person_id": "hradec-kralove:person:jiri-kos",
+    "vote_events_total": 1627,
+    "present": 1080,
+    "absent": 547,
+    "name": "Jiří Kos",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Kos"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.663798402
+  },
+  {
+    "person_id": "hradec-kralove:person:ivo-kralicek",
+    "vote_events_total": 1627,
+    "present": 1386,
+    "absent": 241,
+    "name": "Ivo Králíček",
+    "given_names": [
+      "Ivo"
+    ],
+    "family_names": [
+      "Králíček"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:zphz",
+        "classification": "group",
+        "name": "ZPHZ",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.8518746159
+  },
+  {
+    "person_id": "hradec-kralove:person:jan-kriz",
+    "vote_events_total": 1627,
+    "present": 1513,
+    "absent": 114,
+    "name": "Jan Kříž",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Kříž"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9299323909
+  },
+  {
+    "person_id": "hradec-kralove:person:pavel-marek",
+    "vote_events_total": 1627,
+    "present": 1095,
+    "absent": 532,
+    "name": "Pavel Marek",
+    "given_names": [
+      "Pavel"
+    ],
+    "family_names": [
+      "Marek"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.6730178242
+  },
+  {
+    "person_id": "hradec-kralove:person:jiri-masek",
+    "vote_events_total": 1627,
+    "present": 770,
+    "absent": 857,
+    "name": "Jiří Mašek",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Mašek"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.4732636755
+  },
+  {
+    "person_id": "hradec-kralove:person:petr-nebesky",
+    "vote_events_total": 1627,
+    "present": 1542,
+    "absent": 85,
+    "name": "Petr Nebeský",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Nebeský"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:rh",
+        "classification": "group",
+        "name": "RH",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9477566073
+  },
+  {
+    "person_id": "hradec-kralove:person:miloslav-nejedly",
+    "vote_events_total": 1627,
+    "present": 1534,
+    "absent": 93,
+    "name": "Miloslav Nejedlý",
+    "given_names": [
+      "Miloslav"
+    ],
+    "family_names": [
+      "Nejedlý"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9428395821
+  },
+  {
+    "person_id": "hradec-kralove:person:irena-nemcova",
+    "vote_events_total": 1627,
+    "present": 1195,
+    "absent": 432,
+    "name": "Irena Němcová",
+    "given_names": [
+      "Irena"
+    ],
+    "family_names": [
+      "Němcová"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.7344806392
+  },
+  {
+    "person_id": "hradec-kralove:person:jindrich-outly",
+    "vote_events_total": 1627,
+    "present": 1511,
+    "absent": 116,
+    "name": "Jindřich Outlý",
+    "given_names": [
+      "Jindřich"
+    ],
+    "family_names": [
+      "Outlý"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-24",
+        "until": "2023-04-25"
+      },
+      {
+        "id": "hradec-kralove:org:group:nez",
+        "classification": "group",
+        "name": "NEZ",
+        "since": "2023-05-30"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9287031346
+  },
+  {
+    "person_id": "hradec-kralove:person:ivan-picek",
+    "vote_events_total": 1627,
+    "present": 1577,
+    "absent": 50,
+    "name": "Ivan Picek",
+    "given_names": [
+      "Ivan"
+    ],
+    "family_names": [
+      "Picek"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9692685925
+  },
+  {
+    "person_id": "hradec-kralove:person:martin-piskac",
+    "vote_events_total": 1627,
+    "present": 1128,
+    "absent": 499,
+    "name": "Martin Piskač",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Piskač"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.6933005532
+  },
+  {
+    "person_id": "hradec-kralove:person:kamil-podrouzek",
+    "vote_events_total": 1627,
+    "present": 1619,
+    "absent": 8,
+    "name": "Kamil Podroužek",
+    "given_names": [
+      "Kamil"
+    ],
+    "family_names": [
+      "Podroužek"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:hdk-top09",
+        "classification": "group",
+        "name": "HDK/TOP09",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9950829748
+  },
+  {
+    "person_id": "hradec-kralove:person:lukas-radek",
+    "vote_events_total": 1627,
+    "present": 1504,
+    "absent": 123,
+    "name": "Lukáš Řádek",
+    "given_names": [
+      "Lukáš"
+    ],
+    "family_names": [
+      "Řádek"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:hdk-top09",
+        "classification": "group",
+        "name": "HDK/TOP09",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9244007376
+  },
+  {
+    "person_id": "hradec-kralove:person:jakub-sofka",
+    "vote_events_total": 1627,
+    "present": 1545,
+    "absent": 82,
+    "name": "Jakub Sofka",
+    "given_names": [
+      "Jakub"
+    ],
+    "family_names": [
+      "Sofka"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:hdk-top09",
+        "classification": "group",
+        "name": "HDK/TOP09",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9496004917
+  },
+  {
+    "person_id": "hradec-kralove:person:pavlina-springerova",
+    "vote_events_total": 1627,
+    "present": 1565,
+    "absent": 62,
+    "name": "Pavlína Springerová",
+    "given_names": [
+      "Pavlína"
+    ],
+    "family_names": [
+      "Springerová"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:hdk-top09",
+        "classification": "group",
+        "name": "HDK/TOP09",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9618930547
+  },
+  {
+    "person_id": "hradec-kralove:person:jana-sandova",
+    "vote_events_total": 1043,
+    "present": 758,
+    "absent": 285,
+    "name": "Jana Šandová",
+    "given_names": [
+      "Jana"
+    ],
+    "family_names": [
+      "Šandová"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-24",
+        "until": "2024-08-27"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.7267497603
+  },
+  {
+    "person_id": "hradec-kralove:person:monika-stayrova",
+    "vote_events_total": 1627,
+    "present": 1550,
+    "absent": 77,
+    "name": "Monika Štayrová",
+    "given_names": [
+      "Monika"
+    ],
+    "family_names": [
+      "Štayrová"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-24",
+        "until": "2023-04-25"
+      },
+      {
+        "id": "hradec-kralove:org:group:nez",
+        "classification": "group",
+        "name": "NEZ",
+        "since": "2023-05-30"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9526736325
+  },
+  {
+    "person_id": "hradec-kralove:person:andrea-turkova",
+    "vote_events_total": 331,
+    "present": 221,
+    "absent": 110,
+    "name": "Andrea Turková",
+    "given_names": [
+      "Andrea"
+    ],
+    "family_names": [
+      "Turková"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-10-24",
+        "until": "2023-05-30"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.667673716
+  },
+  {
+    "person_id": "hradec-kralove:person:arnost-urban",
+    "vote_events_total": 1627,
+    "present": 1418,
+    "absent": 209,
+    "name": "Arnošt Urban",
+    "given_names": [
+      "Arnošt"
+    ],
+    "family_names": [
+      "Urban"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:hdk-top09",
+        "classification": "group",
+        "name": "HDK/TOP09",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.8715427167
+  },
+  {
+    "person_id": "hradec-kralove:person:pavel-vacek",
+    "vote_events_total": 1627,
+    "present": 1514,
+    "absent": 113,
+    "name": "Pavel Vacek",
+    "given_names": [
+      "Pavel"
+    ],
+    "family_names": [
+      "Vacek"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:pirati",
+        "classification": "group",
+        "name": "PIRÁTI",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9305470191
+  },
+  {
+    "person_id": "hradec-kralove:person:oldrich-vlasak",
+    "vote_events_total": 1099,
+    "present": 1064,
+    "absent": 35,
+    "name": "Oldřich Vlasák",
+    "given_names": [
+      "Oldřich"
+    ],
+    "family_names": [
+      "Vlasák"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2022-10-24",
+        "until": "2024-10-01"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9681528662
+  },
+  {
+    "person_id": "hradec-kralove:person:pavel-vrbicky",
+    "vote_events_total": 1627,
+    "present": 1576,
+    "absent": 51,
+    "name": "Pavel Vrbický",
+    "given_names": [
+      "Pavel"
+    ],
+    "family_names": [
+      "Vrbický"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:pirati",
+        "classification": "group",
+        "name": "PIRÁTI",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9686539644
+  },
+  {
+    "person_id": "hradec-kralove:person:adam-zaruba",
+    "vote_events_total": 1627,
+    "present": 1569,
+    "absent": 58,
+    "name": "Adam Záruba",
+    "given_names": [
+      "Adam"
+    ],
+    "family_names": [
+      "Záruba"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:zphz",
+        "classification": "group",
+        "name": "ZPHZ",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9643515673
+  },
+  {
+    "person_id": "hradec-kralove:person:jan-zeman",
+    "vote_events_total": 1627,
+    "present": 1373,
+    "absent": 254,
+    "name": "Jan Zeman",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Zeman"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:pirati",
+        "classification": "group",
+        "name": "PIRÁTI",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.8438844499
+  },
+  {
+    "person_id": "hradec-kralove:person:libuse-friedlova",
+    "vote_events_total": 1296,
+    "present": 1035,
+    "absent": 261,
+    "name": "Libuše Friedlová",
+    "given_names": [
+      "Libuše"
+    ],
+    "family_names": [
+      "Friedlová"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2023-06-20"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.7986111111
+  },
+  {
+    "person_id": "hradec-kralove:person:jana-hulkova",
+    "vote_events_total": 584,
+    "present": 119,
+    "absent": 465,
+    "name": "Jana Hůlková",
+    "given_names": [
+      "Jana"
+    ],
+    "family_names": [
+      "Hůlková"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2024-10-01"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.2037671233
+  },
+  {
+    "person_id": "hradec-kralove:person:martin-soukup",
+    "vote_events_total": 528,
+    "present": 402,
+    "absent": 126,
+    "name": "Martin Soukup",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Soukup"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2024-11-05"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.7613636364
+  }
+]

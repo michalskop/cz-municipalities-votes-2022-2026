@@ -1,0 +1,11 @@
+{
+  "since": "2022-10-24",
+  "until": null,
+  "present_options": ["yes", "no", "abstain"],
+  "absent_options": ["absent", "not voting"],
+  "extras": {
+    "approval_status": "DRAFT — no political judgment involved (pure vote-option vocabulary + term dates), does not require D7 sign-off the way govity/wpca's government_groups does. Ready to use as-is.",
+    "vocabulary_source": "hradec-kralove/config/sources.yml's vote_option_vocabulary: schema-CZ.json's single-letter hlas codes, A/N/Z -> yes/no/abstain (present), '–' (absent, en dash) -> absent, X (Nehlasoval/a) -> not voting — same 5-value vocabulary as Brno's/Most's feeds on this backend.",
+    "since_rationale": "2022-10-24 = start_date of the assembly term per hradec-kralove/data/memberships.csv (first session, cislo 202202). until=null, though NOTE this feed has a known ~1-year staleness gap — its last recorded session is 2025-08-26, not a more recent 2026 date; see sources.yml's known_staleness_gap."
+  }
+}

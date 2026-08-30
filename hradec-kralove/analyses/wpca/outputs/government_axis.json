@@ -1,0 +1,46 @@
+{
+  "generated_at": "2026-08-30T17:24:08.014181+00:00",
+  "method": "point_biserial_correlation",
+  "n_dims": 3,
+  "n_included_people": 39,
+  "government_groups": [
+    "hradec-kralove:org:group:pirati",
+    "hradec-kralove:org:group:hdk-top09",
+    "hradec-kralove:org:group:ods",
+    "hradec-kralove:org:group:zphz"
+  ],
+  "government_members": [
+    "hradec-kralove:person:ilona-dvorakova",
+    "hradec-kralove:person:jindrich-outly",
+    "hradec-kralove:person:monika-stayrova"
+  ],
+  "government_person_count": 22,
+  "opposition_person_count": 17,
+  "correlations": [
+    {
+      "dim_index": 0,
+      "correlation": 0.9790054769347315
+    },
+    {
+      "dim_index": 1,
+      "correlation": 0.16039048567683686
+    },
+    {
+      "dim_index": 2,
+      "correlation": 0.1625637282017611
+    }
+  ],
+  "detected_dim_index": 0,
+  "override_dim_index": null,
+  "overridden": false,
+  "effective_dim_index": 0,
+  "government_mean": 0.6069899788945805,
+  "opposition_mean": -0.9595307502610685,
+  "government_sign": 1,
+  "sources": {
+    "wpca_output": "hradec-kralove/analyses/wpca/outputs/wpca.json",
+    "wpca_definition": "hradec-kralove/analyses/wpca/wpca_definition.json",
+    "govity_definition": "hradec-kralove/analyses/govity/govity_definition.json",
+    "memberships": "hradec-kralove/data/memberships.csv"
+  }
+}

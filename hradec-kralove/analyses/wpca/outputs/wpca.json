@@ -1,0 +1,1386 @@
+[
+  {
+    "person_id": "hradec-kralove:person:adam-zaruba",
+    "dims": [
+      0.665850467340511,
+      0.06198375227051733,
+      0.06487663699337212
+    ],
+    "weight": 0.9694860813704496,
+    "included": true,
+    "name": "Adam Záruba",
+    "given_names": [
+      "Adam"
+    ],
+    "family_names": [
+      "Záruba"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:zastupitelstvo-mesta-hradec-kralove",
+        "name": "Zastupitelstvo města Hradec Králové",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "hradec-kralove:org:group:zphz",
+        "name": "ZPHZ",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:ales-dohnal",
+    "dims": [
+      0.5984203683117084,
+      -0.06429086884528791,
+      0.008816605775357322
+    ],
+    "weight": 0.9842969307637404,
+    "included": true,
+    "name": "Aleš Dohnal",
+    "given_names": [
+      "Aleš"
+    ],
+    "family_names": [
+      "Dohnal"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:zastupitelstvo-mesta-hradec-kralove",
+        "name": "Zastupitelstvo města Hradec Králové",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "hradec-kralove:org:group:pirati",
+        "name": "PIRÁTI",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:alexandr-hrabalek",
+    "dims": [
+      0.5310375682280986,
+      -0.09359048814311348,
+      -0.0066298796185632015
+    ],
+    "weight": 0.9248750892219842,
+    "included": true,
+    "name": "Alexandr Hrabálek",
+    "given_names": [
+      "Alexandr"
+    ],
+    "family_names": [
+      "Hrabálek"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:zastupitelstvo-mesta-hradec-kralove",
+        "name": "Zastupitelstvo města Hradec Králové",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "hradec-kralove:org:group:ods",
+        "name": "ODS",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:andrea-turkova",
+    "dims": [
+      -0.851545815216584,
+      1.0513508771640847,
+      0.18580658233751862
+    ],
+    "weight": 0.09457530335474662,
+    "included": false,
+    "name": "Andrea Turková",
+    "given_names": [
+      "Andrea"
+    ],
+    "family_names": [
+      "Turková"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:zastupitelstvo-mesta-hradec-kralove",
+        "name": "Zastupitelstvo města Hradec Králové",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": "2023-05-30"
+      },
+      {
+        "id": "hradec-kralove:org:group:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": "2023-05-30"
+      }
+    ],
+    "since": "2022-10-24",
+    "until": "2023-05-30"
+  },
+  {
+    "person_id": "hradec-kralove:person:arnost-urban",
+    "dims": [
+      0.6584750129939144,
+      -0.009149353388048584,
+      0.012778253046068212
+    ],
+    "weight": 0.8916845110635262,
+    "included": true,
+    "name": "Arnošt Urban",
+    "given_names": [
+      "Arnošt"
+    ],
+    "family_names": [
+      "Urban"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:zastupitelstvo-mesta-hradec-kralove",
+        "name": "Zastupitelstvo města Hradec Králové",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "hradec-kralove:org:group:hdk-top09",
+        "name": "HDK/TOP09",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:denis-doksansky",
+    "dims": [
+      -0.975576559034669,
+      -0.08411095186197597,
+      0.04107848974617501
+    ],
+    "weight": 0.5851177730192719,
+    "included": true,
+    "name": "Denis Doksanský",
+    "given_names": [
+      "Denis"
+    ],
+    "family_names": [
+      "Doksanský"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:zastupitelstvo-mesta-hradec-kralove",
+        "name": "Zastupitelstvo města Hradec Králové",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "hradec-kralove:org:group:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:ilona-dvorakova",
+    "dims": [
+      0.6791963232248105,
+      0.015958393266022514,
+      0.030054529681177937
+    ],
+    "weight": 0.9764453961456102,
+    "included": true,
+    "name": "Ilona Dvořáková",
+    "given_names": [
+      "Ilona"
+    ],
+    "family_names": [
+      "Dvořáková"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:zastupitelstvo-mesta-hradec-kralove",
+        "name": "Zastupitelstvo města Hradec Králové",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "hradec-kralove:org:group:rh",
+        "name": "RH",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": "2023-11-07"
+      },
+      {
+        "id": "hradec-kralove:org:group:nez",
+        "name": "NEZ",
+        "classification": "groups",
+        "since": "2023-12-12",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:irena-nemcova",
+    "dims": [
+      -0.7395333721134885,
+      0.3103856383196394,
+      -0.6986085339310838
+    ],
+    "weight": 0.7598144182726623,
+    "included": true,
+    "name": "Irena Němcová",
+    "given_names": [
+      "Irena"
+    ],
+    "family_names": [
+      "Němcová"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:zastupitelstvo-mesta-hradec-kralove",
+        "name": "Zastupitelstvo města Hradec Králové",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "hradec-kralove:org:group:spd",
+        "name": "SPD",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:ivan-picek",
+    "dims": [
+      -0.7115013458280631,
+      0.2725434512500366,
+      -0.7129787406610403
+    ],
+    "weight": 0.9900071377587437,
+    "included": true,
+    "name": "Ivan Picek",
+    "given_names": [
+      "Ivan"
+    ],
+    "family_names": [
+      "Picek"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:zastupitelstvo-mesta-hradec-kralove",
+        "name": "Zastupitelstvo města Hradec Králové",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "hradec-kralove:org:group:spd",
+        "name": "SPD",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:ivo-kralicek",
+    "dims": [
+      0.6487044341890084,
+      0.0890750280334259,
+      0.09008704395593933
+    ],
+    "weight": 0.8727694503925768,
+    "included": true,
+    "name": "Ivo Králíček",
+    "given_names": [
+      "Ivo"
+    ],
+    "family_names": [
+      "Králíček"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:zastupitelstvo-mesta-hradec-kralove",
+        "name": "Zastupitelstvo města Hradec Králové",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "hradec-kralove:org:group:zphz",
+        "name": "ZPHZ",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:jakub-sofka",
+    "dims": [
+      0.6216641421730786,
+      -0.021765328068470077,
+      -0.020842266796008972
+    ],
+    "weight": 0.9245182012847967,
+    "included": true,
+    "name": "Jakub Sofka",
+    "given_names": [
+      "Jakub"
+    ],
+    "family_names": [
+      "Sofka"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:zastupitelstvo-mesta-hradec-kralove",
+        "name": "Zastupitelstvo města Hradec Králové",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "hradec-kralove:org:group:hdk-top09",
+        "name": "HDK/TOP09",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:jan-fajfr",
+    "dims": [
+      -1.186505858981741,
+      0.09110184655759086,
+      0.20609042262051405
+    ],
+    "weight": 0.8347608850820842,
+    "included": true,
+    "name": "Jan Fajfr",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Fajfr"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:zastupitelstvo-mesta-hradec-kralove",
+        "name": "Zastupitelstvo města Hradec Králové",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "hradec-kralove:org:group:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:jan-groh",
+    "dims": [
+      -1.205477409087865,
+      -0.04546506316078025,
+      0.22380976003510064
+    ],
+    "weight": 0.7574946466809422,
+    "included": true,
+    "name": "Jan Groh",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Groh"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:zastupitelstvo-mesta-hradec-kralove",
+        "name": "Zastupitelstvo města Hradec Králové",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "hradec-kralove:org:group:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:jan-holasek",
+    "dims": [
+      -0.6392365345654776,
+      -0.8336998522897956,
+      -0.31711059944373593
+    ],
+    "weight": 0.8392219842969308,
+    "included": true,
+    "name": "Jan Holásek",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Holásek"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:zastupitelstvo-mesta-hradec-kralove",
+        "name": "Zastupitelstvo města Hradec Králové",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "hradec-kralove:org:group:rh",
+        "name": "RH",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:jan-kriz",
+    "dims": [
+      0.6467200166650858,
+      0.008525453275759992,
+      -0.002054718983613988
+    ],
+    "weight": 0.9402212705210565,
+    "included": true,
+    "name": "Jan Kříž",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Kříž"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:zastupitelstvo-mesta-hradec-kralove",
+        "name": "Zastupitelstvo města Hradec Králové",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "hradec-kralove:org:group:ods",
+        "name": "ODS",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:jan-zeman",
+    "dims": [
+      0.5654184349730668,
+      -0.06469390760121647,
+      -0.011199048368829737
+    ],
+    "weight": 0.8668807994289793,
+    "included": true,
+    "name": "Jan Zeman",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Zeman"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:zastupitelstvo-mesta-hradec-kralove",
+        "name": "Zastupitelstvo města Hradec Králové",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "hradec-kralove:org:group:pirati",
+        "name": "PIRÁTI",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:jana-hulkova",
+    "dims": [
+      -0.9661494136875235,
+      -0.7867144001551817,
+      0.1792064317730355
+    ],
+    "weight": 0.1026052819414704,
+    "included": true,
+    "name": "Jana Hůlková",
+    "given_names": [
+      "Jana"
+    ],
+    "family_names": [
+      "Hůlková"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:zastupitelstvo-mesta-hradec-kralove",
+        "name": "Zastupitelstvo města Hradec Králové",
+        "classification": "parliament",
+        "since": "2024-10-01",
+        "until": null
+      },
+      {
+        "id": "hradec-kralove:org:group:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2024-10-01",
+        "until": null
+      }
+    ],
+    "since": "2024-10-01"
+  },
+  {
+    "person_id": "hradec-kralove:person:jana-sandova",
+    "dims": [
+      -1.057773221453456,
+      0.4541039122662052,
+      0.0668869977115889
+    ],
+    "weight": 0.4412919343326196,
+    "included": true,
+    "name": "Jana Šandová",
+    "given_names": [
+      "Jana"
+    ],
+    "family_names": [
+      "Šandová"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:zastupitelstvo-mesta-hradec-kralove",
+        "name": "Zastupitelstvo města Hradec Králové",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": "2024-08-27"
+      },
+      {
+        "id": "hradec-kralove:org:group:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": "2024-08-27"
+      }
+    ],
+    "since": "2022-10-24",
+    "until": "2024-08-27"
+  },
+  {
+    "person_id": "hradec-kralove:person:jindrich-outly",
+    "dims": [
+      0.6540662911743482,
+      0.081516798830334,
+      0.08736929736427149
+    ],
+    "weight": 0.9402212705210565,
+    "included": true,
+    "name": "Jindřich Outlý",
+    "given_names": [
+      "Jindřich"
+    ],
+    "family_names": [
+      "Outlý"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:zastupitelstvo-mesta-hradec-kralove",
+        "name": "Zastupitelstvo města Hradec Králové",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "hradec-kralove:org:group:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": "2023-04-25"
+      },
+      {
+        "id": "hradec-kralove:org:group:nez",
+        "name": "NEZ",
+        "classification": "groups",
+        "since": "2023-05-30",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:jiri-gelbic",
+    "dims": [
+      -1.0987242988500057,
+      -0.07475192788501155,
+      0.1932634890266929
+    ],
+    "weight": 0.894539614561028,
+    "included": true,
+    "name": "Jiří Gelbič",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Gelbič"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:zastupitelstvo-mesta-hradec-kralove",
+        "name": "Zastupitelstvo města Hradec Králové",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "hradec-kralove:org:group:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:jiri-kos",
+    "dims": [
+      -1.0948053368891022,
+      0.03542400632940252,
+      0.2762612748844112
+    ],
+    "weight": 0.6618486795146326,
+    "included": true,
+    "name": "Jiří Kos",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Kos"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:zastupitelstvo-mesta-hradec-kralove",
+        "name": "Zastupitelstvo města Hradec Králové",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "hradec-kralove:org:group:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:jiri-masek",
+    "dims": [
+      -1.135327934596425,
+      -0.07687994932286787,
+      0.18141605555515777
+    ],
+    "weight": 0.49286224125624556,
+    "included": true,
+    "name": "Jiří Mašek",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Mašek"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:zastupitelstvo-mesta-hradec-kralove",
+        "name": "Zastupitelstvo města Hradec Králové",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "hradec-kralove:org:group:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:kamil-podrouzek",
+    "dims": [
+      0.6090170108058635,
+      -0.04252367230874038,
+      -0.013702731343130978
+    ],
+    "weight": 0.9991077801570307,
+    "included": true,
+    "name": "Kamil Podroužek",
+    "given_names": [
+      "Kamil"
+    ],
+    "family_names": [
+      "Podroužek"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:zastupitelstvo-mesta-hradec-kralove",
+        "name": "Zastupitelstvo města Hradec Králové",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "hradec-kralove:org:group:hdk-top09",
+        "name": "HDK/TOP09",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:libuse-friedlova",
+    "dims": [
+      -1.17177505113954,
+      -0.4369844511538227,
+      0.04114848021124035
+    ],
+    "weight": 0.6875446109921486,
+    "included": true,
+    "name": "Libuše Friedlová",
+    "given_names": [
+      "Libuše"
+    ],
+    "family_names": [
+      "Friedlová"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:zastupitelstvo-mesta-hradec-kralove",
+        "name": "Zastupitelstvo města Hradec Králové",
+        "classification": "parliament",
+        "since": "2023-06-20",
+        "until": null
+      },
+      {
+        "id": "hradec-kralove:org:group:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2023-06-20",
+        "until": null
+      }
+    ],
+    "since": "2023-06-20"
+  },
+  {
+    "person_id": "hradec-kralove:person:lukas-fiedler",
+    "dims": [
+      -1.1947900315562685,
+      0.0992482401265102,
+      0.17687785011432047
+    ],
+    "weight": 0.720556745182013,
+    "included": true,
+    "name": "Lukáš Fiedler",
+    "given_names": [
+      "Lukáš"
+    ],
+    "family_names": [
+      "Fiedler"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:zastupitelstvo-mesta-hradec-kralove",
+        "name": "Zastupitelstvo města Hradec Králové",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "hradec-kralove:org:group:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:lukas-radek",
+    "dims": [
+      0.661867601627186,
+      0.003482930732468892,
+      0.01063452906002817
+    ],
+    "weight": 0.9161313347608853,
+    "included": true,
+    "name": "Lukáš Řádek",
+    "given_names": [
+      "Lukáš"
+    ],
+    "family_names": [
+      "Řádek"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:zastupitelstvo-mesta-hradec-kralove",
+        "name": "Zastupitelstvo města Hradec Králové",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "hradec-kralove:org:group:hdk-top09",
+        "name": "HDK/TOP09",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:martin-piskac",
+    "dims": [
+      -0.7917374653214596,
+      0.34126609931437873,
+      -0.6963580261837212
+    ],
+    "weight": 0.7528551034975018,
+    "included": true,
+    "name": "Martin Piskač",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Piskač"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:zastupitelstvo-mesta-hradec-kralove",
+        "name": "Zastupitelstvo města Hradec Králové",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "hradec-kralove:org:group:spd",
+        "name": "SPD",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:martin-soukup",
+    "dims": [
+      0.3209033064878467,
+      0.24079899681540884,
+      -0.06525401803574132
+    ],
+    "weight": 0.2765881513204854,
+    "included": true,
+    "name": "Martin Soukup",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Soukup"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:zastupitelstvo-mesta-hradec-kralove",
+        "name": "Zastupitelstvo města Hradec Králové",
+        "classification": "parliament",
+        "since": "2024-11-05",
+        "until": null
+      },
+      {
+        "id": "hradec-kralove:org:group:ods",
+        "name": "ODS",
+        "classification": "groups",
+        "since": "2024-11-05",
+        "until": null
+      }
+    ],
+    "since": "2024-11-05"
+  },
+  {
+    "person_id": "hradec-kralove:person:miloslav-nejedly",
+    "dims": [
+      -1.071304886018335,
+      -0.06275860698149974,
+      0.2158721420853001
+    ],
+    "weight": 0.9605638829407568,
+    "included": true,
+    "name": "Miloslav Nejedlý",
+    "given_names": [
+      "Miloslav"
+    ],
+    "family_names": [
+      "Nejedlý"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:zastupitelstvo-mesta-hradec-kralove",
+        "name": "Zastupitelstvo města Hradec Králové",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "hradec-kralove:org:group:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:miroslav-hlousek",
+    "dims": [
+      0.6315981908708601,
+      -0.06348755375678634,
+      0.03789345432604313
+    ],
+    "weight": 0.9596716630977874,
+    "included": true,
+    "name": "Miroslav Hloušek",
+    "given_names": [
+      "Miroslav"
+    ],
+    "family_names": [
+      "Hloušek"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:zastupitelstvo-mesta-hradec-kralove",
+        "name": "Zastupitelstvo města Hradec Králové",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "hradec-kralove:org:group:ods",
+        "name": "ODS",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:monika-stayrova",
+    "dims": [
+      0.5996911320750901,
+      0.15741829415759476,
+      0.06980665987735425
+    ],
+    "weight": 0.9555674518201286,
+    "included": true,
+    "name": "Monika Štayrová",
+    "given_names": [
+      "Monika"
+    ],
+    "family_names": [
+      "Štayrová"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:zastupitelstvo-mesta-hradec-kralove",
+        "name": "Zastupitelstvo města Hradec Králové",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "hradec-kralove:org:group:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": "2023-04-25"
+      },
+      {
+        "id": "hradec-kralove:org:group:nez",
+        "name": "NEZ",
+        "classification": "groups",
+        "since": "2023-05-30",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:oldrich-vlasak",
+    "dims": [
+      0.581391898387574,
+      -0.20695241590826666,
+      0.07079364031826127
+    ],
+    "weight": 0.6482869379014989,
+    "included": true,
+    "name": "Oldřich Vlasák",
+    "given_names": [
+      "Oldřich"
+    ],
+    "family_names": [
+      "Vlasák"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:zastupitelstvo-mesta-hradec-kralove",
+        "name": "Zastupitelstvo města Hradec Králové",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": "2024-10-01"
+      },
+      {
+        "id": "hradec-kralove:org:group:ods",
+        "name": "ODS",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": "2024-10-01"
+      }
+    ],
+    "since": "2022-10-24",
+    "until": "2024-10-01"
+  },
+  {
+    "person_id": "hradec-kralove:person:pavel-marek",
+    "dims": [
+      -0.8983994627620377,
+      0.1873102738619091,
+      0.1584208666723095
+    ],
+    "weight": 0.5255174875089222,
+    "included": true,
+    "name": "Pavel Marek",
+    "given_names": [
+      "Pavel"
+    ],
+    "family_names": [
+      "Marek"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:zastupitelstvo-mesta-hradec-kralove",
+        "name": "Zastupitelstvo města Hradec Králové",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "hradec-kralove:org:group:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:pavel-vacek",
+    "dims": [
+      0.596112173398958,
+      0.09139701828558165,
+      0.0075638930117269175
+    ],
+    "weight": 0.9168451106352606,
+    "included": true,
+    "name": "Pavel Vacek",
+    "given_names": [
+      "Pavel"
+    ],
+    "family_names": [
+      "Vacek"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:zastupitelstvo-mesta-hradec-kralove",
+        "name": "Zastupitelstvo města Hradec Králové",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "hradec-kralove:org:group:pirati",
+        "name": "PIRÁTI",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:pavel-vrbicky",
+    "dims": [
+      0.656586346975749,
+      -0.0066460493133754855,
+      0.04308059952188671
+    ],
+    "weight": 0.9634189864382583,
+    "included": true,
+    "name": "Pavel Vrbický",
+    "given_names": [
+      "Pavel"
+    ],
+    "family_names": [
+      "Vrbický"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:zastupitelstvo-mesta-hradec-kralove",
+        "name": "Zastupitelstvo města Hradec Králové",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "hradec-kralove:org:group:pirati",
+        "name": "PIRÁTI",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:pavlina-springerova",
+    "dims": [
+      0.6704747237477431,
+      0.02535500113164359,
+      0.03033941250662476
+    ],
+    "weight": 0.951284796573876,
+    "included": true,
+    "name": "Pavlína Springerová",
+    "given_names": [
+      "Pavlína"
+    ],
+    "family_names": [
+      "Springerová"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:zastupitelstvo-mesta-hradec-kralove",
+        "name": "Zastupitelstvo města Hradec Králové",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "hradec-kralove:org:group:hdk-top09",
+        "name": "HDK/TOP09",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:petr-nebesky",
+    "dims": [
+      -0.3734045725527083,
+      -0.7265245045803661,
+      -0.4110032468663602
+    ],
+    "weight": 0.9635974304068522,
+    "included": true,
+    "name": "Petr Nebeský",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Nebeský"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:zastupitelstvo-mesta-hradec-kralove",
+        "name": "Zastupitelstvo města Hradec Králové",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "hradec-kralove:org:group:rh",
+        "name": "RH",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:roman-chlibek",
+    "dims": [
+      0.5549548541607173,
+      -0.0038862312569855,
+      0.03408271667114906
+    ],
+    "weight": 0.8593861527480372,
+    "included": true,
+    "name": "Roman Chlíbek",
+    "given_names": [
+      "Roman"
+    ],
+    "family_names": [
+      "Chlíbek"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:zastupitelstvo-mesta-hradec-kralove",
+        "name": "Zastupitelstvo města Hradec Králové",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "hradec-kralove:org:group:ods",
+        "name": "ODS",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:romana-durrerova",
+    "dims": [
+      0.6662353635274817,
+      -0.021142198167979763,
+      0.031685647521270795
+    ],
+    "weight": 0.9316559600285512,
+    "included": true,
+    "name": "Romana Dürrerová",
+    "given_names": [
+      "Romana"
+    ],
+    "family_names": [
+      "Dürrerová"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:zastupitelstvo-mesta-hradec-kralove",
+        "name": "Zastupitelstvo města Hradec Králové",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "hradec-kralove:org:group:hdk-top09",
+        "name": "HDK/TOP09",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "hradec-kralove:person:zdenek-fink",
+    "dims": [
+      0.5353938743420702,
+      -0.018350874043138152,
+      0.06043581986330478
+    ],
+    "weight": 0.7012847965738759,
+    "included": true,
+    "name": "Zdeněk Fink",
+    "given_names": [
+      "Zdeněk"
+    ],
+    "family_names": [
+      "Fink"
+    ],
+    "organizations": [
+      {
+        "id": "hradec-kralove:org:zastupitelstvo-mesta-hradec-kralove",
+        "name": "Zastupitelstvo města Hradec Králové",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "hradec-kralove:org:group:hdk-top09",
+        "name": "HDK/TOP09",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  }
+]
