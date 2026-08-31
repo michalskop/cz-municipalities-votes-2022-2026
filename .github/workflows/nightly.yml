@@ -1,8 +1,8 @@
 # Nightly automation for the Praha, Brno, Ostrava, Most, Plzeň, most-rada, Ústí nad Labem,
-# Hradec Králové and Pardubice pipelines (plan.md tasks C6/C6-equivalent).
+# Hradec Králové, Pardubice and České Budějovice pipelines (plan.md tasks C6/C6-equivalent).
 #
 # LIVE since 2026-08-25 (Praha) / 2026-08-27 (Brno, Ostrava) / 2026-08-28 (Most, Plzeň) /
-# 2026-08-29 (most-rada, Ústí nad Labem) / 2026-08-30 (Hradec Králové) / 2026-08-31 (Pardubice)
+# 2026-08-29 (most-rada, Ústí nad Labem) / 2026-08-30 (Hradec Králové) / 2026-08-31 (Pardubice, České Budějovice)
 # — pushed to origin/main; runs on the schedule below plus workflow_dispatch.
 #
 # Shape per city: checkout -> install deps -> run the pipeline (download -> standardize -> G1 -> G2)
@@ -15,11 +15,12 @@
 # (GitHub Actions' default behavior: a failing step stops the job before later steps, including the
 # commit step, ever run — no extra plumbing needed for that).
 #
-# NINE SEQUENTIAL jobs (brno needs: praha, ostrava needs: brno, most needs: ostrava, plzen needs:
+# TEN SEQUENTIAL jobs (brno needs: praha, ostrava needs: brno, most needs: ostrava, plzen needs:
 # most, most-rada needs: plzen, usti-nad-labem needs: most-rada, hradec-kralove needs:
-# usti-nad-labem, pardubice needs: hradec-kralove), not a matrix and not parallel: (1) each city's
+# usti-nad-labem, pardubice needs: hradec-kralove, ceske-budejovice needs: pardubice), not a matrix and not parallel: (1) each city's
 # re-apply step sequence genuinely differs (Praha has 3 such steps,
-# Brno/Most/most-rada/usti-nad-labem/hradec-kralove/pardubice have 1,
+# Brno/Most/most-rada/usti-nad-labem/hradec-kralove/pardubice have 1, České Budějovice has 1 plus
+# an actions/cache step for its ~1200-page raw HTML corpus (like Ostrava),
 # Ostrava has 2, Plzeň has 1 but a much longer download/standardize step of its own) — a matrix
 # would need per-city conditional steps anyway, no real simplification over eight job bodies;
 # (2) every job
@@ -840,5 +841,94 @@ jobs:
             exit 0
           fi
           git commit -m "Nightly Pardubice data + analysis update"
+          git pull --rebase
+          git push
+
+  ceske-budejovice:
+    name: České Budějovice nightly pipeline
+    needs: pardubice
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # ~1200 vote pages the first time; every later nightly re-fetches only the last two meetings
+      # + anything new, so it's fast in steady state. actions/cache persists work/raw/ between runs.
+      - name: Restore cached raw HTML
+        uses: actions/cache@v4
+        with:
+          path: ceske-budejovice/work/raw
+          key: ceske-budejovice-raw-${{ github.run_id }}
+          restore-keys: |
+            ceske-budejovice-raw-
+
+      - name: Run České Budějovice pipeline (download -> standardize -> G1 schema gate -> G2 cross-check)
+        run: python ceske-budejovice/pipelines/run_pipeline.py
+
+      - name: Re-apply real party/klub data (C4)
+        # standardize.py rewrites organizations.csv/memberships.csv from scratch every run, which
+        # would drop the ceske-budejovice:org:group:* klub rows this script derives from the
+        # per-vote Klub column (D7-approved) — same class of gap as every other city's
+        # party_affiliation.py step.
+        run: python ceske-budejovice/scripts/party_affiliation.py
+
+      - name: G4 monotonicity guard
+        run: python scripts/monotonicity_guard.py --data-dir ceske-budejovice/data
+
+      - name: Clone legislature-data-analyses
+        run: |
+          git clone --depth=1 https://github.com/michalskop/legislature-data-analyses.git /tmp/legislature-data-analyses
+
+      - name: Run attendance analysis
+        run: |
+          python ceske-budejovice/scripts/analyses/run_attendance.py \
+            --script /tmp/legislature-data-analyses/attendance/attendance.py
+
+      - name: Run rebelity analysis
+        run: |
+          python ceske-budejovice/scripts/analyses/run_rebelity.py \
+            --script /tmp/legislature-data-analyses/rebelity/rebelity.py
+
+      - name: Run govity analysis
+        run: |
+          python ceske-budejovice/scripts/analyses/run_govity.py \
+            --script /tmp/legislature-data-analyses/govity/govity.py
+
+      - name: Run wpca analysis
+        run: |
+          python ceske-budejovice/scripts/analyses/run_wpca.py \
+            --script /tmp/legislature-data-analyses/wpca/wpca.py
+
+      - name: Detect government/opposition WPCA axis
+        run: python ceske-budejovice/scripts/detect_government_axis.py
+
+      - name: G7 range sanity check on analysis outputs
+        run: |
+          python scripts/g7_sanity_check.py --output-file ceske-budejovice/analyses/attendance/outputs/attendance.json
+          python scripts/g7_sanity_check.py --output-file ceske-budejovice/analyses/rebelity/outputs/rebelity.json
+          python scripts/g7_sanity_check.py --output-file ceske-budejovice/analyses/govity/outputs/govity.json
+          python scripts/g7_sanity_check.py --output-file ceske-budejovice/analyses/wpca/outputs/wpca.json
+          python scripts/g7_sanity_check.py --output-file ceske-budejovice/analyses/wpca/outputs/wpca_time.json
+          python scripts/g7_sanity_check.py --output-file ceske-budejovice/analyses/wpca/outputs/government_axis.json
+
+      - name: Commit and push updated data + analysis outputs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add ceske-budejovice/data/ ceske-budejovice/analyses/*/outputs/
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "Nightly České Budějovice data + analysis update"
           git pull --rebase
           git push
