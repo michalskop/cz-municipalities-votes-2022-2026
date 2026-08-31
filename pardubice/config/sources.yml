@@ -1,0 +1,116 @@
+# Source config for Pardubice (Zastupitelstvo města Pardubic, "ZmP"). Investigated 2026-08-31 as
+# the next city after the owner's Hradec Králové -> Pardubice -> České Budějovice roadmap (see this
+# repo's memory: project-status, pardubice-source-research). NOT on the zastupko.fit.vutbr.cz
+# backend (that backend has only brno/decin/hk/karvina/most as cities, and decin/karvina's feeds
+# turned out unusable) -- Pardubice publishes its own per-meeting ZIP archives.
+
+body:
+  name: "Zastupitelstvo města Pardubic"
+  note: >
+    The 39-member city assembly ("ZmP"). NOT the 8 separate "městské obvody" (city-district)
+    councils, which are a different, smaller body -- ignore them entirely.
+
+listing:
+  pages:
+    - "https://pardubice.eu/zmp-2022"
+    - "https://pardubice.eu/zmp-2023"
+    - "https://pardubice.eu/zmp-2024"
+    - "https://pardubice.eu/zmp-2025"
+    - "https://pardubice.eu/zmp-2026"
+  note: >
+    One public HTML page per calendar year, each listing that year's ZmP meetings, one ZIP per
+    meeting under a hashed `/data/files/<hh>/<hhh>/<hash>/zapis-...zmp-dne-DD-MM-YYYY.zip` path.
+    The ZIP link hrefs must be scraped from the page (the hashed paths can't be constructed). No
+    login, no session cookies, no rate limiting seen. A new zmp-<year> page appears each January;
+    the downloader derives the year list from 2022..current-year so it needs no edit at rollover.
+
+term_scope:
+  note: >
+    Current term = the "ustavující zasedání" (constitutive session) of 2022-10-17, then sessions
+    numbered 2 -> 39 (39th = 2026-06-29, current, NOT stale). ~38 meetings. The zmp-2022 page
+    ALSO lists PREVIOUS-term meetings (numbered 38..45 and roman XXXIX/XL, all dated Jan-Sep
+    2022) -- these are filtered out by a hard `date >= 2022-10-01` cutoff, never by meeting
+    number (the numbering restarts each term).
+
+zip_contents:
+  voting_pdf: >
+    Each ZIP bundles the narrative `Zápis...` (minutes), per-resolution `priloha_usn_<n>.pdf`
+    attachments, AND a dedicated voting PDF. The voting PDF's filename is INCONSISTENT and NOT a
+    reliable signal -- observed: `Hlasování.pdf`, `Hlasování_web.pdf`, `Hlasování_pro web.pdf`,
+    `Hlasování 27 WEB BEZ OU.pdf`, `30. ZmP_hlasování.pdf`, `Hlasování 33 bez osobních
+    údajů.pdf`, `Hlasování 34_3 bez osobních údajů.pdf`. The downloader matches
+    case-insensitively on a filename containing "hlasován" AND confirms the extracted text
+    contains the "HLASOVÁNÍ č." block structure before accepting it.
+
+protocol_format:
+  type: "Real text-layer PDF (%PDF, FlateDecode) -- NOT scanned. Clean `pdftotext -layout`
+    extraction, correct diacritics, NO font-encoding corruption (unlike Plzeň)."
+  two_eras:
+    classic: >
+      Term start (2022-10-17) through session 34 (2026-02-02). Per event: a header line
+      `HLASOVÁNÍ č. N - SCHVÁLENO` / `- NESCHVÁLENO` (result IS in the header), a `DD.MM.YYYY
+      HH:MM:SS` timestamp, an agenda-item line ("00. Úvod", "01. Revokace usnesení - pozemky",
+      may carry a `Procedurální hlasovaní:` marker), a rule of underscores, then one row per
+      councillor `Příjmení Jméno   <klub>   <seat#>   <vote>`, another rule, then a totals block
+      (`Ke schválení bylo potřeba N hlasů` / `Celkem zastupitelů: N` / `Pro: N (x%) Proti: N
+      (x%) Zdrželo se: N (x%)  Nehlasovalo: N (x%)` / `Omluveno: N`).
+    verbose_2026: >
+      Appears by session 39 (2026-06-29); exact switch is in sessions 35-38 (Mar-May 2026), TBD
+      at build time. Differences: (1) `str. X z <total>` page-break lines interleaved everywhere
+      INCLUDING mid-roster -- must be stripped and the roster stitched back; (2) a leading
+      `Prezence č. 1` attendance block (values Přítomen/Omluven/Nepřítomen -- not a vote, skip);
+      (3) the vote-event header is bare `HLASOVÁNÍ č. N` (no result) and a SEPARATE `HLASOVÁNÍ č.
+      N - SCHVÁLENO` line appears AFTER that event's totals block. Same totals-block shape as
+      classic.
+  parse_strategy: >
+    Strip `str. X z N ...` lines first. Meeting header regex tolerates both "Zastupitelstva"
+    (classic, capitalized) and "zastupitelstva" (verbose, lowercase) and a trailing "-" typo.
+    Event starts = a `HLASOVÁNÍ č. N` line (with or without a trailing "- RESULT") immediately
+    followed by a timestamp line -- this matches the real header in both eras and never matches
+    the verbose trailing result line (which is followed by a meeting header, not a timestamp).
+    Result per event: from ALL `HLASOVÁNÍ č. N - (SCHVÁLENO|NESCHVÁLENO)` matches in the meeting
+    text (works for both eras). G2 = recomputed per-row Pro/Proti/abstain/not-voting must match
+    the totals line's four figures exactly (hard gate, like Ústí); roster-row-count vs "Celkem
+    zastupitelů" logged as a warning, not gated (the Omluven/Nepřítomen split vs the single
+    "Omluveno" subcount is not yet fully pinned down).
+
+vote_vocabulary:
+  per_row: >
+    Czech words, GENDERED variants present and must be normalized: Pro (yes), Proti (no),
+    "Zdržel se"/"Zdržela se" (abstain), Nehlasoval/Nehlasovala (not voting), Omluven/Omluvena
+    (absent-excused), Nepřítomen/Nepřítomna (absent). The verbose Prezence block also uses
+    Přítomen/Přítomna (present) -- only relevant if that block is ever parsed (currently skipped).
+  totals_line: >
+    Uses different (neuter past) forms: "Zdrželo se", "Nehlasovalo", "Omluveno" -- do not reuse
+    the per-row map for the totals line.
+
+identity:
+  note: >
+    Resolve person identity by NAME, not seat number. Seat numbers ARE stable for a continuing
+    member but get REUSED when a councillor is replaced by a náhradník mid-term (seat 4:
+    Dvořáčková Helena 2023 -> Janda Leoš 2024+; seat 13: Charvát Martin 2023 -> Ministrová Mária
+    2024 -> Luticová Mária 2025-26). One confirmed same-person NAME CHANGE to merge after a
+    zero-gap date-continuity check: "Ministrová Mária" -> "Luticová Mária" (seat 13, ANO 2011).
+    Name split uses the standard Czech "last word = given name" heuristic (no structural marker,
+    same caveat as Ústí).
+
+klub_membership:
+  note: >
+    NO separate roster/membership feed -- klub affiliation is only ever observed PER VOTE (the
+    klub column on each roster row). Derived the Plzeň/Ústí/most-rada way: mode klub per meeting
+    per person, contiguous-run date intervals. Labels drift over the term for the same person:
+    SPOLU->ODS/SPOLU (Haas), SPD->SPD/Trikolora->Trikolora/SPD (Janda), Zelení->Zelení/Piráti->
+    Progresivní Pce (Hrdina), Piráti->Progresivní Pce wholesale by 2026. Klubs seen: ANO 2011,
+    ODS/SPOLU (a.k.a. SPOLU, TOP 09/SPOLU, KDU-ČSL/SPOLU), Piráti (later Progresivní Pce), ŽP,
+    SpP, NAŠE PARDUBICE, SPD (later SPD/Trikolora, Trikolora/SPD), Zelení, plus early one-offs
+    like "nezávislá/SPD". Coalition (D7, still to research/cite at C4): ANO 2011 won the 2022
+    election, Nadrchal Jan is primátor.
+
+not_yet_verified:
+  - "Exact session where the classic -> verbose_2026 format switch happens (sessions 35-38)."
+  - "Full vote-vocabulary scan across the WHOLE corpus (only 6 meetings sampled during research)."
+  - "Whether roster-row-count always equals 'Celkem zastupitelů', and how Nepřítomen rows relate
+    to the single 'Omluveno: N' subcount."
+  - "G5 namesake-collision check across the full multi-term-substitute roster."
+  - "The 'ustavující' (constitutive) session's ZIP link + whether its voting PDF has the same
+    shape (it may be attendance/oath only, no real votes -- Ústí's meeting 1 was a partial case)."
