@@ -1,9 +1,9 @@
-# Nightly automation for the Praha, Brno, Ostrava, Most, Plzeň, most-rada, Ústí nad Labem and
-# Hradec Králové pipelines (plan.md tasks C6/C6-equivalent).
+# Nightly automation for the Praha, Brno, Ostrava, Most, Plzeň, most-rada, Ústí nad Labem,
+# Hradec Králové and Pardubice pipelines (plan.md tasks C6/C6-equivalent).
 #
 # LIVE since 2026-08-25 (Praha) / 2026-08-27 (Brno, Ostrava) / 2026-08-28 (Most, Plzeň) /
-# 2026-08-29 (most-rada, Ústí nad Labem) / 2026-08-30 (Hradec Králové) — pushed to origin/main;
-# runs on the schedule below plus workflow_dispatch.
+# 2026-08-29 (most-rada, Ústí nad Labem) / 2026-08-30 (Hradec Králové) / 2026-08-31 (Pardubice)
+# — pushed to origin/main; runs on the schedule below plus workflow_dispatch.
 #
 # Shape per city: checkout -> install deps -> run the pipeline (download -> standardize -> G1 -> G2)
 # -> city-specific re-apply step(s) for data the standardizer can't retain on its own (Praha:
@@ -15,10 +15,11 @@
 # (GitHub Actions' default behavior: a failing step stops the job before later steps, including the
 # commit step, ever run — no extra plumbing needed for that).
 #
-# EIGHT SEQUENTIAL jobs (brno needs: praha, ostrava needs: brno, most needs: ostrava, plzen needs:
+# NINE SEQUENTIAL jobs (brno needs: praha, ostrava needs: brno, most needs: ostrava, plzen needs:
 # most, most-rada needs: plzen, usti-nad-labem needs: most-rada, hradec-kralove needs:
-# usti-nad-labem), not a matrix and not parallel: (1) each city's re-apply step sequence genuinely
-# differs (Praha has 3 such steps, Brno/Most/most-rada/usti-nad-labem/hradec-kralove have 1,
+# usti-nad-labem, pardubice needs: hradec-kralove), not a matrix and not parallel: (1) each city's
+# re-apply step sequence genuinely differs (Praha has 3 such steps,
+# Brno/Most/most-rada/usti-nad-labem/hradec-kralove/pardubice have 1,
 # Ostrava has 2, Plzeň has 1 but a much longer download/standardize step of its own) — a matrix
 # would need per-city conditional steps anyway, no real simplification over eight job bodies;
 # (2) every job
@@ -760,5 +761,84 @@ jobs:
             exit 0
           fi
           git commit -m "Nightly Hradec Králové data + analysis update"
+          git pull --rebase
+          git push
+
+  pardubice:
+    name: Pardubice nightly pipeline
+    needs: hradec-kralove
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Pardubice pipeline (download -> standardize -> G1 schema gate -> G2 cross-check)
+        run: python pardubice/pipelines/run_pipeline.py
+
+      - name: Re-apply real party/klub data (C4)
+        # standardize.py rewrites organizations.csv/memberships.csv from scratch every run, which
+        # would drop the pardubice:org:group:* klub rows this script derives from the per-vote
+        # klub column (canonicalized; D7-approved) — same class of gap as every other city's
+        # party_affiliation.py step.
+        run: python pardubice/scripts/party_affiliation.py
+
+      - name: G4 monotonicity guard
+        run: python scripts/monotonicity_guard.py --data-dir pardubice/data
+
+      - name: Clone legislature-data-analyses
+        run: |
+          git clone --depth=1 https://github.com/michalskop/legislature-data-analyses.git /tmp/legislature-data-analyses
+
+      - name: Run attendance analysis
+        run: |
+          python pardubice/scripts/analyses/run_attendance.py \
+            --script /tmp/legislature-data-analyses/attendance/attendance.py
+
+      - name: Run rebelity analysis
+        run: |
+          python pardubice/scripts/analyses/run_rebelity.py \
+            --script /tmp/legislature-data-analyses/rebelity/rebelity.py
+
+      - name: Run govity analysis
+        run: |
+          python pardubice/scripts/analyses/run_govity.py \
+            --script /tmp/legislature-data-analyses/govity/govity.py
+
+      - name: Run wpca analysis
+        run: |
+          python pardubice/scripts/analyses/run_wpca.py \
+            --script /tmp/legislature-data-analyses/wpca/wpca.py
+
+      - name: Detect government/opposition WPCA axis
+        run: python pardubice/scripts/detect_government_axis.py
+
+      - name: G7 range sanity check on analysis outputs
+        run: |
+          python scripts/g7_sanity_check.py --output-file pardubice/analyses/attendance/outputs/attendance.json
+          python scripts/g7_sanity_check.py --output-file pardubice/analyses/rebelity/outputs/rebelity.json
+          python scripts/g7_sanity_check.py --output-file pardubice/analyses/govity/outputs/govity.json
+          python scripts/g7_sanity_check.py --output-file pardubice/analyses/wpca/outputs/wpca.json
+          python scripts/g7_sanity_check.py --output-file pardubice/analyses/wpca/outputs/wpca_time.json
+          python scripts/g7_sanity_check.py --output-file pardubice/analyses/wpca/outputs/government_axis.json
+
+      - name: Commit and push updated data + analysis outputs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add pardubice/data/ pardubice/analyses/*/outputs/
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "Nightly Pardubice data + analysis update"
           git pull --rebase
           git push
