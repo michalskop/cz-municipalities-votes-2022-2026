@@ -1,0 +1,76 @@
+# Source config for České Budějovice (Zastupitelstvo statutárního města České Budějovice).
+# Investigated 2026-08-31 (see this repo's memory: ceske-budejovice-source-research). The city's
+# own VOATT-vendor "Jak se hlasovalo" statistics portal — plain unauthenticated GET pages,
+# structured HTML tables, one consistent format across the whole term. NOT on the zastupko backend.
+
+body:
+  name: "Zastupitelstvo statutárního města České Budějovice"
+  council_size: 45
+  note: >
+    45-member city assembly. The portal calls each meeting "Zasedání číslo <YYYY><NNN>" where NNN
+    is a running counter within the term (2022001 = the 2022-10-24 constitutive session, ...
+    2026031 = 2026-07-20). Term 9 = 2022-2026.
+
+portal:
+  host: "https://www.c-budejovice.cz"
+  note: >
+    Use the `www.` host — the apex `c-budejovice.cz` was returning HTTP 503 (WEDOS "Origin server
+    error") at investigation time while `www.` worked fine.
+
+  term_index:
+    url: "https://www.c-budejovice.cz/statistiky/obdobi/1484"
+    note: >
+      1484 = the `period` id for term 9 (2022-2026). GET returns a single table of all 31
+      meetings this term: `Zasedání číslo <YYYYNNN> | <D. month YYYY> | <link>`, link =
+      `/statistiky/zasedani/<meetingId>`. (The `period` <select> on /statistiky/jak-se-hlasovalo
+      lists every term's id; older terms 1999-2022 have their own.)
+
+  meeting:
+    url_pattern: "https://www.c-budejovice.cz/statistiky/zasedani/{meetingId}"
+    note: >
+      GET returns one table: `Bod jednání ("Bod č. NN.") | Číslo hlasování ("1.", "2.", ...) |
+      Název (agenda-item title) | <link>`, link = `/statistiky/vysledky-hlasovani-dle-bodu/
+      {meetingId}?bod={voteId}`. ~27-47 vote events per meeting. The meeting DATE is not on this
+      page — take it from the term_index table, keyed by the meeting number.
+
+  vote:
+    url_pattern: "https://www.c-budejovice.cz/statistiky/vysledky-hlasovani-dle-bodu/{meetingId}?bod={voteId}"
+    note: >
+      GET. Heading: "Výsledek hlasování k bodu číslo <N.NN>. (tisk <TISK-ID>), zasedání číslo
+      <YYYYNNN>, <bod title> - poznámka: <note>". Then TWO tables:
+        table 0 (the data): `Zastupitel | Klub | Hlasoval | Hlasování klubu` — one row per
+          councillor (45), name (with academic titles) + klub label + that person's vote + their
+          klub's collective vote.
+        table 1: per-klub aggregate `Klub | Hlasování klubu`.
+      NO explicit přijato/nepřijato outcome and NO aggregate count line on the page — `result` is
+      DERIVED (see standardize.py): pass iff >= 23 "Hlasoval pro" (nadpoloviční většina všech 45
+      členů, § 87 zákona č. 128/2000 Sb.). Documented as derived, not from the source.
+
+vote_vocabulary:
+  note: >
+    Closed set of Czech phrases in the "Hlasoval" column (confirmed across a 2022 and a 2024
+    meeting): "Hlasoval pro" -> yes, "Hlasoval proti" -> no, "Zdržel se hlasování" -> abstain,
+    "Byl přítomen a nehlasoval" -> not voting, "Nebyl přítomen" -> absent.
+
+klubs:
+  note: >
+    7 klubs, shown as a per-vote label on each councillor's row (their klub AT that vote) — no
+    separate dated roster feed, so dated klub intervals are derived the Pardubice/Plzeň/Ústí way
+    (mode klub per meeting + contiguous-run detection). Klubs seen: ANO, HOPB, Jihočeši 2012,
+    KDU-TOP09, ODS, PIRÁTI, SPD.
+
+identity:
+  note: >
+    Names carry academic titles ("Mgr.", "Ing.", "JUDr.", "doc. Dr. Ing.", "Bc.", ...) — strip a
+    leading run of dotted title tokens before the "last word = given name" split. Resolve identity
+    by name.
+
+not_yet_verified:
+  - "Whether the `?bod=` voteId is globally unique or only unique per meeting (the downloader keys
+    raw files by {meetingId}_{voteId} to be safe either way)."
+  - "Whether the constitutive session (meetingId 287849, 2022-10-24) has real votes or only
+    oath/attendance — sample it during the build."
+  - "Full vocabulary scan across ALL 31 meetings (only 2 sampled during research)."
+  - "G5 namesake collisions across the full 45-member + substitutes roster."
+  - "Meeting-list pagination behaviour if the /obdobi/ page ever splits across pages (31 rows fit
+    on one page now)."
