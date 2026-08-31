@@ -1,0 +1,11 @@
+{
+  "since": "2022-10-24",
+  "until": null,
+  "present_options": ["yes", "no", "abstain"],
+  "absent_options": ["absent", "not voting"],
+  "extras": {
+    "approval_status": "DRAFT — pure vote-option vocabulary + term dates, no political judgment; does not require D7 sign-off. Ready to use as-is.",
+    "vocabulary_source": "ceske-budejovice/config/sources.yml + standardize.py: the VOATT portal's Czech phrases 'Hlasoval pro' -> yes, 'Hlasoval proti' -> no, 'Zdržel se hlasování' -> abstain, 'Byl přítomen a nehlasoval' -> 'not voting', 'Nebyl přítomen' -> absent.",
+    "since_rationale": "2022-10-24 = the term's constitutive ZM session (first recorded vote, per vote_events.json). until=null: term not ended as of 2026-08-31; last processed meeting 2026-07-20."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-08-31T11:38:58.478288+00:00",
+  "method": "point_biserial_correlation",
+  "n_dims": 3,
+  "n_included_people": 49,
+  "government_groups": [
+    "ceske-budejovice:org:group:ods",
+    "ceske-budejovice:org:group:nezarazeni",
+    "ceske-budejovice:org:group:nase-cesko",
+    "ceske-budejovice:org:group:kdu-top09",
+    "ceske-budejovice:org:group:jihocesi-2012"
+  ],
+  "government_members": [],
+  "government_person_count": 21,
+  "opposition_person_count": 28,
+  "correlations": [
+    {
+      "dim_index": 0,
+      "correlation": 0.875989305312612
+    },
+    {
+      "dim_index": 1,
+      "correlation": -0.24446050894252325
+    },
+    {
+      "dim_index": 2,
+      "correlation": 0.11828282403175218
+    }
+  ],
+  "detected_dim_index": 0,
+  "override_dim_index": null,
+  "overridden": false,
+  "effective_dim_index": 0,
+  "government_mean": 0.7274330382863502,
+  "opposition_mean": -0.6024134305525806,
+  "government_sign": 1,
+  "sources": {
+    "wpca_output": "ceske-budejovice/analyses/wpca/outputs/wpca.json",
+    "wpca_definition": "ceske-budejovice/analyses/wpca/wpca_definition.json",
+    "govity_definition": "ceske-budejovice/analyses/govity/govity_definition.json",
+    "memberships": "ceske-budejovice/data/memberships.csv"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "since": "2022-10-24",
+  "until": null,
+  "present_options": ["yes", "no", "abstain"],
+  "absent_options": ["absent", "not voting"],
+  "yes_options": ["yes"],
+  "no_options": ["no"],
+  "government_groups": [
+    "ceske-budejovice:org:group:ods",
+    "ceske-budejovice:org:group:nezarazeni",
+    "ceske-budejovice:org:group:nase-cesko",
+    "ceske-budejovice:org:group:kdu-top09",
+    "ceske-budejovice:org:group:jihocesi-2012"
+  ],
+  "government_members": [],
+  "extras": {
+    "approval_status": "APPROVED by project owner 2026-08-31, per plan.md decision D7 — as decided below over two sub-questions.",
+    "government_groups_citation": [
+      {
+        "claim": "The 2022-2026 governing coalition formed after the Sept 2022 election: ODS (16 seats, primátorka Dagmar Škodová Parmová — the city's first woman mayor) + 'Společně pro Budějovice' (KDU-ČSL + TOP 09, 3 seats, klub label 'KDU-TOP09') + Piráti (3 seats) + Jihočeši 2012 (1 seat) = 23 of 45, the narrowest majority. Coalition agreement signed before the 2022-10-24 constitutive session.",
+        "sources": [
+          "https://www.irozhlas.cz/volby/volby-ceske-budejovice-primatorka-ods-pirati-jihocesi_2210102137_afo",
+          "https://www.c-budejovice.cz/sites/default/files/filefield_paths/koalicni_smlouva_2022_-_2026_0.pdf"
+        ]
+      },
+      {
+        "claim": "Piráti (3 seats) left the coalition without warning just before the 2024-10-21 council session; the coalition dropped to 20/45 and has governed as a minority ever since, still led by ODS. Piráti kept their 'PIRÁTI' klub label in the voting data (leaving the coalition is a political act, not a klub change).",
+        "sources": ["https://ceskobudejovicky.denik.cz/z_regionu/rozpad-koalice-ceske-budejovice.html"]
+      },
+      {
+        "claim": "After South-Bohemian governor Martin Kuba announced (late 2025) a new movement over disputes with ODS's national leadership, 14 of ODS's 16 city councillors — including primátorka Škodová Parmová and 3 deputy mayors — left ODS. In this repo's own derived data (ceske-budejovice/data/memberships.csv) those exact 14 people change klub label 'ODS' -> 'NEZAŘAZENÍ' at meeting 2025026 (2025-12-15), then 'NEZAŘAZENÍ' -> 'NAŠE ČESKO' at meeting 2026029 (2026-05-11); the other two (Jiří Borovka, Petr Pelech) stayed 'ODS'. The coalition continued 'in the same personnel composition' — i.e. the same people kept governing under the new label.",
+        "sources": [
+          "https://www.ceskenoviny.cz/zpravy/ceskobudejovicka-koalice-bude-pokracovat-i-pote-co-nekteri-clenove-opusti-ods/2753506",
+          "ceske-budejovice/data/memberships.csv (this repo's own derived data)"
+        ]
+      }
+    ],
+    "resolved_questions": [
+      {
+        "question": "Piráti governed only ~2 of the 4 years (walked out 2024-10-21). Include them in the single static government_groups list?",
+        "resolution": "RESOLVED 2026-08-31 by project owner: EXCLUDE Piráti — government_groups reflects the bloc that governed for the majority of the term (2024-10 onward). Same 'lesser inaccuracy' logic the owner applied to Hradec Králové's Rozvíjíme Hradec. Piráti therefore read as opposition throughout govity/wpca."
+      },
+      {
+        "question": "The ODS klub (the primátorka's) is labelled 'ODS' then 'NEZAŘAZENÍ' then 'NAŠE ČESKO' across the term — same 14 people governing throughout. Which org id(s) represent them?",
+        "resolution": "RESOLVED 2026-08-31 by project owner: use ALL THREE — ods + nezarazeni + nase-cesko. Verified clean: those three klub orgs contain exactly the 14 continuing ex-ODS councillors and no unrelated people (the only other 'NEZAŘAZENÍ'/independent movement in the data is the 3 ex-SPD members who became 'NEZÁVISLÍ', a separate klub). The 2 ODS members who did not follow Kuba (Borovka, Pelech) stay under 'ods' and are thus still counted as government — a known ~2-person edge the owner accepted as immaterial."
+      }
+    ],
+    "open_questions_for_owner": []
+  }
+}

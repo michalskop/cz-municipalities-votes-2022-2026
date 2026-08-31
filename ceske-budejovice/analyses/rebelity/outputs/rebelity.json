@@ -1,0 +1,1301 @@
+[
+  {
+    "person_id": "ceske-budejovice:person:adela-ruiderova",
+    "rebelity_total": 0,
+    "rebelity_possible": 1197,
+    "rebelity": 0.0,
+    "name": "Adéla Ruiderová",
+    "given_names": [
+      "Adéla"
+    ],
+    "family_names": [
+      "Ruiderová"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:nase-cesko",
+        "classification": "group",
+        "name": "NAŠE ČESKO",
+        "since": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:nezarazeni",
+        "classification": "group",
+        "name": "NEZAŘAZENÍ",
+        "since": "2025-12-15",
+        "until": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2022-10-24",
+        "until": "2025-12-15"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:alice-stierandova",
+    "rebelity_total": 4,
+    "rebelity_possible": 1147,
+    "rebelity": 0.003487,
+    "name": "Alice Stierandová",
+    "given_names": [
+      "Alice"
+    ],
+    "family_names": [
+      "Stierandová"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:nezavisli",
+        "classification": "group",
+        "name": "NEZÁVISLÍ",
+        "since": "2025-03-24"
+      },
+      {
+        "id": "ceske-budejovice:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2022-10-24",
+        "until": "2025-03-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:andrea-nadravska",
+    "rebelity_total": 9,
+    "rebelity_possible": 1190,
+    "rebelity": 0.007563,
+    "name": "Andrea Nádravská",
+    "given_names": [
+      "Andrea"
+    ],
+    "family_names": [
+      "Nádravská"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:ano",
+        "classification": "group",
+        "name": "ANO",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:dagmar-skodova-parmova",
+    "rebelity_total": 6,
+    "rebelity_possible": 1197,
+    "rebelity": 0.005013,
+    "name": "Dagmar Škodová Parmová",
+    "given_names": [
+      "Dagmar"
+    ],
+    "family_names": [
+      "Škodová Parmová"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:nase-cesko",
+        "classification": "group",
+        "name": "NAŠE ČESKO",
+        "since": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:nezarazeni",
+        "classification": "group",
+        "name": "NEZAŘAZENÍ",
+        "since": "2025-12-15",
+        "until": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2022-10-24",
+        "until": "2025-12-15"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:ivo-moravec",
+    "rebelity_total": 8,
+    "rebelity_possible": 1183,
+    "rebelity": 0.006762,
+    "name": "Ivo Moravec",
+    "given_names": [
+      "Ivo"
+    ],
+    "family_names": [
+      "Moravec"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:hopb",
+        "classification": "group",
+        "name": "HOPB",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:jan-hosek",
+    "rebelity_total": 4,
+    "rebelity_possible": 516,
+    "rebelity": 0.007752,
+    "name": "Jan Hošek",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Hošek"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:pirati",
+        "classification": "group",
+        "name": "PIRÁTI",
+        "since": "2024-11-18"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:jan-kadlec",
+    "rebelity_total": 39,
+    "rebelity_possible": 1075,
+    "rebelity": 0.036279,
+    "name": "Jan Kadlec",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Kadlec"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:jan-krob",
+    "rebelity_total": 0,
+    "rebelity_possible": 489,
+    "rebelity": 0.0,
+    "name": "Jan Krob",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Krob"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2022-10-24",
+        "until": "2024-02-26"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:jan-michl",
+    "rebelity_total": 5,
+    "rebelity_possible": 1190,
+    "rebelity": 0.004202,
+    "name": "Jan Michl",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Michl"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:ano",
+        "classification": "group",
+        "name": "ANO",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:jan-zahradnik",
+    "rebelity_total": 3,
+    "rebelity_possible": 1197,
+    "rebelity": 0.002506,
+    "name": "Jan Zahradník",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Zahradník"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:nase-cesko",
+        "classification": "group",
+        "name": "NAŠE ČESKO",
+        "since": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:nezarazeni",
+        "classification": "group",
+        "name": "NEZAŘAZENÍ",
+        "since": "2025-12-15",
+        "until": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2022-10-24",
+        "until": "2025-12-15"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:jaroslav-berka",
+    "rebelity_total": 17,
+    "rebelity_possible": 1190,
+    "rebelity": 0.014286,
+    "name": "Jaroslav Berka",
+    "given_names": [
+      "Jaroslav"
+    ],
+    "family_names": [
+      "Berka"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:ano",
+        "classification": "group",
+        "name": "ANO",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:jiri-borovka",
+    "rebelity_total": 5,
+    "rebelity_possible": 1153,
+    "rebelity": 0.004337,
+    "name": "Jiří Borovka",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Borovka"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:jiri-svoboda",
+    "rebelity_total": 3,
+    "rebelity_possible": 1190,
+    "rebelity": 0.002521,
+    "name": "Jiří Svoboda",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Svoboda"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:ano",
+        "classification": "group",
+        "name": "ANO",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:juraj-thoma",
+    "rebelity_total": 3,
+    "rebelity_possible": 1183,
+    "rebelity": 0.002536,
+    "name": "Juraj Thoma",
+    "given_names": [
+      "Juraj"
+    ],
+    "family_names": [
+      "Thoma"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:hopb",
+        "classification": "group",
+        "name": "HOPB",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:karel-vaskovsky",
+    "rebelity_total": 0,
+    "rebelity_possible": 1197,
+    "rebelity": 0.0,
+    "name": "Karel Vaškovský",
+    "given_names": [
+      "Karel"
+    ],
+    "family_names": [
+      "Vaškovský"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:nase-cesko",
+        "classification": "group",
+        "name": "NAŠE ČESKO",
+        "since": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:nezarazeni",
+        "classification": "group",
+        "name": "NEZAŘAZENÍ",
+        "since": "2025-12-15",
+        "until": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2022-10-24",
+        "until": "2025-12-15"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:lubomir-bures",
+    "rebelity_total": 1,
+    "rebelity_possible": 1197,
+    "rebelity": 0.000835,
+    "name": "Lubomír Bureš",
+    "given_names": [
+      "Lubomír"
+    ],
+    "family_names": [
+      "Bureš"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:nase-cesko",
+        "classification": "group",
+        "name": "NAŠE ČESKO",
+        "since": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:nezarazeni",
+        "classification": "group",
+        "name": "NEZAŘAZENÍ",
+        "since": "2025-12-15",
+        "until": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2022-10-24",
+        "until": "2025-12-15"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:lucie-kozlova",
+    "rebelity_total": 2,
+    "rebelity_possible": 1197,
+    "rebelity": 0.001671,
+    "name": "Lucie Kozlová",
+    "given_names": [
+      "Lucie"
+    ],
+    "family_names": [
+      "Kozlová"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:nase-cesko",
+        "classification": "group",
+        "name": "NAŠE ČESKO",
+        "since": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:nezarazeni",
+        "classification": "group",
+        "name": "NEZAŘAZENÍ",
+        "since": "2025-12-15",
+        "until": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2022-10-24",
+        "until": "2025-12-15"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:lukas-bajt",
+    "rebelity_total": 1,
+    "rebelity_possible": 1183,
+    "rebelity": 0.000845,
+    "name": "Lukáš Bajt",
+    "given_names": [
+      "Lukáš"
+    ],
+    "family_names": [
+      "Bajt"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:hopb",
+        "classification": "group",
+        "name": "HOPB",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:martin-kuba",
+    "rebelity_total": 2,
+    "rebelity_possible": 1197,
+    "rebelity": 0.001671,
+    "name": "Martin Kuba",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Kuba"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:nase-cesko",
+        "classification": "group",
+        "name": "NAŠE ČESKO",
+        "since": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:nezarazeni",
+        "classification": "group",
+        "name": "NEZAŘAZENÍ",
+        "since": "2025-12-15",
+        "until": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2022-10-24",
+        "until": "2025-12-15"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:martin-marsik",
+    "rebelity_total": 0,
+    "rebelity_possible": 1123,
+    "rebelity": 0.0,
+    "name": "Martin Maršík",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Maršík"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:jihocesi-2012",
+        "classification": "group",
+        "name": "Jihočeši 2012",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:martin-novotny",
+    "rebelity_total": 2,
+    "rebelity_possible": 1187,
+    "rebelity": 0.001685,
+    "name": "Martin Novotný",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Novotný"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:pirati",
+        "classification": "group",
+        "name": "PIRÁTI",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:martin-stasek",
+    "rebelity_total": 1,
+    "rebelity_possible": 1197,
+    "rebelity": 0.000835,
+    "name": "Martin Stašek",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Stašek"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:nase-cesko",
+        "classification": "group",
+        "name": "NAŠE ČESKO",
+        "since": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:nezarazeni",
+        "classification": "group",
+        "name": "NEZAŘAZENÍ",
+        "since": "2025-12-15",
+        "until": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2022-10-24",
+        "until": "2025-12-15"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:michaela-kudlackova",
+    "rebelity_total": 1,
+    "rebelity_possible": 1193,
+    "rebelity": 0.000838,
+    "name": "Michaela Kudláčková",
+    "given_names": [
+      "Michaela"
+    ],
+    "family_names": [
+      "Kudláčková"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:kdu-top09",
+        "classification": "group",
+        "name": "KDU-TOP09",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:michal-sebek",
+    "rebelity_total": 1,
+    "rebelity_possible": 1197,
+    "rebelity": 0.000835,
+    "name": "Michal Šebek",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Šebek"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:nase-cesko",
+        "classification": "group",
+        "name": "NAŠE ČESKO",
+        "since": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:nezarazeni",
+        "classification": "group",
+        "name": "NEZAŘAZENÍ",
+        "since": "2025-12-15",
+        "until": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2022-10-24",
+        "until": "2025-12-15"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:milan-dzuba",
+    "rebelity_total": 0,
+    "rebelity_possible": 754,
+    "rebelity": 0.0,
+    "name": "Milan Džuba",
+    "given_names": [
+      "Milan"
+    ],
+    "family_names": [
+      "Džuba"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:nase-cesko",
+        "classification": "group",
+        "name": "NAŠE ČESKO",
+        "since": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:nezarazeni",
+        "classification": "group",
+        "name": "NEZAŘAZENÍ",
+        "since": "2025-12-15",
+        "until": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2024-02-26",
+        "until": "2025-12-15"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:monika-kroutilova",
+    "rebelity_total": 13,
+    "rebelity_possible": 1147,
+    "rebelity": 0.011334,
+    "name": "Monika Kroutilová",
+    "given_names": [
+      "Monika"
+    ],
+    "family_names": [
+      "Kroutilová"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:nezavisli",
+        "classification": "group",
+        "name": "NEZÁVISLÍ",
+        "since": "2025-03-24"
+      },
+      {
+        "id": "ceske-budejovice:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2022-10-24",
+        "until": "2025-03-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:ondrej-trtilek",
+    "rebelity_total": 6,
+    "rebelity_possible": 1190,
+    "rebelity": 0.005042,
+    "name": "Ondřej Trtílek",
+    "given_names": [
+      "Ondřej"
+    ],
+    "family_names": [
+      "Trtílek"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:ano",
+        "classification": "group",
+        "name": "ANO",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:pavla-heydukova",
+    "rebelity_total": 1,
+    "rebelity_possible": 573,
+    "rebelity": 0.001745,
+    "name": "Pavla Heyduková",
+    "given_names": [
+      "Pavla"
+    ],
+    "family_names": [
+      "Heyduková"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:pirati",
+        "classification": "group",
+        "name": "PIRÁTI",
+        "since": "2024-09-16"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:pavla-sadkova",
+    "rebelity_total": 4,
+    "rebelity_possible": 1197,
+    "rebelity": 0.003342,
+    "name": "Pavla Šádková",
+    "given_names": [
+      "Pavla"
+    ],
+    "family_names": [
+      "Šádková"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:nase-cesko",
+        "classification": "group",
+        "name": "NAŠE ČESKO",
+        "since": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:nezarazeni",
+        "classification": "group",
+        "name": "NEZAŘAZENÍ",
+        "since": "2025-12-15",
+        "until": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2022-10-24",
+        "until": "2025-12-15"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-holicky",
+    "rebelity_total": 17,
+    "rebelity_possible": 1190,
+    "rebelity": 0.014286,
+    "name": "Petr Holický",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Holický"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:ano",
+        "classification": "group",
+        "name": "ANO",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-kolar",
+    "rebelity_total": 12,
+    "rebelity_possible": 1190,
+    "rebelity": 0.010084,
+    "name": "Petr Kolář",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Kolář"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:ano",
+        "classification": "group",
+        "name": "ANO",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-lamac",
+    "rebelity_total": 0,
+    "rebelity_possible": 1197,
+    "rebelity": 0.0,
+    "name": "Petr Lamač",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Lamač"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:nase-cesko",
+        "classification": "group",
+        "name": "NAŠE ČESKO",
+        "since": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:nezarazeni",
+        "classification": "group",
+        "name": "NEZAŘAZENÍ",
+        "since": "2025-12-15",
+        "until": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2022-10-24",
+        "until": "2025-12-15"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-maros",
+    "rebelity_total": 3,
+    "rebelity_possible": 1197,
+    "rebelity": 0.002506,
+    "name": "Petr Maroš",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Maroš"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:nase-cesko",
+        "classification": "group",
+        "name": "NAŠE ČESKO",
+        "since": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:nezarazeni",
+        "classification": "group",
+        "name": "NEZAŘAZENÍ",
+        "since": "2025-12-15",
+        "until": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2022-10-24",
+        "until": "2025-12-15"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-pelech",
+    "rebelity_total": 3,
+    "rebelity_possible": 1153,
+    "rebelity": 0.002602,
+    "name": "Petr Pelech",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Pelech"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-stehlik",
+    "rebelity_total": 12,
+    "rebelity_possible": 1190,
+    "rebelity": 0.010084,
+    "name": "Petr Stehlík",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Stehlík"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:ano",
+        "classification": "group",
+        "name": "ANO",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-stepanek",
+    "rebelity_total": 13,
+    "rebelity_possible": 1190,
+    "rebelity": 0.010924,
+    "name": "Petr Štěpánek",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Štěpánek"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:ano",
+        "classification": "group",
+        "name": "ANO",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:roman-kubicek",
+    "rebelity_total": 13,
+    "rebelity_possible": 1190,
+    "rebelity": 0.010924,
+    "name": "Roman Kubíček",
+    "given_names": [
+      "Roman"
+    ],
+    "family_names": [
+      "Kubíček"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:ano",
+        "classification": "group",
+        "name": "ANO",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:simon-heller",
+    "rebelity_total": 3,
+    "rebelity_possible": 1193,
+    "rebelity": 0.002515,
+    "name": "Šimon Heller",
+    "given_names": [
+      "Šimon"
+    ],
+    "family_names": [
+      "Heller"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:kdu-top09",
+        "classification": "group",
+        "name": "KDU-TOP09",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:svatomir-mlcoch",
+    "rebelity_total": 0,
+    "rebelity_possible": 646,
+    "rebelity": 0.0,
+    "name": "Svatomír Mlčoch",
+    "given_names": [
+      "Svatomír"
+    ],
+    "family_names": [
+      "Mlčoch"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:pirati",
+        "classification": "group",
+        "name": "PIRÁTI",
+        "since": "2022-10-24",
+        "until": "2024-09-16"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:svetlana-prochazkova",
+    "rebelity_total": 2,
+    "rebelity_possible": 1183,
+    "rebelity": 0.001691,
+    "name": "Světlana Procházková",
+    "given_names": [
+      "Světlana"
+    ],
+    "family_names": [
+      "Procházková"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:hopb",
+        "classification": "group",
+        "name": "HOPB",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:tomas-bouzek",
+    "rebelity_total": 3,
+    "rebelity_possible": 1193,
+    "rebelity": 0.002515,
+    "name": "Tomáš Bouzek",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Bouzek"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:kdu-top09",
+        "classification": "group",
+        "name": "KDU-TOP09",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:tomas-chovanec",
+    "rebelity_total": 2,
+    "rebelity_possible": 1183,
+    "rebelity": 0.001691,
+    "name": "Tomáš Chovanec",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Chovanec"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:hopb",
+        "classification": "group",
+        "name": "HOPB",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:tomas-kubin",
+    "rebelity_total": 11,
+    "rebelity_possible": 692,
+    "rebelity": 0.015896,
+    "name": "Tomáš Kubín",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Kubín"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:ano",
+        "classification": "group",
+        "name": "ANO",
+        "since": "2022-10-24",
+        "until": "2024-11-18"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:viktor-lavicka",
+    "rebelity_total": 10,
+    "rebelity_possible": 1190,
+    "rebelity": 0.008403,
+    "name": "Viktor Lavička",
+    "given_names": [
+      "Viktor"
+    ],
+    "family_names": [
+      "Lavička"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:ano",
+        "classification": "group",
+        "name": "ANO",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:vladan-cisler",
+    "rebelity_total": 17,
+    "rebelity_possible": 1147,
+    "rebelity": 0.014821,
+    "name": "Vladan Císler",
+    "given_names": [
+      "Vladan"
+    ],
+    "family_names": [
+      "Císler"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:nezavisli",
+        "classification": "group",
+        "name": "NEZÁVISLÍ",
+        "since": "2025-03-24"
+      },
+      {
+        "id": "ceske-budejovice:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2022-10-24",
+        "until": "2025-03-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:vladimira-bernasova",
+    "rebelity_total": 7,
+    "rebelity_possible": 1190,
+    "rebelity": 0.005882,
+    "name": "Vladimíra Bernasová",
+    "given_names": [
+      "Vladimíra"
+    ],
+    "family_names": [
+      "Bernasová"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:ano",
+        "classification": "group",
+        "name": "ANO",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:zbynek-sykora",
+    "rebelity_total": 3,
+    "rebelity_possible": 1197,
+    "rebelity": 0.002506,
+    "name": "Zbyněk Sýkora",
+    "given_names": [
+      "Zbyněk"
+    ],
+    "family_names": [
+      "Sýkora"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:nase-cesko",
+        "classification": "group",
+        "name": "NAŠE ČESKO",
+        "since": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:nezarazeni",
+        "classification": "group",
+        "name": "NEZAŘAZENÍ",
+        "since": "2025-12-15",
+        "until": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2022-10-24",
+        "until": "2025-12-15"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:zdenek-kristan",
+    "rebelity_total": 1,
+    "rebelity_possible": 519,
+    "rebelity": 0.001927,
+    "name": "Zdeněk Křišťan",
+    "given_names": [
+      "Zdeněk"
+    ],
+    "family_names": [
+      "Křišťan"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:ano",
+        "classification": "group",
+        "name": "ANO",
+        "since": "2024-11-18"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:zuzana-kudlackova",
+    "rebelity_total": 2,
+    "rebelity_possible": 692,
+    "rebelity": 0.00289,
+    "name": "Zuzana Kudláčková",
+    "given_names": [
+      "Zuzana"
+    ],
+    "family_names": [
+      "Kudláčková"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:pirati",
+        "classification": "group",
+        "name": "PIRÁTI",
+        "since": "2022-10-24",
+        "until": "2024-11-18"
+      }
+    ],
+    "since": "2022-10-24"
+  }
+]

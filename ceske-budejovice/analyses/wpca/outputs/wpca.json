@@ -1,0 +1,1889 @@
+[
+  {
+    "person_id": "ceske-budejovice:person:adela-ruiderova",
+    "dims": [
+      0.748738638732155,
+      -0.13284018292829988,
+      0.022745126800614246
+    ],
+    "weight": 0.9481203007518795,
+    "included": true,
+    "name": "Adéla Ruiderová",
+    "given_names": [
+      "Adéla"
+    ],
+    "family_names": [
+      "Ruiderová"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:zastupitelstvo-mesta-ceske-budejovice",
+        "name": "Zastupitelstvo statutárního města České Budějovice",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "ceske-budejovice:org:group:nase-cesko",
+        "name": "NAŠE ČESKO",
+        "classification": "groups",
+        "since": "2026-05-11",
+        "until": null
+      },
+      {
+        "id": "ceske-budejovice:org:group:nezarazeni",
+        "name": "NEZAŘAZENÍ",
+        "classification": "groups",
+        "since": "2025-12-15",
+        "until": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:ods",
+        "name": "ODS",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": "2025-12-15"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:alice-stierandova",
+    "dims": [
+      -0.8917532464602247,
+      -0.12284178521008152,
+      0.5585699392552079
+    ],
+    "weight": 0.8774436090225564,
+    "included": true,
+    "name": "Alice Stierandová",
+    "given_names": [
+      "Alice"
+    ],
+    "family_names": [
+      "Stierandová"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:zastupitelstvo-mesta-ceske-budejovice",
+        "name": "Zastupitelstvo statutárního města České Budějovice",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "ceske-budejovice:org:group:nezavisli",
+        "name": "NEZÁVISLÍ",
+        "classification": "groups",
+        "since": "2025-03-24",
+        "until": null
+      },
+      {
+        "id": "ceske-budejovice:org:group:spd",
+        "name": "SPD",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": "2025-03-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:andrea-nadravska",
+    "dims": [
+      -0.9097522519443778,
+      -0.20744932974132566,
+      -0.1898346491139654
+    ],
+    "weight": 0.9030075187969925,
+    "included": true,
+    "name": "Andrea Nádravská",
+    "given_names": [
+      "Andrea"
+    ],
+    "family_names": [
+      "Nádravská"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:zastupitelstvo-mesta-ceske-budejovice",
+        "name": "Zastupitelstvo statutárního města České Budějovice",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "ceske-budejovice:org:group:ano",
+        "name": "ANO",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:dagmar-skodova-parmova",
+    "dims": [
+      0.7378995126346486,
+      0.021940042371211135,
+      0.028485306901532358
+    ],
+    "weight": 0.9996240601503759,
+    "included": true,
+    "name": "Dagmar Škodová Parmová",
+    "given_names": [
+      "Dagmar"
+    ],
+    "family_names": [
+      "Škodová Parmová"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:zastupitelstvo-mesta-ceske-budejovice",
+        "name": "Zastupitelstvo statutárního města České Budějovice",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "ceske-budejovice:org:group:nase-cesko",
+        "name": "NAŠE ČESKO",
+        "classification": "groups",
+        "since": "2026-05-11",
+        "until": null
+      },
+      {
+        "id": "ceske-budejovice:org:group:nezarazeni",
+        "name": "NEZAŘAZENÍ",
+        "classification": "groups",
+        "since": "2025-12-15",
+        "until": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:ods",
+        "name": "ODS",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": "2025-12-15"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:ivo-moravec",
+    "dims": [
+      -0.4629172728020652,
+      0.682364898875045,
+      0.16247927030558443
+    ],
+    "weight": 0.9270676691729324,
+    "included": true,
+    "name": "Ivo Moravec",
+    "given_names": [
+      "Ivo"
+    ],
+    "family_names": [
+      "Moravec"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:zastupitelstvo-mesta-ceske-budejovice",
+        "name": "Zastupitelstvo statutárního města České Budějovice",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "ceske-budejovice:org:group:hopb",
+        "name": "HOPB",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:jan-hosek",
+    "dims": [
+      -0.15477095512862837,
+      1.0997931302788015,
+      -0.22703559981325452
+    ],
+    "weight": 0.32368421052631574,
+    "included": true,
+    "name": "Jan Hošek",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Hošek"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:zastupitelstvo-mesta-ceske-budejovice",
+        "name": "Zastupitelstvo statutárního města České Budějovice",
+        "classification": "parliament",
+        "since": "2024-11-18",
+        "until": null
+      },
+      {
+        "id": "ceske-budejovice:org:group:pirati",
+        "name": "PIRÁTI",
+        "classification": "groups",
+        "since": "2024-11-18",
+        "until": null
+      }
+    ],
+    "since": "2024-11-18"
+  },
+  {
+    "person_id": "ceske-budejovice:person:jan-kadlec",
+    "dims": [
+      -0.7416443570337494,
+      0.00038823101779965303,
+      0.3003925517241267
+    ],
+    "weight": 0.9214285714285714,
+    "included": true,
+    "name": "Jan Kadlec",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Kadlec"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:zastupitelstvo-mesta-ceske-budejovice",
+        "name": "Zastupitelstvo statutárního města České Budějovice",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "ceske-budejovice:org:group:spd",
+        "name": "SPD",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:jan-krob",
+    "dims": [
+      0.8065230352559687,
+      0.1012235770264241,
+      -0.2975656790175174
+    ],
+    "weight": 0.37481203007518793,
+    "included": true,
+    "name": "Jan Krob",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Krob"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:zastupitelstvo-mesta-ceske-budejovice",
+        "name": "Zastupitelstvo statutárního města České Budějovice",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": "2023-12-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:ods",
+        "name": "ODS",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": "2024-02-26"
+      }
+    ],
+    "since": "2022-10-24",
+    "until": "2023-12-11"
+  },
+  {
+    "person_id": "ceske-budejovice:person:jan-michl",
+    "dims": [
+      -0.879094564276147,
+      -0.22880300517193589,
+      -0.10412244329540186
+    ],
+    "weight": 0.7139097744360903,
+    "included": true,
+    "name": "Jan Michl",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Michl"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:zastupitelstvo-mesta-ceske-budejovice",
+        "name": "Zastupitelstvo statutárního města České Budějovice",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "ceske-budejovice:org:group:ano",
+        "name": "ANO",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:jan-zahradnik",
+    "dims": [
+      0.7271946455768346,
+      -0.10098160115619101,
+      0.002867613365568998
+    ],
+    "weight": 0.969548872180451,
+    "included": true,
+    "name": "Jan Zahradník",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Zahradník"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:zastupitelstvo-mesta-ceske-budejovice",
+        "name": "Zastupitelstvo statutárního města České Budějovice",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "ceske-budejovice:org:group:nase-cesko",
+        "name": "NAŠE ČESKO",
+        "classification": "groups",
+        "since": "2026-05-11",
+        "until": null
+      },
+      {
+        "id": "ceske-budejovice:org:group:nezarazeni",
+        "name": "NEZAŘAZENÍ",
+        "classification": "groups",
+        "since": "2025-12-15",
+        "until": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:ods",
+        "name": "ODS",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": "2025-12-15"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:jaroslav-berka",
+    "dims": [
+      -0.8456143828302193,
+      -0.20089269627156123,
+      -0.1927650792728982
+    ],
+    "weight": 0.9601503759398496,
+    "included": true,
+    "name": "Jaroslav Berka",
+    "given_names": [
+      "Jaroslav"
+    ],
+    "family_names": [
+      "Berka"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:zastupitelstvo-mesta-ceske-budejovice",
+        "name": "Zastupitelstvo statutárního města České Budějovice",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "ceske-budejovice:org:group:ano",
+        "name": "ANO",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:jiri-borovka",
+    "dims": [
+      0.6846046362022011,
+      0.08025545667886501,
+      0.04074546456187016
+    ],
+    "weight": 0.8785714285714286,
+    "included": true,
+    "name": "Jiří Borovka",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Borovka"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:zastupitelstvo-mesta-ceske-budejovice",
+        "name": "Zastupitelstvo statutárního města České Budějovice",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "ceske-budejovice:org:group:ods",
+        "name": "ODS",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:jiri-svoboda",
+    "dims": [
+      -0.9733315076862079,
+      -0.2643222784087576,
+      -0.3018319470367684
+    ],
+    "weight": 0.7766917293233082,
+    "included": true,
+    "name": "Jiří Svoboda",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Svoboda"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:zastupitelstvo-mesta-ceske-budejovice",
+        "name": "Zastupitelstvo statutárního města České Budějovice",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "ceske-budejovice:org:group:ano",
+        "name": "ANO",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:juraj-thoma",
+    "dims": [
+      -0.6075582130990452,
+      0.6794806197425306,
+      0.26745362967063346
+    ],
+    "weight": 0.5319548872180451,
+    "included": true,
+    "name": "Juraj Thoma",
+    "given_names": [
+      "Juraj"
+    ],
+    "family_names": [
+      "Thoma"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:zastupitelstvo-mesta-ceske-budejovice",
+        "name": "Zastupitelstvo statutárního města České Budějovice",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "ceske-budejovice:org:group:hopb",
+        "name": "HOPB",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:karel-vaskovsky",
+    "dims": [
+      0.7383276090666084,
+      -0.14067459698601803,
+      0.04243648854268282
+    ],
+    "weight": 0.9830827067669172,
+    "included": true,
+    "name": "Karel Vaškovský",
+    "given_names": [
+      "Karel"
+    ],
+    "family_names": [
+      "Vaškovský"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:zastupitelstvo-mesta-ceske-budejovice",
+        "name": "Zastupitelstvo statutárního města České Budějovice",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "ceske-budejovice:org:group:nase-cesko",
+        "name": "NAŠE ČESKO",
+        "classification": "groups",
+        "since": "2026-05-11",
+        "until": null
+      },
+      {
+        "id": "ceske-budejovice:org:group:nezarazeni",
+        "name": "NEZAŘAZENÍ",
+        "classification": "groups",
+        "since": "2025-12-15",
+        "until": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:ods",
+        "name": "ODS",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": "2025-12-15"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:lubomir-bures",
+    "dims": [
+      0.7526992778712117,
+      -0.13275776039231046,
+      0.0297806115591672
+    ],
+    "weight": 0.9785714285714283,
+    "included": true,
+    "name": "Lubomír Bureš",
+    "given_names": [
+      "Lubomír"
+    ],
+    "family_names": [
+      "Bureš"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:zastupitelstvo-mesta-ceske-budejovice",
+        "name": "Zastupitelstvo statutárního města České Budějovice",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "ceske-budejovice:org:group:nase-cesko",
+        "name": "NAŠE ČESKO",
+        "classification": "groups",
+        "since": "2026-05-11",
+        "until": null
+      },
+      {
+        "id": "ceske-budejovice:org:group:nezarazeni",
+        "name": "NEZAŘAZENÍ",
+        "classification": "groups",
+        "since": "2025-12-15",
+        "until": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:ods",
+        "name": "ODS",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": "2025-12-15"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:lucie-kozlova",
+    "dims": [
+      0.7213081726162295,
+      -0.10556662701738527,
+      0.02715594698037762
+    ],
+    "weight": 0.9755639097744359,
+    "included": true,
+    "name": "Lucie Kozlová",
+    "given_names": [
+      "Lucie"
+    ],
+    "family_names": [
+      "Kozlová"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:zastupitelstvo-mesta-ceske-budejovice",
+        "name": "Zastupitelstvo statutárního města České Budějovice",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "ceske-budejovice:org:group:nase-cesko",
+        "name": "NAŠE ČESKO",
+        "classification": "groups",
+        "since": "2026-05-11",
+        "until": null
+      },
+      {
+        "id": "ceske-budejovice:org:group:nezarazeni",
+        "name": "NEZAŘAZENÍ",
+        "classification": "groups",
+        "since": "2025-12-15",
+        "until": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:ods",
+        "name": "ODS",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": "2025-12-15"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:lukas-bajt",
+    "dims": [
+      -0.524575346256279,
+      0.8142240999873208,
+      0.24744694767518532
+    ],
+    "weight": 0.6424812030075187,
+    "included": true,
+    "name": "Lukáš Bajt",
+    "given_names": [
+      "Lukáš"
+    ],
+    "family_names": [
+      "Bajt"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:zastupitelstvo-mesta-ceske-budejovice",
+        "name": "Zastupitelstvo statutárního města České Budějovice",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "ceske-budejovice:org:group:hopb",
+        "name": "HOPB",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:martin-kuba",
+    "dims": [
+      0.7323130617363185,
+      -0.050129657804999186,
+      0.03104919666805041
+    ],
+    "weight": 0.9056390977443608,
+    "included": true,
+    "name": "Martin Kuba",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Kuba"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:zastupitelstvo-mesta-ceske-budejovice",
+        "name": "Zastupitelstvo statutárního města České Budějovice",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "ceske-budejovice:org:group:nase-cesko",
+        "name": "NAŠE ČESKO",
+        "classification": "groups",
+        "since": "2026-05-11",
+        "until": null
+      },
+      {
+        "id": "ceske-budejovice:org:group:nezarazeni",
+        "name": "NEZAŘAZENÍ",
+        "classification": "groups",
+        "since": "2025-12-15",
+        "until": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:ods",
+        "name": "ODS",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": "2025-12-15"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:martin-marsik",
+    "dims": [
+      0.7316164698702802,
+      -0.15355992513342356,
+      0.03856707145724712
+    ],
+    "weight": 0.9680451127819547,
+    "included": true,
+    "name": "Martin Maršík",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Maršík"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:zastupitelstvo-mesta-ceske-budejovice",
+        "name": "Zastupitelstvo statutárního města České Budějovice",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "ceske-budejovice:org:group:jihocesi-2012",
+        "name": "Jihočeši 2012",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:martin-novotny",
+    "dims": [
+      0.3792861136419441,
+      0.8890502728554581,
+      -0.43662538053153366
+    ],
+    "weight": 0.9278195488721803,
+    "included": true,
+    "name": "Martin Novotný",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Novotný"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:zastupitelstvo-mesta-ceske-budejovice",
+        "name": "Zastupitelstvo statutárního města České Budějovice",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "ceske-budejovice:org:group:pirati",
+        "name": "PIRÁTI",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:martin-stasek",
+    "dims": [
+      0.7264405084862018,
+      -0.15214304122530667,
+      0.002217077854823124
+    ],
+    "weight": 0.9526315789473684,
+    "included": true,
+    "name": "Martin Stašek",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Stašek"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:zastupitelstvo-mesta-ceske-budejovice",
+        "name": "Zastupitelstvo statutárního města České Budějovice",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "ceske-budejovice:org:group:nase-cesko",
+        "name": "NAŠE ČESKO",
+        "classification": "groups",
+        "since": "2026-05-11",
+        "until": null
+      },
+      {
+        "id": "ceske-budejovice:org:group:nezarazeni",
+        "name": "NEZAŘAZENÍ",
+        "classification": "groups",
+        "since": "2025-12-15",
+        "until": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:ods",
+        "name": "ODS",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": "2025-12-15"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:michaela-kudlackova",
+    "dims": [
+      0.6892048528826027,
+      -0.07771734072674438,
+      0.04461716355176291
+    ],
+    "weight": 0.9639097744360903,
+    "included": true,
+    "name": "Michaela Kudláčková",
+    "given_names": [
+      "Michaela"
+    ],
+    "family_names": [
+      "Kudláčková"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:zastupitelstvo-mesta-ceske-budejovice",
+        "name": "Zastupitelstvo statutárního města České Budějovice",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "ceske-budejovice:org:group:kdu-top09",
+        "name": "KDU-TOP09",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:michal-sebek",
+    "dims": [
+      0.7397432503826354,
+      -0.10461728093691136,
+      0.037101068876053356
+    ],
+    "weight": 0.9601503759398495,
+    "included": true,
+    "name": "Michal Šebek",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Šebek"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:zastupitelstvo-mesta-ceske-budejovice",
+        "name": "Zastupitelstvo statutárního města České Budějovice",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "ceske-budejovice:org:group:nase-cesko",
+        "name": "NAŠE ČESKO",
+        "classification": "groups",
+        "since": "2026-05-11",
+        "until": null
+      },
+      {
+        "id": "ceske-budejovice:org:group:nezarazeni",
+        "name": "NEZAŘAZENÍ",
+        "classification": "groups",
+        "since": "2025-12-15",
+        "until": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:ods",
+        "name": "ODS",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": "2025-12-15"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:milan-dzuba",
+    "dims": [
+      0.647407612983648,
+      -0.2633099215396499,
+      0.17095673437579723
+    ],
+    "weight": 0.4894736842105262,
+    "included": true,
+    "name": "Milan Džuba",
+    "given_names": [
+      "Milan"
+    ],
+    "family_names": [
+      "Džuba"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:zastupitelstvo-mesta-ceske-budejovice",
+        "name": "Zastupitelstvo statutárního města České Budějovice",
+        "classification": "parliament",
+        "since": "2024-02-26",
+        "until": null
+      },
+      {
+        "id": "ceske-budejovice:org:group:nase-cesko",
+        "name": "NAŠE ČESKO",
+        "classification": "groups",
+        "since": "2026-05-11",
+        "until": null
+      },
+      {
+        "id": "ceske-budejovice:org:group:nezarazeni",
+        "name": "NEZAŘAZENÍ",
+        "classification": "groups",
+        "since": "2025-12-15",
+        "until": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:ods",
+        "name": "ODS",
+        "classification": "groups",
+        "since": "2024-02-26",
+        "until": "2025-12-15"
+      }
+    ],
+    "since": "2024-02-26"
+  },
+  {
+    "person_id": "ceske-budejovice:person:monika-kroutilova",
+    "dims": [
+      -0.7681198452398011,
+      -0.28482907722884027,
+      0.54150796103125
+    ],
+    "weight": 0.931203007518797,
+    "included": true,
+    "name": "Monika Kroutilová",
+    "given_names": [
+      "Monika"
+    ],
+    "family_names": [
+      "Kroutilová"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:zastupitelstvo-mesta-ceske-budejovice",
+        "name": "Zastupitelstvo statutárního města České Budějovice",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "ceske-budejovice:org:group:nezavisli",
+        "name": "NEZÁVISLÍ",
+        "classification": "groups",
+        "since": "2025-03-24",
+        "until": null
+      },
+      {
+        "id": "ceske-budejovice:org:group:spd",
+        "name": "SPD",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": "2025-03-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:ondrej-trtilek",
+    "dims": [
+      -0.9533349062814915,
+      -0.12679145624563593,
+      -0.08431553039564403
+    ],
+    "weight": 0.7571428571428572,
+    "included": true,
+    "name": "Ondřej Trtílek",
+    "given_names": [
+      "Ondřej"
+    ],
+    "family_names": [
+      "Trtílek"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:zastupitelstvo-mesta-ceske-budejovice",
+        "name": "Zastupitelstvo statutárního města České Budějovice",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "ceske-budejovice:org:group:ano",
+        "name": "ANO",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:pavla-heydukova",
+    "dims": [
+      -0.4235981812336962,
+      1.2170343390287648,
+      -0.3506813220073662
+    ],
+    "weight": 0.29248120300751884,
+    "included": true,
+    "name": "Pavla Heyduková",
+    "given_names": [
+      "Pavla"
+    ],
+    "family_names": [
+      "Heyduková"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:zastupitelstvo-mesta-ceske-budejovice",
+        "name": "Zastupitelstvo statutárního města České Budějovice",
+        "classification": "parliament",
+        "since": "2024-09-16",
+        "until": null
+      },
+      {
+        "id": "ceske-budejovice:org:group:pirati",
+        "name": "PIRÁTI",
+        "classification": "groups",
+        "since": "2024-09-16",
+        "until": null
+      }
+    ],
+    "since": "2024-09-16"
+  },
+  {
+    "person_id": "ceske-budejovice:person:pavla-sadkova",
+    "dims": [
+      0.722093097003031,
+      -0.07168559987607849,
+      0.038204244078389946
+    ],
+    "weight": 0.9785714285714284,
+    "included": true,
+    "name": "Pavla Šádková",
+    "given_names": [
+      "Pavla"
+    ],
+    "family_names": [
+      "Šádková"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:zastupitelstvo-mesta-ceske-budejovice",
+        "name": "Zastupitelstvo statutárního města České Budějovice",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "ceske-budejovice:org:group:nase-cesko",
+        "name": "NAŠE ČESKO",
+        "classification": "groups",
+        "since": "2026-05-11",
+        "until": null
+      },
+      {
+        "id": "ceske-budejovice:org:group:nezarazeni",
+        "name": "NEZAŘAZENÍ",
+        "classification": "groups",
+        "since": "2025-12-15",
+        "until": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:ods",
+        "name": "ODS",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": "2025-12-15"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-holicky",
+    "dims": [
+      -0.8841025729881429,
+      -0.1972556109165889,
+      -0.15870496238120466
+    ],
+    "weight": 0.8526315789473685,
+    "included": true,
+    "name": "Petr Holický",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Holický"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:zastupitelstvo-mesta-ceske-budejovice",
+        "name": "Zastupitelstvo statutárního města České Budějovice",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "ceske-budejovice:org:group:ano",
+        "name": "ANO",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-kolar",
+    "dims": [
+      -0.8605725816012432,
+      -0.30742241348446653,
+      -0.17873756721401382
+    ],
+    "weight": 0.886842105263158,
+    "included": true,
+    "name": "Petr Kolář",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Kolář"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:zastupitelstvo-mesta-ceske-budejovice",
+        "name": "Zastupitelstvo statutárního města České Budějovice",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "ceske-budejovice:org:group:ano",
+        "name": "ANO",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-lamac",
+    "dims": [
+      0.7432927001436714,
+      -0.1409519656538373,
+      0.037185607005123286
+    ],
+    "weight": 0.9898496240601502,
+    "included": true,
+    "name": "Petr Lamač",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Lamač"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:zastupitelstvo-mesta-ceske-budejovice",
+        "name": "Zastupitelstvo statutárního města České Budějovice",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "ceske-budejovice:org:group:nase-cesko",
+        "name": "NAŠE ČESKO",
+        "classification": "groups",
+        "since": "2026-05-11",
+        "until": null
+      },
+      {
+        "id": "ceske-budejovice:org:group:nezarazeni",
+        "name": "NEZAŘAZENÍ",
+        "classification": "groups",
+        "since": "2025-12-15",
+        "until": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:ods",
+        "name": "ODS",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": "2025-12-15"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-maros",
+    "dims": [
+      0.7421647331923363,
+      -0.07042922910506681,
+      0.05334934960779178
+    ],
+    "weight": 0.968796992481203,
+    "included": true,
+    "name": "Petr Maroš",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Maroš"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:zastupitelstvo-mesta-ceske-budejovice",
+        "name": "Zastupitelstvo statutárního města České Budějovice",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "ceske-budejovice:org:group:nase-cesko",
+        "name": "NAŠE ČESKO",
+        "classification": "groups",
+        "since": "2026-05-11",
+        "until": null
+      },
+      {
+        "id": "ceske-budejovice:org:group:nezarazeni",
+        "name": "NEZAŘAZENÍ",
+        "classification": "groups",
+        "since": "2025-12-15",
+        "until": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:ods",
+        "name": "ODS",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": "2025-12-15"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-pelech",
+    "dims": [
+      0.7306810841719038,
+      -0.03205332636822372,
+      0.007397386565125597
+    ],
+    "weight": 0.9033834586466166,
+    "included": true,
+    "name": "Petr Pelech",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Pelech"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:zastupitelstvo-mesta-ceske-budejovice",
+        "name": "Zastupitelstvo statutárního města České Budějovice",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "ceske-budejovice:org:group:ods",
+        "name": "ODS",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-stehlik",
+    "dims": [
+      -0.9525916351281905,
+      -0.21087240194924178,
+      -0.2819451577599645
+    ],
+    "weight": 0.9481203007518797,
+    "included": true,
+    "name": "Petr Stehlík",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Stehlík"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:zastupitelstvo-mesta-ceske-budejovice",
+        "name": "Zastupitelstvo statutárního města České Budějovice",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "ceske-budejovice:org:group:ano",
+        "name": "ANO",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-stepanek",
+    "dims": [
+      -0.979420676566644,
+      -0.19640730388875924,
+      -0.19676603976097937
+    ],
+    "weight": 0.8124060150375939,
+    "included": true,
+    "name": "Petr Štěpánek",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Štěpánek"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:zastupitelstvo-mesta-ceske-budejovice",
+        "name": "Zastupitelstvo statutárního města České Budějovice",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "ceske-budejovice:org:group:ano",
+        "name": "ANO",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:roman-kubicek",
+    "dims": [
+      -0.88143960136038,
+      -0.12186521933293364,
+      -0.0833769319650298
+    ],
+    "weight": 0.7236842105263158,
+    "included": true,
+    "name": "Roman Kubíček",
+    "given_names": [
+      "Roman"
+    ],
+    "family_names": [
+      "Kubíček"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:zastupitelstvo-mesta-ceske-budejovice",
+        "name": "Zastupitelstvo statutárního města České Budějovice",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "ceske-budejovice:org:group:ano",
+        "name": "ANO",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:simon-heller",
+    "dims": [
+      0.7206534543069538,
+      -0.0794766928822853,
+      0.021165109077267222
+    ],
+    "weight": 0.8530075187969923,
+    "included": true,
+    "name": "Šimon Heller",
+    "given_names": [
+      "Šimon"
+    ],
+    "family_names": [
+      "Heller"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:zastupitelstvo-mesta-ceske-budejovice",
+        "name": "Zastupitelstvo statutárního města České Budějovice",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "ceske-budejovice:org:group:kdu-top09",
+        "name": "KDU-TOP09",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:svatomir-mlcoch",
+    "dims": [
+      0.7650209709479774,
+      0.13577126777029508,
+      -0.252697149395297
+    ],
+    "weight": 0.6105263157894737,
+    "included": true,
+    "name": "Svatomír Mlčoch",
+    "given_names": [
+      "Svatomír"
+    ],
+    "family_names": [
+      "Mlčoch"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:zastupitelstvo-mesta-ceske-budejovice",
+        "name": "Zastupitelstvo statutárního města České Budějovice",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": "2024-06-17"
+      },
+      {
+        "id": "ceske-budejovice:org:group:pirati",
+        "name": "PIRÁTI",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": "2024-09-16"
+      }
+    ],
+    "since": "2022-10-24",
+    "until": "2024-06-17"
+  },
+  {
+    "person_id": "ceske-budejovice:person:svetlana-prochazkova",
+    "dims": [
+      -0.6410745261864192,
+      0.5449502384078865,
+      0.25935839281366246
+    ],
+    "weight": 0.7657894736842105,
+    "included": true,
+    "name": "Světlana Procházková",
+    "given_names": [
+      "Světlana"
+    ],
+    "family_names": [
+      "Procházková"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:zastupitelstvo-mesta-ceske-budejovice",
+        "name": "Zastupitelstvo statutárního města České Budějovice",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "ceske-budejovice:org:group:hopb",
+        "name": "HOPB",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:tomas-bouzek",
+    "dims": [
+      0.687269348409795,
+      -0.007233991486937713,
+      0.07649096492117766
+    ],
+    "weight": 0.9387218045112783,
+    "included": true,
+    "name": "Tomáš Bouzek",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Bouzek"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:zastupitelstvo-mesta-ceske-budejovice",
+        "name": "Zastupitelstvo statutárního města České Budějovice",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "ceske-budejovice:org:group:kdu-top09",
+        "name": "KDU-TOP09",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:tomas-chovanec",
+    "dims": [
+      -0.5736887583632491,
+      0.7263102557246349,
+      0.3985495649128757
+    ],
+    "weight": 0.6669172932330827,
+    "included": true,
+    "name": "Tomáš Chovanec",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Chovanec"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:zastupitelstvo-mesta-ceske-budejovice",
+        "name": "Zastupitelstvo statutárního města České Budějovice",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "ceske-budejovice:org:group:hopb",
+        "name": "HOPB",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:tomas-kubin",
+    "dims": [
+      -0.9452868119543307,
+      -0.17027669404194798,
+      0.21588248733867432
+    ],
+    "weight": 0.5191729323308271,
+    "included": true,
+    "name": "Tomáš Kubín",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Kubín"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:zastupitelstvo-mesta-ceske-budejovice",
+        "name": "Zastupitelstvo statutárního města České Budějovice",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": "2024-10-21"
+      },
+      {
+        "id": "ceske-budejovice:org:group:ano",
+        "name": "ANO",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": "2024-11-18"
+      }
+    ],
+    "since": "2022-10-24",
+    "until": "2024-10-21"
+  },
+  {
+    "person_id": "ceske-budejovice:person:viktor-lavicka",
+    "dims": [
+      -0.9179641600125793,
+      -0.2505636207573183,
+      -0.2511970821436086
+    ],
+    "weight": 0.9304511278195489,
+    "included": true,
+    "name": "Viktor Lavička",
+    "given_names": [
+      "Viktor"
+    ],
+    "family_names": [
+      "Lavička"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:zastupitelstvo-mesta-ceske-budejovice",
+        "name": "Zastupitelstvo statutárního města České Budějovice",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "ceske-budejovice:org:group:ano",
+        "name": "ANO",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:vladan-cisler",
+    "dims": [
+      -0.5445105203846865,
+      -0.34930656815697997,
+      0.5453960148077168
+    ],
+    "weight": 0.793984962406015,
+    "included": true,
+    "name": "Vladan Císler",
+    "given_names": [
+      "Vladan"
+    ],
+    "family_names": [
+      "Císler"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:zastupitelstvo-mesta-ceske-budejovice",
+        "name": "Zastupitelstvo statutárního města České Budějovice",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "ceske-budejovice:org:group:nezavisli",
+        "name": "NEZÁVISLÍ",
+        "classification": "groups",
+        "since": "2025-03-24",
+        "until": null
+      },
+      {
+        "id": "ceske-budejovice:org:group:spd",
+        "name": "SPD",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": "2025-03-24"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:vladimira-bernasova",
+    "dims": [
+      -0.9073277592291689,
+      -0.3451812595421721,
+      -0.1623877006800344
+    ],
+    "weight": 0.8973684210526317,
+    "included": true,
+    "name": "Vladimíra Bernasová",
+    "given_names": [
+      "Vladimíra"
+    ],
+    "family_names": [
+      "Bernasová"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:zastupitelstvo-mesta-ceske-budejovice",
+        "name": "Zastupitelstvo statutárního města České Budějovice",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "ceske-budejovice:org:group:ano",
+        "name": "ANO",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": null
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:zbynek-sykora",
+    "dims": [
+      0.7459181024881172,
+      -0.09258208740430034,
+      0.026111726277116026
+    ],
+    "weight": 0.956015037593985,
+    "included": true,
+    "name": "Zbyněk Sýkora",
+    "given_names": [
+      "Zbyněk"
+    ],
+    "family_names": [
+      "Sýkora"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:zastupitelstvo-mesta-ceske-budejovice",
+        "name": "Zastupitelstvo statutárního města České Budějovice",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": null
+      },
+      {
+        "id": "ceske-budejovice:org:group:nase-cesko",
+        "name": "NAŠE ČESKO",
+        "classification": "groups",
+        "since": "2026-05-11",
+        "until": null
+      },
+      {
+        "id": "ceske-budejovice:org:group:nezarazeni",
+        "name": "NEZAŘAZENÍ",
+        "classification": "groups",
+        "since": "2025-12-15",
+        "until": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:ods",
+        "name": "ODS",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": "2025-12-15"
+      }
+    ],
+    "since": "2022-10-24"
+  },
+  {
+    "person_id": "ceske-budejovice:person:zdenek-kristan",
+    "dims": [
+      -0.5619898790827543,
+      -0.32779220765886496,
+      -0.841675963546787
+    ],
+    "weight": 0.26015037593984963,
+    "included": true,
+    "name": "Zdeněk Křišťan",
+    "given_names": [
+      "Zdeněk"
+    ],
+    "family_names": [
+      "Křišťan"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:zastupitelstvo-mesta-ceske-budejovice",
+        "name": "Zastupitelstvo statutárního města České Budějovice",
+        "classification": "parliament",
+        "since": "2024-11-18",
+        "until": null
+      },
+      {
+        "id": "ceske-budejovice:org:group:ano",
+        "name": "ANO",
+        "classification": "groups",
+        "since": "2024-11-18",
+        "until": null
+      }
+    ],
+    "since": "2024-11-18"
+  },
+  {
+    "person_id": "ceske-budejovice:person:zuzana-kudlackova",
+    "dims": [
+      0.7741513730675456,
+      0.13821793141554947,
+      -0.279088632930354
+    ],
+    "weight": 0.5943609022556391,
+    "included": true,
+    "name": "Zuzana Kudláčková",
+    "given_names": [
+      "Zuzana"
+    ],
+    "family_names": [
+      "Kudláčková"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:zastupitelstvo-mesta-ceske-budejovice",
+        "name": "Zastupitelstvo statutárního města České Budějovice",
+        "classification": "parliament",
+        "since": "2022-10-24",
+        "until": "2024-10-21"
+      },
+      {
+        "id": "ceske-budejovice:org:group:pirati",
+        "name": "PIRÁTI",
+        "classification": "groups",
+        "since": "2022-10-24",
+        "until": "2024-11-18"
+      }
+    ],
+    "since": "2022-10-24",
+    "until": "2024-10-21"
+  }
+]

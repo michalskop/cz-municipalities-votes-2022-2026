@@ -1,0 +1,1350 @@
+[
+  {
+    "person_id": "ceske-budejovice:person:adela-ruiderova",
+    "vote_events_total": 1199,
+    "present": 1150,
+    "absent": 49,
+    "name": "Adéla Ruiderová",
+    "given_names": [
+      "Adéla"
+    ],
+    "family_names": [
+      "Ruiderová"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:nase-cesko",
+        "classification": "group",
+        "name": "NAŠE ČESKO",
+        "since": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:nezarazeni",
+        "classification": "group",
+        "name": "NEZAŘAZENÍ",
+        "since": "2025-12-15",
+        "until": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2022-10-24",
+        "until": "2025-12-15"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9591326105
+  },
+  {
+    "person_id": "ceske-budejovice:person:alice-stierandova",
+    "vote_events_total": 1199,
+    "present": 956,
+    "absent": 243,
+    "name": "Alice Stierandová",
+    "given_names": [
+      "Alice"
+    ],
+    "family_names": [
+      "Stierandová"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:nezavisli",
+        "classification": "group",
+        "name": "NEZÁVISLÍ",
+        "since": "2025-03-24"
+      },
+      {
+        "id": "ceske-budejovice:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2022-10-24",
+        "until": "2025-03-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.7973311093
+  },
+  {
+    "person_id": "ceske-budejovice:person:andrea-nadravska",
+    "vote_events_total": 1199,
+    "present": 1091,
+    "absent": 108,
+    "name": "Andrea Nádravská",
+    "given_names": [
+      "Andrea"
+    ],
+    "family_names": [
+      "Nádravská"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:ano",
+        "classification": "group",
+        "name": "ANO",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9099249374
+  },
+  {
+    "person_id": "ceske-budejovice:person:dagmar-skodova-parmova",
+    "vote_events_total": 1199,
+    "present": 1194,
+    "absent": 5,
+    "name": "Dagmar Škodová Parmová",
+    "given_names": [
+      "Dagmar"
+    ],
+    "family_names": [
+      "Škodová Parmová"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:nase-cesko",
+        "classification": "group",
+        "name": "NAŠE ČESKO",
+        "since": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:nezarazeni",
+        "classification": "group",
+        "name": "NEZAŘAZENÍ",
+        "since": "2025-12-15",
+        "until": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2022-10-24",
+        "until": "2025-12-15"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9958298582
+  },
+  {
+    "person_id": "ceske-budejovice:person:ivo-moravec",
+    "vote_events_total": 1199,
+    "present": 1136,
+    "absent": 63,
+    "name": "Ivo Moravec",
+    "given_names": [
+      "Ivo"
+    ],
+    "family_names": [
+      "Moravec"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:hopb",
+        "classification": "group",
+        "name": "HOPB",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9474562135
+  },
+  {
+    "person_id": "ceske-budejovice:person:jan-hosek",
+    "vote_events_total": 522,
+    "present": 506,
+    "absent": 16,
+    "name": "Jan Hošek",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Hošek"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:pirati",
+        "classification": "group",
+        "name": "PIRÁTI",
+        "since": "2024-11-18"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.969348659
+  },
+  {
+    "person_id": "ceske-budejovice:person:jan-kadlec",
+    "vote_events_total": 1199,
+    "present": 1066,
+    "absent": 133,
+    "name": "Jan Kadlec",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Kadlec"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.8890742285
+  },
+  {
+    "person_id": "ceske-budejovice:person:jan-krob",
+    "vote_events_total": 444,
+    "present": 351,
+    "absent": 93,
+    "name": "Jan Krob",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Krob"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2022-10-24",
+        "until": "2024-02-26"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.7905405405
+  },
+  {
+    "person_id": "ceske-budejovice:person:jan-michl",
+    "vote_events_total": 1199,
+    "present": 733,
+    "absent": 466,
+    "name": "Jan Michl",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Michl"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:ano",
+        "classification": "group",
+        "name": "ANO",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.6113427857
+  },
+  {
+    "person_id": "ceske-budejovice:person:jan-zahradnik",
+    "vote_events_total": 1199,
+    "present": 1126,
+    "absent": 73,
+    "name": "Jan Zahradník",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Zahradník"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:nase-cesko",
+        "classification": "group",
+        "name": "NAŠE ČESKO",
+        "since": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:nezarazeni",
+        "classification": "group",
+        "name": "NEZAŘAZENÍ",
+        "since": "2025-12-15",
+        "until": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2022-10-24",
+        "until": "2025-12-15"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9391159299
+  },
+  {
+    "person_id": "ceske-budejovice:person:jaroslav-berka",
+    "vote_events_total": 1199,
+    "present": 1122,
+    "absent": 77,
+    "name": "Jaroslav Berka",
+    "given_names": [
+      "Jaroslav"
+    ],
+    "family_names": [
+      "Berka"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:ano",
+        "classification": "group",
+        "name": "ANO",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9357798165
+  },
+  {
+    "person_id": "ceske-budejovice:person:jiri-borovka",
+    "vote_events_total": 1199,
+    "present": 997,
+    "absent": 202,
+    "name": "Jiří Borovka",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Borovka"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.8315262719
+  },
+  {
+    "person_id": "ceske-budejovice:person:jiri-svoboda",
+    "vote_events_total": 1199,
+    "present": 996,
+    "absent": 203,
+    "name": "Jiří Svoboda",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Svoboda"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:ano",
+        "classification": "group",
+        "name": "ANO",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.8306922435
+  },
+  {
+    "person_id": "ceske-budejovice:person:juraj-thoma",
+    "vote_events_total": 1199,
+    "present": 663,
+    "absent": 536,
+    "name": "Juraj Thoma",
+    "given_names": [
+      "Juraj"
+    ],
+    "family_names": [
+      "Thoma"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:hopb",
+        "classification": "group",
+        "name": "HOPB",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.5529608007
+  },
+  {
+    "person_id": "ceske-budejovice:person:karel-vaskovsky",
+    "vote_events_total": 1199,
+    "present": 1177,
+    "absent": 22,
+    "name": "Karel Vaškovský",
+    "given_names": [
+      "Karel"
+    ],
+    "family_names": [
+      "Vaškovský"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:nase-cesko",
+        "classification": "group",
+        "name": "NAŠE ČESKO",
+        "since": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:nezarazeni",
+        "classification": "group",
+        "name": "NEZAŘAZENÍ",
+        "since": "2025-12-15",
+        "until": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2022-10-24",
+        "until": "2025-12-15"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9816513761
+  },
+  {
+    "person_id": "ceske-budejovice:person:lubomir-bures",
+    "vote_events_total": 1199,
+    "present": 1175,
+    "absent": 24,
+    "name": "Lubomír Bureš",
+    "given_names": [
+      "Lubomír"
+    ],
+    "family_names": [
+      "Bureš"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:nase-cesko",
+        "classification": "group",
+        "name": "NAŠE ČESKO",
+        "since": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:nezarazeni",
+        "classification": "group",
+        "name": "NEZAŘAZENÍ",
+        "since": "2025-12-15",
+        "until": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2022-10-24",
+        "until": "2025-12-15"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9799833194
+  },
+  {
+    "person_id": "ceske-budejovice:person:lucie-kozlova",
+    "vote_events_total": 1199,
+    "present": 1142,
+    "absent": 57,
+    "name": "Lucie Kozlová",
+    "given_names": [
+      "Lucie"
+    ],
+    "family_names": [
+      "Kozlová"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:nase-cesko",
+        "classification": "group",
+        "name": "NAŠE ČESKO",
+        "since": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:nezarazeni",
+        "classification": "group",
+        "name": "NEZAŘAZENÍ",
+        "since": "2025-12-15",
+        "until": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2022-10-24",
+        "until": "2025-12-15"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9524603837
+  },
+  {
+    "person_id": "ceske-budejovice:person:lukas-bajt",
+    "vote_events_total": 1199,
+    "present": 857,
+    "absent": 342,
+    "name": "Lukáš Bajt",
+    "given_names": [
+      "Lukáš"
+    ],
+    "family_names": [
+      "Bajt"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:hopb",
+        "classification": "group",
+        "name": "HOPB",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.7147623019
+  },
+  {
+    "person_id": "ceske-budejovice:person:martin-kuba",
+    "vote_events_total": 1199,
+    "present": 980,
+    "absent": 219,
+    "name": "Martin Kuba",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Kuba"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:nase-cesko",
+        "classification": "group",
+        "name": "NAŠE ČESKO",
+        "since": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:nezarazeni",
+        "classification": "group",
+        "name": "NEZAŘAZENÍ",
+        "since": "2025-12-15",
+        "until": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2022-10-24",
+        "until": "2025-12-15"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.8173477898
+  },
+  {
+    "person_id": "ceske-budejovice:person:martin-marsik",
+    "vote_events_total": 1199,
+    "present": 1123,
+    "absent": 76,
+    "name": "Martin Maršík",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Maršík"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:jihocesi-2012",
+        "classification": "group",
+        "name": "Jihočeši 2012",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9366138449
+  },
+  {
+    "person_id": "ceske-budejovice:person:martin-novotny",
+    "vote_events_total": 1199,
+    "present": 1084,
+    "absent": 115,
+    "name": "Martin Novotný",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Novotný"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:pirati",
+        "classification": "group",
+        "name": "PIRÁTI",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9040867389
+  },
+  {
+    "person_id": "ceske-budejovice:person:martin-stasek",
+    "vote_events_total": 1199,
+    "present": 1121,
+    "absent": 78,
+    "name": "Martin Stašek",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Stašek"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:nase-cesko",
+        "classification": "group",
+        "name": "NAŠE ČESKO",
+        "since": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:nezarazeni",
+        "classification": "group",
+        "name": "NEZAŘAZENÍ",
+        "since": "2025-12-15",
+        "until": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2022-10-24",
+        "until": "2025-12-15"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9349457882
+  },
+  {
+    "person_id": "ceske-budejovice:person:michaela-kudlackova",
+    "vote_events_total": 1199,
+    "present": 1112,
+    "absent": 87,
+    "name": "Michaela Kudláčková",
+    "given_names": [
+      "Michaela"
+    ],
+    "family_names": [
+      "Kudláčková"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:kdu-top09",
+        "classification": "group",
+        "name": "KDU-TOP09",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9274395329
+  },
+  {
+    "person_id": "ceske-budejovice:person:michal-sebek",
+    "vote_events_total": 1199,
+    "present": 1145,
+    "absent": 54,
+    "name": "Michal Šebek",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Šebek"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:nase-cesko",
+        "classification": "group",
+        "name": "NAŠE ČESKO",
+        "since": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:nezarazeni",
+        "classification": "group",
+        "name": "NEZAŘAZENÍ",
+        "since": "2025-12-15",
+        "until": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2022-10-24",
+        "until": "2025-12-15"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9549624687
+  },
+  {
+    "person_id": "ceske-budejovice:person:milan-dzuba",
+    "vote_events_total": 755,
+    "present": 741,
+    "absent": 14,
+    "name": "Milan Džuba",
+    "given_names": [
+      "Milan"
+    ],
+    "family_names": [
+      "Džuba"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:nase-cesko",
+        "classification": "group",
+        "name": "NAŠE ČESKO",
+        "since": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:nezarazeni",
+        "classification": "group",
+        "name": "NEZAŘAZENÍ",
+        "since": "2025-12-15",
+        "until": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2024-02-26",
+        "until": "2025-12-15"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9814569536
+  },
+  {
+    "person_id": "ceske-budejovice:person:monika-kroutilova",
+    "vote_events_total": 1199,
+    "present": 1046,
+    "absent": 153,
+    "name": "Monika Kroutilová",
+    "given_names": [
+      "Monika"
+    ],
+    "family_names": [
+      "Kroutilová"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:nezavisli",
+        "classification": "group",
+        "name": "NEZÁVISLÍ",
+        "since": "2025-03-24"
+      },
+      {
+        "id": "ceske-budejovice:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2022-10-24",
+        "until": "2025-03-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.8723936614
+  },
+  {
+    "person_id": "ceske-budejovice:person:ondrej-trtilek",
+    "vote_events_total": 1199,
+    "present": 884,
+    "absent": 315,
+    "name": "Ondřej Trtílek",
+    "given_names": [
+      "Ondřej"
+    ],
+    "family_names": [
+      "Trtílek"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:ano",
+        "classification": "group",
+        "name": "ANO",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.7372810676
+  },
+  {
+    "person_id": "ceske-budejovice:person:pavla-heydukova",
+    "vote_events_total": 580,
+    "present": 452,
+    "absent": 128,
+    "name": "Pavla Heyduková",
+    "given_names": [
+      "Pavla"
+    ],
+    "family_names": [
+      "Heyduková"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:pirati",
+        "classification": "group",
+        "name": "PIRÁTI",
+        "since": "2024-09-16"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.7793103448
+  },
+  {
+    "person_id": "ceske-budejovice:person:pavla-sadkova",
+    "vote_events_total": 1199,
+    "present": 1181,
+    "absent": 18,
+    "name": "Pavla Šádková",
+    "given_names": [
+      "Pavla"
+    ],
+    "family_names": [
+      "Šádková"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:nase-cesko",
+        "classification": "group",
+        "name": "NAŠE ČESKO",
+        "since": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:nezarazeni",
+        "classification": "group",
+        "name": "NEZAŘAZENÍ",
+        "since": "2025-12-15",
+        "until": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2022-10-24",
+        "until": "2025-12-15"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9849874896
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-holicky",
+    "vote_events_total": 1199,
+    "present": 1113,
+    "absent": 86,
+    "name": "Petr Holický",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Holický"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:ano",
+        "classification": "group",
+        "name": "ANO",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9282735613
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-kolar",
+    "vote_events_total": 1199,
+    "present": 988,
+    "absent": 211,
+    "name": "Petr Kolář",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Kolář"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:ano",
+        "classification": "group",
+        "name": "ANO",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.8240200167
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-lamac",
+    "vote_events_total": 1199,
+    "present": 1188,
+    "absent": 11,
+    "name": "Petr Lamač",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Lamač"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:nase-cesko",
+        "classification": "group",
+        "name": "NAŠE ČESKO",
+        "since": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:nezarazeni",
+        "classification": "group",
+        "name": "NEZAŘAZENÍ",
+        "since": "2025-12-15",
+        "until": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2022-10-24",
+        "until": "2025-12-15"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9908256881
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-maros",
+    "vote_events_total": 1199,
+    "present": 1157,
+    "absent": 42,
+    "name": "Petr Maroš",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Maroš"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:nase-cesko",
+        "classification": "group",
+        "name": "NAŠE ČESKO",
+        "since": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:nezarazeni",
+        "classification": "group",
+        "name": "NEZAŘAZENÍ",
+        "since": "2025-12-15",
+        "until": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2022-10-24",
+        "until": "2025-12-15"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.964970809
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-pelech",
+    "vote_events_total": 1199,
+    "present": 959,
+    "absent": 240,
+    "name": "Petr Pelech",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Pelech"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.7998331943
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-stehlik",
+    "vote_events_total": 1199,
+    "present": 1164,
+    "absent": 35,
+    "name": "Petr Stehlík",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Stehlík"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:ano",
+        "classification": "group",
+        "name": "ANO",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9708090075
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-stepanek",
+    "vote_events_total": 1199,
+    "present": 977,
+    "absent": 222,
+    "name": "Petr Štěpánek",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Štěpánek"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:ano",
+        "classification": "group",
+        "name": "ANO",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.8148457048
+  },
+  {
+    "person_id": "ceske-budejovice:person:roman-kubicek",
+    "vote_events_total": 1199,
+    "present": 912,
+    "absent": 287,
+    "name": "Roman Kubíček",
+    "given_names": [
+      "Roman"
+    ],
+    "family_names": [
+      "Kubíček"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:ano",
+        "classification": "group",
+        "name": "ANO",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.7606338616
+  },
+  {
+    "person_id": "ceske-budejovice:person:simon-heller",
+    "vote_events_total": 1199,
+    "present": 993,
+    "absent": 206,
+    "name": "Šimon Heller",
+    "given_names": [
+      "Šimon"
+    ],
+    "family_names": [
+      "Heller"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:kdu-top09",
+        "classification": "group",
+        "name": "KDU-TOP09",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.8281901585
+  },
+  {
+    "person_id": "ceske-budejovice:person:svatomir-mlcoch",
+    "vote_events_total": 619,
+    "present": 582,
+    "absent": 37,
+    "name": "Svatomír Mlčoch",
+    "given_names": [
+      "Svatomír"
+    ],
+    "family_names": [
+      "Mlčoch"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:pirati",
+        "classification": "group",
+        "name": "PIRÁTI",
+        "since": "2022-10-24",
+        "until": "2024-09-16"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9402261712
+  },
+  {
+    "person_id": "ceske-budejovice:person:svetlana-prochazkova",
+    "vote_events_total": 1199,
+    "present": 795,
+    "absent": 404,
+    "name": "Světlana Procházková",
+    "given_names": [
+      "Světlana"
+    ],
+    "family_names": [
+      "Procházková"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:hopb",
+        "classification": "group",
+        "name": "HOPB",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.6630525438
+  },
+  {
+    "person_id": "ceske-budejovice:person:tomas-bouzek",
+    "vote_events_total": 1199,
+    "present": 1151,
+    "absent": 48,
+    "name": "Tomáš Bouzek",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Bouzek"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:kdu-top09",
+        "classification": "group",
+        "name": "KDU-TOP09",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9599666389
+  },
+  {
+    "person_id": "ceske-budejovice:person:tomas-chovanec",
+    "vote_events_total": 1199,
+    "present": 809,
+    "absent": 390,
+    "name": "Tomáš Chovanec",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Chovanec"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:hopb",
+        "classification": "group",
+        "name": "HOPB",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.6747289408
+  },
+  {
+    "person_id": "ceske-budejovice:person:tomas-kubin",
+    "vote_events_total": 677,
+    "present": 482,
+    "absent": 195,
+    "name": "Tomáš Kubín",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Kubín"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:ano",
+        "classification": "group",
+        "name": "ANO",
+        "since": "2022-10-24",
+        "until": "2024-11-18"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.7119645495
+  },
+  {
+    "person_id": "ceske-budejovice:person:viktor-lavicka",
+    "vote_events_total": 1199,
+    "present": 1055,
+    "absent": 144,
+    "name": "Viktor Lavička",
+    "given_names": [
+      "Viktor"
+    ],
+    "family_names": [
+      "Lavička"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:ano",
+        "classification": "group",
+        "name": "ANO",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.8798999166
+  },
+  {
+    "person_id": "ceske-budejovice:person:vladan-cisler",
+    "vote_events_total": 1199,
+    "present": 910,
+    "absent": 289,
+    "name": "Vladan Císler",
+    "given_names": [
+      "Vladan"
+    ],
+    "family_names": [
+      "Císler"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:nezavisli",
+        "classification": "group",
+        "name": "NEZÁVISLÍ",
+        "since": "2025-03-24"
+      },
+      {
+        "id": "ceske-budejovice:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2022-10-24",
+        "until": "2025-03-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.7589658048
+  },
+  {
+    "person_id": "ceske-budejovice:person:vladimira-bernasova",
+    "vote_events_total": 1199,
+    "present": 1070,
+    "absent": 129,
+    "name": "Vladimíra Bernasová",
+    "given_names": [
+      "Vladimíra"
+    ],
+    "family_names": [
+      "Bernasová"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:ano",
+        "classification": "group",
+        "name": "ANO",
+        "since": "2022-10-24"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.892410342
+  },
+  {
+    "person_id": "ceske-budejovice:person:zbynek-sykora",
+    "vote_events_total": 1199,
+    "present": 1121,
+    "absent": 78,
+    "name": "Zbyněk Sýkora",
+    "given_names": [
+      "Zbyněk"
+    ],
+    "family_names": [
+      "Sýkora"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:nase-cesko",
+        "classification": "group",
+        "name": "NAŠE ČESKO",
+        "since": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:nezarazeni",
+        "classification": "group",
+        "name": "NEZAŘAZENÍ",
+        "since": "2025-12-15",
+        "until": "2026-05-11"
+      },
+      {
+        "id": "ceske-budejovice:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2022-10-24",
+        "until": "2025-12-15"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.9349457882
+  },
+  {
+    "person_id": "ceske-budejovice:person:zdenek-kristan",
+    "vote_events_total": 522,
+    "present": 431,
+    "absent": 91,
+    "name": "Zdeněk Křišťan",
+    "given_names": [
+      "Zdeněk"
+    ],
+    "family_names": [
+      "Křišťan"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:ano",
+        "classification": "group",
+        "name": "ANO",
+        "since": "2024-11-18"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.8256704981
+  },
+  {
+    "person_id": "ceske-budejovice:person:zuzana-kudlackova",
+    "vote_events_total": 677,
+    "present": 561,
+    "absent": 116,
+    "name": "Zuzana Kudláčková",
+    "given_names": [
+      "Zuzana"
+    ],
+    "family_names": [
+      "Kudláčková"
+    ],
+    "organizations": [
+      {
+        "id": "ceske-budejovice:org:group:pirati",
+        "classification": "group",
+        "name": "PIRÁTI",
+        "since": "2022-10-24",
+        "until": "2024-11-18"
+      }
+    ],
+    "since": "2022-10-24",
+    "present_share": 0.8286558346
+  }
+]

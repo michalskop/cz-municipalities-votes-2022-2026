@@ -1,0 +1,14 @@
+{
+  "since": "2022-10-24",
+  "until": null,
+  "present_options": ["yes", "no", "abstain"],
+  "absent_options": ["absent", "not voting"],
+  "yes_options": ["yes"],
+  "no_options": ["no"],
+  "extras": {
+    "approval_status": "DRAFT — measures alignment with each person's own REAL klub (ceske-budejovice:org:group:* rows from party_affiliation.py, derived from the per-vote Klub column, mode-per-meeting + contiguous-run intervals — the labels are already clean, no canonicalisation). Independent of which klubs govern, so no D7 sign-off needed.",
+    "vocabulary_source": "Same mapping as attendance_definition.json.",
+    "note": "Needs each person's klub membership at each vote-event date, from data/memberships.csv's ceske-budejovice:org:group:* rows via the all-members-shaped persons file the runner builds.",
+    "known_data_quality_notes": "10 klubs. Real mid-term klub transitions (NOT label noise): the whole ODS klub (~14, incl. primátorka Škodová Parmová) goes ODS -> NEZAŘAZENÍ (2025-12-15) -> NAŠE ČESKO (2026-05-11) after governor Kuba founded a new movement; 3 ex-SPD members go SPD -> NEZÁVISLÍ (2025-03-24). Piráti left the governing coalition in Oct 2024 but kept their klub label. See work/reports/party_affiliation_report.json."
+  }
+}

@@ -1,0 +1,5735 @@
+[
+  {
+    "person_id": "ceske-budejovice:person:adela-ruiderova",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      6.043737725800859,
+      3.2742835936268917,
+      2.534293157544757
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:alice-stierandova",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -7.896034831555065,
+      -4.594488230043357,
+      -5.426735584628522
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:andrea-nadravska",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -7.36264970954621,
+      -3.687867011759689,
+      -2.409163516581083
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:dagmar-skodova-parmova",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      6.127693775529183,
+      3.316638977673432,
+      2.3057654866292103
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:ivo-moravec",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -5.937361807099818,
+      -1.772154484280852,
+      -2.579555294341655
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:jan-hosek",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "ceske-budejovice:person:jan-kadlec",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -7.2140516604717435,
+      -3.3233888556007267,
+      -5.02500168943209
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:jan-krob",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      6.441940290649733,
+      3.639321289461653,
+      3.0490445715969816
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:jan-michl",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -8.555174071383819,
+      -5.834488328968315,
+      -2.216908170960189
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:jan-zahradnik",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      6.137861933772605,
+      3.330945435779937,
+      2.3299327582004694
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:jaroslav-berka",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -7.442626507082792,
+      -4.5721262421214,
+      -1.7308448943842683
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:jiri-borovka",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      6.043734035151314,
+      3.2793572158856246,
+      2.5220567442494386
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:jiri-svoboda",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -8.152799365499009,
+      -4.983745279155606,
+      -2.0254266900610554
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:juraj-thoma",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "ceske-budejovice:person:karel-vaskovsky",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      6.127693775529183,
+      3.316638977673432,
+      2.3057654866292103
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:lubomir-bures",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      6.127693775529183,
+      3.316638977673432,
+      2.3057654866292103
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:lucie-kozlova",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      6.066700932392189,
+      3.2434384083179917,
+      2.172714282081071
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:lukas-bajt",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      0.515452409118321,
+      2.378210337360678,
+      -2.2594698766362487
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:martin-kuba",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      6.21573873972721,
+      3.376851285620322,
+      2.3950086430492887
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:martin-marsik",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      6.141308868966123,
+      3.325273947612845,
+      2.3095301299580155
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:martin-novotny",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      6.043737725800859,
+      3.2742835936268917,
+      2.534293157544757
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:martin-stasek",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      6.131255445298089,
+      3.320656424712763,
+      2.3089565776066907
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:michaela-kudlackova",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      6.3213943542001925,
+      3.5611516368999694,
+      2.581962286960815
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:michal-sebek",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      6.13153318774516,
+      3.3248102268402926,
+      2.308740278325577
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:milan-dzuba",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "ceske-budejovice:person:monika-kroutilova",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -6.93691545199592,
+      -3.6619951063676286,
+      -5.854346207473074
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:ondrej-trtilek",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -8.25129494617569,
+      -5.02898850961695,
+      -2.774354000776222
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:pavla-heydukova",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "ceske-budejovice:person:pavla-sadkova",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      6.133999867573065,
+      3.3121726022041003,
+      2.304680865929254
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-holicky",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -6.529703651920688,
+      -4.467866833278704,
+      -0.26746676900378347
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-kolar",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -6.203197595186624,
+      -3.6373756743321346,
+      -0.7978092280280119
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-lamac",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      6.127693775529183,
+      3.316638977673432,
+      2.3057654866292103
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-maros",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      6.149949413958414,
+      3.3699014622188233,
+      2.358899472434092
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-pelech",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      6.127693775529183,
+      3.316638977673432,
+      2.3057654866292103
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-stehlik",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -7.819697580712433,
+      -5.061466586321447,
+      -1.5687815938304417
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-stepanek",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -8.03860551532623,
+      -4.854630482361215,
+      -2.497935884348371
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:roman-kubicek",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -7.040510453932191,
+      -4.702547326250695,
+      -1.1697777344423081
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:simon-heller",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      6.5510702564194965,
+      3.835981621948833,
+      3.114266982222985
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:svatomir-mlcoch",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      6.150478802692054,
+      3.3704047415551743,
+      2.3585692011040074
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:svetlana-prochazkova",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -6.5387980070469025,
+      -1.8252282714004546,
+      -3.4089192006888758
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:tomas-bouzek",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      6.1377356287830835,
+      3.3212449628601255,
+      2.306337354551351
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:tomas-chovanec",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -5.396131455261407,
+      -1.062150052680234,
+      -3.942970505488461
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:tomas-kubin",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -7.667665921074242,
+      -4.00807918437673,
+      -2.7449568086416973
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:viktor-lavicka",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -7.387709308122952,
+      -4.253770707463326,
+      -1.4958363345742351
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:vladan-cisler",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -6.84803481756769,
+      -3.7682511818861473,
+      -5.802810691650179
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:vladimira-bernasova",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      -7.705855611669983,
+      -5.018742128356775,
+      -1.3849594843210362
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:zbynek-sykora",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      6.133999867573065,
+      3.3121726022041003,
+      2.304680865929254
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:zdenek-kristan",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "ceske-budejovice:person:zuzana-kudlackova",
+    "period_index": 0,
+    "period_start": "2022-07-01",
+    "period_end": "2022-12-31",
+    "period_label": "2. pol. 2022",
+    "dims": [
+      6.133900552963377,
+      3.3395973205998564,
+      2.323925529408952
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:adela-ruiderova",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      5.47400326329029,
+      0.4671935246602639,
+      1.4877658158100975
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:alice-stierandova",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -7.4694238090696725,
+      -2.238593606786338,
+      -5.520505798678467
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:andrea-nadravska",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -6.354935388833716,
+      -1.7124992296910564,
+      -0.5434580395376599
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:dagmar-skodova-parmova",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      4.91573029508564,
+      0.5791307208445751,
+      1.3430542927969857
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:ivo-moravec",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -3.508984541789827,
+      3.018092740514378,
+      -1.3801996042439668
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:jan-hosek",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "ceske-budejovice:person:jan-kadlec",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -5.327321717410214,
+      -1.09097494443475,
+      -4.294110251262038
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:jan-krob",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      5.525849224657772,
+      0.18433636207241566,
+      0.9545829429138575
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:jan-michl",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -6.212480694092938,
+      -1.9662559788273781,
+      -1.120553296260365
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:jan-zahradnik",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      4.157297663689533,
+      -0.21978699438750815,
+      1.951737719180097
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:jaroslav-berka",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -5.0684399489920775,
+      -1.4760806175433114,
+      0.22054832117259374
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:jiri-borovka",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      4.969837548039439,
+      0.6681159685147763,
+      1.2111354891617239
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:jiri-svoboda",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -6.156905492511261,
+      -1.5814782960465892,
+      0.5637615860935915
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:juraj-thoma",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -5.326616906653548,
+      3.345595052910684,
+      -2.599912709558323
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:karel-vaskovsky",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      4.997312153850242,
+      0.5209260298132211,
+      1.3116578796198939
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:lubomir-bures",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      5.043291312939938,
+      0.7088084615809642,
+      1.4539774111314823
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:lucie-kozlova",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      4.947396352769981,
+      0.5790602733641672,
+      1.3494747929979796
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:lukas-bajt",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -4.288066762485832,
+      3.6368797115747338,
+      -2.348482540515678
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:martin-kuba",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      4.984524693900069,
+      0.5602895735009187,
+      1.3370764606532752
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:martin-marsik",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      4.916328440813714,
+      0.5793534437715135,
+      1.3442968328558613
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:martin-novotny",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      4.321951712624406,
+      1.8184609339899962,
+      1.7181722867017588
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:martin-stasek",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      4.943060633029042,
+      0.7112314721540646,
+      1.3621981147765432
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:michaela-kudlackova",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      4.118101806080877,
+      0.9543852969137276,
+      1.269634620127338
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:michal-sebek",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      4.689057364904216,
+      0.5815729749348232,
+      1.2886406492382496
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:milan-dzuba",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "ceske-budejovice:person:monika-kroutilova",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -5.803512866735286,
+      -2.2562353136663496,
+      -5.64869086259125
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:ondrej-trtilek",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -6.247221130851684,
+      -1.52485505681419,
+      -0.9615194692228263
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:pavla-heydukova",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "ceske-budejovice:person:pavla-sadkova",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      3.998339997734987,
+      -0.252450040456685,
+      2.3023211691014547
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-holicky",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -5.950571911079454,
+      -1.385684525843817,
+      -0.9108317962634569
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-kolar",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -6.052132943898679,
+      -2.388864072293562,
+      -0.2953159006346795
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-lamac",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      4.91573029508564,
+      0.5791307208445751,
+      1.3430542927969857
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-maros",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      4.925592253920123,
+      0.5826390795010156,
+      1.3576143678444577
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-pelech",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      4.980115339360013,
+      0.522559614572558,
+      1.3006134899092945
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-stehlik",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -6.713580348452505,
+      -2.3374218320577,
+      -0.5967676910144792
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-stepanek",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -7.58008924426513,
+      -3.2431153543271574,
+      -0.9509644126890623
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:roman-kubicek",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -5.941602677194699,
+      -0.542306198207715,
+      -0.2809736302642186
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:simon-heller",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      4.687963233017044,
+      1.3400514206390575,
+      1.088449204050108
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:svatomir-mlcoch",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      4.319775189888094,
+      1.398639337366567,
+      1.8980238768195796
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:svetlana-prochazkova",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -4.393362577395677,
+      2.547037659154603,
+      -2.897475128561014
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:tomas-bouzek",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      2.443972023849835,
+      2.031301930647633,
+      -0.29063117132941557
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:tomas-chovanec",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -4.1914721457161885,
+      2.77210916525543,
+      -2.374666794175509
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:tomas-kubin",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -4.740441180080931,
+      -1.9348777572444908,
+      -1.7078743347529386
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:viktor-lavicka",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -4.884430196082842,
+      -0.9129738983405629,
+      0.7308448461437258
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:vladan-cisler",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -2.886198582025281,
+      -2.969651077362351,
+      -4.71999104060487
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:vladimira-bernasova",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      -7.167373563995515,
+      -2.4192187578946314,
+      -0.007098292579443352
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:zbynek-sykora",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      4.93471439086989,
+      0.5801609308264587,
+      1.3637851956739604
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:zdenek-kristan",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "ceske-budejovice:person:zuzana-kudlackova",
+    "period_index": 1,
+    "period_start": "2023-01-01",
+    "period_end": "2023-06-30",
+    "period_label": "1. pol. 2023",
+    "dims": [
+      4.405582535432641,
+      1.2141151182150693,
+      2.1741261275536705
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:adela-ruiderova",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      4.997372934909569,
+      1.7766037696437313,
+      1.5462982275141404
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:alice-stierandova",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -7.724707848137817,
+      -4.135229783560818,
+      -3.6578447871924022
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:andrea-nadravska",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -7.121063593255439,
+      -3.9782987577914164,
+      -0.9300252847781123
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:dagmar-skodova-parmova",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      5.001024213059007,
+      1.7818591544604008,
+      1.5329436125470384
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:ivo-moravec",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -1.6268800699722967,
+      2.8889246243542757,
+      -2.982575088236605
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:jan-hosek",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "ceske-budejovice:person:jan-kadlec",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -5.13101913758022,
+      -1.9503304727133992,
+      -4.065126288366096
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:jan-krob",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      5.033930968786121,
+      1.7689759742785933,
+      1.500417591592025
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:jan-michl",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -6.990841889814638,
+      -3.26027382241977,
+      -2.0331183624546996
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:jan-zahradnik",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      5.004596959710431,
+      1.67819198454302,
+      1.5253353440345365
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:jaroslav-berka",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -5.994726304204729,
+      -4.13352454283758,
+      1.128908956459386
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:jiri-borovka",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      4.042238129137883,
+      1.8601199788663723,
+      1.450680099232008
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:jiri-svoboda",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -6.91519889410573,
+      -4.291066212619615,
+      0.6719994498177189
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:juraj-thoma",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -3.72778613052631,
+      2.4259838390013084,
+      -2.900664452754026
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:karel-vaskovsky",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      4.846441388739821,
+      1.8846273795790442,
+      1.3626308037704462
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:lubomir-bures",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      5.013465857995175,
+      1.7832185488985315,
+      1.5742883318454477
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:lucie-kozlova",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      5.009594573451813,
+      1.783297119353593,
+      1.5709333722817034
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:lukas-bajt",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -3.835714317066932,
+      3.138934995160005,
+      -4.780518263522217
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:martin-kuba",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      5.049719686302554,
+      1.7885708834835807,
+      1.509224309717082
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:martin-marsik",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      5.043059086720746,
+      1.7729582696384616,
+      1.502974060894595
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:martin-novotny",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      4.7304234448313505,
+      2.451709161509535,
+      1.447541894472274
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:martin-stasek",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      5.081520394117373,
+      1.8794238017769629,
+      1.5708180361180006
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:michaela-kudlackova",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      4.538675740470543,
+      1.258613570873581,
+      1.5675454718616204
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:michal-sebek",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      5.028354639857948,
+      1.7646610727465737,
+      1.4858723632292672
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:milan-dzuba",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "ceske-budejovice:person:monika-kroutilova",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -7.653728219773884,
+      -3.4254705399213146,
+      -4.29570199777468
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:ondrej-trtilek",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -7.353985605500522,
+      -4.183868166292277,
+      -1.6688082059367206
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:pavla-heydukova",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "ceske-budejovice:person:pavla-sadkova",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      5.00717268307935,
+      1.7850742525990337,
+      1.5677040764278345
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-holicky",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -7.449636928059967,
+      -3.581063536053448,
+      -1.9626518430448683
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-kolar",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -6.67902546214248,
+      -4.3058135800884765,
+      0.20346569867313208
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-lamac",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      5.099505061000061,
+      1.790763208320809,
+      1.537066453530202
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-maros",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      5.083632783261085,
+      1.6502444392686257,
+      1.4438080616445015
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-pelech",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      5.0337378390977685,
+      1.9684360997518418,
+      1.630311285780176
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-stehlik",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -6.55397904813674,
+      -4.180291831991167,
+      0.3767784596316112
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-stepanek",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -7.462060536558316,
+      -3.7966646377461917,
+      -1.3758076694212766
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:roman-kubicek",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -6.678204016155939,
+      -2.9426990805691835,
+      -1.5691027689969468
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:simon-heller",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      5.292078595926954,
+      1.9672964842149798,
+      2.3766673795671087
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:svatomir-mlcoch",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      5.092029255438483,
+      2.448004514722328,
+      1.5270766532967495
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:svetlana-prochazkova",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -2.3011104053445344,
+      3.479351489074577,
+      -4.195938679927634
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:tomas-bouzek",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      5.031266785515779,
+      2.4278664561143812,
+      1.421799505899575
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:tomas-chovanec",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -4.290369942679483,
+      3.0271246853407527,
+      -3.646068129088537
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:tomas-kubin",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -6.67575424111869,
+      -2.8158695822677404,
+      -1.3365408920858826
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:viktor-lavicka",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -7.140363190880332,
+      -4.249649486513064,
+      0.00395677247022039
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:vladan-cisler",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -3.682428202064958,
+      -2.5594988622135615,
+      -4.410764403128295
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:vladimira-bernasova",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      -6.303962325263059,
+      -4.290314294618683,
+      0.03114751153689797
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:zbynek-sykora",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      4.993345951112801,
+      1.775711389506097,
+      1.543187468803853
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:zdenek-kristan",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "ceske-budejovice:person:zuzana-kudlackova",
+    "period_index": 2,
+    "period_start": "2023-07-01",
+    "period_end": "2023-12-31",
+    "period_label": "2. pol. 2023",
+    "dims": [
+      5.167989988353648,
+      2.4942696880920154,
+      1.7091114649894954
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:adela-ruiderova",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      5.0069209374740495,
+      1.6899963655503196,
+      0.7856909734423099
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:alice-stierandova",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -6.224458479591153,
+      -3.3810740059963154,
+      -4.725843199024955
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:andrea-nadravska",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -6.4668615397007345,
+      -2.739287100754173,
+      0.04490165764673567
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:dagmar-skodova-parmova",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      5.222056257350927,
+      2.0676233699313937,
+      1.0109881942363184
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:ivo-moravec",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -0.7791319434703134,
+      2.9323080246010744,
+      -0.8751861947824854
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:jan-hosek",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "ceske-budejovice:person:jan-kadlec",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -4.9996055478713,
+      -2.219282950945297,
+      -3.6595693475760895
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:jan-krob",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "ceske-budejovice:person:jan-michl",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -5.060716443116805,
+      -1.9472162226894667,
+      -1.1892084869651685
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:jan-zahradnik",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      5.226681845561749,
+      2.0704105759239826,
+      1.0148652725088494
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:jaroslav-berka",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -6.426922823374255,
+      -2.368399081693705,
+      -0.45007443804412256
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:jiri-borovka",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      3.973953694839369,
+      1.0371794828251786,
+      1.4240412300224725
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:jiri-svoboda",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -6.918144793798286,
+      -3.262869083149775,
+      0.43522142202046304
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:juraj-thoma",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -3.5663981938056812,
+      1.8428282849535251,
+      -1.6110235043821133
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:karel-vaskovsky",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      4.988825103751971,
+      1.6833589401538365,
+      0.773476211447176
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:lubomir-bures",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      5.222056257350927,
+      2.0676233699313937,
+      1.0109881942363184
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:lucie-kozlova",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      4.3649651010685915,
+      0.35125224189265225,
+      1.0755938176184505
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:lukas-bajt",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -3.7603041064378915,
+      2.422234879755856,
+      -1.3067522018592974
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:martin-kuba",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      5.048477417790476,
+      1.6717574466045462,
+      0.5975106213531175
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:martin-marsik",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      4.353821587631487,
+      0.35071693232125845,
+      1.0637117820322513
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:martin-novotny",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      3.2918074637391004,
+      2.579167675162423,
+      0.5597791624041023
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:martin-stasek",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      5.2260541759164,
+      2.06973609204027,
+      1.0130311654223307
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:michaela-kudlackova",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      4.04068969342034,
+      -0.4146199380975056,
+      1.0514127469958634
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:michal-sebek",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      5.229344911765095,
+      1.8403361031910144,
+      0.8670900980302467
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:milan-dzuba",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      4.843327608946699,
+      1.0854708725372662,
+      0.9472451907792787
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:monika-kroutilova",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -6.166911974968962,
+      -3.567125422315885,
+      -3.992058834566716
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:ondrej-trtilek",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -7.086116179180756,
+      -3.2716678418728873,
+      -0.29453090537625803
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:pavla-heydukova",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "ceske-budejovice:person:pavla-sadkova",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      4.988825103751971,
+      1.6833589401538365,
+      0.773476211447176
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-holicky",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -5.702259836725602,
+      -1.9879763337057914,
+      0.4707373469816588
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-kolar",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -6.607619544589715,
+      -3.98162013260675,
+      -0.33137044090649476
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-lamac",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      4.988825103751971,
+      1.6833589401538365,
+      0.773476211447176
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-maros",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      5.18112110655303,
+      1.8830492062485067,
+      0.866029256479169
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-pelech",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      4.469738515476316,
+      0.26911532624694323,
+      1.1855177280538716
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-stehlik",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -6.368489205601652,
+      -3.9298665258057497,
+      0.007599483946444968
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-stepanek",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -6.195959785360283,
+      -1.6621605022876254,
+      -0.5482564304482919
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:roman-kubicek",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -5.7133010979272285,
+      -1.9177434131441176,
+      0.31228123951365466
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:simon-heller",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      4.979099692310804,
+      1.6606031629421263,
+      0.9637820491689518
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:svatomir-mlcoch",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      4.820535460671622,
+      1.8539267691180896,
+      1.1556554792970797
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:svetlana-prochazkova",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -3.7010280741121075,
+      2.483252449340361,
+      -2.155382366184009
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:tomas-bouzek",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      4.595225463861245,
+      0.7366708548024293,
+      1.3146702851008105
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:tomas-chovanec",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -3.4180264795040443,
+      2.7793809018069364,
+      -1.4911621889148756
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:tomas-kubin",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -7.048398605865495,
+      -2.9950682363621746,
+      -0.6161204960847744
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:viktor-lavicka",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -7.0574052033379315,
+      -3.230426164538833,
+      -0.06924795568931029
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:vladan-cisler",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -7.226368784638593,
+      -3.421156330249005,
+      -3.8095710732000136
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:vladimira-bernasova",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      -7.117486368945435,
+      -3.30421172079435,
+      -0.23271394387673855
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:zbynek-sykora",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      5.627487503216801,
+      2.780756493927447,
+      1.393379419410946
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:zdenek-kristan",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "ceske-budejovice:person:zuzana-kudlackova",
+    "period_index": 3,
+    "period_start": "2024-01-01",
+    "period_end": "2024-06-30",
+    "period_label": "1. pol. 2024",
+    "dims": [
+      5.264379226659573,
+      1.8568970179950628,
+      1.5588831468937576
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:adela-ruiderova",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      4.815525418105329,
+      2.2613428678514986,
+      3.815995780512876
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:alice-stierandova",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -1.0351974465958749,
+      0.2970086916982922,
+      2.9153713556989294
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:andrea-nadravska",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -4.13547978667199,
+      -1.6928618580551393,
+      -3.5599308548751125
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:dagmar-skodova-parmova",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      4.815525418105329,
+      2.2613428678514986,
+      3.815995780512876
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:ivo-moravec",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -5.279516901451183,
+      -4.694769630426574,
+      -5.608524736910314
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:jan-hosek",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -6.222502709783763,
+      -5.940070993181234,
+      -5.908084275277051
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:jan-kadlec",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -3.381819385128507,
+      -0.7914631820474116,
+      0.519001961558884
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:jan-krob",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "ceske-budejovice:person:jan-michl",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -5.661751311431314,
+      -1.1063988436147931,
+      -4.488686996936478
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:jan-zahradnik",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      4.815525418105329,
+      2.2613428678514986,
+      3.815995780512876
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:jaroslav-berka",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -4.194642747665483,
+      -1.01692617390823,
+      -3.5187476574040466
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:jiri-borovka",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      5.1899139681600674,
+      2.738456629264748,
+      4.518802215515375
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:jiri-svoboda",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -6.560290858946588,
+      -1.4403901435682114,
+      -6.893777251543846
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:juraj-thoma",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -3.759019693227489,
+      -4.32728535751202,
+      -0.8587622824270621
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:karel-vaskovsky",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      4.815525418105329,
+      2.2613428678514986,
+      3.815995780512876
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:lubomir-bures",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      4.819913931452314,
+      2.2615636883904746,
+      3.817234371113327
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:lucie-kozlova",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      4.8872338980188985,
+      2.2885465378670964,
+      3.86171481876767
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:lukas-bajt",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -5.920695698320228,
+      -5.662940007537716,
+      -6.1960240208304596
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:martin-kuba",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      4.991899217768785,
+      2.40100862022079,
+      3.9418640093534285
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:martin-marsik",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      4.815525418105329,
+      2.2613428678514986,
+      3.815995780512876
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:martin-novotny",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -4.861943666942457,
+      -5.4691987961465145,
+      -4.537922157630053
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:martin-stasek",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      4.851320993012795,
+      2.2634397161214195,
+      3.929261649410641
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:michaela-kudlackova",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      4.815525418105329,
+      2.2613428678514986,
+      3.815995780512876
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:michal-sebek",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      4.82011892066985,
+      2.262001573671843,
+      3.8254618117651864
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:milan-dzuba",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      4.815525418105329,
+      2.2613428678514986,
+      3.815995780512876
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:monika-kroutilova",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -1.2038176052648417,
+      0.25416740492875767,
+      2.8993608786354037
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:ondrej-trtilek",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -3.6738979997010732,
+      -0.3406711901400136,
+      -4.387617985973002
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:pavla-heydukova",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -5.612286456971439,
+      -5.609949541782148,
+      -4.986700150154964
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:pavla-sadkova",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      4.815525418105329,
+      2.2613428678514986,
+      3.815995780512876
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-holicky",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -4.847607148837395,
+      -0.04898217484658009,
+      -5.049548706584493
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-kolar",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -4.724006377239693,
+      -0.29431650364097006,
+      -4.915987770144644
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-lamac",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      4.815525418105329,
+      2.2613428678514986,
+      3.815995780512876
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-maros",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      4.815525418105329,
+      2.2613428678514986,
+      3.815995780512876
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-pelech",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      4.82011892066985,
+      2.262001573671843,
+      3.8254618117651864
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-stehlik",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -7.582461861541386,
+      -3.305532198209639,
+      -6.364672028246355
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-stepanek",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -6.544109766250089,
+      -1.8247141552562063,
+      -6.962988676856118
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:roman-kubicek",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -3.456516510989174,
+      -2.3464909771698763,
+      -3.450877224935806
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:simon-heller",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      4.2525411152540915,
+      2.559547641312317,
+      3.2252705487604736
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:svatomir-mlcoch",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "ceske-budejovice:person:svetlana-prochazkova",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -7.097434494395243,
+      -5.401387129793958,
+      -5.7731170675904
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:tomas-bouzek",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      4.860202389266428,
+      2.288147000505055,
+      3.831259570064626
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:tomas-chovanec",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -5.0784665896201515,
+      -5.454833107196698,
+      -2.6769873581200465
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:tomas-kubin",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "ceske-budejovice:person:viktor-lavicka",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -6.565991686304805,
+      -1.7299059967394985,
+      -4.863250626795727
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:vladan-cisler",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      2.960732819039902,
+      2.798283597121275,
+      4.760202813265628
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:vladimira-bernasova",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -3.9408790418503665,
+      -0.08047838570868278,
+      -3.299636467654136
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:zbynek-sykora",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      4.82011892066985,
+      2.262001573671843,
+      3.8254618117651864
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:zdenek-kristan",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      -7.958788720554369,
+      -3.2347166462011203,
+      -8.03184598700961
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:zuzana-kudlackova",
+    "period_index": 4,
+    "period_start": "2024-07-01",
+    "period_end": "2024-12-31",
+    "period_label": "2. pol. 2024",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "ceske-budejovice:person:adela-ruiderova",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      4.951160868044706,
+      -1.6373842500182842,
+      1.5669191412696426
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:alice-stierandova",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -5.153668044344151,
+      0.15598008716720183,
+      1.9119763300790136
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:andrea-nadravska",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -5.3075656243578875,
+      -0.9207157804858132,
+      -3.6306852101276905
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:dagmar-skodova-parmova",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      4.579059721399405,
+      0.1261356635741389,
+      0.6690767532662188
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:ivo-moravec",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -4.309730196698008,
+      3.882901142714173,
+      0.6397614329828488
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:jan-hosek",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      1.1127783415541623,
+      4.42468354297116,
+      1.1049228900095935
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:jan-kadlec",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -1.6416067644979002,
+      0.19283196650320464,
+      0.9739817216504669
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:jan-krob",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "ceske-budejovice:person:jan-michl",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -3.0729534221818544,
+      -1.3874889422977508,
+      -1.6435282910573255
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:jan-zahradnik",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      4.6998643840264505,
+      -0.5826968077853932,
+      0.9462108252625977
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:jaroslav-berka",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -5.483109883036275,
+      -0.4953917621323003,
+      -3.855777590734616
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:jiri-borovka",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      4.397792789128334,
+      0.2687666988100039,
+      1.2878441189017236
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:jiri-svoboda",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -5.815454862527752,
+      -1.1769040304441967,
+      -4.157059012604255
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:juraj-thoma",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -5.741894440647545,
+      4.256825087472598,
+      0.09470251845833463
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:karel-vaskovsky",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      4.9730838528385695,
+      -1.7932329894098686,
+      2.054373802500287
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:lubomir-bures",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      4.979223101570638,
+      -1.6174439511575753,
+      1.9728364372862066
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:lucie-kozlova",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      4.716831765834502,
+      -1.1933751933577192,
+      1.3876390898843198
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:lukas-bajt",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -4.693504256852029,
+      3.878273574018642,
+      0.6171133922014624
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:martin-kuba",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      3.4713389846935248,
+      0.5640531212320112,
+      0.3631888219093431
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:martin-marsik",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      4.977820224436268,
+      -1.8187980218087867,
+      2.0830184351548433
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:martin-novotny",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -1.304670918535313,
+      4.727645709141149,
+      1.1174114023274007
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:martin-stasek",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      2.456770944692621,
+      -1.295710037450535,
+      0.6333678416081471
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:michaela-kudlackova",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      4.913621519305485,
+      -0.4721138185084485,
+      1.2896883280501752
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:michal-sebek",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      4.963995959862267,
+      -0.9272060835532927,
+      1.8587806067569352
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:milan-dzuba",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      4.910797421869832,
+      -1.6116158877721185,
+      1.667903482100607
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:monika-kroutilova",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -1.8031964393392734,
+      -1.3855372398375174,
+      2.120109586625906
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:ondrej-trtilek",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -5.374661265693645,
+      0.3200409753134762,
+      -3.6876335964967195
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:pavla-heydukova",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -4.070958745849723,
+      3.953049955903901,
+      -3.017760536929601
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:pavla-sadkova",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      4.9717420045241365,
+      -0.9009699895471327,
+      1.9791785256323575
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-holicky",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -5.6877494138983336,
+      0.11610639658756124,
+      -2.117598345023389
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-kolar",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -5.050666653910408,
+      -1.3585601065274706,
+      -2.5059755041134926
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-lamac",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      4.972250002857538,
+      -1.7780293829615672,
+      2.035537900150451
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-maros",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      4.972250002857538,
+      -1.7780293829615672,
+      2.035537900150451
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-pelech",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      4.529511669071538,
+      0.13338881556869187,
+      1.3745477429683273
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-stehlik",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -5.294451144241688,
+      -0.19796094860920718,
+      -3.5331360339539795
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-stepanek",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -5.670968709075214,
+      -0.741247584003911,
+      -3.789663046463047
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:roman-kubicek",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -6.635156983943419,
+      -1.1076303526199025,
+      -4.760110065017322
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:simon-heller",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      2.617890130792061,
+      0.492608949502792,
+      0.6921520912143077
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:svatomir-mlcoch",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "ceske-budejovice:person:svetlana-prochazkova",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -5.299687697841507,
+      3.516561365957795,
+      1.2163490409482607
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:tomas-bouzek",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      4.68985818169189,
+      -0.26184472036541767,
+      0.9422875691173339
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:tomas-chovanec",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -0.05884913264555876,
+      4.160556351367918,
+      2.548730001974205
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:tomas-kubin",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "ceske-budejovice:person:viktor-lavicka",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -5.5127014626452295,
+      -1.2502207568315105,
+      -3.654060863374578
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:vladan-cisler",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -1.3009783158678665,
+      -0.8351057895169631,
+      1.8083533892519206
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:vladimira-bernasova",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -4.369207806377356,
+      -1.0302552667729994,
+      -2.597189813947496
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:zbynek-sykora",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      4.540116036531007,
+      -1.6635603522699554,
+      1.8182277778050946
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:zdenek-kristan",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      -2.459682807267831,
+      -1.792162316816606,
+      -3.2750971844751198
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:zuzana-kudlackova",
+    "period_index": 5,
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30",
+    "period_label": "1. pol. 2025",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "ceske-budejovice:person:adela-ruiderova",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      5.273530914170221,
+      -0.47764124351128273,
+      2.025446138337295
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:alice-stierandova",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -4.394195440379675,
+      0.7119002817233013,
+      1.8937671200018729
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:andrea-nadravska",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -5.141082727339544,
+      -1.862639372889138,
+      -5.33165427614868
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:dagmar-skodova-parmova",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      5.139214519533608,
+      0.8330811647034336,
+      2.554437292485494
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:ivo-moravec",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.106068137993308,
+      3.0937819880459094,
+      2.109684448267705
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:jan-hosek",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      2.542515925727792,
+      2.796140681309097,
+      -1.3992266875484596
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:jan-kadlec",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -5.6686433755254795,
+      -0.15289207805771107,
+      -3.288628885399429
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:jan-krob",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "ceske-budejovice:person:jan-michl",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -6.452474225405653,
+      -2.1194549702531855,
+      -4.500770346372925
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:jan-zahradnik",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      5.452965221003587,
+      -0.7433061255647618,
+      1.955215378957845
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:jaroslav-berka",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -6.519091188164434,
+      -1.9769376315451148,
+      -4.575563541823659
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:jiri-borovka",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      4.766941289930435,
+      1.6447984134621227,
+      2.384618933678955
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:jiri-svoboda",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -7.443062012878766,
+      -2.523312091188234,
+      -5.519832067943185
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:juraj-thoma",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -4.521349701680659,
+      3.2525612012742924,
+      1.4616453748721496
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:karel-vaskovsky",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      5.273530914170221,
+      -0.47764124351128273,
+      2.025446138337295
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:lubomir-bures",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      5.303171357038108,
+      -0.47944994275455766,
+      2.0373162174067927
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:lucie-kozlova",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      5.30688058916856,
+      0.8592136946299803,
+      2.661833982890765
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:lukas-bajt",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -2.8527156307894437,
+      3.3527328386749375,
+      2.5750167692375863
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:martin-kuba",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      5.455633761587242,
+      -0.7601325062458618,
+      1.992865881132864
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:martin-marsik",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      5.381350507060354,
+      -0.6243399692501388,
+      1.9916417229393433
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:martin-novotny",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      0.10872494619288929,
+      3.8919704072262125,
+      -0.3532693829497044
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:martin-stasek",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      5.395510118305222,
+      -0.7377662072721309,
+      1.927389501944933
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:michaela-kudlackova",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      5.320553932361355,
+      -0.48382134194212706,
+      2.0724248397564082
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:michal-sebek",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      5.339706906044663,
+      -0.6091076129172277,
+      1.92624021546542
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:milan-dzuba",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      5.3169833418783465,
+      -0.6094742926445776,
+      2.037306462471272
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:monika-kroutilova",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.4872822006092177,
+      -0.5399478940070326,
+      1.4536302598793
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:ondrej-trtilek",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -7.3442413674937415,
+      -1.520679877528098,
+      -3.058563309384886
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:pavla-heydukova",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -0.7456728416009063,
+      4.731726102246986,
+      -0.24461704855775937
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:pavla-sadkova",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      5.280570292305497,
+      -0.478165458523958,
+      2.0277335210600493
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-holicky",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -6.284295491725311,
+      -1.7725166695378611,
+      -4.109741104670312
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-kolar",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -6.32297207139834,
+      -1.3667067469554632,
+      -4.118059382254672
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-lamac",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      5.273530914170221,
+      -0.47764124351128273,
+      2.025446138337295
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-maros",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      5.15895549105319,
+      0.8374829536097098,
+      2.5598870476385818
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-pelech",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      5.413882170081065,
+      -0.7550516489670865,
+      1.972221275365859
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-stehlik",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -7.0923891425041585,
+      -2.144234326020845,
+      -5.394947590507466
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-stepanek",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -7.123973398246646,
+      -2.144854197601426,
+      -5.464533573823699
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:roman-kubicek",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -6.640878912557766,
+      -0.01570784747365051,
+      -1.1446646776456633
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:simon-heller",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      5.359437423568245,
+      -0.04059124567647831,
+      2.366674200462066
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:svatomir-mlcoch",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "ceske-budejovice:person:svetlana-prochazkova",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -4.74216937636802,
+      3.4603034555070105,
+      3.3599337964398743
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:tomas-bouzek",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      5.286135778827677,
+      -0.005369406269568839,
+      2.318949833062034
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:tomas-chovanec",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -3.388325963524332,
+      3.4082125794605638,
+      2.2244270164217403
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:tomas-kubin",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "ceske-budejovice:person:viktor-lavicka",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -7.7212265310475585,
+      -2.708316839007136,
+      -6.020921491102109
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:vladan-cisler",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -2.4072335883163323,
+      0.22913705529780098,
+      2.253130795915434
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:vladimira-bernasova",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -7.009234150442452,
+      -2.2441830854036215,
+      -5.2380615093759815
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:zbynek-sykora",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      5.451284077267678,
+      -0.6750212256410478,
+      1.901098630433173
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:zdenek-kristan",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      -7.7082259658333845,
+      -2.569592862067447,
+      -5.976025395280123
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:zuzana-kudlackova",
+    "period_index": 6,
+    "period_start": "2025-07-01",
+    "period_end": "2025-12-31",
+    "period_label": "2. pol. 2025",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "ceske-budejovice:person:adela-ruiderova",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      3.418143966497213,
+      1.5482535994623268,
+      1.3673786270144883
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:alice-stierandova",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.528677658779034,
+      -2.2427198323091444,
+      -1.4929627602756417
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:andrea-nadravska",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -3.883778438130425,
+      1.818142943538346,
+      -3.802560147533846
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:dagmar-skodova-parmova",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      3.2128642503400884,
+      0.29822952094310273,
+      1.7617143752883107
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:ivo-moravec",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -0.25878222733534684,
+      -4.0373356301947005,
+      3.576062737630575
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:jan-hosek",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -5.161996360478461,
+      -4.244994465860622,
+      -1.5118333341900987
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:jan-kadlec",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -6.203889172692225,
+      -1.7578075647174034,
+      -2.6912936832656467
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:jan-krob",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "ceske-budejovice:person:jan-michl",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -0.8771001213394807,
+      0.7142771170572019,
+      -0.7872922311060774
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:jan-zahradnik",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      3.392634861584287,
+      1.5974222545272359,
+      1.3083403506415794
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:jaroslav-berka",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -1.7254194585073388,
+      -0.00970860694521699,
+      -1.1046658328039813
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:jiri-borovka",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      3.991676597332491,
+      -4.399106515166703,
+      4.742238269799474
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:jiri-svoboda",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -2.48019330688389,
+      1.5130072910790158,
+      -2.452251086118174
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:juraj-thoma",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -1.1466904303777665,
+      -4.762287493965503,
+      4.1143367182072055
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:karel-vaskovsky",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      3.267716305839024,
+      1.5144634246638704,
+      1.1584919076311415
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:lubomir-bures",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      3.2582284775494377,
+      1.51328692035655,
+      1.1583507972168363
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:lucie-kozlova",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      3.2582284775494377,
+      1.51328692035655,
+      1.1583507972168363
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:lukas-bajt",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -1.0513166624907297,
+      -4.28977873128422,
+      3.9882430471596075
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:martin-kuba",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      3.257156568017705,
+      1.5576391466255914,
+      1.2340959326747643
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:martin-marsik",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      3.2491360469934887,
+      1.112949319227114,
+      1.4828949122855781
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:martin-novotny",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -5.327121719727017,
+      -4.547814066632193,
+      -1.5186154343851543
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:martin-stasek",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      3.2659261407226805,
+      1.5148544132535804,
+      1.1586628204262601
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:michaela-kudlackova",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      3.2128642503400884,
+      0.29822952094310273,
+      1.7617143752883107
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:michal-sebek",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      3.283867273741566,
+      1.5174524322785177,
+      1.1987260875275159
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:milan-dzuba",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      3.2639053555236286,
+      1.515809817896858,
+      1.1709871176531517
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:monika-kroutilova",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -3.3209350395097434,
+      0.7935955475754792,
+      -3.168615500292771
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:ondrej-trtilek",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -3.7977781398225474,
+      -0.6513316632415342,
+      -1.7684593733894085
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:pavla-heydukova",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -5.476483389185232,
+      -4.717692750294727,
+      -1.4736707383005871
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:pavla-sadkova",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      3.2552704621565516,
+      0.2776302152472395,
+      1.785944716579945
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-holicky",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -4.722348659837165,
+      0.6746730062431813,
+      -3.4150820002891997
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-kolar",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -2.4790332332182787,
+      2.5218326931836317,
+      -2.9425765837346
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-lamac",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      3.2582284775494377,
+      1.51328692035655,
+      1.1583507972168363
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-maros",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      3.2234648260433367,
+      0.2984442771929226,
+      1.780745696032109
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-pelech",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      1.9284409932955522,
+      -0.7169192557820028,
+      1.6803661321647274
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-stehlik",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -2.0159790631109122,
+      1.7236966101253475,
+      -3.1678354731512206
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-stepanek",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -1.6434749759451535,
+      1.5213155466041668,
+      -2.5466022051699175
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:roman-kubicek",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.8679756777686419,
+      1.1229712355736063,
+      0.1569402409241822
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:simon-heller",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      2.042311077272462,
+      1.3855781186705136,
+      0.7175193183716583
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:svatomir-mlcoch",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "ceske-budejovice:person:svetlana-prochazkova",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      5.854501216030617,
+      -3.127197500426358,
+      5.994990417980893
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:tomas-bouzek",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      3.4307629321224113,
+      0.27883612226360716,
+      1.935113824582309
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:tomas-chovanec",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      0.6943174899995035,
+      -4.191799034939834,
+      4.1401210159216335
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:tomas-kubin",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "ceske-budejovice:person:viktor-lavicka",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -3.2909517999203084,
+      1.2947922728133965,
+      -3.36867362523886
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:vladan-cisler",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -1.8012631733956614,
+      1.158866840718052,
+      -1.4530782436592342
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:vladimira-bernasova",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -2.8381994092472578,
+      1.2859008241289467,
+      -2.562628015638276
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:zbynek-sykora",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      3.2184602146907832,
+      0.29880182487839196,
+      1.780528507375131
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:zdenek-kristan",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      -4.1673170128800185,
+      1.434346127598561,
+      -4.100501946068151
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:zuzana-kudlackova",
+    "period_index": 7,
+    "period_start": "2026-01-01",
+    "period_end": "2026-06-30",
+    "period_label": "1. pol. 2026",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "ceske-budejovice:person:adela-ruiderova",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      5.2112484896349525,
+      4.022570454516038,
+      5.23226586567606
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:alice-stierandova",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      5.2112484896349525,
+      4.022570454516038,
+      5.23226586567606
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:andrea-nadravska",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      -7.072408664504578,
+      -5.4592027597003385,
+      -7.1009322462746525
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:dagmar-skodova-parmova",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      5.2112484896349525,
+      4.022570454516038,
+      5.23226586567606
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:ivo-moravec",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      5.2112484896349525,
+      4.022570454516038,
+      5.23226586567606
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:jan-hosek",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "ceske-budejovice:person:jan-kadlec",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "ceske-budejovice:person:jan-krob",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "ceske-budejovice:person:jan-michl",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "ceske-budejovice:person:jan-zahradnik",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      5.2112484896349525,
+      4.022570454516038,
+      5.23226586567606
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:jaroslav-berka",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      -7.072408664504578,
+      -5.4592027597003385,
+      -7.1009322462746525
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:jiri-borovka",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      5.2112484896349525,
+      4.022570454516038,
+      5.23226586567606
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:jiri-svoboda",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      -7.072408664504578,
+      -5.4592027597003385,
+      -7.1009322462746525
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:juraj-thoma",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "ceske-budejovice:person:karel-vaskovsky",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      5.2112484896349525,
+      4.022570454516038,
+      5.23226586567606
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:lubomir-bures",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "ceske-budejovice:person:lucie-kozlova",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      5.2112484896349525,
+      4.022570454516038,
+      5.23226586567606
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:lukas-bajt",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "ceske-budejovice:person:martin-kuba",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      5.2112484896349525,
+      4.022570454516038,
+      5.23226586567606
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:martin-marsik",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      5.2112484896349525,
+      4.022570454516038,
+      5.23226586567606
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:martin-novotny",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      5.2112484896349525,
+      4.022570454516038,
+      5.23226586567606
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:martin-stasek",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      -7.072408664504578,
+      -5.4592027597003385,
+      -7.1009322462746525
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:michaela-kudlackova",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      5.2112484896349525,
+      4.022570454516038,
+      5.23226586567606
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:michal-sebek",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      5.2112484896349525,
+      4.022570454516038,
+      5.23226586567606
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:milan-dzuba",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      5.2112484896349525,
+      4.022570454516038,
+      5.23226586567606
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:monika-kroutilova",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      -7.072408664504578,
+      -5.4592027597003385,
+      -7.1009322462746525
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:ondrej-trtilek",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "ceske-budejovice:person:pavla-heydukova",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      5.2112484896349525,
+      4.022570454516038,
+      5.23226586567606
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:pavla-sadkova",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      5.2112484896349525,
+      4.022570454516038,
+      5.23226586567606
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-holicky",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      -7.072408664504578,
+      -5.4592027597003385,
+      -7.1009322462746525
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-kolar",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      -7.072408664504578,
+      -5.4592027597003385,
+      -7.1009322462746525
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-lamac",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      5.2112484896349525,
+      4.022570454516038,
+      5.23226586567606
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-maros",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      5.2112484896349525,
+      4.022570454516038,
+      5.23226586567606
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-pelech",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-stehlik",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      -7.072408664504578,
+      -5.4592027597003385,
+      -7.1009322462746525
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:petr-stepanek",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      -7.072408664504578,
+      -5.4592027597003385,
+      -7.1009322462746525
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:roman-kubicek",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      -7.072408664504578,
+      -5.4592027597003385,
+      -7.1009322462746525
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:simon-heller",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      -7.072408664504578,
+      -5.4592027597003385,
+      -7.1009322462746525
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:svatomir-mlcoch",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "ceske-budejovice:person:svetlana-prochazkova",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "ceske-budejovice:person:tomas-bouzek",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "ceske-budejovice:person:tomas-chovanec",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "ceske-budejovice:person:tomas-kubin",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "ceske-budejovice:person:viktor-lavicka",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      -7.072408664504578,
+      -5.4592027597003385,
+      -7.1009322462746525
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:vladan-cisler",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      -7.072408664504578,
+      -5.4592027597003385,
+      -7.1009322462746525
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:vladimira-bernasova",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  },
+  {
+    "person_id": "ceske-budejovice:person:zbynek-sykora",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      5.2112484896349525,
+      4.022570454516038,
+      5.23226586567606
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:zdenek-kristan",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      -7.072408664504578,
+      -5.4592027597003385,
+      -7.1009322462746525
+    ],
+    "included": true
+  },
+  {
+    "person_id": "ceske-budejovice:person:zuzana-kudlackova",
+    "period_index": 8,
+    "period_start": "2026-07-01",
+    "period_end": "2026-12-31",
+    "period_label": "2. pol. 2026",
+    "dims": [
+      null,
+      null,
+      null
+    ],
+    "included": false
+  }
+]
