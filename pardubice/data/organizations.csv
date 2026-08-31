@@ -1,2 +1,11 @@
 id,name,classification,identifiers,sources
 pardubice:org:zastupitelstvo-mesta-pardubic,Zastupitelstvo města Pardubic,assembly,[],"[{""url"": ""https://pardubice.eu/zmp-2026"", ""note"": ""pardubice.eu""}]"
+pardubice:org:group:ano-2011,ANO 2011,group,[],"[{""url"": ""https://pardubice.eu/zmp-2026"", ""note"": ""pardubice.eu per-vote klub column (mode per meeting, canonicalized), klub 'ANO 2011'""}]"
+pardubice:org:group:nase-pardubice,NAŠE PARDUBICE,group,[],"[{""url"": ""https://pardubice.eu/zmp-2026"", ""note"": ""pardubice.eu per-vote klub column (mode per meeting, canonicalized), klub 'NAŠE PARDUBICE'""}]"
+pardubice:org:group:nezavisla-spd,Nezávislá/SPD,group,[],"[{""url"": ""https://pardubice.eu/zmp-2026"", ""note"": ""pardubice.eu per-vote klub column (mode per meeting, canonicalized), klub 'Nezávislá/SPD'""}]"
+pardubice:org:group:pirati,Piráti,group,[],"[{""url"": ""https://pardubice.eu/zmp-2026"", ""note"": ""pardubice.eu per-vote klub column (mode per meeting, canonicalized), klub 'Piráti'""}]"
+pardubice:org:group:progresivni-pce,Progresivní Pce,group,[],"[{""url"": ""https://pardubice.eu/zmp-2026"", ""note"": ""pardubice.eu per-vote klub column (mode per meeting, canonicalized), klub 'Progresivní Pce'""}]"
+pardubice:org:group:spd,SPD,group,[],"[{""url"": ""https://pardubice.eu/zmp-2026"", ""note"": ""pardubice.eu per-vote klub column (mode per meeting, canonicalized), klub 'SPD'""}]"
+pardubice:org:group:spolu,SPOLU,group,[],"[{""url"": ""https://pardubice.eu/zmp-2026"", ""note"": ""pardubice.eu per-vote klub column (mode per meeting, canonicalized), klub 'SPOLU'""}]"
+pardubice:org:group:spp,SpP,group,[],"[{""url"": ""https://pardubice.eu/zmp-2026"", ""note"": ""pardubice.eu per-vote klub column (mode per meeting, canonicalized), klub 'SpP'""}]"
+pardubice:org:group:zp,ŽP,group,[],"[{""url"": ""https://pardubice.eu/zmp-2026"", ""note"": ""pardubice.eu per-vote klub column (mode per meeting, canonicalized), klub 'ŽP'""}]"
