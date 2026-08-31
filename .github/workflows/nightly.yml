@@ -150,6 +150,9 @@ jobs:
       # revalidate endpoint here once it exists, so ISR picks up tonight's commit without waiting
       # for its own cache window.
 
+      - name: Write pipeline run status (footer heartbeat)
+        run: python scripts/write_run_status.py --city praha
+
       - name: Commit and push updated data + analysis outputs
         # Reached only if every step above exited 0 — a failed step stops the job here by default,
         # so nothing below ever commits/pushes bad data. On failure, GitHub's own Actions-tab
@@ -159,7 +162,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add praha/data/ praha/analyses/*/outputs/
+          git add praha/data/ praha/analyses/*/outputs/ praha/analyses/_run_status.json
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
@@ -235,11 +238,14 @@ jobs:
           python scripts/g7_sanity_check.py --output-file brno/analyses/wpca/outputs/wpca_time.json
           python scripts/g7_sanity_check.py --output-file brno/analyses/wpca/outputs/government_axis.json
 
+      - name: Write pipeline run status (footer heartbeat)
+        run: python scripts/write_run_status.py --city brno
+
       - name: Commit and push updated data + analysis outputs
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add brno/data/ brno/analyses/*/outputs/
+          git add brno/data/ brno/analyses/*/outputs/ brno/analyses/_run_status.json
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
@@ -336,11 +342,14 @@ jobs:
           python scripts/g7_sanity_check.py --output-file ostrava/analyses/wpca/outputs/wpca_time.json
           python scripts/g7_sanity_check.py --output-file ostrava/analyses/wpca/outputs/government_axis.json
 
+      - name: Write pipeline run status (footer heartbeat)
+        run: python scripts/write_run_status.py --city ostrava
+
       - name: Commit and push updated data + analysis outputs
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add ostrava/data/ ostrava/analyses/*/outputs/
+          git add ostrava/data/ ostrava/analyses/*/outputs/ ostrava/analyses/_run_status.json
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
@@ -415,11 +424,14 @@ jobs:
           python scripts/g7_sanity_check.py --output-file most/analyses/wpca/outputs/wpca_time.json
           python scripts/g7_sanity_check.py --output-file most/analyses/wpca/outputs/government_axis.json
 
+      - name: Write pipeline run status (footer heartbeat)
+        run: python scripts/write_run_status.py --city most
+
       - name: Commit and push updated data + analysis outputs
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add most/data/ most/analyses/*/outputs/
+          git add most/data/ most/analyses/*/outputs/ most/analyses/_run_status.json
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
@@ -512,11 +524,14 @@ jobs:
           python scripts/g7_sanity_check.py --output-file plzen/analyses/wpca/outputs/wpca_time.json
           python scripts/g7_sanity_check.py --output-file plzen/analyses/wpca/outputs/government_axis.json
 
+      - name: Write pipeline run status (footer heartbeat)
+        run: python scripts/write_run_status.py --city plzen
+
       - name: Commit and push updated data + analysis outputs
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add plzen/data/ plzen/analyses/*/outputs/
+          git add plzen/data/ plzen/analyses/*/outputs/ plzen/analyses/_run_status.json
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
@@ -593,11 +608,14 @@ jobs:
           python scripts/g7_sanity_check.py --output-file most-rada/analyses/wpca/outputs/wpca_time.json
           python scripts/g7_sanity_check.py --output-file most-rada/analyses/wpca/outputs/government_axis.json
 
+      - name: Write pipeline run status (footer heartbeat)
+        run: python scripts/write_run_status.py --city most-rada
+
       - name: Commit and push updated data + analysis outputs
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add most-rada/data/ most-rada/analyses/*/outputs/
+          git add most-rada/data/ most-rada/analyses/*/outputs/ most-rada/analyses/_run_status.json
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
@@ -674,11 +692,14 @@ jobs:
           python scripts/g7_sanity_check.py --output-file usti-nad-labem/analyses/wpca/outputs/wpca_time.json
           python scripts/g7_sanity_check.py --output-file usti-nad-labem/analyses/wpca/outputs/government_axis.json
 
+      - name: Write pipeline run status (footer heartbeat)
+        run: python scripts/write_run_status.py --city usti-nad-labem
+
       - name: Commit and push updated data + analysis outputs
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add usti-nad-labem/data/ usti-nad-labem/analyses/*/outputs/
+          git add usti-nad-labem/data/ usti-nad-labem/analyses/*/outputs/ usti-nad-labem/analyses/_run_status.json
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
@@ -752,11 +773,14 @@ jobs:
           python scripts/g7_sanity_check.py --output-file hradec-kralove/analyses/wpca/outputs/wpca_time.json
           python scripts/g7_sanity_check.py --output-file hradec-kralove/analyses/wpca/outputs/government_axis.json
 
+      - name: Write pipeline run status (footer heartbeat)
+        run: python scripts/write_run_status.py --city hradec-kralove
+
       - name: Commit and push updated data + analysis outputs
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add hradec-kralove/data/ hradec-kralove/analyses/*/outputs/
+          git add hradec-kralove/data/ hradec-kralove/analyses/*/outputs/ hradec-kralove/analyses/_run_status.json
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
@@ -831,11 +855,14 @@ jobs:
           python scripts/g7_sanity_check.py --output-file pardubice/analyses/wpca/outputs/wpca_time.json
           python scripts/g7_sanity_check.py --output-file pardubice/analyses/wpca/outputs/government_axis.json
 
+      - name: Write pipeline run status (footer heartbeat)
+        run: python scripts/write_run_status.py --city pardubice
+
       - name: Commit and push updated data + analysis outputs
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add pardubice/data/ pardubice/analyses/*/outputs/
+          git add pardubice/data/ pardubice/analyses/*/outputs/ pardubice/analyses/_run_status.json
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
@@ -920,11 +947,14 @@ jobs:
           python scripts/g7_sanity_check.py --output-file ceske-budejovice/analyses/wpca/outputs/wpca_time.json
           python scripts/g7_sanity_check.py --output-file ceske-budejovice/analyses/wpca/outputs/government_axis.json
 
+      - name: Write pipeline run status (footer heartbeat)
+        run: python scripts/write_run_status.py --city ceske-budejovice
+
       - name: Commit and push updated data + analysis outputs
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add ceske-budejovice/data/ ceske-budejovice/analyses/*/outputs/
+          git add ceske-budejovice/data/ ceske-budejovice/analyses/*/outputs/ ceske-budejovice/analyses/_run_status.json
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
