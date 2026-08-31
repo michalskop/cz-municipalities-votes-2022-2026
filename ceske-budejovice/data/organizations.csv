@@ -1,2 +1,12 @@
 id,name,classification,identifiers,sources
 ceske-budejovice:org:zastupitelstvo-mesta-ceske-budejovice,Zastupitelstvo statutárního města České Budějovice,assembly,[],"[{""url"": ""https://www.c-budejovice.cz"", ""note"": ""c-budejovice.cz""}]"
+ceske-budejovice:org:group:ano,ANO,group,[],"[{""url"": ""https://www.c-budejovice.cz"", ""note"": ""c-budejovice.cz per-vote klub column (mode per meeting), klub 'ANO'""}]"
+ceske-budejovice:org:group:hopb,HOPB,group,[],"[{""url"": ""https://www.c-budejovice.cz"", ""note"": ""c-budejovice.cz per-vote klub column (mode per meeting), klub 'HOPB'""}]"
+ceske-budejovice:org:group:jihocesi-2012,Jihočeši 2012,group,[],"[{""url"": ""https://www.c-budejovice.cz"", ""note"": ""c-budejovice.cz per-vote klub column (mode per meeting), klub 'Jihočeši 2012'""}]"
+ceske-budejovice:org:group:kdu-top09,KDU-TOP09,group,[],"[{""url"": ""https://www.c-budejovice.cz"", ""note"": ""c-budejovice.cz per-vote klub column (mode per meeting), klub 'KDU-TOP09'""}]"
+ceske-budejovice:org:group:nase-cesko,NAŠE ČESKO,group,[],"[{""url"": ""https://www.c-budejovice.cz"", ""note"": ""c-budejovice.cz per-vote klub column (mode per meeting), klub 'NAŠE ČESKO'""}]"
+ceske-budejovice:org:group:nezarazeni,NEZAŘAZENÍ,group,[],"[{""url"": ""https://www.c-budejovice.cz"", ""note"": ""c-budejovice.cz per-vote klub column (mode per meeting), klub 'NEZAŘAZENÍ'""}]"
+ceske-budejovice:org:group:nezavisli,NEZÁVISLÍ,group,[],"[{""url"": ""https://www.c-budejovice.cz"", ""note"": ""c-budejovice.cz per-vote klub column (mode per meeting), klub 'NEZÁVISLÍ'""}]"
+ceske-budejovice:org:group:ods,ODS,group,[],"[{""url"": ""https://www.c-budejovice.cz"", ""note"": ""c-budejovice.cz per-vote klub column (mode per meeting), klub 'ODS'""}]"
+ceske-budejovice:org:group:pirati,PIRÁTI,group,[],"[{""url"": ""https://www.c-budejovice.cz"", ""note"": ""c-budejovice.cz per-vote klub column (mode per meeting), klub 'PIRÁTI'""}]"
+ceske-budejovice:org:group:spd,SPD,group,[],"[{""url"": ""https://www.c-budejovice.cz"", ""note"": ""c-budejovice.cz per-vote klub column (mode per meeting), klub 'SPD'""}]"
