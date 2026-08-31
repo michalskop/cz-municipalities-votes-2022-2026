@@ -1,0 +1,11 @@
+{
+  "since": "2022-11-21",
+  "until": null,
+  "present_options": ["yes", "no", "abstain"],
+  "absent_options": ["absent", "not voting"],
+  "extras": {
+    "approval_status": "DRAFT — pure vote-option vocabulary + term dates, no political judgment; does not require D7 sign-off the way govity/wpca's government_groups does. Ready to use as-is.",
+    "vocabulary_source": "pardubice/config/sources.yml + standardize.py: the per-row Czech words Pro / Proti / 'Zdržel se'|'Zdržela se' / Nehlasoval|Nehlasovala / Omluven|Omluvena / Nepřítomen|Nepřítomna mapped onto this project's standard yes/no/abstain/'not voting'/absent model (Omluven and Nepřítomen both -> absent).",
+    "since_rationale": "2022-11-21 = the term's first ZmP meeting with roll-call voting data (session 2). The 2022-10-17 constitutive session is published as a bare minutes PDF with no voting protocol, so it contributes no vote events. until=null: the term has not ended as of this file's creation (2026-08-31); the source's last processed meeting is 2026-06-29."
+  }
+}

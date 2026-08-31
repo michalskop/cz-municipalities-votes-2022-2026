@@ -1,0 +1,41 @@
+{
+  "generated_at": "2026-08-31T00:55:48.624669+00:00",
+  "method": "point_biserial_correlation",
+  "n_dims": 3,
+  "n_included_people": 42,
+  "government_groups": [
+    "pardubice:org:group:ano-2011",
+    "pardubice:org:group:zp",
+    "pardubice:org:group:spp"
+  ],
+  "government_members": [],
+  "government_person_count": 22,
+  "opposition_person_count": 20,
+  "correlations": [
+    {
+      "dim_index": 0,
+      "correlation": 0.9252270187928988
+    },
+    {
+      "dim_index": 1,
+      "correlation": 0.1652840722515528
+    },
+    {
+      "dim_index": 2,
+      "correlation": 0.2908030635305332
+    }
+  ],
+  "detected_dim_index": 0,
+  "override_dim_index": null,
+  "overridden": false,
+  "effective_dim_index": 0,
+  "government_mean": 0.6312466625246017,
+  "opposition_mean": -0.6152161403047801,
+  "government_sign": 1,
+  "sources": {
+    "wpca_output": "pardubice/analyses/wpca/outputs/wpca.json",
+    "wpca_definition": "pardubice/analyses/wpca/wpca_definition.json",
+    "govity_definition": "pardubice/analyses/govity/govity_definition.json",
+    "memberships": "pardubice/data/memberships.csv"
+  }
+}

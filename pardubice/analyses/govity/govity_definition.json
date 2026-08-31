@@ -1,0 +1,54 @@
+{
+  "since": "2022-11-21",
+  "until": null,
+  "present_options": ["yes", "no", "abstain"],
+  "absent_options": ["absent", "not voting"],
+  "yes_options": ["yes"],
+  "no_options": ["no"],
+  "government_groups": [
+    "pardubice:org:group:ano-2011",
+    "pardubice:org:group:zp",
+    "pardubice:org:group:spp"
+  ],
+  "government_members": [],
+  "extras": {
+    "approval_status": "APPROVED by project owner 2026-08-31, per plan.md decision D7 — as drafted: government_groups = ANO 2011 + ŽP + SpP for the whole term, and all four klub-canonicalisation open questions accepted as modeled (Piráti->Progresivní Pce rename kept as two adjacent orgs; Hrdina a Piráti-klub member; Dvořáčková a one-person Nezávislá/SPD klub; Trikolora/SPD folded into SPD). The owner noted all four klub calls are opposition-side and do not affect the government axis.",
+    "resolved_questions": [
+      {"question": "government_groups composition", "resolution": "APPROVED 2026-08-31: ANO 2011 + ŽP + SpP, one static interval, whole term."},
+      {"question": "Piráti -> 'Progresivní Pce' rename modeling", "resolution": "APPROVED 2026-08-31: keep as two adjacent klub orgs with a 2026-05-25 boundary."},
+      {"question": "Robert Hrdina klub", "resolution": "APPROVED 2026-08-31: Piráti-klub member throughout (opposition)."},
+      {"question": "Helena Dvořáčková klub", "resolution": "APPROVED 2026-08-31: keep as a one-person 'Nezávislá/SPD' klub (opposition), not folded into SPD."},
+      {"question": "'Trikolora/SPD' / 'SPD/Trikolora' fold", "resolution": "APPROVED 2026-08-31: folded into 'SPD' (opposition)."}
+    ],
+    "government_groups_citation": [
+      {
+        "claim": "After the September 2022 election, ANO 2011 (which won, 12 seats, lídr Jan Nadrchal) formed a three-party governing coalition with Žijeme Pardubice (ŽP, 4 seats) and Společně pro Pardubice (SpP, 4 seats) — 20 of 39 mandates, the narrowest possible majority. Coalition agreement signed 2022-10-14; constitutive session 2022-10-17; Jan Nadrchal (ANO 2011) elected primátor. SPOLU (ODS + TOP 09 + KDU-ČSL) went into opposition, alongside Piráti, NAŠE PARDUBICE and SPD.",
+        "sources": [
+          "https://www.irozhlas.cz/volby/vedeni-mesta-pardubice-hnuti-ano_2210141219_mfk",
+          "https://www.novinky.cz/clanek/domaci-pardubicka-koalice-ma-nejtesnejsi-vetsinu-40411649",
+          "https://pardubicky.denik.cz/zpravy_region/novym-primatorem-pardubic-zastupitele-zvolili-jana-nadrchala-z-ano-20221018.html"
+        ]
+      },
+      {
+        "claim": "The ANO 2011 + ŽP + SpP coalition held for the whole 2022-2026 term — no coalition breakdown or crisis was reported (searched 2026-08-31) — and the same three movements signed a coalition agreement to continue together after the 2026 election.",
+        "sources": [
+          "https://ct24.ceskatelevize.cz/clanek/regiony/pardubice-povede-ano-s-zijeme-pardubice-a-spolecne-pro-pardubice-lidri-podepsali-koalicni-dohodu-14654",
+          "https://pardubicky.denik.cz/komunalni-volby/pro-podzimni-volby-v-pardubicich-uz-je-znama-vetsina-lidru-20260518.html"
+        ]
+      },
+      {
+        "claim": "Cross-check against this repo's own derived data (pardubice/data/memberships.csv from party_affiliation.py): the deputy-mayors named in the news — Jakub Rychtecký (ŽP), René Živný (SpP), Jan Hrabal (ANO 2011), Jiřina Klčová (ANO 2011) — each map to a councillor whose klub interval matches the claimed coalition party for the whole term, and the SpP/ŽP klubs are contiguous from the term's start with no defection out of them.",
+        "sources": [
+          "pardubice/data/memberships.csv (this repo's own derived data)"
+        ]
+      }
+    ],
+    "open_questions_for_owner": [
+      "government_groups = ANO 2011 + ŽP + SpP for the whole term, one static interval (this project's schema supports only one). Confirm.",
+      "Piráti -> 'Progresivní Pce' rename at meeting 38 (2026-05-25): modeled as two adjacent klub orgs. Neither is in government either way, so this does not affect govity — but confirm the modeling for rebelity/wpca. (party_affiliation_report.json Q1)",
+      "Robert Hrdina (sole 'Zelení', labelled 'Zelení'/'Zelení/Piráti' alternately) modeled as a Piráti-klub member throughout (opposition). Confirm. (Q2)",
+      "Helena Dvořáčková kept as a one-person 'Nezávislá/SPD' klub (opposition, independent on the SPD list), distinct from the SPD klub. Confirm or fold into SPD. (Q3)",
+      "'Trikolora/SPD' / 'SPD/Trikolora' folded into 'SPD' (opposition). Confirm. (Q4)"
+    ]
+  }
+}

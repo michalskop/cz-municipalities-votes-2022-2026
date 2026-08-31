@@ -1,0 +1,1015 @@
+[
+  {
+    "person_id": "pardubice:person:adela-zdrahalova",
+    "govity_total": 1465,
+    "govity_possible": 1470,
+    "govity": 0.996599,
+    "name": "Adéla Zdráhalová",
+    "given_names": [
+      "Adéla"
+    ],
+    "family_names": [
+      "Zdráhalová"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:dominik-becka",
+    "govity_total": 995,
+    "govity_possible": 1152,
+    "govity": 0.863715,
+    "name": "Dominik Bečka",
+    "given_names": [
+      "Dominik"
+    ],
+    "family_names": [
+      "Bečka"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:pirati",
+        "classification": "group",
+        "name": "Piráti",
+        "since": "2023-03-20",
+        "until": "2026-05-25"
+      },
+      {
+        "id": "pardubice:org:group:progresivni-pce",
+        "classification": "group",
+        "name": "Progresivní Pce",
+        "since": "2026-05-25"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:dusan-salficky",
+    "govity_total": 1260,
+    "govity_possible": 1266,
+    "govity": 0.995261,
+    "name": "Dušan Salfický",
+    "given_names": [
+      "Dušan"
+    ],
+    "family_names": [
+      "Salfický"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:dusan-stransky",
+    "govity_total": 1171,
+    "govity_possible": 1255,
+    "govity": 0.933068,
+    "name": "Dušan Stránský",
+    "given_names": [
+      "Dušan"
+    ],
+    "family_names": [
+      "Stránský"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:spolu",
+        "classification": "group",
+        "name": "SPOLU",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:filip-sedlak",
+    "govity_total": 1174,
+    "govity_possible": 1508,
+    "govity": 0.778515,
+    "name": "Filip Sedlák",
+    "given_names": [
+      "Filip"
+    ],
+    "family_names": [
+      "Sedlák"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:nase-pardubice",
+        "classification": "group",
+        "name": "NAŠE PARDUBICE",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:filip-stastny",
+    "govity_total": 1445,
+    "govity_possible": 1450,
+    "govity": 0.996552,
+    "name": "Filip Šťastný",
+    "given_names": [
+      "Filip"
+    ],
+    "family_names": [
+      "Šťastný"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:frantisek-brendl",
+    "govity_total": 1217,
+    "govity_possible": 1277,
+    "govity": 0.953015,
+    "name": "František Brendl",
+    "given_names": [
+      "František"
+    ],
+    "family_names": [
+      "Brendl"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:spp",
+        "classification": "group",
+        "name": "SpP",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:frantisek-nemec",
+    "govity_total": 1396,
+    "govity_possible": 1417,
+    "govity": 0.98518,
+    "name": "František Němec",
+    "given_names": [
+      "František"
+    ],
+    "family_names": [
+      "Němec"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:zp",
+        "classification": "group",
+        "name": "ŽP",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:helena-dvorackova",
+    "govity_total": 318,
+    "govity_possible": 338,
+    "govity": 0.940828,
+    "name": "Helena Dvořáčková",
+    "given_names": [
+      "Helena"
+    ],
+    "family_names": [
+      "Dvořáčková"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:nezavisla-spd",
+        "classification": "group",
+        "name": "Nezávislá/SPD",
+        "since": "2023-01-30",
+        "until": "2023-03-20"
+      },
+      {
+        "id": "pardubice:org:group:nezavisla-spd",
+        "classification": "group",
+        "name": "Nezávislá/SPD",
+        "since": "2023-04-24",
+        "until": "2023-12-18"
+      },
+      {
+        "id": "pardubice:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2022-11-21",
+        "until": "2023-01-30"
+      },
+      {
+        "id": "pardubice:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2023-03-20",
+        "until": "2023-04-24"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:ivana-bohmova",
+    "govity_total": 63,
+    "govity_possible": 75,
+    "govity": 0.84,
+    "name": "Ivana Böhmová",
+    "given_names": [
+      "Ivana"
+    ],
+    "family_names": [
+      "Böhmová"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:pirati",
+        "classification": "group",
+        "name": "Piráti",
+        "since": "2022-11-21",
+        "until": "2023-03-20"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:jakub-rychtecky",
+    "govity_total": 1440,
+    "govity_possible": 1456,
+    "govity": 0.989011,
+    "name": "Jakub Rychtecký",
+    "given_names": [
+      "Jakub"
+    ],
+    "family_names": [
+      "Rychtecký"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:zp",
+        "classification": "group",
+        "name": "ŽP",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:jan-hrabal",
+    "govity_total": 1498,
+    "govity_possible": 1510,
+    "govity": 0.992053,
+    "name": "Jan Hrabal",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Hrabal"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:jan-mazuch",
+    "govity_total": 1287,
+    "govity_possible": 1408,
+    "govity": 0.914062,
+    "name": "Jan Mazuch",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Mazuch"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:spolu",
+        "classification": "group",
+        "name": "SPOLU",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:jan-metelka",
+    "govity_total": 1188,
+    "govity_possible": 1388,
+    "govity": 0.855908,
+    "name": "Jan Metelka",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Metelka"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:nase-pardubice",
+        "classification": "group",
+        "name": "NAŠE PARDUBICE",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:jan-nadrchal",
+    "govity_total": 1425,
+    "govity_possible": 1440,
+    "govity": 0.989583,
+    "name": "Jan Nadrchal",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Nadrchal"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:jan-prochazka",
+    "govity_total": 1472,
+    "govity_possible": 1487,
+    "govity": 0.989913,
+    "name": "Jan Procházka",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Procházka"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:jana-hanzlikova",
+    "govity_total": 1380,
+    "govity_possible": 1386,
+    "govity": 0.995671,
+    "name": "Jana Hanzlíková",
+    "given_names": [
+      "Jana"
+    ],
+    "family_names": [
+      "Hanzlíková"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:jiri-lejhanec",
+    "govity_total": 1249,
+    "govity_possible": 1284,
+    "govity": 0.972741,
+    "name": "Jiří Lejhanec",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Lejhanec"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:spp",
+        "classification": "group",
+        "name": "SpP",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:jiri-rejda",
+    "govity_total": 1439,
+    "govity_possible": 1440,
+    "govity": 0.999306,
+    "name": "Jiří Rejda",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Rejda"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:jirina-klcova",
+    "govity_total": 1492,
+    "govity_possible": 1501,
+    "govity": 0.994004,
+    "name": "Jiřina Klčová",
+    "given_names": [
+      "Jiřina"
+    ],
+    "family_names": [
+      "Klčová"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:karel-haas",
+    "govity_total": 1286,
+    "govity_possible": 1486,
+    "govity": 0.86541,
+    "name": "Karel Haas",
+    "given_names": [
+      "Karel"
+    ],
+    "family_names": [
+      "Haas"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:spolu",
+        "classification": "group",
+        "name": "SPOLU",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:leos-janda",
+    "govity_total": 1006,
+    "govity_possible": 1095,
+    "govity": 0.918721,
+    "name": "Leoš Janda",
+    "given_names": [
+      "Leoš"
+    ],
+    "family_names": [
+      "Janda"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2023-12-18"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:lukas-havlena",
+    "govity_total": 1102,
+    "govity_possible": 1262,
+    "govity": 0.873217,
+    "name": "Lukáš Havlena",
+    "given_names": [
+      "Lukáš"
+    ],
+    "family_names": [
+      "Havlena"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:pirati",
+        "classification": "group",
+        "name": "Piráti",
+        "since": "2022-11-21",
+        "until": "2026-05-25"
+      },
+      {
+        "id": "pardubice:org:group:progresivni-pce",
+        "classification": "group",
+        "name": "Progresivní Pce",
+        "since": "2026-05-25"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:maria-luticova",
+    "govity_total": 545,
+    "govity_possible": 550,
+    "govity": 0.990909,
+    "name": "Mária Luticová",
+    "given_names": [
+      "Mária"
+    ],
+    "family_names": [
+      "Luticová"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2024-06-24"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:maria-ministrova",
+    "govity_total": 213,
+    "govity_possible": 214,
+    "govity": 0.995327,
+    "name": "Mária Ministrová",
+    "given_names": [
+      "Mária"
+    ],
+    "family_names": [
+      "Ministrová"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2023-11-27",
+        "until": "2024-06-24"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:martin-charvat",
+    "govity_total": 333,
+    "govity_possible": 334,
+    "govity": 0.997006,
+    "name": "Martin Charvát",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Charvát"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-21",
+        "until": "2023-11-27"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:martin-kolovratnik",
+    "govity_total": 1368,
+    "govity_possible": 1383,
+    "govity": 0.989154,
+    "name": "Martin Kolovratník",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Kolovratník"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:martin-slezak",
+    "govity_total": 1316,
+    "govity_possible": 1521,
+    "govity": 0.86522,
+    "name": "Martin Slezák",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Slezák"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:progresivni-pce",
+        "classification": "group",
+        "name": "Progresivní Pce",
+        "since": "2026-05-25"
+      },
+      {
+        "id": "pardubice:org:group:spolu",
+        "classification": "group",
+        "name": "SPOLU",
+        "since": "2022-11-21",
+        "until": "2026-05-25"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:milan-chaloupecky",
+    "govity_total": 928,
+    "govity_possible": 1003,
+    "govity": 0.925224,
+    "name": "Milan Chaloupecký",
+    "given_names": [
+      "Milan"
+    ],
+    "family_names": [
+      "Chaloupecký"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:ondrej-muller",
+    "govity_total": 1295,
+    "govity_possible": 1450,
+    "govity": 0.893103,
+    "name": "Ondřej Müller",
+    "given_names": [
+      "Ondřej"
+    ],
+    "family_names": [
+      "Müller"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:progresivni-pce",
+        "classification": "group",
+        "name": "Progresivní Pce",
+        "since": "2026-05-25"
+      },
+      {
+        "id": "pardubice:org:group:spolu",
+        "classification": "group",
+        "name": "SPOLU",
+        "since": "2022-11-21",
+        "until": "2026-05-25"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:otakar-janecky",
+    "govity_total": 1258,
+    "govity_possible": 1288,
+    "govity": 0.976708,
+    "name": "Otakar Janecký",
+    "given_names": [
+      "Otakar"
+    ],
+    "family_names": [
+      "Janecký"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:zp",
+        "classification": "group",
+        "name": "ŽP",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:petr-klimpl",
+    "govity_total": 1335,
+    "govity_possible": 1468,
+    "govity": 0.909401,
+    "name": "Petr Klimpl",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Klimpl"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:spolu",
+        "classification": "group",
+        "name": "SPOLU",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:petr-kvas",
+    "govity_total": 1242,
+    "govity_possible": 1339,
+    "govity": 0.927558,
+    "name": "Petr Kvaš",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Kvaš"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:spolu",
+        "classification": "group",
+        "name": "SPOLU",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:radek-hejny",
+    "govity_total": 1393,
+    "govity_possible": 1404,
+    "govity": 0.992165,
+    "name": "Radek Hejný",
+    "given_names": [
+      "Radek"
+    ],
+    "family_names": [
+      "Hejný"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:rene-zivny",
+    "govity_total": 1439,
+    "govity_possible": 1448,
+    "govity": 0.993785,
+    "name": "René Živný",
+    "given_names": [
+      "René"
+    ],
+    "family_names": [
+      "Živný"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:spp",
+        "classification": "group",
+        "name": "SpP",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:robert-hrdina",
+    "govity_total": 1177,
+    "govity_possible": 1356,
+    "govity": 0.867994,
+    "name": "Robert Hrdina",
+    "given_names": [
+      "Robert"
+    ],
+    "family_names": [
+      "Hrdina"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:pirati",
+        "classification": "group",
+        "name": "Piráti",
+        "since": "2022-11-21",
+        "until": "2026-05-25"
+      },
+      {
+        "id": "pardubice:org:group:progresivni-pce",
+        "classification": "group",
+        "name": "Progresivní Pce",
+        "since": "2026-05-25"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:simona-machacova",
+    "govity_total": 682,
+    "govity_possible": 804,
+    "govity": 0.848259,
+    "name": "Simona Machačová",
+    "given_names": [
+      "Simona"
+    ],
+    "family_names": [
+      "Machačová"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:nase-pardubice",
+        "classification": "group",
+        "name": "NAŠE PARDUBICE",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:stepanka-frankova",
+    "govity_total": 976,
+    "govity_possible": 992,
+    "govity": 0.983871,
+    "name": "Štěpánka Fraňková",
+    "given_names": [
+      "Štěpánka"
+    ],
+    "family_names": [
+      "Fraňková"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:zp",
+        "classification": "group",
+        "name": "ŽP",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:tomas-pelikan",
+    "govity_total": 1239,
+    "govity_possible": 1246,
+    "govity": 0.994382,
+    "name": "Tomáš Pelikán",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Pelikán"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:spp",
+        "classification": "group",
+        "name": "SpP",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:vit-ulrych",
+    "govity_total": 1263,
+    "govity_possible": 1416,
+    "govity": 0.891949,
+    "name": "Vít Ulrych",
+    "given_names": [
+      "Vít"
+    ],
+    "family_names": [
+      "Ulrych"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:spolu",
+        "classification": "group",
+        "name": "SPOLU",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:vitezslav-novohradsky",
+    "govity_total": 736,
+    "govity_possible": 787,
+    "govity": 0.935197,
+    "name": "Vítězslav Novohradský",
+    "given_names": [
+      "Vítězslav"
+    ],
+    "family_names": [
+      "Novohradský"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:vitezslav-stepanek",
+    "govity_total": 942,
+    "govity_possible": 986,
+    "govity": 0.955375,
+    "name": "Vítězslav Štěpánek",
+    "given_names": [
+      "Vítězslav"
+    ],
+    "family_names": [
+      "Štěpánek"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:spolu",
+        "classification": "group",
+        "name": "SPOLU",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:vojtech-jirsa",
+    "govity_total": 1218,
+    "govity_possible": 1373,
+    "govity": 0.887109,
+    "name": "Vojtěch Jirsa",
+    "given_names": [
+      "Vojtěch"
+    ],
+    "family_names": [
+      "Jirsa"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:pirati",
+        "classification": "group",
+        "name": "Piráti",
+        "since": "2022-11-21",
+        "until": "2026-05-25"
+      },
+      {
+        "id": "pardubice:org:group:progresivni-pce",
+        "classification": "group",
+        "name": "Progresivní Pce",
+        "since": "2026-05-25"
+      }
+    ],
+    "since": "2022-11-21"
+  }
+]

@@ -1,0 +1,1015 @@
+[
+  {
+    "person_id": "pardubice:person:adela-zdrahalova",
+    "rebelity_total": 6,
+    "rebelity_possible": 1534,
+    "rebelity": 0.003911,
+    "name": "Adéla Zdráhalová",
+    "given_names": [
+      "Adéla"
+    ],
+    "family_names": [
+      "Zdráhalová"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:dominik-becka",
+    "rebelity_total": 18,
+    "rebelity_possible": 1407,
+    "rebelity": 0.012793,
+    "name": "Dominik Bečka",
+    "given_names": [
+      "Dominik"
+    ],
+    "family_names": [
+      "Bečka"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:pirati",
+        "classification": "group",
+        "name": "Piráti",
+        "since": "2023-03-20",
+        "until": "2026-05-25"
+      },
+      {
+        "id": "pardubice:org:group:progresivni-pce",
+        "classification": "group",
+        "name": "Progresivní Pce",
+        "since": "2026-05-25"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:dusan-salficky",
+    "rebelity_total": 5,
+    "rebelity_possible": 1534,
+    "rebelity": 0.003259,
+    "name": "Dušan Salfický",
+    "given_names": [
+      "Dušan"
+    ],
+    "family_names": [
+      "Salfický"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:dusan-stransky",
+    "rebelity_total": 25,
+    "rebelity_possible": 1520,
+    "rebelity": 0.016447,
+    "name": "Dušan Stránský",
+    "given_names": [
+      "Dušan"
+    ],
+    "family_names": [
+      "Stránský"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:spolu",
+        "classification": "group",
+        "name": "SPOLU",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:filip-sedlak",
+    "rebelity_total": 18,
+    "rebelity_possible": 1487,
+    "rebelity": 0.012105,
+    "name": "Filip Sedlák",
+    "given_names": [
+      "Filip"
+    ],
+    "family_names": [
+      "Sedlák"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:nase-pardubice",
+        "classification": "group",
+        "name": "NAŠE PARDUBICE",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:filip-stastny",
+    "rebelity_total": 5,
+    "rebelity_possible": 1534,
+    "rebelity": 0.003259,
+    "name": "Filip Šťastný",
+    "given_names": [
+      "Filip"
+    ],
+    "family_names": [
+      "Šťastný"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:frantisek-brendl",
+    "rebelity_total": 20,
+    "rebelity_possible": 1490,
+    "rebelity": 0.013423,
+    "name": "František Brendl",
+    "given_names": [
+      "František"
+    ],
+    "family_names": [
+      "Brendl"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:spp",
+        "classification": "group",
+        "name": "SpP",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:frantisek-nemec",
+    "rebelity_total": 1,
+    "rebelity_possible": 1480,
+    "rebelity": 0.000676,
+    "name": "František Němec",
+    "given_names": [
+      "František"
+    ],
+    "family_names": [
+      "Němec"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:zp",
+        "classification": "group",
+        "name": "ŽP",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:helena-dvorackova",
+    "rebelity_total": 0,
+    "rebelity_possible": 338,
+    "rebelity": 0.0,
+    "name": "Helena Dvořáčková",
+    "given_names": [
+      "Helena"
+    ],
+    "family_names": [
+      "Dvořáčková"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:nezavisla-spd",
+        "classification": "group",
+        "name": "Nezávislá/SPD",
+        "since": "2023-01-30",
+        "until": "2023-03-20"
+      },
+      {
+        "id": "pardubice:org:group:nezavisla-spd",
+        "classification": "group",
+        "name": "Nezávislá/SPD",
+        "since": "2023-04-24",
+        "until": "2023-12-18"
+      },
+      {
+        "id": "pardubice:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2022-11-21",
+        "until": "2023-01-30"
+      },
+      {
+        "id": "pardubice:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2023-03-20",
+        "until": "2023-04-24"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:ivana-bohmova",
+    "rebelity_total": 2,
+    "rebelity_possible": 133,
+    "rebelity": 0.015038,
+    "name": "Ivana Böhmová",
+    "given_names": [
+      "Ivana"
+    ],
+    "family_names": [
+      "Böhmová"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:pirati",
+        "classification": "group",
+        "name": "Piráti",
+        "since": "2022-11-21",
+        "until": "2023-03-20"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:jakub-rychtecky",
+    "rebelity_total": 10,
+    "rebelity_possible": 1480,
+    "rebelity": 0.006757,
+    "name": "Jakub Rychtecký",
+    "given_names": [
+      "Jakub"
+    ],
+    "family_names": [
+      "Rychtecký"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:zp",
+        "classification": "group",
+        "name": "ŽP",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:jan-hrabal",
+    "rebelity_total": 9,
+    "rebelity_possible": 1534,
+    "rebelity": 0.005867,
+    "name": "Jan Hrabal",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Hrabal"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:jan-mazuch",
+    "rebelity_total": 45,
+    "rebelity_possible": 1520,
+    "rebelity": 0.029605,
+    "name": "Jan Mazuch",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Mazuch"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:spolu",
+        "classification": "group",
+        "name": "SPOLU",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:jan-metelka",
+    "rebelity_total": 22,
+    "rebelity_possible": 1487,
+    "rebelity": 0.014795,
+    "name": "Jan Metelka",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Metelka"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:nase-pardubice",
+        "classification": "group",
+        "name": "NAŠE PARDUBICE",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:jan-nadrchal",
+    "rebelity_total": 20,
+    "rebelity_possible": 1534,
+    "rebelity": 0.013038,
+    "name": "Jan Nadrchal",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Nadrchal"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:jan-prochazka",
+    "rebelity_total": 13,
+    "rebelity_possible": 1534,
+    "rebelity": 0.008475,
+    "name": "Jan Procházka",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Procházka"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:jana-hanzlikova",
+    "rebelity_total": 7,
+    "rebelity_possible": 1534,
+    "rebelity": 0.004563,
+    "name": "Jana Hanzlíková",
+    "given_names": [
+      "Jana"
+    ],
+    "family_names": [
+      "Hanzlíková"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:jiri-lejhanec",
+    "rebelity_total": 3,
+    "rebelity_possible": 1490,
+    "rebelity": 0.002013,
+    "name": "Jiří Lejhanec",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Lejhanec"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:spp",
+        "classification": "group",
+        "name": "SpP",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:jiri-rejda",
+    "rebelity_total": 2,
+    "rebelity_possible": 1534,
+    "rebelity": 0.001304,
+    "name": "Jiří Rejda",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Rejda"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:jirina-klcova",
+    "rebelity_total": 7,
+    "rebelity_possible": 1534,
+    "rebelity": 0.004563,
+    "name": "Jiřina Klčová",
+    "given_names": [
+      "Jiřina"
+    ],
+    "family_names": [
+      "Klčová"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:karel-haas",
+    "rebelity_total": 40,
+    "rebelity_possible": 1520,
+    "rebelity": 0.026316,
+    "name": "Karel Haas",
+    "given_names": [
+      "Karel"
+    ],
+    "family_names": [
+      "Haas"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:spolu",
+        "classification": "group",
+        "name": "SPOLU",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:leos-janda",
+    "rebelity_total": 12,
+    "rebelity_possible": 1099,
+    "rebelity": 0.010919,
+    "name": "Leoš Janda",
+    "given_names": [
+      "Leoš"
+    ],
+    "family_names": [
+      "Janda"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2023-12-18"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:lukas-havlena",
+    "rebelity_total": 1,
+    "rebelity_possible": 1507,
+    "rebelity": 0.000664,
+    "name": "Lukáš Havlena",
+    "given_names": [
+      "Lukáš"
+    ],
+    "family_names": [
+      "Havlena"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:pirati",
+        "classification": "group",
+        "name": "Piráti",
+        "since": "2022-11-21",
+        "until": "2026-05-25"
+      },
+      {
+        "id": "pardubice:org:group:progresivni-pce",
+        "classification": "group",
+        "name": "Progresivní Pce",
+        "since": "2026-05-25"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:maria-luticova",
+    "rebelity_total": 4,
+    "rebelity_possible": 890,
+    "rebelity": 0.004494,
+    "name": "Mária Luticová",
+    "given_names": [
+      "Mária"
+    ],
+    "family_names": [
+      "Luticová"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2024-06-24"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:maria-ministrova",
+    "rebelity_total": 1,
+    "rebelity_possible": 336,
+    "rebelity": 0.002976,
+    "name": "Mária Ministrová",
+    "given_names": [
+      "Mária"
+    ],
+    "family_names": [
+      "Ministrová"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2023-11-27",
+        "until": "2024-06-24"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:martin-charvat",
+    "rebelity_total": 2,
+    "rebelity_possible": 397,
+    "rebelity": 0.005038,
+    "name": "Martin Charvát",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Charvát"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-21",
+        "until": "2023-11-27"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:martin-kolovratnik",
+    "rebelity_total": 14,
+    "rebelity_possible": 1534,
+    "rebelity": 0.009126,
+    "name": "Martin Kolovratník",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Kolovratník"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:martin-slezak",
+    "rebelity_total": 83,
+    "rebelity_possible": 1517,
+    "rebelity": 0.054713,
+    "name": "Martin Slezák",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Slezák"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:progresivni-pce",
+        "classification": "group",
+        "name": "Progresivní Pce",
+        "since": "2026-05-25"
+      },
+      {
+        "id": "pardubice:org:group:spolu",
+        "classification": "group",
+        "name": "SPOLU",
+        "since": "2022-11-21",
+        "until": "2026-05-25"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:milan-chaloupecky",
+    "rebelity_total": 3,
+    "rebelity_possible": 1439,
+    "rebelity": 0.002085,
+    "name": "Milan Chaloupecký",
+    "given_names": [
+      "Milan"
+    ],
+    "family_names": [
+      "Chaloupecký"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:ondrej-muller",
+    "rebelity_total": 43,
+    "rebelity_possible": 1517,
+    "rebelity": 0.028345,
+    "name": "Ondřej Müller",
+    "given_names": [
+      "Ondřej"
+    ],
+    "family_names": [
+      "Müller"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:progresivni-pce",
+        "classification": "group",
+        "name": "Progresivní Pce",
+        "since": "2026-05-25"
+      },
+      {
+        "id": "pardubice:org:group:spolu",
+        "classification": "group",
+        "name": "SPOLU",
+        "since": "2022-11-21",
+        "until": "2026-05-25"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:otakar-janecky",
+    "rebelity_total": 10,
+    "rebelity_possible": 1480,
+    "rebelity": 0.006757,
+    "name": "Otakar Janecký",
+    "given_names": [
+      "Otakar"
+    ],
+    "family_names": [
+      "Janecký"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:zp",
+        "classification": "group",
+        "name": "ŽP",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:petr-klimpl",
+    "rebelity_total": 24,
+    "rebelity_possible": 1520,
+    "rebelity": 0.015789,
+    "name": "Petr Klimpl",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Klimpl"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:spolu",
+        "classification": "group",
+        "name": "SPOLU",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:petr-kvas",
+    "rebelity_total": 31,
+    "rebelity_possible": 1520,
+    "rebelity": 0.020395,
+    "name": "Petr Kvaš",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Kvaš"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:spolu",
+        "classification": "group",
+        "name": "SPOLU",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:radek-hejny",
+    "rebelity_total": 13,
+    "rebelity_possible": 1534,
+    "rebelity": 0.008475,
+    "name": "Radek Hejný",
+    "given_names": [
+      "Radek"
+    ],
+    "family_names": [
+      "Hejný"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:rene-zivny",
+    "rebelity_total": 10,
+    "rebelity_possible": 1490,
+    "rebelity": 0.006711,
+    "name": "René Živný",
+    "given_names": [
+      "René"
+    ],
+    "family_names": [
+      "Živný"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:spp",
+        "classification": "group",
+        "name": "SpP",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:robert-hrdina",
+    "rebelity_total": 17,
+    "rebelity_possible": 1507,
+    "rebelity": 0.011281,
+    "name": "Robert Hrdina",
+    "given_names": [
+      "Robert"
+    ],
+    "family_names": [
+      "Hrdina"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:pirati",
+        "classification": "group",
+        "name": "Piráti",
+        "since": "2022-11-21",
+        "until": "2026-05-25"
+      },
+      {
+        "id": "pardubice:org:group:progresivni-pce",
+        "classification": "group",
+        "name": "Progresivní Pce",
+        "since": "2026-05-25"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:simona-machacova",
+    "rebelity_total": 3,
+    "rebelity_possible": 1487,
+    "rebelity": 0.002017,
+    "name": "Simona Machačová",
+    "given_names": [
+      "Simona"
+    ],
+    "family_names": [
+      "Machačová"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:nase-pardubice",
+        "classification": "group",
+        "name": "NAŠE PARDUBICE",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:stepanka-frankova",
+    "rebelity_total": 2,
+    "rebelity_possible": 1480,
+    "rebelity": 0.001351,
+    "name": "Štěpánka Fraňková",
+    "given_names": [
+      "Štěpánka"
+    ],
+    "family_names": [
+      "Fraňková"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:zp",
+        "classification": "group",
+        "name": "ŽP",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:tomas-pelikan",
+    "rebelity_total": 1,
+    "rebelity_possible": 1490,
+    "rebelity": 0.000671,
+    "name": "Tomáš Pelikán",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Pelikán"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:spp",
+        "classification": "group",
+        "name": "SpP",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:vit-ulrych",
+    "rebelity_total": 63,
+    "rebelity_possible": 1520,
+    "rebelity": 0.041447,
+    "name": "Vít Ulrych",
+    "given_names": [
+      "Vít"
+    ],
+    "family_names": [
+      "Ulrych"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:spolu",
+        "classification": "group",
+        "name": "SPOLU",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:vitezslav-novohradsky",
+    "rebelity_total": 2,
+    "rebelity_possible": 1439,
+    "rebelity": 0.00139,
+    "name": "Vítězslav Novohradský",
+    "given_names": [
+      "Vítězslav"
+    ],
+    "family_names": [
+      "Novohradský"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:vitezslav-stepanek",
+    "rebelity_total": 46,
+    "rebelity_possible": 1520,
+    "rebelity": 0.030263,
+    "name": "Vítězslav Štěpánek",
+    "given_names": [
+      "Vítězslav"
+    ],
+    "family_names": [
+      "Štěpánek"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:spolu",
+        "classification": "group",
+        "name": "SPOLU",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:vojtech-jirsa",
+    "rebelity_total": 28,
+    "rebelity_possible": 1507,
+    "rebelity": 0.01858,
+    "name": "Vojtěch Jirsa",
+    "given_names": [
+      "Vojtěch"
+    ],
+    "family_names": [
+      "Jirsa"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:pirati",
+        "classification": "group",
+        "name": "Piráti",
+        "since": "2022-11-21",
+        "until": "2026-05-25"
+      },
+      {
+        "id": "pardubice:org:group:progresivni-pce",
+        "classification": "group",
+        "name": "Progresivní Pce",
+        "since": "2026-05-25"
+      }
+    ],
+    "since": "2022-11-21"
+  }
+]

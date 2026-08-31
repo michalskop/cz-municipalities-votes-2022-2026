@@ -1,0 +1,14 @@
+{
+  "since": "2022-11-21",
+  "until": null,
+  "present_options": ["yes", "no", "abstain"],
+  "absent_options": ["absent", "not voting"],
+  "yes_options": ["yes"],
+  "no_options": ["no"],
+  "extras": {
+    "approval_status": "DRAFT — measures alignment with each person's own REAL klub (pardubice:org:group:* rows from pardubice/scripts/party_affiliation.py, derived from the per-vote klub column, canonicalized, mode-per-meeting + contiguous-run intervals). Independent of which klubs form the government, so it does not need the same D7 sign-off as govity/wpca — ready to use as-is.",
+    "vocabulary_source": "Same vocabulary mapping as attendance_definition.json.",
+    "note": "Needs each person's klub membership at each vote-event date, from data/memberships.csv's pardubice:org:group:* rows via the all-members-shaped persons file the runner builds.",
+    "known_data_quality_notes": "9 klubs after canonicalization (ANO 2011, NAŠE PARDUBICE, Nezávislá/SPD, Piráti, Progresivní Pce, SPD, SPOLU, SpP, ŽP). Piráti is renamed 'Progresivní Pce' from meeting 38 (2026-05-25) and modeled as two adjacent klub orgs; Slezák + Müller move SPOLU -> Progresivní Pce at the same meeting. Helena Dvořáčková alternates 'SPD' / 'Nezávislá/SPD' meeting to meeting in 2022-2023 (an independent on the SPD list) -> a few short intervals. See work/reports/party_affiliation_report.json's open_questions_for_owner."
+  }
+}

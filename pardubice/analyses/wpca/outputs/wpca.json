@@ -1,0 +1,1531 @@
+[
+  {
+    "person_id": "pardubice:person:adela-zdrahalova",
+    "dims": [
+      0.6848708300495708,
+      0.051654247336367025,
+      0.009351756871634136
+    ],
+    "weight": 0.9372501303667652,
+    "included": true,
+    "name": "Adéla Zdráhalová",
+    "given_names": [
+      "Adéla"
+    ],
+    "family_names": [
+      "Zdráhalová"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:zastupitelstvo-mesta-pardubic",
+        "name": "Zastupitelstvo města Pardubic",
+        "classification": "parliament",
+        "since": "2022-11-21",
+        "until": null
+      },
+      {
+        "id": "pardubice:org:group:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-11-21",
+        "until": null
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:dominik-becka",
+    "dims": [
+      -0.8174781388097084,
+      -0.5220395589311705,
+      0.4672995490263297
+    ],
+    "weight": 0.7709021380149487,
+    "included": true,
+    "name": "Dominik Bečka",
+    "given_names": [
+      "Dominik"
+    ],
+    "family_names": [
+      "Bečka"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:zastupitelstvo-mesta-pardubic",
+        "name": "Zastupitelstvo města Pardubic",
+        "classification": "parliament",
+        "since": "2023-03-20",
+        "until": null
+      },
+      {
+        "id": "pardubice:org:group:pirati",
+        "name": "Piráti",
+        "classification": "groups",
+        "since": "2023-03-20",
+        "until": "2026-05-25"
+      },
+      {
+        "id": "pardubice:org:group:progresivni-pce",
+        "name": "Progresivní Pce",
+        "classification": "groups",
+        "since": "2026-05-25",
+        "until": null
+      }
+    ],
+    "since": "2023-03-20"
+  },
+  {
+    "person_id": "pardubice:person:dusan-salficky",
+    "dims": [
+      0.6871508934837564,
+      0.07002545457082576,
+      0.026303087071488457
+    ],
+    "weight": 0.8383452111941596,
+    "included": true,
+    "name": "Dušan Salfický",
+    "given_names": [
+      "Dušan"
+    ],
+    "family_names": [
+      "Salfický"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:zastupitelstvo-mesta-pardubic",
+        "name": "Zastupitelstvo města Pardubic",
+        "classification": "parliament",
+        "since": "2022-11-21",
+        "until": null
+      },
+      {
+        "id": "pardubice:org:group:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-11-21",
+        "until": null
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:dusan-stransky",
+    "dims": [
+      -0.6042435061985303,
+      0.6473566700737056,
+      -0.2312527622630133
+    ],
+    "weight": 0.8145315487571702,
+    "included": true,
+    "name": "Dušan Stránský",
+    "given_names": [
+      "Dušan"
+    ],
+    "family_names": [
+      "Stránský"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:zastupitelstvo-mesta-pardubic",
+        "name": "Zastupitelstvo města Pardubic",
+        "classification": "parliament",
+        "since": "2022-11-21",
+        "until": null
+      },
+      {
+        "id": "pardubice:org:group:spolu",
+        "name": "SPOLU",
+        "classification": "groups",
+        "since": "2022-11-21",
+        "until": null
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:filip-sedlak",
+    "dims": [
+      -1.0039126181612361,
+      -0.3738049010691593,
+      0.0910080951294937
+    ],
+    "weight": 0.9855727446549626,
+    "included": true,
+    "name": "Filip Sedlák",
+    "given_names": [
+      "Filip"
+    ],
+    "family_names": [
+      "Sedlák"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:zastupitelstvo-mesta-pardubic",
+        "name": "Zastupitelstvo města Pardubic",
+        "classification": "parliament",
+        "since": "2022-11-21",
+        "until": null
+      },
+      {
+        "id": "pardubice:org:group:nase-pardubice",
+        "name": "NAŠE PARDUBICE",
+        "classification": "groups",
+        "since": "2022-11-21",
+        "until": null
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:filip-stastny",
+    "dims": [
+      0.6720038896592947,
+      0.06552679043793927,
+      0.07544988641321758
+    ],
+    "weight": 0.9405527550843036,
+    "included": true,
+    "name": "Filip Šťastný",
+    "given_names": [
+      "Filip"
+    ],
+    "family_names": [
+      "Šťastný"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:zastupitelstvo-mesta-pardubic",
+        "name": "Zastupitelstvo města Pardubic",
+        "classification": "parliament",
+        "since": "2022-11-21",
+        "until": null
+      },
+      {
+        "id": "pardubice:org:group:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-11-21",
+        "until": null
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:frantisek-brendl",
+    "dims": [
+      0.3286392341439919,
+      -0.06248579627438832,
+      0.09642303701510381
+    ],
+    "weight": 0.7976707804623675,
+    "included": true,
+    "name": "František Brendl",
+    "given_names": [
+      "František"
+    ],
+    "family_names": [
+      "Brendl"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:zastupitelstvo-mesta-pardubic",
+        "name": "Zastupitelstvo města Pardubic",
+        "classification": "parliament",
+        "since": "2022-11-21",
+        "until": null
+      },
+      {
+        "id": "pardubice:org:group:spp",
+        "name": "SpP",
+        "classification": "groups",
+        "since": "2022-11-21",
+        "until": null
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:frantisek-nemec",
+    "dims": [
+      0.615618756807708,
+      -0.038002450107280636,
+      0.13030423392608553
+    ],
+    "weight": 0.8847557795932555,
+    "included": true,
+    "name": "František Němec",
+    "given_names": [
+      "František"
+    ],
+    "family_names": [
+      "Němec"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:zastupitelstvo-mesta-pardubic",
+        "name": "Zastupitelstvo města Pardubic",
+        "classification": "parliament",
+        "since": "2022-11-21",
+        "until": null
+      },
+      {
+        "id": "pardubice:org:group:zp",
+        "name": "ŽP",
+        "classification": "groups",
+        "since": "2022-11-21",
+        "until": null
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:helena-dvorackova",
+    "dims": [
+      0.3468143024592966,
+      -0.621888602340859,
+      -0.47277889498048425
+    ],
+    "weight": 0.24404658439075264,
+    "included": true,
+    "name": "Helena Dvořáčková",
+    "given_names": [
+      "Helena"
+    ],
+    "family_names": [
+      "Dvořáčková"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:zastupitelstvo-mesta-pardubic",
+        "name": "Zastupitelstvo města Pardubic",
+        "classification": "parliament",
+        "since": "2022-11-21",
+        "until": "2023-11-27"
+      },
+      {
+        "id": "pardubice:org:group:nezavisla-spd",
+        "name": "Nezávislá/SPD",
+        "classification": "groups",
+        "since": "2023-01-30",
+        "until": "2023-03-20"
+      },
+      {
+        "id": "pardubice:org:group:nezavisla-spd",
+        "name": "Nezávislá/SPD",
+        "classification": "groups",
+        "since": "2023-04-24",
+        "until": "2023-12-18"
+      },
+      {
+        "id": "pardubice:org:group:spd",
+        "name": "SPD",
+        "classification": "groups",
+        "since": "2022-11-21",
+        "until": "2023-01-30"
+      },
+      {
+        "id": "pardubice:org:group:spd",
+        "name": "SPD",
+        "classification": "groups",
+        "since": "2023-03-20",
+        "until": "2023-04-24"
+      }
+    ],
+    "since": "2022-11-21",
+    "until": "2023-11-27"
+  },
+  {
+    "person_id": "pardubice:person:ivana-bohmova",
+    "dims": [
+      -0.9889824913959709,
+      0.4541661543109367,
+      0.20768339336547656
+    ],
+    "weight": 0.07248392143229619,
+    "included": false,
+    "name": "Ivana Böhmová",
+    "given_names": [
+      "Ivana"
+    ],
+    "family_names": [
+      "Böhmová"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:zastupitelstvo-mesta-pardubic",
+        "name": "Zastupitelstvo města Pardubic",
+        "classification": "parliament",
+        "since": "2022-11-21",
+        "until": "2023-01-30"
+      },
+      {
+        "id": "pardubice:org:group:pirati",
+        "name": "Piráti",
+        "classification": "groups",
+        "since": "2022-11-21",
+        "until": "2023-03-20"
+      }
+    ],
+    "since": "2022-11-21",
+    "until": "2023-01-30"
+  },
+  {
+    "person_id": "pardubice:person:jakub-rychtecky",
+    "dims": [
+      0.6248722676201685,
+      0.026305151567687868,
+      0.11203618520674245
+    ],
+    "weight": 0.907526507908917,
+    "included": true,
+    "name": "Jakub Rychtecký",
+    "given_names": [
+      "Jakub"
+    ],
+    "family_names": [
+      "Rychtecký"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:zastupitelstvo-mesta-pardubic",
+        "name": "Zastupitelstvo města Pardubic",
+        "classification": "parliament",
+        "since": "2022-11-21",
+        "until": null
+      },
+      {
+        "id": "pardubice:org:group:zp",
+        "name": "ŽP",
+        "classification": "groups",
+        "since": "2022-11-21",
+        "until": null
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:jan-hrabal",
+    "dims": [
+      0.6639633282301465,
+      0.1101575900536438,
+      0.05010830741166647
+    ],
+    "weight": 0.9706240222492611,
+    "included": true,
+    "name": "Jan Hrabal",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Hrabal"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:zastupitelstvo-mesta-pardubic",
+        "name": "Zastupitelstvo města Pardubic",
+        "classification": "parliament",
+        "since": "2022-11-21",
+        "until": null
+      },
+      {
+        "id": "pardubice:org:group:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-11-21",
+        "until": null
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:jan-mazuch",
+    "dims": [
+      -0.5021106923599489,
+      0.6042385715458601,
+      -0.31167272795228385
+    ],
+    "weight": 0.9141317573439945,
+    "included": true,
+    "name": "Jan Mazuch",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Mazuch"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:zastupitelstvo-mesta-pardubic",
+        "name": "Zastupitelstvo města Pardubic",
+        "classification": "parliament",
+        "since": "2022-11-21",
+        "until": null
+      },
+      {
+        "id": "pardubice:org:group:spolu",
+        "name": "SPOLU",
+        "classification": "groups",
+        "since": "2022-11-21",
+        "until": null
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:jan-metelka",
+    "dims": [
+      -0.9012953347561494,
+      -0.3413280942890603,
+      0.09952425818823307
+    ],
+    "weight": 0.9329045715278984,
+    "included": true,
+    "name": "Jan Metelka",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Metelka"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:zastupitelstvo-mesta-pardubic",
+        "name": "Zastupitelstvo města Pardubic",
+        "classification": "parliament",
+        "since": "2022-11-21",
+        "until": null
+      },
+      {
+        "id": "pardubice:org:group:nase-pardubice",
+        "name": "NAŠE PARDUBICE",
+        "classification": "groups",
+        "since": "2022-11-21",
+        "until": null
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:jan-nadrchal",
+    "dims": [
+      0.6660764858699717,
+      0.02458863785159098,
+      0.05145182220965466
+    ],
+    "weight": 0.9262993220928211,
+    "included": true,
+    "name": "Jan Nadrchal",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Nadrchal"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:zastupitelstvo-mesta-pardubic",
+        "name": "Zastupitelstvo města Pardubic",
+        "classification": "parliament",
+        "since": "2022-11-21",
+        "until": null
+      },
+      {
+        "id": "pardubice:org:group:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-11-21",
+        "until": null
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:jan-prochazka",
+    "dims": [
+      0.6573489533598432,
+      0.016979402953855936,
+      0.03953560189018276
+    ],
+    "weight": 0.9659308187032852,
+    "included": true,
+    "name": "Jan Procházka",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Procházka"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:zastupitelstvo-mesta-pardubic",
+        "name": "Zastupitelstvo města Pardubic",
+        "classification": "parliament",
+        "since": "2022-11-21",
+        "until": null
+      },
+      {
+        "id": "pardubice:org:group:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-11-21",
+        "until": null
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:jana-hanzlikova",
+    "dims": [
+      0.6935937168937143,
+      -0.0037958520022023995,
+      0.08904462835218432
+    ],
+    "weight": 0.8800625760472796,
+    "included": true,
+    "name": "Jana Hanzlíková",
+    "given_names": [
+      "Jana"
+    ],
+    "family_names": [
+      "Hanzlíková"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:zastupitelstvo-mesta-pardubic",
+        "name": "Zastupitelstvo města Pardubic",
+        "classification": "parliament",
+        "since": "2022-11-21",
+        "until": null
+      },
+      {
+        "id": "pardubice:org:group:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-11-21",
+        "until": null
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:jiri-lejhanec",
+    "dims": [
+      0.4989811595988158,
+      -0.03921016760697133,
+      0.06436002535252103
+    ],
+    "weight": 0.7919346427950633,
+    "included": true,
+    "name": "Jiří Lejhanec",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Lejhanec"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:zastupitelstvo-mesta-pardubic",
+        "name": "Zastupitelstvo města Pardubic",
+        "classification": "parliament",
+        "since": "2022-11-21",
+        "until": null
+      },
+      {
+        "id": "pardubice:org:group:spp",
+        "name": "SpP",
+        "classification": "groups",
+        "since": "2022-11-21",
+        "until": null
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:jiri-rejda",
+    "dims": [
+      0.7088749330829562,
+      0.10296655901974637,
+      0.042106194884733925
+    ],
+    "weight": 0.9066573961411437,
+    "included": true,
+    "name": "Jiří Rejda",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Rejda"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:zastupitelstvo-mesta-pardubic",
+        "name": "Zastupitelstvo města Pardubic",
+        "classification": "parliament",
+        "since": "2022-11-21",
+        "until": null
+      },
+      {
+        "id": "pardubice:org:group:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-11-21",
+        "until": null
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:jirina-klcova",
+    "dims": [
+      0.667945973326373,
+      0.06315853639018655,
+      0.03985827320239032
+    ],
+    "weight": 0.9610637928037545,
+    "included": true,
+    "name": "Jiřina Klčová",
+    "given_names": [
+      "Jiřina"
+    ],
+    "family_names": [
+      "Klčová"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:zastupitelstvo-mesta-pardubic",
+        "name": "Zastupitelstvo města Pardubic",
+        "classification": "parliament",
+        "since": "2022-11-21",
+        "until": null
+      },
+      {
+        "id": "pardubice:org:group:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-11-21",
+        "until": null
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:karel-haas",
+    "dims": [
+      -0.8201738309203769,
+      0.46330465158344086,
+      -0.2859389409242968
+    ],
+    "weight": 0.9706240222492611,
+    "included": true,
+    "name": "Karel Haas",
+    "given_names": [
+      "Karel"
+    ],
+    "family_names": [
+      "Haas"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:zastupitelstvo-mesta-pardubic",
+        "name": "Zastupitelstvo města Pardubic",
+        "classification": "parliament",
+        "since": "2022-11-21",
+        "until": null
+      },
+      {
+        "id": "pardubice:org:group:spolu",
+        "name": "SPOLU",
+        "classification": "groups",
+        "since": "2022-11-21",
+        "until": null
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:leos-janda",
+    "dims": [
+      -0.2724892978699399,
+      -0.4511514613540049,
+      -0.5521208530153477
+    ],
+    "weight": 0.6871197636015991,
+    "included": true,
+    "name": "Leoš Janda",
+    "given_names": [
+      "Leoš"
+    ],
+    "family_names": [
+      "Janda"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:zastupitelstvo-mesta-pardubic",
+        "name": "Zastupitelstvo města Pardubic",
+        "classification": "parliament",
+        "since": "2023-12-18",
+        "until": null
+      },
+      {
+        "id": "pardubice:org:group:spd",
+        "name": "SPD",
+        "classification": "groups",
+        "since": "2023-12-18",
+        "until": null
+      }
+    ],
+    "since": "2023-12-18"
+  },
+  {
+    "person_id": "pardubice:person:lukas-havlena",
+    "dims": [
+      -0.8965074226209653,
+      -0.2960771508710929,
+      0.5499134462062673
+    ],
+    "weight": 0.856422735963845,
+    "included": true,
+    "name": "Lukáš Havlena",
+    "given_names": [
+      "Lukáš"
+    ],
+    "family_names": [
+      "Havlena"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:zastupitelstvo-mesta-pardubic",
+        "name": "Zastupitelstvo města Pardubic",
+        "classification": "parliament",
+        "since": "2022-11-21",
+        "until": null
+      },
+      {
+        "id": "pardubice:org:group:pirati",
+        "name": "Piráti",
+        "classification": "groups",
+        "since": "2022-11-21",
+        "until": "2026-05-25"
+      },
+      {
+        "id": "pardubice:org:group:progresivni-pce",
+        "name": "Progresivní Pce",
+        "classification": "groups",
+        "since": "2026-05-25",
+        "until": null
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:maria-luticova",
+    "dims": [
+      0.5975474108348239,
+      0.12856957537370214,
+      0.12049878039305048
+    ],
+    "weight": 0.32539544585433683,
+    "included": true,
+    "name": "Mária Luticová",
+    "given_names": [
+      "Mária"
+    ],
+    "family_names": [
+      "Luticová"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:zastupitelstvo-mesta-pardubic",
+        "name": "Zastupitelstvo města Pardubic",
+        "classification": "parliament",
+        "since": "2024-06-24",
+        "until": null
+      },
+      {
+        "id": "pardubice:org:group:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2024-06-24",
+        "until": null
+      }
+    ],
+    "since": "2024-06-24"
+  },
+  {
+    "person_id": "pardubice:person:maria-ministrova",
+    "dims": [
+      0.6817209553664979,
+      0.22683615357972148,
+      0.30961220417856034
+    ],
+    "weight": 0.16947679471580043,
+    "included": true,
+    "name": "Mária Ministrová",
+    "given_names": [
+      "Mária"
+    ],
+    "family_names": [
+      "Ministrová"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:zastupitelstvo-mesta-pardubic",
+        "name": "Zastupitelstvo města Pardubic",
+        "classification": "parliament",
+        "since": "2023-11-27",
+        "until": "2024-05-27"
+      },
+      {
+        "id": "pardubice:org:group:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2023-11-27",
+        "until": "2024-06-24"
+      }
+    ],
+    "since": "2023-11-27",
+    "until": "2024-05-27"
+  },
+  {
+    "person_id": "pardubice:person:martin-charvat",
+    "dims": [
+      0.6409503288254663,
+      -0.0897245010881952,
+      -0.17333127259058648
+    ],
+    "weight": 0.2240570137319659,
+    "included": true,
+    "name": "Martin Charvát",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Charvát"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:zastupitelstvo-mesta-pardubic",
+        "name": "Zastupitelstvo města Pardubic",
+        "classification": "parliament",
+        "since": "2022-11-21",
+        "until": "2023-10-23"
+      },
+      {
+        "id": "pardubice:org:group:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-11-21",
+        "until": "2023-11-27"
+      }
+    ],
+    "since": "2022-11-21",
+    "until": "2023-10-23"
+  },
+  {
+    "person_id": "pardubice:person:martin-kolovratnik",
+    "dims": [
+      0.6716803365472747,
+      0.05702012920686855,
+      0.0756862819202407
+    ],
+    "weight": 0.9094385537980184,
+    "included": true,
+    "name": "Martin Kolovratník",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Kolovratník"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:zastupitelstvo-mesta-pardubic",
+        "name": "Zastupitelstvo města Pardubic",
+        "classification": "parliament",
+        "since": "2022-11-21",
+        "until": null
+      },
+      {
+        "id": "pardubice:org:group:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-11-21",
+        "until": null
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:martin-slezak",
+    "dims": [
+      -0.80986158205319,
+      0.11520480767669586,
+      0.022079460854718375
+    ],
+    "weight": 0.9930471058578132,
+    "included": true,
+    "name": "Martin Slezák",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Slezák"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:zastupitelstvo-mesta-pardubic",
+        "name": "Zastupitelstvo města Pardubic",
+        "classification": "parliament",
+        "since": "2022-11-21",
+        "until": null
+      },
+      {
+        "id": "pardubice:org:group:progresivni-pce",
+        "name": "Progresivní Pce",
+        "classification": "groups",
+        "since": "2026-05-25",
+        "until": null
+      },
+      {
+        "id": "pardubice:org:group:spolu",
+        "name": "SPOLU",
+        "classification": "groups",
+        "since": "2022-11-21",
+        "until": "2026-05-25"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:milan-chaloupecky",
+    "dims": [
+      -0.06393044003427586,
+      -0.776359506827137,
+      -0.6994217676493761
+    ],
+    "weight": 0.6394924387276204,
+    "included": true,
+    "name": "Milan Chaloupecký",
+    "given_names": [
+      "Milan"
+    ],
+    "family_names": [
+      "Chaloupecký"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:zastupitelstvo-mesta-pardubic",
+        "name": "Zastupitelstvo města Pardubic",
+        "classification": "parliament",
+        "since": "2022-11-21",
+        "until": null
+      },
+      {
+        "id": "pardubice:org:group:spd",
+        "name": "SPD",
+        "classification": "groups",
+        "since": "2022-11-21",
+        "until": null
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:ondrej-muller",
+    "dims": [
+      -0.8798936050482031,
+      0.18409831032730392,
+      -0.018722863708131643
+    ],
+    "weight": 0.9409003997914132,
+    "included": true,
+    "name": "Ondřej Müller",
+    "given_names": [
+      "Ondřej"
+    ],
+    "family_names": [
+      "Müller"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:zastupitelstvo-mesta-pardubic",
+        "name": "Zastupitelstvo města Pardubic",
+        "classification": "parliament",
+        "since": "2022-11-21",
+        "until": null
+      },
+      {
+        "id": "pardubice:org:group:progresivni-pce",
+        "name": "Progresivní Pce",
+        "classification": "groups",
+        "since": "2026-05-25",
+        "until": null
+      },
+      {
+        "id": "pardubice:org:group:spolu",
+        "name": "SPOLU",
+        "classification": "groups",
+        "since": "2022-11-21",
+        "until": "2026-05-25"
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:otakar-janecky",
+    "dims": [
+      0.5863607733474991,
+      -0.05164523996098856,
+      0.1441434548291157
+    ],
+    "weight": 0.7924561098557273,
+    "included": true,
+    "name": "Otakar Janecký",
+    "given_names": [
+      "Otakar"
+    ],
+    "family_names": [
+      "Janecký"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:zastupitelstvo-mesta-pardubic",
+        "name": "Zastupitelstvo města Pardubic",
+        "classification": "parliament",
+        "since": "2022-11-21",
+        "until": null
+      },
+      {
+        "id": "pardubice:org:group:zp",
+        "name": "ŽP",
+        "classification": "groups",
+        "since": "2022-11-21",
+        "until": null
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:petr-klimpl",
+    "dims": [
+      -0.7978780230890209,
+      0.44463351381484223,
+      -0.32078357289303666
+    ],
+    "weight": 0.9707978446028158,
+    "included": true,
+    "name": "Petr Klimpl",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Klimpl"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:zastupitelstvo-mesta-pardubic",
+        "name": "Zastupitelstvo města Pardubic",
+        "classification": "parliament",
+        "since": "2022-11-21",
+        "until": null
+      },
+      {
+        "id": "pardubice:org:group:spolu",
+        "name": "SPOLU",
+        "classification": "groups",
+        "since": "2022-11-21",
+        "until": null
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:petr-kvas",
+    "dims": [
+      -0.6038207302597761,
+      0.5332461372903043,
+      -0.35725853358615123
+    ],
+    "weight": 0.864766208934469,
+    "included": true,
+    "name": "Petr Kvaš",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Kvaš"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:zastupitelstvo-mesta-pardubic",
+        "name": "Zastupitelstvo města Pardubic",
+        "classification": "parliament",
+        "since": "2022-11-21",
+        "until": null
+      },
+      {
+        "id": "pardubice:org:group:spolu",
+        "name": "SPOLU",
+        "classification": "groups",
+        "since": "2022-11-21",
+        "until": null
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:radek-hejny",
+    "dims": [
+      0.6135933127790326,
+      0.07806699738989856,
+      0.02389832924520591
+    ],
+    "weight": 0.890318094907005,
+    "included": true,
+    "name": "Radek Hejný",
+    "given_names": [
+      "Radek"
+    ],
+    "family_names": [
+      "Hejný"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:zastupitelstvo-mesta-pardubic",
+        "name": "Zastupitelstvo města Pardubic",
+        "classification": "parliament",
+        "since": "2022-11-21",
+        "until": null
+      },
+      {
+        "id": "pardubice:org:group:ano-2011",
+        "name": "ANO 2011",
+        "classification": "groups",
+        "since": "2022-11-21",
+        "until": null
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:rene-zivny",
+    "dims": [
+      0.682662393266772,
+      0.07216157291556978,
+      0.07065390956066758
+    ],
+    "weight": 0.9353380844776635,
+    "included": true,
+    "name": "René Živný",
+    "given_names": [
+      "René"
+    ],
+    "family_names": [
+      "Živný"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:zastupitelstvo-mesta-pardubic",
+        "name": "Zastupitelstvo města Pardubic",
+        "classification": "parliament",
+        "since": "2022-11-21",
+        "until": null
+      },
+      {
+        "id": "pardubice:org:group:spp",
+        "name": "SpP",
+        "classification": "groups",
+        "since": "2022-11-21",
+        "until": null
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:robert-hrdina",
+    "dims": [
+      -0.79023695140483,
+      -0.39360780108954346,
+      0.5686970301093768
+    ],
+    "weight": 0.8995306796454025,
+    "included": true,
+    "name": "Robert Hrdina",
+    "given_names": [
+      "Robert"
+    ],
+    "family_names": [
+      "Hrdina"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:zastupitelstvo-mesta-pardubic",
+        "name": "Zastupitelstvo města Pardubic",
+        "classification": "parliament",
+        "since": "2022-11-21",
+        "until": null
+      },
+      {
+        "id": "pardubice:org:group:pirati",
+        "name": "Piráti",
+        "classification": "groups",
+        "since": "2022-11-21",
+        "until": "2026-05-25"
+      },
+      {
+        "id": "pardubice:org:group:progresivni-pce",
+        "name": "Progresivní Pce",
+        "classification": "groups",
+        "since": "2026-05-25",
+        "until": null
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:simona-machacova",
+    "dims": [
+      -0.9326128030564453,
+      -0.3483121088202357,
+      -0.11065027434252987
+    ],
+    "weight": 0.5113853641578308,
+    "included": true,
+    "name": "Simona Machačová",
+    "given_names": [
+      "Simona"
+    ],
+    "family_names": [
+      "Machačová"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:zastupitelstvo-mesta-pardubic",
+        "name": "Zastupitelstvo města Pardubic",
+        "classification": "parliament",
+        "since": "2022-11-21",
+        "until": null
+      },
+      {
+        "id": "pardubice:org:group:nase-pardubice",
+        "name": "NAŠE PARDUBICE",
+        "classification": "groups",
+        "since": "2022-11-21",
+        "until": null
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:stepanka-frankova",
+    "dims": [
+      0.5731502719387446,
+      -0.032987235455528854,
+      0.056807736719476434
+    ],
+    "weight": 0.6191552233617243,
+    "included": true,
+    "name": "Štěpánka Fraňková",
+    "given_names": [
+      "Štěpánka"
+    ],
+    "family_names": [
+      "Fraňková"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:zastupitelstvo-mesta-pardubic",
+        "name": "Zastupitelstvo města Pardubic",
+        "classification": "parliament",
+        "since": "2022-11-21",
+        "until": null
+      },
+      {
+        "id": "pardubice:org:group:zp",
+        "name": "ŽP",
+        "classification": "groups",
+        "since": "2022-11-21",
+        "until": null
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:tomas-pelikan",
+    "dims": [
+      0.6698203705088155,
+      0.01158633347895573,
+      0.009056424044929777
+    ],
+    "weight": 0.7450026073353033,
+    "included": true,
+    "name": "Tomáš Pelikán",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Pelikán"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:zastupitelstvo-mesta-pardubic",
+        "name": "Zastupitelstvo města Pardubic",
+        "classification": "parliament",
+        "since": "2022-11-21",
+        "until": null
+      },
+      {
+        "id": "pardubice:org:group:spp",
+        "name": "SpP",
+        "classification": "groups",
+        "since": "2022-11-21",
+        "until": null
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:vit-ulrych",
+    "dims": [
+      -0.8405430181053312,
+      0.17909125797420697,
+      -0.05546975031986838
+    ],
+    "weight": 0.9327307491743437,
+    "included": true,
+    "name": "Vít Ulrych",
+    "given_names": [
+      "Vít"
+    ],
+    "family_names": [
+      "Ulrych"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:zastupitelstvo-mesta-pardubic",
+        "name": "Zastupitelstvo města Pardubic",
+        "classification": "parliament",
+        "since": "2022-11-21",
+        "until": null
+      },
+      {
+        "id": "pardubice:org:group:spolu",
+        "name": "SPOLU",
+        "classification": "groups",
+        "since": "2022-11-21",
+        "until": null
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:vitezslav-novohradsky",
+    "dims": [
+      0.013190252143339968,
+      -0.7383285640236988,
+      -0.7237574914187206
+    ],
+    "weight": 0.5586650443247001,
+    "included": true,
+    "name": "Vítězslav Novohradský",
+    "given_names": [
+      "Vítězslav"
+    ],
+    "family_names": [
+      "Novohradský"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:zastupitelstvo-mesta-pardubic",
+        "name": "Zastupitelstvo města Pardubic",
+        "classification": "parliament",
+        "since": "2022-11-21",
+        "until": null
+      },
+      {
+        "id": "pardubice:org:group:spd",
+        "name": "SPD",
+        "classification": "groups",
+        "since": "2022-11-21",
+        "until": null
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:vitezslav-stepanek",
+    "dims": [
+      -0.32694823436808174,
+      0.5151403431143249,
+      -0.32006332647440394
+    ],
+    "weight": 0.630279853989223,
+    "included": true,
+    "name": "Vítězslav Štěpánek",
+    "given_names": [
+      "Vítězslav"
+    ],
+    "family_names": [
+      "Štěpánek"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:zastupitelstvo-mesta-pardubic",
+        "name": "Zastupitelstvo města Pardubic",
+        "classification": "parliament",
+        "since": "2022-11-21",
+        "until": null
+      },
+      {
+        "id": "pardubice:org:group:spolu",
+        "name": "SPOLU",
+        "classification": "groups",
+        "since": "2022-11-21",
+        "until": null
+      }
+    ],
+    "since": "2022-11-21"
+  },
+  {
+    "person_id": "pardubice:person:vojtech-jirsa",
+    "dims": [
+      -0.8003911315822292,
+      -0.31845469937156773,
+      0.5947968516340663
+    ],
+    "weight": 0.9264731444463756,
+    "included": true,
+    "name": "Vojtěch Jirsa",
+    "given_names": [
+      "Vojtěch"
+    ],
+    "family_names": [
+      "Jirsa"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:zastupitelstvo-mesta-pardubic",
+        "name": "Zastupitelstvo města Pardubic",
+        "classification": "parliament",
+        "since": "2022-11-21",
+        "until": null
+      },
+      {
+        "id": "pardubice:org:group:pirati",
+        "name": "Piráti",
+        "classification": "groups",
+        "since": "2022-11-21",
+        "until": "2026-05-25"
+      },
+      {
+        "id": "pardubice:org:group:progresivni-pce",
+        "name": "Progresivní Pce",
+        "classification": "groups",
+        "since": "2026-05-25",
+        "until": null
+      }
+    ],
+    "since": "2022-11-21"
+  }
+]

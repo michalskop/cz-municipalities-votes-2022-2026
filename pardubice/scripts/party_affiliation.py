@@ -191,7 +191,7 @@ def apply(raw_dir: Path = _DEFAULT_RAW_DIR, data_dir: Path = _DEFAULT_DATA_DIR, 
         "raw_label_to_canonical": {raw: list(canons.keys())[0] for raw, canons in sorted(raw_usage.items())},
         "raw_label_meeting_usage": {raw: sum(c.values()) for raw, c in sorted(raw_usage.items())},
         "open_questions_for_owner": _OPEN_QUESTIONS,
-        "approval_status": "PENDING",
+        "approval_status": "APPROVED by project owner 2026-08-31 (D7) — all four open questions accepted as modeled; see pardubice/analyses/govity/govity_definition.json's resolved_questions.",
     }
     report_path.parent.mkdir(parents=True, exist_ok=True)
     report_path.write_text(json.dumps(report, ensure_ascii=False, indent=2), encoding="utf-8")

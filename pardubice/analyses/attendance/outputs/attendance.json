@@ -1,0 +1,1058 @@
+[
+  {
+    "person_id": "pardubice:person:adela-zdrahalova",
+    "vote_events_total": 1546,
+    "present": 1474,
+    "absent": 72,
+    "name": "Adéla Zdráhalová",
+    "given_names": [
+      "Adéla"
+    ],
+    "family_names": [
+      "Zdráhalová"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21",
+    "present_share": 0.9534282018
+  },
+  {
+    "person_id": "pardubice:person:dominik-becka",
+    "vote_events_total": 1442,
+    "present": 1162,
+    "absent": 280,
+    "name": "Dominik Bečka",
+    "given_names": [
+      "Dominik"
+    ],
+    "family_names": [
+      "Bečka"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:pirati",
+        "classification": "group",
+        "name": "Piráti",
+        "since": "2023-03-20",
+        "until": "2026-05-25"
+      },
+      {
+        "id": "pardubice:org:group:progresivni-pce",
+        "classification": "group",
+        "name": "Progresivní Pce",
+        "since": "2026-05-25"
+      }
+    ],
+    "since": "2022-11-21",
+    "present_share": 0.8058252427
+  },
+  {
+    "person_id": "pardubice:person:dusan-salficky",
+    "vote_events_total": 1546,
+    "present": 1269,
+    "absent": 277,
+    "name": "Dušan Salfický",
+    "given_names": [
+      "Dušan"
+    ],
+    "family_names": [
+      "Salfický"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21",
+    "present_share": 0.8208279431
+  },
+  {
+    "person_id": "pardubice:person:dusan-stransky",
+    "vote_events_total": 1546,
+    "present": 1264,
+    "absent": 282,
+    "name": "Dušan Stránský",
+    "given_names": [
+      "Dušan"
+    ],
+    "family_names": [
+      "Stránský"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:spolu",
+        "classification": "group",
+        "name": "SPOLU",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21",
+    "present_share": 0.8175937904
+  },
+  {
+    "person_id": "pardubice:person:filip-sedlak",
+    "vote_events_total": 1546,
+    "present": 1519,
+    "absent": 27,
+    "name": "Filip Sedlák",
+    "given_names": [
+      "Filip"
+    ],
+    "family_names": [
+      "Sedlák"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:nase-pardubice",
+        "classification": "group",
+        "name": "NAŠE PARDUBICE",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21",
+    "present_share": 0.9825355757
+  },
+  {
+    "person_id": "pardubice:person:filip-stastny",
+    "vote_events_total": 1546,
+    "present": 1453,
+    "absent": 93,
+    "name": "Filip Šťastný",
+    "given_names": [
+      "Filip"
+    ],
+    "family_names": [
+      "Šťastný"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21",
+    "present_share": 0.9398447607
+  },
+  {
+    "person_id": "pardubice:person:frantisek-brendl",
+    "vote_events_total": 1546,
+    "present": 1281,
+    "absent": 265,
+    "name": "František Brendl",
+    "given_names": [
+      "František"
+    ],
+    "family_names": [
+      "Brendl"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:spp",
+        "classification": "group",
+        "name": "SpP",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21",
+    "present_share": 0.8285899094
+  },
+  {
+    "person_id": "pardubice:person:frantisek-nemec",
+    "vote_events_total": 1546,
+    "present": 1420,
+    "absent": 126,
+    "name": "František Němec",
+    "given_names": [
+      "František"
+    ],
+    "family_names": [
+      "Němec"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:zp",
+        "classification": "group",
+        "name": "ŽP",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21",
+    "present_share": 0.9184993532
+  },
+  {
+    "person_id": "pardubice:person:helena-dvorackova",
+    "vote_events_total": 398,
+    "present": 338,
+    "absent": 60,
+    "name": "Helena Dvořáčková",
+    "given_names": [
+      "Helena"
+    ],
+    "family_names": [
+      "Dvořáčková"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:nezavisla-spd",
+        "classification": "group",
+        "name": "Nezávislá/SPD",
+        "since": "2023-01-30",
+        "until": "2023-03-20"
+      },
+      {
+        "id": "pardubice:org:group:nezavisla-spd",
+        "classification": "group",
+        "name": "Nezávislá/SPD",
+        "since": "2023-04-24",
+        "until": "2023-12-18"
+      },
+      {
+        "id": "pardubice:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2022-11-21",
+        "until": "2023-01-30"
+      },
+      {
+        "id": "pardubice:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2023-03-20",
+        "until": "2023-04-24"
+      }
+    ],
+    "since": "2022-11-21",
+    "present_share": 0.8492462312
+  },
+  {
+    "person_id": "pardubice:person:ivana-bohmova",
+    "vote_events_total": 104,
+    "present": 75,
+    "absent": 29,
+    "name": "Ivana Böhmová",
+    "given_names": [
+      "Ivana"
+    ],
+    "family_names": [
+      "Böhmová"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:pirati",
+        "classification": "group",
+        "name": "Piráti",
+        "since": "2022-11-21",
+        "until": "2023-03-20"
+      }
+    ],
+    "since": "2022-11-21",
+    "present_share": 0.7211538462
+  },
+  {
+    "person_id": "pardubice:person:jakub-rychtecky",
+    "vote_events_total": 1546,
+    "present": 1458,
+    "absent": 88,
+    "name": "Jakub Rychtecký",
+    "given_names": [
+      "Jakub"
+    ],
+    "family_names": [
+      "Rychtecký"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:zp",
+        "classification": "group",
+        "name": "ŽP",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21",
+    "present_share": 0.9430789133
+  },
+  {
+    "person_id": "pardubice:person:jan-hrabal",
+    "vote_events_total": 1546,
+    "present": 1514,
+    "absent": 32,
+    "name": "Jan Hrabal",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Hrabal"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21",
+    "present_share": 0.979301423
+  },
+  {
+    "person_id": "pardubice:person:jan-mazuch",
+    "vote_events_total": 1546,
+    "present": 1415,
+    "absent": 131,
+    "name": "Jan Mazuch",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Mazuch"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:spolu",
+        "classification": "group",
+        "name": "SPOLU",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21",
+    "present_share": 0.9152652005
+  },
+  {
+    "person_id": "pardubice:person:jan-metelka",
+    "vote_events_total": 1546,
+    "present": 1398,
+    "absent": 148,
+    "name": "Jan Metelka",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Metelka"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:nase-pardubice",
+        "classification": "group",
+        "name": "NAŠE PARDUBICE",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21",
+    "present_share": 0.9042690815
+  },
+  {
+    "person_id": "pardubice:person:jan-nadrchal",
+    "vote_events_total": 1546,
+    "present": 1445,
+    "absent": 101,
+    "name": "Jan Nadrchal",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Nadrchal"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21",
+    "present_share": 0.9346701164
+  },
+  {
+    "person_id": "pardubice:person:jan-prochazka",
+    "vote_events_total": 1546,
+    "present": 1492,
+    "absent": 54,
+    "name": "Jan Procházka",
+    "given_names": [
+      "Jan"
+    ],
+    "family_names": [
+      "Procházka"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21",
+    "present_share": 0.9650711514
+  },
+  {
+    "person_id": "pardubice:person:jana-hanzlikova",
+    "vote_events_total": 1546,
+    "present": 1390,
+    "absent": 156,
+    "name": "Jana Hanzlíková",
+    "given_names": [
+      "Jana"
+    ],
+    "family_names": [
+      "Hanzlíková"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21",
+    "present_share": 0.8990944373
+  },
+  {
+    "person_id": "pardubice:person:jiri-lejhanec",
+    "vote_events_total": 1546,
+    "present": 1288,
+    "absent": 258,
+    "name": "Jiří Lejhanec",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Lejhanec"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:spp",
+        "classification": "group",
+        "name": "SpP",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21",
+    "present_share": 0.8331177232
+  },
+  {
+    "person_id": "pardubice:person:jiri-rejda",
+    "vote_events_total": 1546,
+    "present": 1444,
+    "absent": 102,
+    "name": "Jiří Rejda",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Rejda"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21",
+    "present_share": 0.9340232859
+  },
+  {
+    "person_id": "pardubice:person:jirina-klcova",
+    "vote_events_total": 1546,
+    "present": 1505,
+    "absent": 41,
+    "name": "Jiřina Klčová",
+    "given_names": [
+      "Jiřina"
+    ],
+    "family_names": [
+      "Klčová"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21",
+    "present_share": 0.9734799483
+  },
+  {
+    "person_id": "pardubice:person:karel-haas",
+    "vote_events_total": 1546,
+    "present": 1497,
+    "absent": 49,
+    "name": "Karel Haas",
+    "given_names": [
+      "Karel"
+    ],
+    "family_names": [
+      "Haas"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:spolu",
+        "classification": "group",
+        "name": "SPOLU",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21",
+    "present_share": 0.968305304
+  },
+  {
+    "person_id": "pardubice:person:leos-janda",
+    "vote_events_total": 1148,
+    "present": 1105,
+    "absent": 43,
+    "name": "Leoš Janda",
+    "given_names": [
+      "Leoš"
+    ],
+    "family_names": [
+      "Janda"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2023-12-18"
+      }
+    ],
+    "since": "2022-11-21",
+    "present_share": 0.962543554
+  },
+  {
+    "person_id": "pardubice:person:lukas-havlena",
+    "vote_events_total": 1546,
+    "present": 1270,
+    "absent": 276,
+    "name": "Lukáš Havlena",
+    "given_names": [
+      "Lukáš"
+    ],
+    "family_names": [
+      "Havlena"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:pirati",
+        "classification": "group",
+        "name": "Piráti",
+        "since": "2022-11-21",
+        "until": "2026-05-25"
+      },
+      {
+        "id": "pardubice:org:group:progresivni-pce",
+        "classification": "group",
+        "name": "Progresivní Pce",
+        "since": "2026-05-25"
+      }
+    ],
+    "since": "2022-11-21",
+    "present_share": 0.8214747736
+  },
+  {
+    "person_id": "pardubice:person:maria-luticova",
+    "vote_events_total": 900,
+    "present": 550,
+    "absent": 350,
+    "name": "Mária Luticová",
+    "given_names": [
+      "Mária"
+    ],
+    "family_names": [
+      "Luticová"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2024-06-24"
+      }
+    ],
+    "since": "2022-11-21",
+    "present_share": 0.6111111111
+  },
+  {
+    "person_id": "pardubice:person:maria-ministrova",
+    "vote_events_total": 288,
+    "present": 216,
+    "absent": 72,
+    "name": "Mária Ministrová",
+    "given_names": [
+      "Mária"
+    ],
+    "family_names": [
+      "Ministrová"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2023-11-27",
+        "until": "2024-06-24"
+      }
+    ],
+    "since": "2022-11-21",
+    "present_share": 0.75
+  },
+  {
+    "person_id": "pardubice:person:martin-charvat",
+    "vote_events_total": 358,
+    "present": 334,
+    "absent": 24,
+    "name": "Martin Charvát",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Charvát"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-21",
+        "until": "2023-11-27"
+      }
+    ],
+    "since": "2022-11-21",
+    "present_share": 0.9329608939
+  },
+  {
+    "person_id": "pardubice:person:martin-kolovratnik",
+    "vote_events_total": 1546,
+    "present": 1386,
+    "absent": 160,
+    "name": "Martin Kolovratník",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Kolovratník"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21",
+    "present_share": 0.8965071151
+  },
+  {
+    "person_id": "pardubice:person:martin-slezak",
+    "vote_events_total": 1546,
+    "present": 1531,
+    "absent": 15,
+    "name": "Martin Slezák",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Slezák"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:progresivni-pce",
+        "classification": "group",
+        "name": "Progresivní Pce",
+        "since": "2026-05-25"
+      },
+      {
+        "id": "pardubice:org:group:spolu",
+        "classification": "group",
+        "name": "SPOLU",
+        "since": "2022-11-21",
+        "until": "2026-05-25"
+      }
+    ],
+    "since": "2022-11-21",
+    "present_share": 0.990297542
+  },
+  {
+    "person_id": "pardubice:person:milan-chaloupecky",
+    "vote_events_total": 1546,
+    "present": 1010,
+    "absent": 536,
+    "name": "Milan Chaloupecký",
+    "given_names": [
+      "Milan"
+    ],
+    "family_names": [
+      "Chaloupecký"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21",
+    "present_share": 0.6532988357
+  },
+  {
+    "person_id": "pardubice:person:ondrej-muller",
+    "vote_events_total": 1546,
+    "present": 1461,
+    "absent": 85,
+    "name": "Ondřej Müller",
+    "given_names": [
+      "Ondřej"
+    ],
+    "family_names": [
+      "Müller"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:progresivni-pce",
+        "classification": "group",
+        "name": "Progresivní Pce",
+        "since": "2026-05-25"
+      },
+      {
+        "id": "pardubice:org:group:spolu",
+        "classification": "group",
+        "name": "SPOLU",
+        "since": "2022-11-21",
+        "until": "2026-05-25"
+      }
+    ],
+    "since": "2022-11-21",
+    "present_share": 0.9450194049
+  },
+  {
+    "person_id": "pardubice:person:otakar-janecky",
+    "vote_events_total": 1546,
+    "present": 1291,
+    "absent": 255,
+    "name": "Otakar Janecký",
+    "given_names": [
+      "Otakar"
+    ],
+    "family_names": [
+      "Janecký"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:zp",
+        "classification": "group",
+        "name": "ŽP",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21",
+    "present_share": 0.8350582147
+  },
+  {
+    "person_id": "pardubice:person:petr-klimpl",
+    "vote_events_total": 1546,
+    "present": 1478,
+    "absent": 68,
+    "name": "Petr Klimpl",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Klimpl"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:spolu",
+        "classification": "group",
+        "name": "SPOLU",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21",
+    "present_share": 0.9560155239
+  },
+  {
+    "person_id": "pardubice:person:petr-kvas",
+    "vote_events_total": 1546,
+    "present": 1344,
+    "absent": 202,
+    "name": "Petr Kvaš",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Kvaš"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:spolu",
+        "classification": "group",
+        "name": "SPOLU",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21",
+    "present_share": 0.8693402329
+  },
+  {
+    "person_id": "pardubice:person:radek-hejny",
+    "vote_events_total": 1546,
+    "present": 1408,
+    "absent": 138,
+    "name": "Radek Hejný",
+    "given_names": [
+      "Radek"
+    ],
+    "family_names": [
+      "Hejný"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:ano-2011",
+        "classification": "group",
+        "name": "ANO 2011",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21",
+    "present_share": 0.9107373868
+  },
+  {
+    "person_id": "pardubice:person:rene-zivny",
+    "vote_events_total": 1546,
+    "present": 1454,
+    "absent": 92,
+    "name": "René Živný",
+    "given_names": [
+      "René"
+    ],
+    "family_names": [
+      "Živný"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:spp",
+        "classification": "group",
+        "name": "SpP",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21",
+    "present_share": 0.9404915912
+  },
+  {
+    "person_id": "pardubice:person:robert-hrdina",
+    "vote_events_total": 1546,
+    "present": 1366,
+    "absent": 180,
+    "name": "Robert Hrdina",
+    "given_names": [
+      "Robert"
+    ],
+    "family_names": [
+      "Hrdina"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:pirati",
+        "classification": "group",
+        "name": "Piráti",
+        "since": "2022-11-21",
+        "until": "2026-05-25"
+      },
+      {
+        "id": "pardubice:org:group:progresivni-pce",
+        "classification": "group",
+        "name": "Progresivní Pce",
+        "since": "2026-05-25"
+      }
+    ],
+    "since": "2022-11-21",
+    "present_share": 0.8835705045
+  },
+  {
+    "person_id": "pardubice:person:simona-machacova",
+    "vote_events_total": 1546,
+    "present": 806,
+    "absent": 740,
+    "name": "Simona Machačová",
+    "given_names": [
+      "Simona"
+    ],
+    "family_names": [
+      "Machačová"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:nase-pardubice",
+        "classification": "group",
+        "name": "NAŠE PARDUBICE",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21",
+    "present_share": 0.5213454075
+  },
+  {
+    "person_id": "pardubice:person:stepanka-frankova",
+    "vote_events_total": 1546,
+    "present": 995,
+    "absent": 551,
+    "name": "Štěpánka Fraňková",
+    "given_names": [
+      "Štěpánka"
+    ],
+    "family_names": [
+      "Fraňková"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:zp",
+        "classification": "group",
+        "name": "ŽP",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21",
+    "present_share": 0.6435963777
+  },
+  {
+    "person_id": "pardubice:person:tomas-pelikan",
+    "vote_events_total": 1546,
+    "present": 1248,
+    "absent": 298,
+    "name": "Tomáš Pelikán",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Pelikán"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:spp",
+        "classification": "group",
+        "name": "SpP",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21",
+    "present_share": 0.8072445019
+  },
+  {
+    "person_id": "pardubice:person:vit-ulrych",
+    "vote_events_total": 1546,
+    "present": 1426,
+    "absent": 120,
+    "name": "Vít Ulrych",
+    "given_names": [
+      "Vít"
+    ],
+    "family_names": [
+      "Ulrych"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:spolu",
+        "classification": "group",
+        "name": "SPOLU",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21",
+    "present_share": 0.9223803364
+  },
+  {
+    "person_id": "pardubice:person:vitezslav-novohradsky",
+    "vote_events_total": 1546,
+    "present": 792,
+    "absent": 754,
+    "name": "Vítězslav Novohradský",
+    "given_names": [
+      "Vítězslav"
+    ],
+    "family_names": [
+      "Novohradský"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:spd",
+        "classification": "group",
+        "name": "SPD",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21",
+    "present_share": 0.5122897801
+  },
+  {
+    "person_id": "pardubice:person:vitezslav-stepanek",
+    "vote_events_total": 1546,
+    "present": 986,
+    "absent": 560,
+    "name": "Vítězslav Štěpánek",
+    "given_names": [
+      "Vítězslav"
+    ],
+    "family_names": [
+      "Štěpánek"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:spolu",
+        "classification": "group",
+        "name": "SPOLU",
+        "since": "2022-11-21"
+      }
+    ],
+    "since": "2022-11-21",
+    "present_share": 0.637774903
+  },
+  {
+    "person_id": "pardubice:person:vojtech-jirsa",
+    "vote_events_total": 1546,
+    "present": 1381,
+    "absent": 165,
+    "name": "Vojtěch Jirsa",
+    "given_names": [
+      "Vojtěch"
+    ],
+    "family_names": [
+      "Jirsa"
+    ],
+    "organizations": [
+      {
+        "id": "pardubice:org:group:pirati",
+        "classification": "group",
+        "name": "Piráti",
+        "since": "2022-11-21",
+        "until": "2026-05-25"
+      },
+      {
+        "id": "pardubice:org:group:progresivni-pce",
+        "classification": "group",
+        "name": "Progresivní Pce",
+        "since": "2026-05-25"
+      }
+    ],
+    "since": "2022-11-21",
+    "present_share": 0.8932729625
+  }
+]
