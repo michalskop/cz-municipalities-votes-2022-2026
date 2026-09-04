@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T07:09:33.305875+00:00",
+  "generated_at": "2026-09-04T07:13:28.514792+00:00",
   "method": "point_biserial_correlation",
   "n_dims": 3,
   "n_included_people": 66,
@@ -13,7 +13,7 @@
   "correlations": [
     {
       "dim_index": 0,
-      "correlation": 0.008838917741431241
+      "correlation": 0.008838917741431107
     },
     {
       "dim_index": 1,
@@ -21,15 +21,15 @@
     },
     {
       "dim_index": 2,
-      "correlation": 0.0016126046529402439
+      "correlation": 0.0016126046529399032
     }
   ],
   "detected_dim_index": 1,
   "override_dim_index": null,
   "overridden": false,
   "effective_dim_index": 1,
-  "government_mean": 0.33102460940184103,
-  "opposition_mean": -0.47115341527238774,
+  "government_mean": 0.33102460940184086,
+  "opposition_mean": -0.4711534152723876,
   "government_sign": 1,
   "sources": {
     "wpca_output": "praha/analyses/wpca/outputs/wpca.json",
