@@ -1,8 +1,8 @@
 {
   "city": "plzen",
-  "generated_at_utc": "2026-09-03T07:17:08Z",
-  "last_successful_run_utc": "2026-09-03T07:17:08Z",
-  "last_data_change_utc": "2026-09-03T07:17:08Z",
+  "generated_at_utc": "2026-09-04T07:20:10Z",
+  "last_successful_run_utc": "2026-09-04T07:20:10Z",
+  "last_data_change_utc": "2026-09-04T07:20:10Z",
   "latest_vote_event_date": "2026-06-11T17:59:00",
   "vote_events_count": 1672
 }
