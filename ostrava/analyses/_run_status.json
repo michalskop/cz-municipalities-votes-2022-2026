@@ -1,8 +1,8 @@
 {
   "city": "ostrava",
-  "generated_at_utc": "2026-09-06T07:12:06Z",
-  "last_successful_run_utc": "2026-09-06T07:12:06Z",
-  "last_data_change_utc": "2026-09-06T07:12:06Z",
+  "generated_at_utc": "2026-09-08T07:18:21Z",
+  "last_successful_run_utc": "2026-09-08T07:18:21Z",
+  "last_data_change_utc": "2026-09-08T07:18:21Z",
   "latest_vote_event_date": "2026-06-24T15:36:46",
   "vote_events_count": 2116
 }
