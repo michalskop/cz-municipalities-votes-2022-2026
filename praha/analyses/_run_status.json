@@ -1,8 +1,8 @@
 {
   "city": "praha",
-  "generated_at_utc": "2026-09-09T07:22:25Z",
-  "last_successful_run_utc": "2026-09-09T07:22:25Z",
-  "last_data_change_utc": "2026-09-09T07:22:25Z",
+  "generated_at_utc": "2026-09-10T07:17:41Z",
+  "last_successful_run_utc": "2026-09-10T07:17:41Z",
+  "last_data_change_utc": "2026-09-10T07:17:41Z",
   "latest_vote_event_date": "2026-06-19T01:53:40",
   "vote_events_count": 2346
 }
