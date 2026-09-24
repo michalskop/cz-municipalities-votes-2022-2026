@@ -1,0 +1,12 @@
+# Plasy's official source is a records archive, not a structured vote feed.
+# Collection is manual by design; no scheduled workflow is configured.
+official_minutes:
+  status: "PUBLISHED RECORDS — manual extraction and review required"
+  type: pdf_archive
+  url: "https://www.plasy.cz/mesto/samosprava/zastupitelstvo-mesta-plasy/zapisy-a-usneseni/?page=1"
+  coverage: "ZM 1–21 and ZM 23; 2022-10-12 through 2026-09-16; no ZM 22 record in the archive as checked 2026-09-24."
+  method: >
+    Per-member votes are transcribed from the meeting records. Named no/abstain voters are
+    explicit; the yes group is inferred as the complement only when its size reconciles exactly
+    with the recorded count. Attendance changes during a sitting are applied to later votes.
+  automation: "None. Update only after a person checks the new minutes and reconciles the tallies."

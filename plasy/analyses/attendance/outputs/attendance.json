@@ -1,0 +1,242 @@
+[
+  {
+    "person_id": "plasy:person:belbl-emanuel",
+    "vote_events_total": 274,
+    "present": 227,
+    "absent": 47,
+    "name": "Emanuel Belbl",
+    "given_names": [
+      "Emanuel"
+    ],
+    "family_names": [
+      "Belbl"
+    ],
+    "since": "2022-10-12",
+    "present_share": 0.8284671533
+  },
+  {
+    "person_id": "plasy:person:bezdickova-jitka",
+    "vote_events_total": 104,
+    "present": 96,
+    "absent": 8,
+    "name": "Jitka Bezdíčková",
+    "given_names": [
+      "Jitka"
+    ],
+    "family_names": [
+      "Bezdíčková"
+    ],
+    "since": "2022-10-12",
+    "present_share": 0.9230769231
+  },
+  {
+    "person_id": "plasy:person:gross-vaclav",
+    "vote_events_total": 274,
+    "present": 274,
+    "absent": 0,
+    "name": "Václav Gross",
+    "given_names": [
+      "Václav"
+    ],
+    "family_names": [
+      "Gross"
+    ],
+    "since": "2022-10-12",
+    "present_share": 1.0
+  },
+  {
+    "person_id": "plasy:person:hanzlicek-zdenek",
+    "vote_events_total": 274,
+    "present": 216,
+    "absent": 58,
+    "name": "Zdeněk Hanzlíček",
+    "given_names": [
+      "Zdeněk"
+    ],
+    "family_names": [
+      "Hanzlíček"
+    ],
+    "since": "2022-10-12",
+    "present_share": 0.7883211679
+  },
+  {
+    "person_id": "plasy:person:jezkova-martina",
+    "vote_events_total": 274,
+    "present": 248,
+    "absent": 26,
+    "name": "Martina Ježková",
+    "given_names": [
+      "Martina"
+    ],
+    "family_names": [
+      "Ježková"
+    ],
+    "since": "2022-10-12",
+    "present_share": 0.9051094891
+  },
+  {
+    "person_id": "plasy:person:kantor-poradkova-eva",
+    "vote_events_total": 274,
+    "present": 274,
+    "absent": 0,
+    "name": "Eva Kantor Pořádková",
+    "given_names": [
+      "Eva"
+    ],
+    "family_names": [
+      "Kantor Pořádková"
+    ],
+    "since": "2022-10-12",
+    "present_share": 1.0
+  },
+  {
+    "person_id": "plasy:person:kornatovsky-ivo",
+    "vote_events_total": 169,
+    "present": 169,
+    "absent": 0,
+    "name": "Ivo Kornatovský",
+    "given_names": [
+      "Ivo"
+    ],
+    "family_names": [
+      "Kornatovský"
+    ],
+    "since": "2022-10-12",
+    "present_share": 1.0
+  },
+  {
+    "person_id": "plasy:person:kouba-tomas",
+    "vote_events_total": 274,
+    "present": 212,
+    "absent": 62,
+    "name": "Tomáš Kouba",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Kouba"
+    ],
+    "since": "2022-10-12",
+    "present_share": 0.7737226277
+  },
+  {
+    "person_id": "plasy:person:kovarik-petr",
+    "vote_events_total": 274,
+    "present": 263,
+    "absent": 11,
+    "name": "Petr Kovářík",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Kovářík"
+    ],
+    "since": "2022-10-12",
+    "present_share": 0.9598540146
+  },
+  {
+    "person_id": "plasy:person:neuman-petr",
+    "vote_events_total": 274,
+    "present": 263,
+    "absent": 11,
+    "name": "Petr Neuman",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Neuman"
+    ],
+    "since": "2022-10-12",
+    "present_share": 0.9598540146
+  },
+  {
+    "person_id": "plasy:person:novotny-jiri",
+    "vote_events_total": 274,
+    "present": 185,
+    "absent": 89,
+    "name": "Jiří Novotný",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Novotný"
+    ],
+    "since": "2022-10-12",
+    "present_share": 0.6751824818
+  },
+  {
+    "person_id": "plasy:person:palmova-eliska",
+    "vote_events_total": 274,
+    "present": 274,
+    "absent": 0,
+    "name": "Eliška Palmová",
+    "given_names": [
+      "Eliška"
+    ],
+    "family_names": [
+      "Palmová"
+    ],
+    "since": "2022-10-12",
+    "present_share": 1.0
+  },
+  {
+    "person_id": "plasy:person:pfeifer-lukas",
+    "vote_events_total": 274,
+    "present": 258,
+    "absent": 16,
+    "name": "Lukáš Pfeifer",
+    "given_names": [
+      "Lukáš"
+    ],
+    "family_names": [
+      "Pfeifer"
+    ],
+    "since": "2022-10-12",
+    "present_share": 0.9416058394
+  },
+  {
+    "person_id": "plasy:person:tyrpeklova-zdenka",
+    "vote_events_total": 274,
+    "present": 263,
+    "absent": 11,
+    "name": "Zdenka Tyrpeklová",
+    "given_names": [
+      "Zdenka"
+    ],
+    "family_names": [
+      "Tyrpeklová"
+    ],
+    "since": "2022-10-12",
+    "present_share": 0.9598540146
+  },
+  {
+    "person_id": "plasy:person:urbanova-veronika",
+    "vote_events_total": 274,
+    "present": 256,
+    "absent": 18,
+    "name": "Veronika Urbanová",
+    "given_names": [
+      "Veronika"
+    ],
+    "family_names": [
+      "Urbanová"
+    ],
+    "since": "2022-10-12",
+    "present_share": 0.9343065693
+  },
+  {
+    "person_id": "plasy:person:skop-michal",
+    "vote_events_total": 274,
+    "present": 267,
+    "absent": 7,
+    "name": "Michal Škop",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Škop"
+    ],
+    "since": "2022-10-12",
+    "present_share": 0.9744525547
+  }
+]

@@ -26,6 +26,12 @@ only adds city-specific *sources* and *definition files*, never forked analysis 
   open question, pending owner sign-off (D7); nightly automation + dashboard not yet done (C5/C6
   pending — see [`ostrava/README.md`](./ostrava/README.md) for the coalition question)
 
+- **Plasy** — [`plasy/`](./plasy/) · source: official council minutes (PDF) · status: manually
+  maintained, non-automated dataset with standardized member votes and attendance only; wired into
+  the dashboard at `mesta.datatimes.cz/plasy`. Group/coalition metrics are omitted because the
+  minutes do not identify those affiliations. See [`plasy/README.md`](./plasy/README.md) for
+  coverage and manual refresh instructions.
+
 Coverage may extend to more cities later (top-20 by population); a city is only added if it has
 recorded roll-call votes.
 
@@ -92,4 +98,3 @@ http://www.popoloproject.com/
 ## Previous article:
 Praha + Brno + Ostrava: 
 https://www.seznamzpravy.cz/clanek/fakta-tri-nejvetsi-mesta-koalice-drzely-pri-sobe-opozice-mely-horsi-dochazku-214977
-
