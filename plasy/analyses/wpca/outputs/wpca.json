@@ -1,1 +1,547 @@
-[]
+[
+  {
+    "person_id": "plasy:person:belbl-emanuel",
+    "dims": [
+      -1.0355133660373217,
+      0.1025413614714701,
+      0.07498045933043604
+    ],
+    "weight": 0.9127516778523489,
+    "included": true,
+    "name": "Emanuel Belbl",
+    "given_names": [
+      "Emanuel"
+    ],
+    "family_names": [
+      "Belbl"
+    ],
+    "organizations": [
+      {
+        "id": "plasy:org:zastupitelstvo-mesta-plasy",
+        "name": "Zastupitelstvo města Plasy",
+        "classification": "parliament",
+        "since": "2022-10-12",
+        "until": null
+      },
+      {
+        "id": "plasy:org:group:cssd",
+        "name": "ČSSD",
+        "classification": "groups",
+        "since": "2022-10-12",
+        "until": null
+      }
+    ],
+    "since": "2022-10-12"
+  },
+  {
+    "person_id": "plasy:person:bezdickova-jitka",
+    "dims": [
+      -0.5215800168920276,
+      -0.30957556585096013,
+      -0.852123718609007
+    ],
+    "weight": 0.46979865771812085,
+    "included": true,
+    "name": "Jitka Bezdíčková",
+    "given_names": [
+      "Jitka"
+    ],
+    "family_names": [
+      "Bezdíčková"
+    ],
+    "organizations": [
+      {
+        "id": "plasy:org:zastupitelstvo-mesta-plasy",
+        "name": "Zastupitelstvo města Plasy",
+        "classification": "parliament",
+        "since": "2022-10-12",
+        "until": "2024-02-20"
+      },
+      {
+        "id": "plasy:org:group:ods",
+        "name": "ODS",
+        "classification": "groups",
+        "since": "2022-10-12",
+        "until": "2024-02-20"
+      }
+    ],
+    "since": "2022-10-12",
+    "until": "2024-02-20"
+  },
+  {
+    "person_id": "plasy:person:gross-vaclav",
+    "dims": [
+      0.7619881580693705,
+      0.05181647406881403,
+      -0.0055720175977245125
+    ],
+    "weight": 1.0,
+    "included": true,
+    "name": "Václav Gross",
+    "given_names": [
+      "Václav"
+    ],
+    "family_names": [
+      "Gross"
+    ],
+    "organizations": [
+      {
+        "id": "plasy:org:zastupitelstvo-mesta-plasy",
+        "name": "Zastupitelstvo města Plasy",
+        "classification": "parliament",
+        "since": "2022-10-12",
+        "until": null
+      },
+      {
+        "id": "plasy:org:group:nezavisli-pro-plasko",
+        "name": "Nezávislí pro Plasko",
+        "classification": "groups",
+        "since": "2022-10-12",
+        "until": null
+      }
+    ],
+    "since": "2022-10-12"
+  },
+  {
+    "person_id": "plasy:person:hanzlicek-zdenek",
+    "dims": [
+      -1.1948429001961596,
+      0.6435369212663136,
+      -0.08989639984466533
+    ],
+    "weight": 0.8221476510067115,
+    "included": true,
+    "name": "Zdeněk Hanzlíček",
+    "given_names": [
+      "Zdeněk"
+    ],
+    "family_names": [
+      "Hanzlíček"
+    ],
+    "organizations": [
+      {
+        "id": "plasy:org:zastupitelstvo-mesta-plasy",
+        "name": "Zastupitelstvo města Plasy",
+        "classification": "parliament",
+        "since": "2022-10-12",
+        "until": null
+      },
+      {
+        "id": "plasy:org:group:cssd",
+        "name": "ČSSD",
+        "classification": "groups",
+        "since": "2022-10-12",
+        "until": null
+      }
+    ],
+    "since": "2022-10-12"
+  },
+  {
+    "person_id": "plasy:person:jezkova-martina",
+    "dims": [
+      0.7915148788518239,
+      0.15223613992705606,
+      0.18525593019718814
+    ],
+    "weight": 0.8758389261744968,
+    "included": true,
+    "name": "Martina Ježková",
+    "given_names": [
+      "Martina"
+    ],
+    "family_names": [
+      "Ježková"
+    ],
+    "organizations": [
+      {
+        "id": "plasy:org:zastupitelstvo-mesta-plasy",
+        "name": "Zastupitelstvo města Plasy",
+        "classification": "parliament",
+        "since": "2022-10-12",
+        "until": null
+      },
+      {
+        "id": "plasy:org:group:nezavisli-pro-plasko",
+        "name": "Nezávislí pro Plasko",
+        "classification": "groups",
+        "since": "2022-10-12",
+        "until": null
+      }
+    ],
+    "since": "2022-10-12"
+  },
+  {
+    "person_id": "plasy:person:kantor-poradkova-eva",
+    "dims": [
+      0.7625909830688183,
+      0.03938920379935843,
+      0.0017353943283625439
+    ],
+    "weight": 1.0,
+    "included": true,
+    "name": "Eva Kantor Pořádková",
+    "given_names": [
+      "Eva"
+    ],
+    "family_names": [
+      "Kantor Pořádková"
+    ],
+    "organizations": [
+      {
+        "id": "plasy:org:zastupitelstvo-mesta-plasy",
+        "name": "Zastupitelstvo města Plasy",
+        "classification": "parliament",
+        "since": "2022-10-12",
+        "until": null
+      },
+      {
+        "id": "plasy:org:group:nezavisli-pro-plasko",
+        "name": "Nezávislí pro Plasko",
+        "classification": "groups",
+        "since": "2022-10-12",
+        "until": null
+      }
+    ],
+    "since": "2022-10-12"
+  },
+  {
+    "person_id": "plasy:person:kornatovsky-ivo",
+    "dims": [
+      -0.90387589766379,
+      -0.4168335025987851,
+      0.5981647601099042
+    ],
+    "weight": 0.5033557046979865,
+    "included": true,
+    "name": "Ivo Kornatovský",
+    "given_names": [
+      "Ivo"
+    ],
+    "family_names": [
+      "Kornatovský"
+    ],
+    "organizations": [
+      {
+        "id": "plasy:org:zastupitelstvo-mesta-plasy",
+        "name": "Zastupitelstvo města Plasy",
+        "classification": "parliament",
+        "since": "2024-03-13",
+        "until": null
+      },
+      {
+        "id": "plasy:org:group:ods",
+        "name": "ODS",
+        "classification": "groups",
+        "since": "2024-03-13",
+        "until": null
+      }
+    ],
+    "since": "2024-03-13"
+  },
+  {
+    "person_id": "plasy:person:kouba-tomas",
+    "dims": [
+      -0.8788391019495739,
+      -0.20463404134311838,
+      0.002167284483651222
+    ],
+    "weight": 0.7751677852348994,
+    "included": true,
+    "name": "Tomáš Kouba",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Kouba"
+    ],
+    "organizations": [
+      {
+        "id": "plasy:org:zastupitelstvo-mesta-plasy",
+        "name": "Zastupitelstvo města Plasy",
+        "classification": "parliament",
+        "since": "2022-10-12",
+        "until": null
+      },
+      {
+        "id": "plasy:org:group:my",
+        "name": "MY",
+        "classification": "groups",
+        "since": "2022-10-12",
+        "until": null
+      }
+    ],
+    "since": "2022-10-12"
+  },
+  {
+    "person_id": "plasy:person:kovarik-petr",
+    "dims": [
+      -0.7529860237149242,
+      -0.42554260384289755,
+      0.07706096887830324
+    ],
+    "weight": 0.9932885906040269,
+    "included": true,
+    "name": "Petr Kovářík",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Kovářík"
+    ],
+    "organizations": [
+      {
+        "id": "plasy:org:zastupitelstvo-mesta-plasy",
+        "name": "Zastupitelstvo města Plasy",
+        "classification": "parliament",
+        "since": "2022-10-12",
+        "until": null
+      },
+      {
+        "id": "plasy:org:group:cssd",
+        "name": "ČSSD",
+        "classification": "groups",
+        "since": "2022-10-12",
+        "until": null
+      }
+    ],
+    "since": "2022-10-12"
+  },
+  {
+    "person_id": "plasy:person:neuman-petr",
+    "dims": [
+      0.6611316457584246,
+      -0.10641753143375046,
+      0.1001523849735729
+    ],
+    "weight": 0.9697986577181209,
+    "included": true,
+    "name": "Petr Neuman",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Neuman"
+    ],
+    "organizations": [
+      {
+        "id": "plasy:org:zastupitelstvo-mesta-plasy",
+        "name": "Zastupitelstvo města Plasy",
+        "classification": "parliament",
+        "since": "2022-10-12",
+        "until": null
+      },
+      {
+        "id": "plasy:org:group:nezavisli-pro-plasko",
+        "name": "Nezávislí pro Plasko",
+        "classification": "groups",
+        "since": "2022-10-12",
+        "until": null
+      }
+    ],
+    "since": "2022-10-12"
+  },
+  {
+    "person_id": "plasy:person:novotny-jiri",
+    "dims": [
+      -0.9878941117043809,
+      0.6942831345120256,
+      0.07842905225632851
+    ],
+    "weight": 0.7449664429530203,
+    "included": true,
+    "name": "Jiří Novotný",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Novotný"
+    ],
+    "organizations": [
+      {
+        "id": "plasy:org:zastupitelstvo-mesta-plasy",
+        "name": "Zastupitelstvo města Plasy",
+        "classification": "parliament",
+        "since": "2022-10-12",
+        "until": null
+      },
+      {
+        "id": "plasy:org:group:my",
+        "name": "MY",
+        "classification": "groups",
+        "since": "2022-10-12",
+        "until": null
+      }
+    ],
+    "since": "2022-10-12"
+  },
+  {
+    "person_id": "plasy:person:palmova-eliska",
+    "dims": [
+      0.7171242193700007,
+      0.008018884680963848,
+      -0.06372159696172548
+    ],
+    "weight": 1.0,
+    "included": true,
+    "name": "Eliška Palmová",
+    "given_names": [
+      "Eliška"
+    ],
+    "family_names": [
+      "Palmová"
+    ],
+    "organizations": [
+      {
+        "id": "plasy:org:zastupitelstvo-mesta-plasy",
+        "name": "Zastupitelstvo města Plasy",
+        "classification": "parliament",
+        "since": "2022-10-12",
+        "until": null
+      },
+      {
+        "id": "plasy:org:group:jdeto-s-podporou-top-09",
+        "name": "JdeTo s podporou TOP 09",
+        "classification": "groups",
+        "since": "2022-10-12",
+        "until": null
+      }
+    ],
+    "since": "2022-10-12"
+  },
+  {
+    "person_id": "plasy:person:pfeifer-lukas",
+    "dims": [
+      0.737143833182732,
+      0.0152780754846609,
+      0.0297362603923808
+    ],
+    "weight": 0.9899328859060404,
+    "included": true,
+    "name": "Lukáš Pfeifer",
+    "given_names": [
+      "Lukáš"
+    ],
+    "family_names": [
+      "Pfeifer"
+    ],
+    "organizations": [
+      {
+        "id": "plasy:org:zastupitelstvo-mesta-plasy",
+        "name": "Zastupitelstvo města Plasy",
+        "classification": "parliament",
+        "since": "2022-10-12",
+        "until": null
+      },
+      {
+        "id": "plasy:org:group:nezavisli-pro-plasko",
+        "name": "Nezávislí pro Plasko",
+        "classification": "groups",
+        "since": "2022-10-12",
+        "until": null
+      }
+    ],
+    "since": "2022-10-12"
+  },
+  {
+    "person_id": "plasy:person:skop-michal",
+    "dims": [
+      0.7317602302226062,
+      0.011918911699970693,
+      0.03567747644082221
+    ],
+    "weight": 1.0,
+    "included": true,
+    "name": "Michal Škop",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Škop"
+    ],
+    "organizations": [
+      {
+        "id": "plasy:org:zastupitelstvo-mesta-plasy",
+        "name": "Zastupitelstvo města Plasy",
+        "classification": "parliament",
+        "since": "2022-10-12",
+        "until": null
+      },
+      {
+        "id": "plasy:org:group:nezavisli-pro-plasko",
+        "name": "Nezávislí pro Plasko",
+        "classification": "groups",
+        "since": "2022-10-12",
+        "until": null
+      }
+    ],
+    "since": "2022-10-12"
+  },
+  {
+    "person_id": "plasy:person:tyrpeklova-zdenka",
+    "dims": [
+      -0.8101441747196687,
+      -0.4422365759136119,
+      0.0070446446753175155
+    ],
+    "weight": 0.976510067114094,
+    "included": true,
+    "name": "Zdenka Tyrpeklová",
+    "given_names": [
+      "Zdenka"
+    ],
+    "family_names": [
+      "Tyrpeklová"
+    ],
+    "organizations": [
+      {
+        "id": "plasy:org:zastupitelstvo-mesta-plasy",
+        "name": "Zastupitelstvo města Plasy",
+        "classification": "parliament",
+        "since": "2022-10-12",
+        "until": null
+      },
+      {
+        "id": "plasy:org:group:kdu-csl",
+        "name": "KDU-ČSL",
+        "classification": "groups",
+        "since": "2022-10-12",
+        "until": null
+      }
+    ],
+    "since": "2022-10-12"
+  },
+  {
+    "person_id": "plasy:person:urbanova-veronika",
+    "dims": [
+      0.7427920370782904,
+      0.025326155067995966,
+      -0.0036225178891318146
+    ],
+    "weight": 0.9530201342281881,
+    "included": true,
+    "name": "Veronika Urbanová",
+    "given_names": [
+      "Veronika"
+    ],
+    "family_names": [
+      "Urbanová"
+    ],
+    "organizations": [
+      {
+        "id": "plasy:org:zastupitelstvo-mesta-plasy",
+        "name": "Zastupitelstvo města Plasy",
+        "classification": "parliament",
+        "since": "2022-10-12",
+        "until": null
+      },
+      {
+        "id": "plasy:org:group:jdeto-s-podporou-top-09",
+        "name": "JdeTo s podporou TOP 09",
+        "classification": "groups",
+        "since": "2022-10-12",
+        "until": null
+      }
+    ],
+    "since": "2022-10-12"
+  }
+]

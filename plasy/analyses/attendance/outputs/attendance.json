@@ -11,6 +11,14 @@
     "family_names": [
       "Belbl"
     ],
+    "organizations": [
+      {
+        "id": "plasy:org:group:cssd",
+        "classification": "group",
+        "name": "ČSSD",
+        "since": "2022-10-12"
+      }
+    ],
     "since": "2022-10-12",
     "present_share": 0.8284671533
   },
@@ -25,6 +33,15 @@
     ],
     "family_names": [
       "Bezdíčková"
+    ],
+    "organizations": [
+      {
+        "id": "plasy:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2022-10-12",
+        "until": "2024-02-20"
+      }
     ],
     "since": "2022-10-12",
     "present_share": 0.9230769231
@@ -41,6 +58,14 @@
     "family_names": [
       "Gross"
     ],
+    "organizations": [
+      {
+        "id": "plasy:org:group:nezavisli-pro-plasko",
+        "classification": "group",
+        "name": "Nezávislí pro Plasko",
+        "since": "2022-10-12"
+      }
+    ],
     "since": "2022-10-12",
     "present_share": 1.0
   },
@@ -55,6 +80,14 @@
     ],
     "family_names": [
       "Hanzlíček"
+    ],
+    "organizations": [
+      {
+        "id": "plasy:org:group:cssd",
+        "classification": "group",
+        "name": "ČSSD",
+        "since": "2022-10-12"
+      }
     ],
     "since": "2022-10-12",
     "present_share": 0.7883211679
@@ -71,6 +104,14 @@
     "family_names": [
       "Ježková"
     ],
+    "organizations": [
+      {
+        "id": "plasy:org:group:nezavisli-pro-plasko",
+        "classification": "group",
+        "name": "Nezávislí pro Plasko",
+        "since": "2022-10-12"
+      }
+    ],
     "since": "2022-10-12",
     "present_share": 0.9051094891
   },
@@ -85,6 +126,14 @@
     ],
     "family_names": [
       "Kantor Pořádková"
+    ],
+    "organizations": [
+      {
+        "id": "plasy:org:group:nezavisli-pro-plasko",
+        "classification": "group",
+        "name": "Nezávislí pro Plasko",
+        "since": "2022-10-12"
+      }
     ],
     "since": "2022-10-12",
     "present_share": 1.0
@@ -101,6 +150,14 @@
     "family_names": [
       "Kornatovský"
     ],
+    "organizations": [
+      {
+        "id": "plasy:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2024-03-13"
+      }
+    ],
     "since": "2022-10-12",
     "present_share": 1.0
   },
@@ -115,6 +172,14 @@
     ],
     "family_names": [
       "Kouba"
+    ],
+    "organizations": [
+      {
+        "id": "plasy:org:group:my",
+        "classification": "group",
+        "name": "MY",
+        "since": "2022-10-12"
+      }
     ],
     "since": "2022-10-12",
     "present_share": 0.7737226277
@@ -131,6 +196,14 @@
     "family_names": [
       "Kovářík"
     ],
+    "organizations": [
+      {
+        "id": "plasy:org:group:cssd",
+        "classification": "group",
+        "name": "ČSSD",
+        "since": "2022-10-12"
+      }
+    ],
     "since": "2022-10-12",
     "present_share": 0.9598540146
   },
@@ -145,6 +218,14 @@
     ],
     "family_names": [
       "Neuman"
+    ],
+    "organizations": [
+      {
+        "id": "plasy:org:group:nezavisli-pro-plasko",
+        "classification": "group",
+        "name": "Nezávislí pro Plasko",
+        "since": "2022-10-12"
+      }
     ],
     "since": "2022-10-12",
     "present_share": 0.9598540146
@@ -161,6 +242,14 @@
     "family_names": [
       "Novotný"
     ],
+    "organizations": [
+      {
+        "id": "plasy:org:group:my",
+        "classification": "group",
+        "name": "MY",
+        "since": "2022-10-12"
+      }
+    ],
     "since": "2022-10-12",
     "present_share": 0.6751824818
   },
@@ -175,6 +264,14 @@
     ],
     "family_names": [
       "Palmová"
+    ],
+    "organizations": [
+      {
+        "id": "plasy:org:group:jdeto-s-podporou-top-09",
+        "classification": "group",
+        "name": "JdeTo s podporou TOP 09",
+        "since": "2022-10-12"
+      }
     ],
     "since": "2022-10-12",
     "present_share": 1.0
@@ -191,6 +288,14 @@
     "family_names": [
       "Pfeifer"
     ],
+    "organizations": [
+      {
+        "id": "plasy:org:group:nezavisli-pro-plasko",
+        "classification": "group",
+        "name": "Nezávislí pro Plasko",
+        "since": "2022-10-12"
+      }
+    ],
     "since": "2022-10-12",
     "present_share": 0.9416058394
   },
@@ -205,6 +310,14 @@
     ],
     "family_names": [
       "Tyrpeklová"
+    ],
+    "organizations": [
+      {
+        "id": "plasy:org:group:kdu-csl",
+        "classification": "group",
+        "name": "KDU-ČSL",
+        "since": "2022-10-12"
+      }
     ],
     "since": "2022-10-12",
     "present_share": 0.9598540146
@@ -221,6 +334,14 @@
     "family_names": [
       "Urbanová"
     ],
+    "organizations": [
+      {
+        "id": "plasy:org:group:jdeto-s-podporou-top-09",
+        "classification": "group",
+        "name": "JdeTo s podporou TOP 09",
+        "since": "2022-10-12"
+      }
+    ],
     "since": "2022-10-12",
     "present_share": 0.9343065693
   },
@@ -235,6 +356,14 @@
     ],
     "family_names": [
       "Škop"
+    ],
+    "organizations": [
+      {
+        "id": "plasy:org:group:nezavisli-pro-plasko",
+        "classification": "group",
+        "name": "Nezávislí pro Plasko",
+        "since": "2022-10-12"
+      }
     ],
     "since": "2022-10-12",
     "present_share": 0.9744525547

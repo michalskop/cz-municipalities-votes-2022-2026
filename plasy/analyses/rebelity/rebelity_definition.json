@@ -1,0 +1,12 @@
+{
+  "since": "2022-10-12",
+  "until": null,
+  "present_options": ["yes", "no", "abstain"],
+  "absent_options": ["absent"],
+  "yes_options": ["yes"],
+  "no_options": ["no"],
+  "extras": {
+    "approval_status": "Group affiliations are transcribed from the official council roster and applied over each member's recorded term interval.",
+    "vocabulary_source": "Official Plasy council minutes; same option vocabulary as attendance_definition.json."
+  }
+}

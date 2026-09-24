@@ -1,1 +1,355 @@
-[]
+[
+  {
+    "person_id": "plasy:person:belbl-emanuel",
+    "govity_total": 184,
+    "govity_possible": 227,
+    "govity": 0.810573,
+    "name": "Emanuel Belbl",
+    "given_names": [
+      "Emanuel"
+    ],
+    "family_names": [
+      "Belbl"
+    ],
+    "organizations": [
+      {
+        "id": "plasy:org:group:cssd",
+        "classification": "group",
+        "name": "ČSSD",
+        "since": "2022-10-12"
+      }
+    ],
+    "since": "2022-10-12"
+  },
+  {
+    "person_id": "plasy:person:bezdickova-jitka",
+    "govity_total": 83,
+    "govity_possible": 96,
+    "govity": 0.864583,
+    "name": "Jitka Bezdíčková",
+    "given_names": [
+      "Jitka"
+    ],
+    "family_names": [
+      "Bezdíčková"
+    ],
+    "organizations": [
+      {
+        "id": "plasy:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2022-10-12",
+        "until": "2024-02-20"
+      }
+    ],
+    "since": "2022-10-12"
+  },
+  {
+    "person_id": "plasy:person:gross-vaclav",
+    "govity_total": 273,
+    "govity_possible": 274,
+    "govity": 0.99635,
+    "name": "Václav Gross",
+    "given_names": [
+      "Václav"
+    ],
+    "family_names": [
+      "Gross"
+    ],
+    "organizations": [
+      {
+        "id": "plasy:org:group:nezavisli-pro-plasko",
+        "classification": "group",
+        "name": "Nezávislí pro Plasko",
+        "since": "2022-10-12"
+      }
+    ],
+    "since": "2022-10-12"
+  },
+  {
+    "person_id": "plasy:person:hanzlicek-zdenek",
+    "govity_total": 147,
+    "govity_possible": 216,
+    "govity": 0.680556,
+    "name": "Zdeněk Hanzlíček",
+    "given_names": [
+      "Zdeněk"
+    ],
+    "family_names": [
+      "Hanzlíček"
+    ],
+    "organizations": [
+      {
+        "id": "plasy:org:group:cssd",
+        "classification": "group",
+        "name": "ČSSD",
+        "since": "2022-10-12"
+      }
+    ],
+    "since": "2022-10-12"
+  },
+  {
+    "person_id": "plasy:person:jezkova-martina",
+    "govity_total": 247,
+    "govity_possible": 248,
+    "govity": 0.995968,
+    "name": "Martina Ježková",
+    "given_names": [
+      "Martina"
+    ],
+    "family_names": [
+      "Ježková"
+    ],
+    "organizations": [
+      {
+        "id": "plasy:org:group:nezavisli-pro-plasko",
+        "classification": "group",
+        "name": "Nezávislí pro Plasko",
+        "since": "2022-10-12"
+      }
+    ],
+    "since": "2022-10-12"
+  },
+  {
+    "person_id": "plasy:person:kantor-poradkova-eva",
+    "govity_total": 274,
+    "govity_possible": 274,
+    "govity": 1.0,
+    "name": "Eva Kantor Pořádková",
+    "given_names": [
+      "Eva"
+    ],
+    "family_names": [
+      "Kantor Pořádková"
+    ],
+    "organizations": [
+      {
+        "id": "plasy:org:group:nezavisli-pro-plasko",
+        "classification": "group",
+        "name": "Nezávislí pro Plasko",
+        "since": "2022-10-12"
+      }
+    ],
+    "since": "2022-10-12"
+  },
+  {
+    "person_id": "plasy:person:kornatovsky-ivo",
+    "govity_total": 144,
+    "govity_possible": 169,
+    "govity": 0.852071,
+    "name": "Ivo Kornatovský",
+    "given_names": [
+      "Ivo"
+    ],
+    "family_names": [
+      "Kornatovský"
+    ],
+    "organizations": [
+      {
+        "id": "plasy:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2024-03-13"
+      }
+    ],
+    "since": "2022-10-12"
+  },
+  {
+    "person_id": "plasy:person:kouba-tomas",
+    "govity_total": 184,
+    "govity_possible": 212,
+    "govity": 0.867925,
+    "name": "Tomáš Kouba",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Kouba"
+    ],
+    "organizations": [
+      {
+        "id": "plasy:org:group:my",
+        "classification": "group",
+        "name": "MY",
+        "since": "2022-10-12"
+      }
+    ],
+    "since": "2022-10-12"
+  },
+  {
+    "person_id": "plasy:person:kovarik-petr",
+    "govity_total": 226,
+    "govity_possible": 263,
+    "govity": 0.859316,
+    "name": "Petr Kovářík",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Kovářík"
+    ],
+    "organizations": [
+      {
+        "id": "plasy:org:group:cssd",
+        "classification": "group",
+        "name": "ČSSD",
+        "since": "2022-10-12"
+      }
+    ],
+    "since": "2022-10-12"
+  },
+  {
+    "person_id": "plasy:person:neuman-petr",
+    "govity_total": 258,
+    "govity_possible": 263,
+    "govity": 0.980989,
+    "name": "Petr Neuman",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Neuman"
+    ],
+    "organizations": [
+      {
+        "id": "plasy:org:group:nezavisli-pro-plasko",
+        "classification": "group",
+        "name": "Nezávislí pro Plasko",
+        "since": "2022-10-12"
+      }
+    ],
+    "since": "2022-10-12"
+  },
+  {
+    "person_id": "plasy:person:novotny-jiri",
+    "govity_total": 142,
+    "govity_possible": 185,
+    "govity": 0.767568,
+    "name": "Jiří Novotný",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Novotný"
+    ],
+    "organizations": [
+      {
+        "id": "plasy:org:group:my",
+        "classification": "group",
+        "name": "MY",
+        "since": "2022-10-12"
+      }
+    ],
+    "since": "2022-10-12"
+  },
+  {
+    "person_id": "plasy:person:palmova-eliska",
+    "govity_total": 271,
+    "govity_possible": 274,
+    "govity": 0.989051,
+    "name": "Eliška Palmová",
+    "given_names": [
+      "Eliška"
+    ],
+    "family_names": [
+      "Palmová"
+    ],
+    "organizations": [
+      {
+        "id": "plasy:org:group:jdeto-s-podporou-top-09",
+        "classification": "group",
+        "name": "JdeTo s podporou TOP 09",
+        "since": "2022-10-12"
+      }
+    ],
+    "since": "2022-10-12"
+  },
+  {
+    "person_id": "plasy:person:pfeifer-lukas",
+    "govity_total": 256,
+    "govity_possible": 258,
+    "govity": 0.992248,
+    "name": "Lukáš Pfeifer",
+    "given_names": [
+      "Lukáš"
+    ],
+    "family_names": [
+      "Pfeifer"
+    ],
+    "organizations": [
+      {
+        "id": "plasy:org:group:nezavisli-pro-plasko",
+        "classification": "group",
+        "name": "Nezávislí pro Plasko",
+        "since": "2022-10-12"
+      }
+    ],
+    "since": "2022-10-12"
+  },
+  {
+    "person_id": "plasy:person:tyrpeklova-zdenka",
+    "govity_total": 229,
+    "govity_possible": 263,
+    "govity": 0.870722,
+    "name": "Zdenka Tyrpeklová",
+    "given_names": [
+      "Zdenka"
+    ],
+    "family_names": [
+      "Tyrpeklová"
+    ],
+    "organizations": [
+      {
+        "id": "plasy:org:group:kdu-csl",
+        "classification": "group",
+        "name": "KDU-ČSL",
+        "since": "2022-10-12"
+      }
+    ],
+    "since": "2022-10-12"
+  },
+  {
+    "person_id": "plasy:person:urbanova-veronika",
+    "govity_total": 255,
+    "govity_possible": 256,
+    "govity": 0.996094,
+    "name": "Veronika Urbanová",
+    "given_names": [
+      "Veronika"
+    ],
+    "family_names": [
+      "Urbanová"
+    ],
+    "organizations": [
+      {
+        "id": "plasy:org:group:jdeto-s-podporou-top-09",
+        "classification": "group",
+        "name": "JdeTo s podporou TOP 09",
+        "since": "2022-10-12"
+      }
+    ],
+    "since": "2022-10-12"
+  },
+  {
+    "person_id": "plasy:person:skop-michal",
+    "govity_total": 266,
+    "govity_possible": 267,
+    "govity": 0.996255,
+    "name": "Michal Škop",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Škop"
+    ],
+    "organizations": [
+      {
+        "id": "plasy:org:group:nezavisli-pro-plasko",
+        "classification": "group",
+        "name": "Nezávislí pro Plasko",
+        "since": "2022-10-12"
+      }
+    ],
+    "since": "2022-10-12"
+  }
+]

@@ -14,6 +14,7 @@ from collections import Counter, defaultdict
 from pathlib import Path
 
 SOURCE_URL = "https://www.plasy.cz/mesto/samosprava/zastupitelstvo-mesta-plasy/zapisy-a-usneseni/?page=1"
+ROSTER_URL = "https://www.plasy.cz/mesto/samosprava/zastupitelstvo-mesta-plasy/"
 ORG_ID = "plasy:org:zastupitelstvo-mesta-plasy"
 ORG_NAME = "Zastupitelstvo města Plasy"
 OLD_MEMBER = "Bezdíčková Jitka"
@@ -25,6 +26,32 @@ CURRENT_MEMBERS = {
     "Škop Michal", "Tyrpeklová Zdenka", "Urbanová Veronika",
 }
 OPTIONS = ("yes", "no", "abstain", "absent")
+GROUPS = {
+    "nezavisli-pro-plasko": "Nezávislí pro Plasko",
+    "cssd": "ČSSD",
+    "my": "MY",
+    "ods": "ODS",
+    "kdu-csl": "KDU-ČSL",
+    "jdeto-s-podporou-top-09": "JdeTo s podporou TOP 09",
+}
+GROUP_BY_MEMBER = {
+    "Gross Václav": "nezavisli-pro-plasko",
+    "Kantor Pořádková Eva": "nezavisli-pro-plasko",
+    "Škop Michal": "nezavisli-pro-plasko",
+    "Neuman Petr": "nezavisli-pro-plasko",
+    "Ježková Martina": "nezavisli-pro-plasko",
+    "Pfeifer Lukáš": "nezavisli-pro-plasko",
+    "Hanzlíček Zdeněk": "cssd",
+    "Kovářík Petr": "cssd",
+    "Belbl Emanuel": "cssd",
+    "Novotný Jiří": "my",
+    "Kouba Tomáš": "my",
+    "Bezdíčková Jitka": "ods",
+    "Kornatovský Ivo": "ods",
+    "Tyrpeklová Zdenka": "kdu-csl",
+    "Urbanová Veronika": "jdeto-s-podporou-top-09",
+    "Palmová Eliška": "jdeto-s-podporou-top-09",
+}
 
 
 def slug(value: str) -> str:
@@ -57,6 +84,8 @@ def main() -> None:
             "Expected the 15 current members plus Jitka Bezdíčková; got "
             + ", ".join(members)
         )
+    if set(members) != set(GROUP_BY_MEMBER):
+        raise ValueError("Political-affiliation table does not cover the 15 current members plus the predecessor")
     id_by_member = {m: f"plasy:person:{slug(m)}" for m in members}
     if len(set(id_by_member.values())) != len(members):
         raise ValueError("Canonical member names collide after ID slugification")
@@ -82,19 +111,33 @@ def main() -> None:
         "id": ORG_ID, "name": ORG_NAME, "classification": "assembly",
         "identifiers": json.dumps([], ensure_ascii=False),
         "sources": json.dumps([{"url": SOURCE_URL}], ensure_ascii=False),
-    }]
+    }] + [{
+        "id": f"plasy:org:group:{group_slug}", "name": group_name,
+        "classification": "group", "identifiers": json.dumps([], ensure_ascii=False),
+        "sources": json.dumps([{"url": ROSTER_URL}], ensure_ascii=False),
+    } for group_slug, group_name in GROUPS.items()]
     memberships = []
     for member in members:
         start = "2024-03-13" if member == NEW_MEMBER else "2022-10-12"
         end = "2024-02-20" if member == OLD_MEMBER else ""
+        group_slug = GROUP_BY_MEMBER[member]
+        group_start = start
+        group_end = end
+        group_id = f"plasy:org:group:{group_slug}"
+        source = [{"url": ROSTER_URL, "note": "Political affiliation shown on the official council roster."}]
+        if member == OLD_MEMBER:
+            source.append({"url": "https://www.plasy.cz/modules/file_storage/download.php?file=fd132e0c%7C368&inline=1", "note": "Opening council minutes identify Bezdíčková as elected for ODS."})
         memberships.append({
             "id": f"plasy:membership:{slug(member)}:zastupitelstvo-mesta-plasy",
             "person_id": id_by_member[member], "organization_id": ORG_ID,
             "start_date": start, "end_date": end,
-            "sources": json.dumps([{
-                "url": SOURCE_URL,
-                "note": "Term membership; Bezdíčková resigned effective 2024-02-20; Kornatovský took the oath at ZM 9 on 2024-03-13.",
-            }], ensure_ascii=False),
+            "sources": json.dumps([{"url": SOURCE_URL, "note": "Term membership; Bezdíčková resigned effective 2024-02-20; Kornatovský took the oath at ZM 9 on 2024-03-13."}], ensure_ascii=False),
+        })
+        memberships.append({
+            "id": f"plasy:membership:{slug(member)}:{group_slug}",
+            "person_id": id_by_member[member], "organization_id": group_id,
+            "start_date": group_start, "end_date": group_end,
+            "sources": json.dumps(source, ensure_ascii=False),
         })
 
     vote_rows, events, motions = [], [], []
@@ -152,11 +195,6 @@ def main() -> None:
     (data / "vote_events.json").write_text(json.dumps(events, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     (data / "motions.json").write_text(json.dumps(motions, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
-    out = args.out / "analyses"
-    for name in ("rebelity", "govity", "wpca"):
-        target = out / name / "outputs" / f"{name}.json"
-        target.parent.mkdir(parents=True, exist_ok=True)
-        target.write_text("[]\n", encoding="utf-8")
     print(f"Prepared {len(members)} people, {len(vote_rows)} member votes, {len(events)} events")
 
 

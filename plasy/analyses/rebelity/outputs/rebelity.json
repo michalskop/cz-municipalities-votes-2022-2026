@@ -1,1 +1,355 @@
-[]
+[
+  {
+    "person_id": "plasy:person:belbl-emanuel",
+    "rebelity_total": 6,
+    "rebelity_possible": 266,
+    "rebelity": 0.022556,
+    "name": "Emanuel Belbl",
+    "given_names": [
+      "Emanuel"
+    ],
+    "family_names": [
+      "Belbl"
+    ],
+    "organizations": [
+      {
+        "id": "plasy:org:group:cssd",
+        "classification": "group",
+        "name": "ČSSD",
+        "since": "2022-10-12"
+      }
+    ],
+    "since": "2022-10-12"
+  },
+  {
+    "person_id": "plasy:person:bezdickova-jitka",
+    "rebelity_total": 0,
+    "rebelity_possible": 96,
+    "rebelity": 0.0,
+    "name": "Jitka Bezdíčková",
+    "given_names": [
+      "Jitka"
+    ],
+    "family_names": [
+      "Bezdíčková"
+    ],
+    "organizations": [
+      {
+        "id": "plasy:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2022-10-12",
+        "until": "2024-02-20"
+      }
+    ],
+    "since": "2022-10-12"
+  },
+  {
+    "person_id": "plasy:person:gross-vaclav",
+    "rebelity_total": 0,
+    "rebelity_possible": 273,
+    "rebelity": 0.0,
+    "name": "Václav Gross",
+    "given_names": [
+      "Václav"
+    ],
+    "family_names": [
+      "Gross"
+    ],
+    "organizations": [
+      {
+        "id": "plasy:org:group:nezavisli-pro-plasko",
+        "classification": "group",
+        "name": "Nezávislí pro Plasko",
+        "since": "2022-10-12"
+      }
+    ],
+    "since": "2022-10-12"
+  },
+  {
+    "person_id": "plasy:person:hanzlicek-zdenek",
+    "rebelity_total": 1,
+    "rebelity_possible": 266,
+    "rebelity": 0.003759,
+    "name": "Zdeněk Hanzlíček",
+    "given_names": [
+      "Zdeněk"
+    ],
+    "family_names": [
+      "Hanzlíček"
+    ],
+    "organizations": [
+      {
+        "id": "plasy:org:group:cssd",
+        "classification": "group",
+        "name": "ČSSD",
+        "since": "2022-10-12"
+      }
+    ],
+    "since": "2022-10-12"
+  },
+  {
+    "person_id": "plasy:person:jezkova-martina",
+    "rebelity_total": 0,
+    "rebelity_possible": 273,
+    "rebelity": 0.0,
+    "name": "Martina Ježková",
+    "given_names": [
+      "Martina"
+    ],
+    "family_names": [
+      "Ježková"
+    ],
+    "organizations": [
+      {
+        "id": "plasy:org:group:nezavisli-pro-plasko",
+        "classification": "group",
+        "name": "Nezávislí pro Plasko",
+        "since": "2022-10-12"
+      }
+    ],
+    "since": "2022-10-12"
+  },
+  {
+    "person_id": "plasy:person:kantor-poradkova-eva",
+    "rebelity_total": 0,
+    "rebelity_possible": 273,
+    "rebelity": 0.0,
+    "name": "Eva Kantor Pořádková",
+    "given_names": [
+      "Eva"
+    ],
+    "family_names": [
+      "Kantor Pořádková"
+    ],
+    "organizations": [
+      {
+        "id": "plasy:org:group:nezavisli-pro-plasko",
+        "classification": "group",
+        "name": "Nezávislí pro Plasko",
+        "since": "2022-10-12"
+      }
+    ],
+    "since": "2022-10-12"
+  },
+  {
+    "person_id": "plasy:person:kornatovsky-ivo",
+    "rebelity_total": 0,
+    "rebelity_possible": 169,
+    "rebelity": 0.0,
+    "name": "Ivo Kornatovský",
+    "given_names": [
+      "Ivo"
+    ],
+    "family_names": [
+      "Kornatovský"
+    ],
+    "organizations": [
+      {
+        "id": "plasy:org:group:ods",
+        "classification": "group",
+        "name": "ODS",
+        "since": "2024-03-13"
+      }
+    ],
+    "since": "2022-10-12"
+  },
+  {
+    "person_id": "plasy:person:kouba-tomas",
+    "rebelity_total": 0,
+    "rebelity_possible": 208,
+    "rebelity": 0.0,
+    "name": "Tomáš Kouba",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Kouba"
+    ],
+    "organizations": [
+      {
+        "id": "plasy:org:group:my",
+        "classification": "group",
+        "name": "MY",
+        "since": "2022-10-12"
+      }
+    ],
+    "since": "2022-10-12"
+  },
+  {
+    "person_id": "plasy:person:kovarik-petr",
+    "rebelity_total": 15,
+    "rebelity_possible": 266,
+    "rebelity": 0.056391,
+    "name": "Petr Kovářík",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Kovářík"
+    ],
+    "organizations": [
+      {
+        "id": "plasy:org:group:cssd",
+        "classification": "group",
+        "name": "ČSSD",
+        "since": "2022-10-12"
+      }
+    ],
+    "since": "2022-10-12"
+  },
+  {
+    "person_id": "plasy:person:neuman-petr",
+    "rebelity_total": 1,
+    "rebelity_possible": 273,
+    "rebelity": 0.003663,
+    "name": "Petr Neuman",
+    "given_names": [
+      "Petr"
+    ],
+    "family_names": [
+      "Neuman"
+    ],
+    "organizations": [
+      {
+        "id": "plasy:org:group:nezavisli-pro-plasko",
+        "classification": "group",
+        "name": "Nezávislí pro Plasko",
+        "since": "2022-10-12"
+      }
+    ],
+    "since": "2022-10-12"
+  },
+  {
+    "person_id": "plasy:person:novotny-jiri",
+    "rebelity_total": 0,
+    "rebelity_possible": 208,
+    "rebelity": 0.0,
+    "name": "Jiří Novotný",
+    "given_names": [
+      "Jiří"
+    ],
+    "family_names": [
+      "Novotný"
+    ],
+    "organizations": [
+      {
+        "id": "plasy:org:group:my",
+        "classification": "group",
+        "name": "MY",
+        "since": "2022-10-12"
+      }
+    ],
+    "since": "2022-10-12"
+  },
+  {
+    "person_id": "plasy:person:palmova-eliska",
+    "rebelity_total": 0,
+    "rebelity_possible": 272,
+    "rebelity": 0.0,
+    "name": "Eliška Palmová",
+    "given_names": [
+      "Eliška"
+    ],
+    "family_names": [
+      "Palmová"
+    ],
+    "organizations": [
+      {
+        "id": "plasy:org:group:jdeto-s-podporou-top-09",
+        "classification": "group",
+        "name": "JdeTo s podporou TOP 09",
+        "since": "2022-10-12"
+      }
+    ],
+    "since": "2022-10-12"
+  },
+  {
+    "person_id": "plasy:person:pfeifer-lukas",
+    "rebelity_total": 0,
+    "rebelity_possible": 273,
+    "rebelity": 0.0,
+    "name": "Lukáš Pfeifer",
+    "given_names": [
+      "Lukáš"
+    ],
+    "family_names": [
+      "Pfeifer"
+    ],
+    "organizations": [
+      {
+        "id": "plasy:org:group:nezavisli-pro-plasko",
+        "classification": "group",
+        "name": "Nezávislí pro Plasko",
+        "since": "2022-10-12"
+      }
+    ],
+    "since": "2022-10-12"
+  },
+  {
+    "person_id": "plasy:person:tyrpeklova-zdenka",
+    "rebelity_total": 0,
+    "rebelity_possible": 263,
+    "rebelity": 0.0,
+    "name": "Zdenka Tyrpeklová",
+    "given_names": [
+      "Zdenka"
+    ],
+    "family_names": [
+      "Tyrpeklová"
+    ],
+    "organizations": [
+      {
+        "id": "plasy:org:group:kdu-csl",
+        "classification": "group",
+        "name": "KDU-ČSL",
+        "since": "2022-10-12"
+      }
+    ],
+    "since": "2022-10-12"
+  },
+  {
+    "person_id": "plasy:person:urbanova-veronika",
+    "rebelity_total": 0,
+    "rebelity_possible": 272,
+    "rebelity": 0.0,
+    "name": "Veronika Urbanová",
+    "given_names": [
+      "Veronika"
+    ],
+    "family_names": [
+      "Urbanová"
+    ],
+    "organizations": [
+      {
+        "id": "plasy:org:group:jdeto-s-podporou-top-09",
+        "classification": "group",
+        "name": "JdeTo s podporou TOP 09",
+        "since": "2022-10-12"
+      }
+    ],
+    "since": "2022-10-12"
+  },
+  {
+    "person_id": "plasy:person:skop-michal",
+    "rebelity_total": 0,
+    "rebelity_possible": 273,
+    "rebelity": 0.0,
+    "name": "Michal Škop",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Škop"
+    ],
+    "organizations": [
+      {
+        "id": "plasy:org:group:nezavisli-pro-plasko",
+        "classification": "group",
+        "name": "Nezávislí pro Plasko",
+        "since": "2022-10-12"
+      }
+    ],
+    "since": "2022-10-12"
+  }
+]

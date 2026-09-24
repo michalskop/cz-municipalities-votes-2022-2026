@@ -1,0 +1,25 @@
+{
+  "since": "2022-10-12",
+  "until": null,
+  "present_options": ["yes", "no", "abstain"],
+  "absent_options": ["absent"],
+  "yes_options": ["yes"],
+  "no_options": ["no", "abstain"],
+  "government_groups": [
+    "plasy:org:group:nezavisli-pro-plasko",
+    "plasy:org:group:jdeto-s-podporou-top-09"
+  ],
+  "government_members": [],
+  "extras": {
+    "approval_status": "Coalition affiliation approved by the project owner: Nezávislí pro Plasko and JdeTo s podporou TOP 09 form the governing coalition.",
+    "government_groups_citation": [
+      {
+        "claim": "The governing coalition is Nezávislí pro Plasko and JdeTo s podporou TOP 09.",
+        "sources": [
+          "https://www.plasy.cz/mesto/samosprava/zastupitelstvo-mesta-plasy/",
+          "https://www.plasy.cz/mesto/samosprava/rada-mesta-plasy/"
+        ]
+      }
+    ]
+  }
+}
